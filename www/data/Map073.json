@@ -343,11 +343,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "「ありがとう……どうか、あなただけでも生き延びて……」"
-              ]
+              "parameters": ["\\n<Female Ghost>Female Ghost"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<女性の幽霊>"] },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
               "code": 356,

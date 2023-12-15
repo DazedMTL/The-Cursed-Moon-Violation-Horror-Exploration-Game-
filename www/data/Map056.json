@@ -334,7 +334,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -411,7 +411,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（この鍵……合うかな）"]
+              "parameters": ["(I wonder if this key will fit...)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -428,7 +428,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（よかった、合ってたみたい）"]
+              "parameters": ["(Thank goodness, it looks like it fits)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -670,103 +670,63 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（この気配……私たち、また戻ってきたんだ）"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[8]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "「あれ？　ここって、さくのすんでたのおうちににてる」"
+                "\"(This presence... We've come back again.)\"\\n<Yukine>\\F[8]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[8]\\AA[FF]\\FF[22]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「えっ、そうなの」"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[5]\\AA[F]\\FF[22]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「うん。このはしら……このきず、おえてる。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  あそこのかべも、ぼんやりだけどみおぼえあるよ」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[5]\\AA[FF]\\FF[40]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（そういえば、朔が縛られてたときは五感が戻ってなかった"
+                "\"Huh? This place looks like the house where I used\nto live.\"\\n<Shuo>\\F[8]\\AA[FF]\\FF[22]"
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["  んだよね。"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  じゃあ、最初に人形の胴体をくれたのは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  ……朔のお母さん？）\\F[4]\\AA[F]\\FF[22]"]
+              "parameters": ["\"Really?\"\\n<Yukine>\\F[5]\\AA[F]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（それに朔の家だとするなら、どうして朔は縛られてたの？"
+                "\"Yeah. This pillar... these marks, I remember\nthem. And that wall over there, it's faint but I\nrecognize it.\"\\n<Shuo>\\F[5]\\AA[FF]\\FF[40]"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  それに、あの朔そっくりの祟り神はいったい……）"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\F[4]\\AA[F]\\FF[22]"]
+              "parameters": [
+                "\"(Come to think of it, when Sakura was tied up,\nher senses hadn't returned yet. So, the one who\nfirst gave me the doll's torso was... Sakura's\nmother?)\\FF[22]\"\\F[4]\\AA[F]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「おねえちゃん、どうしたの？」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[4]\\AA[FF]\\FF[22]"]
+              "parameters": [
+                "\\F[4]\"(And if this is Sakura's house, why was she tied\nup? And what about that curse god that looked just\nlike Sakura...)\\AA[F]\\FF[22]\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「なんでもないよ……とにかく進んでみよう」"]
+              "parameters": [
+                "\"Onee-san, what's wrong?\"\\n<Shuo>\\F[4]\\AA[FF]\\FF[22]"
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<雪音>\\F[7]\\AA[F]\\FF[22]"]
+              "parameters": [
+                "\"It's nothing... Let's just keep moving.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[22]"
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -931,7 +891,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（開かない……）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It won't open...)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1138,7 +1098,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -1215,7 +1175,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（この鍵……合うかな）"]
+              "parameters": ["(I wonder if this key will fit...)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -1232,7 +1192,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（よかった、合ってたみたい）"]
+              "parameters": ["(Thank goodness, it looks like it fits)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -1429,7 +1389,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（開かない……）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It won't open...)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
               "code": 205,
@@ -1504,12 +1464,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（この先に進んだら、もう引き返せない気がする……）"]
+              "parameters": [
+                "(I feel like if I go any further, there's no\nturning back...)"
+              ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["進む", "引き返す"], 1, -1, 1, 1]
+              "parameters": [["Move forward", "Turn back"], 1, -1, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "進む"] },
             {
@@ -1617,12 +1579,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（この先に進んだら、もう引き返せない気がする……）"]
+              "parameters": [
+                "(I feel like if I go any further, there's no\nturning back...)"
+              ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["進む", "引き返す"], 1, -1, 1, 1]
+              "parameters": [["Move forward", "Turn back"], 1, -1, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "進む"] },
             {
@@ -1758,7 +1722,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -1835,7 +1799,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（この鍵……合うかな）"]
+              "parameters": ["(I wonder if this key will fit...)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -1852,7 +1816,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（よかった、合ってたみたい）"]
+              "parameters": ["(Thank goodness, it seems to fit)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -2650,7 +2614,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（開かない……）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It won't open...)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
               "code": 205,
@@ -2732,7 +2696,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（開かない……）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It won't open...)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
               "code": 205,
@@ -3060,7 +3024,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（開かない……）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It won't open...)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

@@ -241,76 +241,39 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「え？　ここ、朔のおうち……どうして」\\n<朔>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「朔。ここにはお前のために作った世界だ……"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  父も母もいるぞ。生きてはおらぬがな。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  なに、娘を供儀に出すような者たちを喰らっただけだ。"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  気を病む必要はない」\\n<さかずき>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「え？　かみ、さま……？」\\n<朔>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「……さあ、朔よ。願いは叶えたぞ。"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["  次はお前の番だ。"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  我と共に永久に過ごすのだ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  この世界で果てること無く……我が孤独を癒やすがよい」\\n<さかずき>"
+                "\"Eh? This place, is it my home... Why?\"\\n<Shuo>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「悲しむ心も、嘆く想いも我が封じ込めてやろう。"]
+              "parameters": [
+                "\"Yukine. This is a world I created for you... Your\nfather and mother are here too. They may not be\nalive, but that's alright. I simply devoured those\nwho would offer their daughter as a sacrifice.\nThere's no need for you to be troubled.\"\\n<Sake Cup>"
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  お前には我だけがいればいいのだからな。"]
+              "parameters": ["\"Eh? A god...?\"\\n<Shuo>"]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  なにも感じず、なにも考えず、我ととともに"]
+              "parameters": [
+                "\"...Now, Yukine. Your wish has been granted. It's\nyour turn next. Spend eternity with me. In this\nworld, without end... You shall soothe my\nloneliness.\"\\n<Sakazuki>"
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  永遠を過ごせ……」\\n<さかずき>"]
+              "parameters": [
+                "\"I will seal away the heart that grieves and the\nthoughts that lament. All you need is me. Feel\nnothing, think nothing, and spend eternity with\nme...\"\\n<Sake Cup>"
+              ]
             },
             {
               "code": 231,
@@ -347,7 +310,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ああ……これでやっと、我の寂しさも……」\\n<さかずき>"
+                "\"Ah... With this, finally, my loneliness too...\"\\n<Sake cup>"
               ]
             },
             { "code": 242, "indent": 0, "parameters": [2] },
@@ -409,9 +372,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……そういうこと、だったんだ」"]
+              "parameters": ["\"...So that's what it was.\"\\n<Yukine>\\F[10]"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[10]"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -419,12 +381,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……あれ？　砕けた石の中に何かが……これって……もし"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [" かして、人形の？」\\n<雪音>\\F[4]"]
+              "parameters": [
+                "\"...Huh? Something inside the shattered stone...\nIs this... Could it possibly be, a doll's...?\"\\n<Yukine>\\F[4]"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             {
@@ -435,11 +394,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『人形の心臓』を手に入れた"]
+              "parameters": ["\"Heart of the Doll\" acquired"]
             },
             { "code": 126, "indent": 0, "parameters": [58, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -448,7 +406,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「早く朔の所に戻ろう」\\n<雪音>\\F[4]"]
+              "parameters": [
+                "\"I must return to Yukine quickly.\"\\n<Yukine>\\F[4]"
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }

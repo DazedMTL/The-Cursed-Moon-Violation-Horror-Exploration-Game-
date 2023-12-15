@@ -2378,11 +2378,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "「ひもじい……どうして、米が育たないんだ、どうして……」"
-              ]
+              "parameters": ["\\n<Male Ghost>Male Ghost"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<男性の幽霊>"] },
             { "code": 111, "indent": 0, "parameters": [0, 207, 1] },
             { "code": 121, "indent": 1, "parameters": [207, 207, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2435,13 +2432,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「稲が……育った……これで、みんな飢えずに済む。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  よかった、よかったぁ……村が救われるんだ……」\\n<男性の幽霊>"
+                "\"Thank goodness, thank goodness... The village is\ngoing to be saved...\"\\n<Male Ghost>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -2698,7 +2690,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（稲が揺れている。でもすっかり枯れちゃってる）"]
+              "parameters": [
+                "(The rice plants are swaying. But they're\ncompletely withered.)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2754,14 +2748,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（この枯れた稲……お水をあげて、豊穣の神気を注げば元気"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  にできるかも。井戸に行って水を汲んでみよう）\\F[4]"
+                "(This withered rice... if I water it and pour the\nvitality of the harvest deity into it, it might\nrevive. I should go to the well and draw some\nwater.)\\F[4]"
               ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 208, 1] },
@@ -2834,7 +2821,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（収穫用の道具が必要だ）"]
+              "parameters": ["(I need tools for harvesting.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2892,20 +2879,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「んしょ、んしょっ……稲を実らせたことはあるけど収穫は"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　初めてだよ」\\n<雪音>\\F[12]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「おねえちゃん、がんばって……」\\n<朔>\\F[12]\\AA[FF]\\FF[29]"
+                "\"Heave-ho, heave-ho... I've managed to grow rice\nbefore, but this is my first time harvesting it.\"\\n<Yukine>\\F[12]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2913,7 +2887,15 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ありがとう。んしょっ、んしょっ」\\n<雪音>\\F[2]\\AA[F]\\FF[29]"
+                "\"Big sis, do your best...\"\\n<Shuo>\\F[12]\\AA[FF]\\FF[29]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Thank you. Heave-ho, heave-ho.\"\\n<Yukine>\\F[2]\\AA[F]\\FF[29]"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -2923,19 +2905,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["しばらく時間をかけて、稲を収穫した。"]
+              "parameters": [
+                "After some time, they finished harvesting the\nrice."
+              ]
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「これだけあればいいよね。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  あの幽霊さんに渡しに行こう」\\n<雪音>\\F[1]"]
+              "parameters": [
+                "\"This should be enough. Let's go give it to that\nghost.\"\\n<Yukine>\\F[1]"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             {
@@ -2946,11 +2927,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『豊かな稲籾』を手に入れた"]
+              "parameters": ["Obtained \"Bountiful Rice Ears\""]
             },
             { "code": 126, "indent": 0, "parameters": [61, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -3107,7 +3087,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（井戸の中には水がある。稲にあげてみようかな）\\F[1]"
+                "(There's water in the well. Maybe I should give\nsome to the rice plants.)\\F[1]"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -3130,7 +3110,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「じゃあ……これに私の神気を注いで……」\\n<雪音>"]
+              "parameters": [
+                "\"Then... I'll infuse this with my divine\nenergy...\"\\n<Yukine>"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -3148,27 +3130,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "豊穣の力を注ぐと、萎れていた稲はたくさんの稲穂を実らせ"
+                "Upon pouring the power of fertility, the withered\nrice plants bore plenty of rice ears."
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["た。"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「久しぶりに神気を使ってみたけど上手くいったみたい。"
+                "\"It's been a while since I used my divine energy,\nbut it seems to have worked well. With this, we\nmight be able to harvest soon. Did we have any\ntools for harvesting?\"\\n<Yukine>"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  これならすぐに収穫もできそう。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  収穫用の道具とかあったかな？」\\n<雪音>"]
             },
             {
               "code": 356,
@@ -3284,7 +3255,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（おっきな石がある）"]
+              "parameters": ["(There's a big rock)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3339,13 +3310,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（あれ……この石、ひっくり返した跡がある。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  持ち上げるのは無理だけど、傾けるくらいなら）\\F[5]"
+                "(Hmm... there are signs that this stone has been\nturned over. I can't lift it, but maybe I can tilt\nit.)\\F[5]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -3354,43 +3320,37 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うーーーーーん！！」\\n<雪音>\\F[14]"]
+              "parameters": ["\"Ugh-----h!!\"\\n<Yukine>\\F[14]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あ、なにか出てきた」\\n<雪音>\\F[5]"]
+              "parameters": ["\"Ah, something came out.\"\\n<Yukine>\\F[5]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「おねえ、ちゃん……どうしたの？」\\n<朔>\\F[5]\\AA[FF]\\FF[24]"
+                "\"Onee-chan... what's wrong?\"\\n<Shuo>\\F[5]\\AA[FF]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ううん、何でもないよ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  心配させちゃってごめんね」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[7]\\AA[F]\\FF[24]"]
+              "parameters": [
+                "\"No, it's nothing. Sorry for worrying you.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[24]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（これ……刈り入れ用のカマだ。まだ使えそう）\\F[1]"]
+              "parameters": [
+                "(This... It's a sickle for harvesting. It still\nseems usable.)\\F[1]"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             {
@@ -3401,11 +3361,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『稲刈り鎌』を手に入れた"]
+              "parameters": ["\"Harvesting Sickle\" acquired"]
             },
             { "code": 126, "indent": 0, "parameters": [60, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -3562,29 +3521,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あ、これ……ヨモギだ」\\n<雪音>\\F[5]"]
+              "parameters": ["\"Ah, this... it's mugwort.\"\\n<Yukine>\\F[5]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「よもぎ……？」\\n<朔>\\F[5]\\AA[FF]\\FF[22]"]
+              "parameters": ["\"Mugwort...?\"\\n<Shuo>\\F[5]\\AA[FF]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「食べられる野草だよ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  これを持って行ってあげよう」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[22]"]
+              "parameters": [
+                "\"It's an edible wild plant. Let's take this with\nus.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[22]"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             {
@@ -3595,11 +3546,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『ヨモギの葉』を手に入れた"]
+              "parameters": ["\"Obtained Mugwort Leaves\""]
             },
             { "code": 126, "indent": 0, "parameters": [62, 0, 0, 1] },
             { "code": 121, "indent": 0, "parameters": [216, 216, 0] },
@@ -3747,24 +3697,23 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「これ……しいたけだ」\\n<雪音>\\F[5]"]
+              "parameters": [
+                "\"This... is a shiitake mushroom.\"\\n<Yukine>\\F[5]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「それ、なに？」\\n<朔>\\F[5]\\AA[FF]\\FF[22]"]
+              "parameters": ["\"What's that?\"\\n<Shuo>\\F[5]\\AA[FF]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「食べられるきのこだよ。いくつか持っていこう」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[22]"]
+              "parameters": [
+                "\"It's an edible mushroom. Let's take a few with\nus.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[22]"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             {
@@ -3775,11 +3724,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『しいたけ』を手に入れた"]
+              "parameters": ["\"Obtained shiitake mushrooms.\""]
             },
             { "code": 126, "indent": 0, "parameters": [63, 0, 0, 1] },
             { "code": 121, "indent": 0, "parameters": [215, 215, 0] },
@@ -3931,81 +3879,54 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（朔の目は治らなかったけど、あんな残酷な光景を見せずに"
+                "(Sakuto's eyesight didn't recover, but thank\ngoodness he was spared from witnessing such a\ncruel scene.)\\F[7]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  済んだのは幸いかな）\\F[7]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（人形が集まって上手く話せるようになったし、顔色も少し"
+                "(The dolls have gathered and he's starting to\nspeak well, and his complexion is gradually\ngetting better.)\\F[1]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  ずつよくなってきてる）\\F[1]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（もし、人形が完全に揃えることが出来れば、霊体の朔を"
+                "(If we can completely gather the dolls, maybe we\ncan bring Sakuto's spirit back to life.)\\F[2]"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  生き返ることができるのかも）\\F[2]"]
+              "parameters": [
+                "\"Onee-san? What's wrong?\"\\n<Shuo>\\F[2]\\AA[FF]\\FF[22]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「おねえちゃん？　どうしたの？」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[2]\\AA[FF]\\FF[22]"]
+              "parameters": [
+                "\"It's nothing. Let's move on to the next place.\nAre you tired, Sakuto?\"\\n<Yukine>\\F[1]\\AA[F]\\FF[22]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「なんでもないよ。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  さあ、次に行ってみよう。朔は疲れてない？」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[22]"]
+              "parameters": [
+                "\"I'm fine. But, I want to hold hands.\"\\n<Shuo>\\F[1]\\AA[FF]\\FF[40]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「へいきだよ。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  でも、おてて、つないでほしいな」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[1]\\AA[FF]\\FF[40]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「もちろんだよ」"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[2]\\AA[F]\\FF[40]"]
+              "parameters": ["\"Of course.\"\\n<Yukine>\\F[2]\\AA[F]\\FF[40]"]
             },
             { "code": 121, "indent": 0, "parameters": [160, 160, 0] },
             { "code": 0, "indent": 0, "parameters": [] }

@@ -1221,7 +1221,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -1367,7 +1367,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {

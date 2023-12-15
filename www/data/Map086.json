@@ -143,21 +143,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「景之さま。ほんとうに……ほんとうに朔を送るのですか？"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  いまからでも考え直してくれませんか？」\\n<？？？>"
+                "\"Lord Kageyuki, are you truly... truly going to\nsend Yukine away? Can't you reconsider, even now?\"\\n<???>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「くどい……もはや決めたことだ」\\n<？？？>"]
+              "parameters": ["\"Enough... I have already decided.\"\\n<???>"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
@@ -184,78 +177,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「おとうさん、おかあさん？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  なんでおそとで、おはなししてるの？」\\n<朔>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「約束を交わしたのだ。供儀に捧げると……"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  たとえ断ったところで、結果は同じだ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  守ろうと刀を抜いたところで、多勢にモノをいわせ、"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  あれらが力ずくで朔を攫い、山に連れて行くだろう」\\n<？？？>"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「だからって……あの子はまだ子供なのですよ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  アナタにだって懐いているではないですかっ！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  それなのに、一人山に送るなんて……あんまりです。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  なにも知らないのに……あの子が可哀想です」\\n<？？？>"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「おかあさん、どうしたの？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  どうしてないてるの？」\\n<朔>"]
+              "parameters": ["\"Why are you talking outside?\"\\n<Shuo>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「分かってくれ。こうするしかないのだ」\\n<？？？>"
+                "\"A promise was made. To offer her as a\nsacrifice... Even if we refuse, the outcome will\nbe the same. If we try to protect her and draw our\nswords, they will overpower us with numbers,\nforcibly take Yukine, and carry her off to the\nmountains.\"\\n<???>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -263,78 +192,70 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ああ……どうして、どうしてあの子がっ……嘘だと言って"
+                "\"But still... that child is still so young. She's\nattached to you, isn't she?! And yet, to send her\nalone to the mountains... it's too cruel. She\nknows nothing... it's pitiful for her.\"\\n<???>"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  ください。おねがい、です」\\n<？？？>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「おかあさん、なんでないてるの？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  なかないで……朔、いいこになるから」\\n<朔>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「夜半には出立する。それまでに別れを済ませておくといい"
+                "\"Mother, what's wrong? Why are you crying?\"\\n<Shuo>"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  ……私は、あの子の顔を見れそうにない。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  恨むならば神頼みしかできぬ、私を恨んでくれても"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  構わない」\\n<？？？>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「おとう、さん？"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  さく、どこかにいくの？」\\n<朔>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「ああ、朔……ごめんなさい。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  ごめんなさい……」\\n<？？？>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「おかあさん、なかないで……朔、どこにでもいくから……"
+                "\"Understand this. There is no other way.\"\\n<???>"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  だからなかないで」\\n<朔>"]
+              "parameters": [
+                "\"Ah... why, why does it have to be that child...\nPlease, say it's a lie. I beg of you.\"\\n<???>"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Mother, why are you crying? Don't cry... Yukine\nwill be good, so please don't cry.\"\\n<Shuo>"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"We will depart at midnight. You should say your\nfarewells by then... I cannot bear to look at that\nchild's face. If you must resent someone, resent\nme who can only pray to the gods.\"\\n<???>"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"Father? Is Yukine going somewhere?\"\\n<Shuo>"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Ah, Yukine... I'm sorry. I'm so sorry...\"\\n<???>"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Mother, don't cry... Yukine will go anywhere...\nso please don't cry.\"\\n<Shuo>"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 242, "indent": 0, "parameters": [2] },
@@ -348,23 +269,8 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「すまぬ、朔。我らを許してくれとは言わない……せめて、"
+                "\"Forgive us, Yukine. I won't ask for your\nforgiveness... but at least take this short sword\nwith you. If by some chance you survive, you may\nuse it to exact your vengeance.\"\\n<???>"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  この小太刀を荷にのせておく。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  もし万が一、生き延びたら恨みを晴らしてくれても"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  構わない」\\n<？？？>"]
             },
             { "code": 235, "indent": 0, "parameters": [98] },
             { "code": 201, "indent": 0, "parameters": [0, 46, 75, 22, 8, 2] },
@@ -414,57 +320,41 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……今の記憶は……朔の過去？」\\n<雪音>\\F[4]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "「おねえ、ちゃん、どう……したの？」\\n<朔>\\F[4]\\AA[FF]\\FF[22]"
+                "\"...Is that memory... Yukine's past?\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「朔……ここに来る前のこと……覚えてる？」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[4]\\AA[F]\\FF[22]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「よく……わから、ない。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  おもい、だせ……ないの」\\n<朔>\\F[4]\\AA[FF]\\FF[23]"
+                "\"Onee-san, what's... wrong?\"\\n<Shuo>\\F[4]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（まだ霊体だから記憶が戻ってないのかな。"]
+              "parameters": [
+                "\"Yukine... do you remember what happened before\nyou came here?\"\\n<Yukine>\\F[4]\\AA[F]\\FF[22]"
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  祟りに囚われていたのにも関係がありそうだから他の人形"
+                "\"I don't... understand. I can't... remember.\"\\n<Shuo>\\F[4]\\AA[FF]\\FF[23]"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  も探してみないと）\\F[4]\\AA[F]\\FF[23]"]
+              "parameters": [
+                "(Is it because she's still a spirit that her\nmemories haven't returned? It seems related to\nbeing trapped by the curse, so I have to search\nfor the other dolls as well.)\\FF[23]\\F[4]\\AA[F]"
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }

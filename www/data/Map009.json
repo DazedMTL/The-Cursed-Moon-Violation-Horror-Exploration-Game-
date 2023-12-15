@@ -174,7 +174,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（ここの神様だから神無月しか外に出ちゃいけなんだよね）\\F[8]"
+                "(Since I'm the deity of this place, I can only go\nout during the month without gods, huh...)\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -182,7 +182,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「たまには子供と遊んでみたいなー」\\n<雪音>\\F[8]"
+                "\"I'd like to play with the children once in a\nwhile-\"\\n<Yukine>\\F[8]"
               ]
             },
             {
@@ -269,7 +269,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（綺麗な水が流れている。毎日掃除してくれているおかげだ）"
+                "(The water is flowing beautifully. It's thanks to\nthe daily cleaning.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -328,7 +328,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「こくこくっ……うん、冷たくておいしい」\\n<雪音>\\F[2]"
+                "\"Gulp gulp... Mmm, it's cold and delicious\"\\n<Yukine>\\F[2]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -793,29 +793,37 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（こんなに暗いと歩くのが大変かも……）"]
+              "parameters": [
+                "(It might be tough to walk with it being this\ndark...)"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（うーん、ここで神様の力は使えるかな……）"]
+              "parameters": [
+                "(Hmm, I wonder if I can use the power of the gods\nhere...)"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（ダメだ……）"] },
+            { "code": 401, "indent": 0, "parameters": ["(No good...)"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（ここじゃ神様の力はほとんど使えないみたい）"]
+              "parameters": [
+                "(It seems I can hardly use the power of the gods\nhere)"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（豊穣の力も神気もいまは役に立たないし）"]
+              "parameters": [
+                "(Neither the power of fertility nor the divine\naura are of any use right now)"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
@@ -874,7 +882,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（どこかで明かりを探さないと）"]
+              "parameters": ["(I need to find some light somewhere)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -938,7 +946,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（どこかで明かりを探さないと）"]
+              "parameters": ["(I need to find some light somewhere)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -1063,13 +1071,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「はぁ……この桜、何百年も枯れたままだなー。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  私の力じゃ、咲かせることはできないし……」\\n<雪音>\\F[8]"
+                "\"Haa... This cherry tree has been withered for\nhundreds of years. I can't make it bloom with my\npower...\"\\n<Yukine>\\F[8]"
               ]
             },
             { "code": 122, "indent": 0, "parameters": [5, 5, 1, 0, 1] },
@@ -1126,13 +1129,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「桜が咲いてるところ、また見てみたいな。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  四月は外に出れないし、このまま見れないのは寂しいな」\\n<雪音>\\F[8]"
+                "\"I'd like to see the cherry blossoms again. It's\nsad that I can't go outside in April and might\nmiss them completely.\"\\n<Yukine>\\F[8]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }

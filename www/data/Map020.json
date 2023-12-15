@@ -556,72 +556,31 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（袋に古紙が貼り付けてある。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  古めかしい文字でなにか書かれているようだ）\\F[4]"
+                "It seems to be written in some old-fashioned\ncharacters.)\\F[4]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["外の影を入れてはいけない。あれは悪霊だ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["この妙な建物にまで進んだ我らの仲間も大半があれに"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["喰われてしまった。"] },
+            { "code": 401, "indent": 0, "parameters": ["I've been devoured."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私もここまでのようだ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["じきに私も祟りに取り込まれるだろう。"]
+              "parameters": ["Soon, I too will be consumed by the curse."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["仲間の犠牲を無駄にしないためにも、あれを縛る、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["この袋は動かさないでほしい。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それにしてもここはどこなのだ。"]
+              "parameters": ["But where in the world is this place?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["見知らぬ壁、見知らぬモノの数々。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ここは日ノ本の國ではないのか。"]
-            },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "ああ、殿。どうか異郷の地で果てる無様をお許しください。"
+                "Ah, my lord. Please forgive the disgrace of\nperishing in a foreign land."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -630,12 +589,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（これを書いた人……もしかして、昔の人なのかな。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  過去から迷い込んだってこと？）\\F[4]"]
+              "parameters": [
+                "Could it mean that I've wandered here from the\npast?)\\F[4]"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -699,7 +655,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「なにか入っている……これ、ノートの切れ端だ」\\n<雪音>\\F[5]"
+                "\"There's something inside... This is a scrap of a\nnote.\"\\n<Yukine>\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -707,7 +663,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（小さな紙片に違う筆跡で会話のようにやり取りされている）\\F[5]"
+                "(The small piece of paper has different\nhandwriting, as if it's a conversation exchange.)\\F[5]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -715,57 +671,51 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["昨日のニュースみた？"]
+              "parameters": ["Did you see the news yesterday?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["みたみた"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["犯人も人質も死んじゃったんでしょ"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["怖いよね"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["じゃあ知ってる？"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["犯人と人質の他に小さな女の子がいたって噂"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["なにそれ？"] },
-            { "code": 401, "indent": 0, "parameters": ["どうせ噂でしょ？"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ところが、何人も見たんだって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その子が家に入っていくの"]
-            },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "その直後に悲鳴がして警官が突入したらみんなバラバラに"
+                "I did, I did. The criminal and the hostages died,\nright? It's scary."
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["なってたらしいよ"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["なんでバラバラなのよ"]
+              "parameters": [
+                "But do you know? There's a rumor that there was a\nlittle girl besides the criminal and hostages."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["さすがに嘘でしょ"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["でも警察の人が吐いてるのテレビで中継してたでし――"]
+              "parameters": ["What's that? It's probably just a rumor, right?"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Actually, several people saw it. They say that\nright after that girl entered the house, there\nwere screams, and when the police stormed in,\neveryone was dismembered."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Why dismembered? That has to be a lie, right?"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "But they were broadcasting the police vomiting on\nlive TV--"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },
@@ -773,15 +723,17 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（筆跡はここで途絶えている）\\F[4]"]
+              "parameters": ["(The handwriting ends abruptly here.)\\F[4]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（……）\\F[4]"] },
+            { "code": 401, "indent": 0, "parameters": ["(...)\\F[4]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「これって……まさか屋敷で見た」\\n<雪音>\\F[4]"]
+              "parameters": [
+                "\"Could this be... No way, it's what I saw at the\nmansion.\"\\n<Yukine>\\F[4]"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -845,7 +797,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（何も書かれてない）"]
+              "parameters": ["(Nothing is written)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }

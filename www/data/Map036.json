@@ -135,13 +135,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（この部屋……なんだかイヤな気配がする）"]
+              "parameters": ["(This room... there's a nasty aura about it.)"]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["部屋に入る", "危険を感じるので入らない"],
+                ["Enter the room", "I feel danger, so I won't enter"],
                 1,
                 -1,
                 1,
@@ -188,7 +188,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ひっ！　何！？　今何かに刺された……？」\\n<雪音>"
+                "\"Hii! What!? Was I just pricked by something...?\"\\n<Yukine>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -196,21 +196,23 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "真っ暗な部屋に入ると、突然腕に鋭い痛みを感じました。"
+                "Upon entering the pitch-dark room, I suddenly felt\na sharp pain in my arm."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（なんだか頭がくらくらしてきた……もしかして毒が）"]
+              "parameters": [
+                "(My head is starting to spin... could it be\npoison?)"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 111, "indent": 0, "parameters": [0, 49, 0] },
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["シーンをスキップ", "シーンを見る"], -1, -1, 1, 1]
+              "parameters": [["Scene Skip", "View the scene"], -1, -1, 1, 1]
             },
             { "code": 402, "indent": 1, "parameters": [0, "シーンをスキップ"] },
             { "code": 119, "indent": 2, "parameters": ["skip"] },
@@ -232,14 +234,7 @@
             { "code": 121, "indent": 0, "parameters": [3, 3, 0] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クリックでコンテニュー"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Click to continue"] },
             { "code": 230, "indent": 0, "parameters": [10] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
             { "code": 121, "indent": 0, "parameters": [3, 3, 1] },
@@ -301,7 +296,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -479,7 +474,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（なにかベッドの下に落ちてる）"]
+              "parameters": ["(Something fell under the bed...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -487,21 +482,22 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「あ……『病気平癒』のお守りだ……」\\n<雪音>\\F[5]"
+                "\"Ah... It's a 'Recovery from Illness' amulet...\"\\n<Yukine>\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うわっ！」\\n<雪音>\\F[16]"]
+              "parameters": ["\"Whoa!\"\\n<Yukine>\\F[16]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「崩れちゃった……"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  このお守りじゃ、祟りに勝てなかったんだ」\\F[8]"]
+              "parameters": [
+                "\"It's fallen apart... This amulet couldn't ward\noff the curse.\"\\F[8]"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

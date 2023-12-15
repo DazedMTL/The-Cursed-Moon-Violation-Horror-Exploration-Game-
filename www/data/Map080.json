@@ -638,48 +638,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["石のように冷たい手が身体に触れました。"]
+              "parameters": ["A hand as cold as stone touched my body."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "その瞬間、わたしのあたまがオタマジャクシのようににえた"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "ぎり、てあしがどろどろのさんかっけいですぼとぼととにく"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "いろのうなぎがそとにとびだしますなんもみえなくなってあ"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ははとわらってしまいます"]
+              "parameters": ["I couldn't help but laugh."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "くちのなかがさかながうたってぷかぷかととびはねています"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["わたしはわたしは――っっっ！"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["I, I am--!"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
               "code": 250,
@@ -696,14 +664,7 @@
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クリックでコンティニュー"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Click to continue-"] },
             { "code": 246, "indent": 0, "parameters": [1] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 117, "indent": 0, "parameters": [25] },

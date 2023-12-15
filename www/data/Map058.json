@@ -318,7 +318,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（開かない……）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It won't open...)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
               "code": 205,
@@ -400,7 +400,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（開かない……）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It won't open...)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
               "code": 205,
@@ -482,7 +482,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（開かない……）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It won't open...)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
               "code": 205,
@@ -564,7 +564,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（開かない……）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It won't open...)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
               "code": 205,
@@ -646,7 +646,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（開かない……）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It won't open...)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -773,7 +773,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（開かない……）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It won't open...)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -834,7 +834,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（開かない……）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It won't open...)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -895,7 +895,11 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（何か落ちてる）"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["(Something's on the ground)"]
+            },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [24] },
             {
@@ -906,11 +910,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『鉄の鍵』を手に入れた"]
+              "parameters": ["Obtained \"Iron Key\""]
             },
             { "code": 126, "indent": 0, "parameters": [71, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },

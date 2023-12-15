@@ -183,9 +183,10 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「さよなら……鈴音ちゃん。私の初めての友達」"]
+              "parameters": [
+                "\"Goodbye... Suzune-chan. My first friend.\"\\n<Yukine>\\F[70]"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[70]"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 242, "indent": 0, "parameters": [3] },
             {
@@ -240,45 +241,35 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「雪音おねえちゃん……ゆうれいさんが」"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\n<朔>\\FF[23]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「うん……お別れしてきた」\\n<雪音>\\F[7]\\AA[F]\\FF[23]"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「えっと……」"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[7]\\AA[FF]\\FF[23]"]
+              "parameters": ["\\n<Shuo>\\FF[23]Saku"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「あの人のこと……外に出たら教えてあげるね。だから、も"
+                "\"Yes... I've said my farewells.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[23]"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"Um...\"\\n<Shuo>\\F[7]\\AA[FF]\\FF[23]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  う少し二人で頑張ろうね」\\n<雪音>\\F[2]\\AA[F]\\FF[23]"
+                "\"About that person... I'll tell you once we go\noutside. So, let's keep trying just a little\nlonger, just the two of us.\"\\n<Yukine>\\F[2]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「う、うんっ」"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<朔>\\F[2]\\AA[FF]\\FF[40]"]
+              "parameters": ["\"Y-Yes!\"\\n<Shuo>\\F[2]\\AA[FF]\\FF[40]"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

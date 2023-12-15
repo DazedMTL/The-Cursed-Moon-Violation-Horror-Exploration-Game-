@@ -399,7 +399,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（開かない）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It won't open)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
               "code": 205,
@@ -730,17 +730,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（死んじゃってる……背中がズタズタだ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  誰かに襲われちゃったのかな。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  いま朔の目が見えなくてよかった）\\F[15]"]
+              "parameters": [
+                "(She's dead... Her back is all torn up. Was she\nattacked by someone? Thank goodness Sakku can't\nsee this right now.)\\F[15]"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -798,16 +790,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（女性の亡骸だ。首が深く切られている……誰かに襲われた"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["  んだ）\\F[15]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「おねえ、ちゃん？　どうしたの？」\\n<朔>\\F[15]\\AA[FF]\\FF[24]"
+                "(It's the corpse of a woman. Her throat has been\ndeeply cut... She must have been attacked by\nsomeone.)\\F[15]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -815,32 +798,32 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ううん、なんでもないよ。手を強く握っちゃったね。だい"
+                "\"Onee-chan? What's wrong?\"\\n<Shuo>\\F[15]\\AA[FF]\\FF[24]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  じょうぶ？」\\n<雪音>\\F[8]\\AA[F]\\FF[24]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「うん、へいき」\\n<朔>\\F[8]\\AA[FF]\\FF[25]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（朔が気づかないようにしてあげなきゃ。こんなひどいこと"
+                "\"No, it's nothing. I just squeezed your hand too\nhard. Are you okay?\"\\n<Yukine>\\F[8]\\AA[F]\\FF[24]"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  知らないほうがいいよ）\\F[8]\\AA[FF]\\FF[25]"]
+              "parameters": [
+                "\"Yeah, I'm fine.\"\\n<Shuo>\\F[8]\\AA[FF]\\FF[25]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "(I have to make sure Yukine doesn't notice. It's\nbetter she doesn't know about such terrible\nthings.)\\FF[25]\\F[8]\\AA[FF]"
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -890,7 +873,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（女性の亡骸だ。首が深く切られている……）"]
+              "parameters": [
+                "(It's the corpse of a woman. Her throat has been\ndeeply cut...)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -949,28 +934,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ごめんね。ごめんね……ガマンしてちょうだい、ごめんね」"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\n<女性の幽霊>"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「まっていて……あと、すこし。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  稲が収穫できるから。美味しいごはんをつくるからね。"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  もうすぐお腹いっぱいにしてあげるからね」\\n<女性の幽霊>"
+                "\"I'm sorry. I'm sorry... Please bear with it a\nlittle longer, I'm sorry.\"\\n<Female Ghost>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -978,10 +942,17 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（同じことを繰り返してる……この人にもすごい心残りが"
+                "\"Wait for me... just a little more. The rice will\nbe harvested soon. I'll make some delicious food\nfor you. I'll fill your stomach soon, okay?\"\\n<Female Ghost>"
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["  あるんだ）\\F[4]"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "(She's repeating the same thing... This person\nmust have some deep regrets.)\\F[4]"
+              ]
+            },
             { "code": 111, "indent": 0, "parameters": [0, 206, 1] },
             { "code": 121, "indent": 1, "parameters": [206, 206, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1034,25 +1005,17 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あの……これ、差しあげます。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  よかったらこの稲を使ってください）\\n<雪音>\\F[1]"
+                "\"Um... please accept this. If it's alright, please\nuse this rice.\"\\n<Yukine>\\F[1]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ああ……米だ……やっと、やっとあの子に……」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<女性の幽霊>\\F[1]\\AA[N]"]
+              "parameters": [
+                "\"Ah... rice... finally, finally I can give it to\nthat child...\"\\n<Female Ghost>\\F[1]\\AA[N]"
+              ]
             },
             {
               "code": 205,
@@ -1322,14 +1285,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（キレイなお水が入ってる）"]
+              "parameters": ["(There's clean water inside)"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（お米を入れたら炊けそうだけど、お米は見当たらない）"
+                "(It seems like it would cook if I added rice, but\nI can't find any rice)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -1435,7 +1398,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（なにも入ってない……からっぽだ）"]
+              "parameters": ["(There's nothing inside... it's empty.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1500,13 +1463,8 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（灰があるけど……煮炊きをされたあとが残ってない。ずっ"
+                "(There's ash, but... there are no signs of\ncooking. I wonder if it's been unused for a long\ntime.)\\F[5]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  と使われないままだったのかな）\\F[5]"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1571,7 +1529,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（からっぽだ。薪はあるけど、長らく使った形跡がない）"
+                "(It's empty. There's firewood, but there are no\nsigns it's been used for a long time.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -1638,7 +1596,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（大きな米俵がある。だけどもう中身はからっぽみたい）"
+                "(There's a large rice bale here. But it seems to\nbe empty now.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -1703,13 +1661,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（中身は空っぽだ……ん、なにか書いた紙が入ってる……"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  えっと『あれは大きな石の下に』……どういうことだろ？）\\F[5]"
+                "(It's empty inside... Hm? There's a piece of paper\nwith something written on it... Let's see, \"That\nis beneath the large stone\"... What could that\nmean?)\\F[5]"
               ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 210, 1] },
@@ -1814,12 +1767,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「んっ、固いな―。"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  ちょっと空きそうにないけど……」\\n<雪音>\\F[8]"
+                "\"Hmm, it's so hard. It doesn't seem like it will\nfit...\"\\n<Yukine>\\F[8]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -1835,31 +1787,23 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「えっ、今の音は？」"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[16]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「おねえちゃん、いまのおと、なに？」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[16]\\AA[FF]\\FF[24]"]
+              "parameters": ["\"Eh, what was that sound?\"\\n<Yukine>\\F[16]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あっちにも部屋があるみたい。"]
+              "parameters": [
+                "\"Onee-san, what was that sound just now?\"\\n<Shuo>\\F[16]\\AA[FF]\\FF[24]"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["  朔、行ってみよ」"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<雪音>\\F[4]\\AA[F]\\FF[24]"]
+              "parameters": [
+                "\"It looks like there's another room over there.\nLet's go check it out, Shaku.\"\\n<Yukine>\\F[4]\\AA[F]\\FF[24]"
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [158, 158, 0] },
             {
@@ -1924,7 +1868,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（開かない……）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It won't open...)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1988,33 +1932,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（この幽霊……まだ子供だ。朔……くらいの歳に見えるけど"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  きっとここで死んじゃったんだね）\\F[8]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「おかあさん、おとうさん……おなかすいた……おなかすい"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  たよ」\\n<少女の幽霊>\\F[8]\\AA[N]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「この霊……最後までお腹が空いたままだったんだ」\\n<雪音>\\F[8]"
+                "(This ghost... she's still a child. She looks\nabout the age of Saku... she must have died here.)\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2022,19 +1940,30 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「おねえ、ちゃん……」\\n<朔>\\F[8]\\AA[FF]\\FF[23]"
+                "\"Mom, Dad... I'm hungry... I'm so hungry.\"\\n<Ghost Girl>\\F[8]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うん、なにか食べるものを探してあげよう」"]
+              "parameters": [
+                "\"This spirit... she must have been hungry until\nthe very end.\"\\n<Yukine>\\F[8]"
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[23]"]
+              "parameters": ["\"Onee-chan...\"\\n<Shuo>\\F[8]\\AA[FF]\\FF[23]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Yeah, let's find something for her to eat.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[23]"
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [214, 214, 0] },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 58] },
@@ -2095,13 +2024,8 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「おかあさん、おとうさん……おなかすいた……おなかすい"
+                "\"Mom, Dad... I'm hungry... I'm so hungry.\"\\n<Ghost Girl>"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  たよ」\\n<少女の幽霊>"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2152,7 +2076,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「はい、君。ゴハンを持ってきたよ」\\n<雪音>\\F[1]"
+                "\"Here you go, dear. I've brought you some food.\"\\n<Yukine>\\F[1]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2160,48 +2084,24 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ああ……ごはんだ。ごはんだ……私、ずっと待ってたんだ。"
+                "\"Ah... food. Food... I've been waiting for so\nlong. Always waiting, all by myself. But I was\ntold not to come out. So I kept waiting.\"\\n<Ghost Girl>\\F[1]\\AA[N]"
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　ずっと、ひとりで待ってたんだ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  でも出てきちゃ、いけないって。"]
-            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  だから、ずっと待ってたんだ」\\n<少女の幽霊>\\F[1]\\AA[N]"
+                "\"Yes, you did well. You can eat as much as you\nwant.\"\\n<Yukine>\\F[2]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うん、偉かったね。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  いっぱい食べていいからね」\\n<雪音>\\F[2]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「ありがとう。"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  ありがとう……おねえ、ちゃん…………」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<少女の幽霊>\\F[2]\\AA[N]"]
+              "parameters": [
+                "\"Thank you. Thank you... Onee-chan...\"\\n<Ghost Girl>\\F[2]\\AA[N]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
@@ -2225,7 +2125,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ようやく、お腹いっぱいになったんだね」\\n<雪音>\\F[1]"
+                "\"Finally, your stomach is full, isn't it?\"\\n<Yukine>\\F[1]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2233,30 +2133,24 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「きえ、ちゃったの？」\\n<朔>\\F[1]\\AA[FF]\\FF[24]"
+                "\"Did she disappear?\"\\n<Shuo>\\F[1]\\AA[FF]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うん。たくさん食べれて満足しちゃったみたい。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  もう、ひもじい思いはしなくていいんだよ」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[23]"]
+              "parameters": [
+                "\"Yes. It seems she ate a lot and is satisfied. She\nwon't have to feel hungry anymore.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[23]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「よかった……」\\n<朔>\\F[1]\\AA[FF]\\FF[41]"]
+              "parameters": [
+                "\"Thank goodness...\"\\n<Shuo>\\F[1]\\AA[FF]\\FF[41]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -2271,10 +2165,10 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あれ……いま何か音がしたような。"]
+              "parameters": [
+                "\"Huh... Did I just hear something? What could it\nbe...\"\\n<Yukine>\\F[5]"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["  なんだろう……」"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[5]"] },
             {
               "code": 356,
               "indent": 0,
@@ -2477,31 +2371,23 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（……酷く痩せた子供の、亡骸だ……女性が覆いかぶさるよ"
+                "(...It's the remains of a severely emaciated\nchild... A woman seems to have died lying on top\nof them.)\\F[15]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  うにしてな亡くなってる）\\F[15]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["（きっと……守ろうとしたんだ。最後まで……"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  この人の、子供だったんだよね）\\F[15]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（ひどい……こんなの朔には教えられないよ……）\\F[15]"
+                "(Surely... she must have been trying to protect\nthem. Until the very end... This was her child,\nwasn't it?)\\F[15]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "(This is terrible... I can't tell Yukine about\nthis...)\\F[15]"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -2552,7 +2438,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（……酷く痩せた子供の、亡骸だ）"]
+              "parameters": [
+                "(...It's the corpse of a terribly emaciated\nchild.)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2608,7 +2496,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（開かない）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It won't open)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2663,7 +2551,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（中に何か入ってる）"]
+              "parameters": ["(There's something inside)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -2680,11 +2568,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『人形の左足』を手に入れた"]
+              "parameters": ["\"Obtained the doll's left leg\""]
             },
             { "code": 126, "indent": 0, "parameters": [45, 0, 0, 1] },
             {
@@ -2695,11 +2582,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『人形の右足』を手に入れた"]
+              "parameters": ["\"Obtained the doll's right leg\""]
             },
             { "code": 122, "indent": 0, "parameters": [20, 20, 0, 0, 4] },
             { "code": 126, "indent": 0, "parameters": [44, 0, 0, 1] },
@@ -2709,29 +2595,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あっ、人形の足だ！」"]
+              "parameters": ["\"Ah, it's the doll's leg!\"\\n<Yukine>\\F[3]"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[3]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「ほん、とに？」"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<朔>\\F[3]\\AA[FF]\\FF[22]"]
+              "parameters": ["\"Really?\"\\n<Shuo>\\F[3]\\AA[FF]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ちょっと、待ってて……いままでと一緒なら、これを人形"
+                "\"Just wait a moment... If it's like before, if I\nattach this to the doll\"\\n<Yukine>\\F[1]\\AA[F]\\FF[22]"
               ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["  にくっつけたら」"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[22]"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 49, 25, 7, 4, 2] },
@@ -2742,9 +2620,10 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……どう、朔。なにか変わった？」"]
+              "parameters": [
+                "\"...How about it, Yukine. Did anything change?\"\\n<Yukine>\\F[4]"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[4]"] },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
               "code": 205,
@@ -2790,98 +2669,48 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "人形の両足が揃うと、朔は辺りを確かめるように首を傾け"
+                "When both legs of the doll are assembled, Yukine\ntilts her head as if checking her surroundings.\nThen, with a face that has regained a slight\nflush, Yukine sniffs around with a 'sniff\nsniff'.\\F[4]\\AA[N]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "ます。そして、またわずかに赤みの戻った顔で、朔はクン"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クンと鼻を鳴らしました。\\F[4]\\AA[N]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「つちの……におい、がする……」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[4]\\AA[FF]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ああ、よかった。朔、匂いもわかるようになったんだね」"
+                "\"I smell... the earth...\"\\n<Shuo>\\F[4]\\AA[FF]\\FF[22]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[2]\\AA[F]\\FF[22]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「うん。でも、なんだかヘンな……においもする。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  おねえちゃん、どうして？」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[2]\\AA[FF]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "不思議そうに私に声をかけて、首を傾げる朔。嗅覚を取り"
+                "\"Ah, thank goodness. Yukine, you can smell again.\"\\n<Yukine>\\F[2]\\AA[F]\\FF[22]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "戻した朔は、すぐ近くにある少女の無惨な骸には気づいて"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いないようです。\\F[10]\\AA[N]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「えっと、お肉が悪くなっちゃってるんだよ。上手に話せる"
+                "\"Yes. But there's also a strange... smell. Onee-\nsan, why is that?\"\\n<Shuo>\\F[2]\\AA[FF]\\FF[22]"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  ようになったし、そろそろ出ようか……」"]
+              "parameters": [
+                "Yukine calls out to me curiously, tilting her\nhead. It seems that Yukine, who has regained her\nsense of smell, hasn't noticed the tragic remains\nof the girl nearby.\\FF[22]\\F[10]\\AA[N]"
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<雪音>\\F[7]\\AA[F]\\FF[22]"]
+              "parameters": [
+                "\"Well, the meat has gone bad. You can speak well\nnow, so shall we get going soon...?\"\\n<Yukine>\\F[7]\\AA[F]\\FF[22]"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [159, 159, 0] },
@@ -3199,30 +3028,17 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ああ、やめてくれ……ここには米などない。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  隠してなんていないんだ信じてくれ、うそはついていない"
+                "\"Ah, please stop... There's no rice here. I'm not\nhiding anything, believe me, I'm not lying...\nPlease stop, don't kill me.\"\\n<Male Ghost>"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  ……やめてくれ、殺さないでくれ」\\n<男性の幽霊>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（だめだ……もう心を失っちゃってる。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  私の声は届きそうにない）\\F[8]"]
+              "parameters": [
+                "(It's no use... He's already lost his heart. My\nvoice doesn't seem to reach him.)\\F[8]"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3453,80 +3269,47 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あれ……これ、なんだろう……」\\n<雪音>\\F[5]"]
+              "parameters": ["\"What is this... I wonder...\"\\n<Yukine>\\F[5]"]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["一月続く日照りにて　多くの稲は枯れ果てたる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["飢えたるもの　次々と息絶え　糧を探して彷徨うなり"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "ある者、米を隠したる噂流れ　我ら農具を手に打ちいるなり"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["男　平伏し許しを乞うも　仲間のクワを振りおろし　"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["果てるなり　"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "俵の内には空なれど　飢えたる者たちは　執拗に背を耕せり　"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "友誼交わしたるものによる　畜生の行い　見るに耐えず"
+                "A month-long drought withered many crops, and\nstarving people began to die one after another,\nwandering in search of food."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["女　気を乱し　我が子にと駆け寄る"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "痩せたる子に　亡き子の影をみるも　我が手　届かざり"
+                "Some spread rumors of hidden rice, and we took up\nour farm tools in anger. Men begged for mercy,\nlying prostrate, but were met with the swing of a\nhoe, ending their lives."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["哀れ　虚なる家に　亡骸ばかり増えたり"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "飢えたる人々に省みるものなく　すべて打ち捨てるなり"
+                "Though the bales were empty, the starving\nrelentlessly tilled their backs. The beastly acts\ncommitted by those we once called friends were\nunbearable to witness."
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "我らもはや人にあらず　神仏の救世　ふさわしからずや"
+                "Women disturbed, running to their children, seeing\nthe shadows of their deceased offspring in the\nemaciated living ones, but unable to reach them.\nOnly the dead increased in their desolate homes."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Without a glance from those who could help, all\nwas abandoned. We are no longer human; unworthy of\nsalvation from gods or Buddha."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3534,65 +3317,49 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「……誤解して、こんなことって……ひどいよ」\\n<雪音>\\F[10]"
+                "\"...Such a misunderstanding... this is terrible.\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「どう、したの……」\\n<朔>\\F[10]\\AA[FF]\\FF[24]"]
+              "parameters": [
+                "\"What's wrong...?\"\\n<Shuo>\\F[10]\\AA[FF]\\FF[24]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ううん……なんでもないよ。あれ……まだ続きがある」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[7]\\AA[F]\\FF[24]"]
+              "parameters": [
+                "\"No, it's nothing. Wait... there's more.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[24]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あれより　村に見知らぬもの現れたり"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["幼き娘　村々を独りめぐりて　不気味に笑うなり"]
+              "parameters": [
+                "An unknown figure appeared in the village, a young\ngirl wandering alone from village to village with\na sinister smile."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["娘に寄りしもの　みな心壊れたり"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あるもの土を噛み　喉をつまらせ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あるもの枯れ草を　食い漁りて息絶え"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あるものは農具を齧りて　狂いたる"]
+              "parameters": [
+                "Those who approached the girl all went mad; some\nbit the earth and choked, others devoured dry\ngrass and died, and some gnawed on farm tools in\ntheir insanity."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これが神罰であろうか　我はただおそろしい"]
+              "parameters": [
+                "Could this be divine punishment? I am simply\nterrified, so terrified."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["おそろしいのだ"] },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },
             { "code": 230, "indent": 0, "parameters": [10] },
@@ -3602,7 +3369,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（これって、さっきの）\\F[4]"]
+              "parameters": [
+                "(Is this related to what happened before...)\\F[4]"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3877,20 +3646,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「まっていて……あと、すこし、美味しいごはんをつくるか"
+                "\"Wait for me... Just a little longer, I'll make\nsome delicious food. I'll fill your stomach up\nsoon, okay?\"\\n<Female Ghost>"
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  らね。もうすぐお腹いっぱいにしてあげるからね」"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\n<女性の幽霊>"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（なにか泣いているように聞こえる）\\F[4]"]
+              "parameters": ["(It sounds like someone is crying.)\\F[4]"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3941,19 +3704,17 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「幽霊さん……よかったら、これも使って」"]
+              "parameters": [
+                "\"Ghost-san... if it's alright, please use this as\nwell.\"\\n<Yukine>\\F[1]"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[1]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あ……ああ……ありがとう……ありがとう」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<女性の幽霊>\\AA[N]\\F[1]"]
+              "parameters": [
+                "\"Ah... ah... thank you... thank you.\"\\n<Female Ghost>\\AA[N]\\F[1]"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -3961,16 +3722,19 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["しばらくすると、美味しそうな雑炊ができあがった。"]
+              "parameters": [
+                "After a while, a delicious-looking porridge was\nready."
+              ]
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ようやく……あの子に……おなかいっぱい……やっと」"]
+              "parameters": [
+                "\"Finally... I can give that child... a full\nbelly... at last.\"\\n<Female Ghost>"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<女性の幽霊>"] },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
               "code": 356,
@@ -3991,49 +3755,40 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「……消えちゃった。ずっと、あの子にゴハンを作ってあげ"
+                "\"...She disappeared. You've always wanted to make\na meal for that child, haven't you?\"\\n<Yukine>\\F[6]"
               ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["たかったんだね」"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[6]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「うん。とってもいい匂い……する」"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[2]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「……わかん、ない」"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[2]\\AA[FF]\\FF[29]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「そっか、まだ匂いはわからないんだね」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[8]\\AA[F]\\FF[29]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「とにかく、あの子にこれを持って行ってあげよう。お椀に"
+                "\"Yeah. It smells really good...\"\\n<Yukine>\\F[2]"
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["  入れてっと」"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[29]"]
+              "parameters": [
+                "\"...I don't, understand.\"\\n<Shuo>\\F[2]\\AA[FF]\\FF[29]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"I see, you still can't smell it, huh?\"\\n<Yukine>\\F[8]\\AA[F]\\FF[29]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Anyway, let's take this to that child. Into the\nbowl it goes.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[29]"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             {
@@ -4044,11 +3799,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『できたての雑炊』を手に入れた"]
+              "parameters": ["\"Freshly made porridge\" acquired."]
             },
             { "code": 126, "indent": 0, "parameters": [64, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },

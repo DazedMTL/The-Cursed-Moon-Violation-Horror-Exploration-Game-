@@ -557,7 +557,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -607,7 +607,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（この鍵……合うかな）"]
+              "parameters": ["(I wonder if this key will fit...)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -624,7 +624,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（よかった、合ってたみたい）"]
+              "parameters": ["(Thank goodness, it seems to fit)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -744,7 +744,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（からっぽだ）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It's empty)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -805,7 +805,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（からっぽだ）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It's empty)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -869,103 +869,65 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カバンが落ちてる）"]
+              "parameters": ["(There's a bag on the ground.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「えっと……中は、学生証とノートだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  学生証は……平成２５年入学　富田　アカネ」\\n<雪音>\\F[5]"
+                "\"Let's see... inside there's a student ID and a\nnotebook. The student ID is... Akane Tomita,\nenrolled in 2013.\"\\n<Yukine>\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（……ノートになにか書いてある）\\F[5]"]
+              "parameters": [
+                "(...There's something written in the notebook.)\\F[5]"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どうして。どうしてここから出られないの！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どれだけ待っても時間が経たないの。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ずっと携帯は圏外だし、ガラスは叩いても割れない。"]
+              "parameters": [
+                "Why? Why can't I get out of here! No matter how\nlong I wait, time doesn't pass. My phone is always\nout of range, and the glass won't break no matter\nhow much I pound on it."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["お腹はすかないけど変な空気がずっと消えない。"]
-            },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "体は重たいし、人影がないのに誰かがいる気配がする。"
+                "I'm not hungry, but this strange atmosphere never\ngoes away. My body feels heavy, and even though\nthere's no one around, I sense someone's presence.\nIs this a dream? If it's a dream, why can't I wake\nup!?"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これは夢なの？なんで夢なら覚めないの！？"]
+              "parameters": [
+                "Why is the school building in such disarray? Why\nis there something in the empty animal pen? Why is\nthere a child waving?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どうして校舎がメチャクチャになってるの。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どうして空っぽの飼育小屋になにかいるの。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どうして子供が手を振ってるの。"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["もういやだ。"] },
-            { "code": 401, "indent": 0, "parameters": ["帰りたい。"] },
-            { "code": 401, "indent": 0, "parameters": ["帰りたい。"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["このカッターで手首を切ったら目が覚めるのかな。"]
+              "parameters": [
+                "I can't stand it anymore. I want to go home. I\nwant to go home. Maybe if I cut my wrist with this\ncutter, I'll wake up."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いまから手首を切る。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["これできっと目覚める。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だって、こんなの夢に決まっている。"]
+              "parameters": [
+                "I'm going to cut my wrist now. Surely, I'll wake\nup with this. Because this has to be a dream."
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },
@@ -973,7 +935,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……これは」\\n<雪音>\\F[10]"]
+              "parameters": ["\"...What is this?\"\\n<Yukine>\\F[10]"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1215,7 +1177,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（机の上が血まみれだ）"]
+              "parameters": ["(The desk is covered in blood)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1223,10 +1185,9 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「こんなにたくさんの血が出てたら……この人はもう……」"
+                "\"If this much blood has been spilled... this\nperson must be already...\"\\n<Yukine>\\F[10]"
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[10]"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 4,

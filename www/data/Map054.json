@@ -709,93 +709,67 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「おねえちゃん、どうしよう。いきどまりだよ」"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\n<朔>\\FF[29]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「ここの鍵穴は左右に二つ。そうだ、朔っ！　さっき拾った"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["  鍵！」"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[17]\\AA[F]\\FF[29]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「う、うん！」"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[17]\\AA[FF]\\FF[43]"]
+              "parameters": ["\\n<Shuo>\\FF[29]Saku"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "私はとっさに拾った鍵のことを思い出します。朔が私と色"
+                "\"There are two keyholes, one on each side. That's\nright, Saku! The key we picked up earlier!\"\\n<Yukine>\\F[17]\\AA[F]\\FF[29]"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["違いの鍵をもう一本持っているのです。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\F[17]\\AA[F]\\FF[43]"]
+              "parameters": ["\"Y-Yes!\"\\n<Shuo>\\F[17]\\AA[FF]\\FF[43]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「朔。３，２、１、で鍵を回すよ」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[18]\\AA[F]\\FF[43]"]
+              "parameters": [
+                "\\F[17]I suddenly remember the key I picked up. Saku has\nanother key of a different color. \\AA[F]\\FF[43]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「わかった」"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<朔>\\F[18]\\AA[FF]\\FF[43]"]
+              "parameters": [
+                "\"Saku. We'll turn the keys on 3, 2, 1, okay?\"\\n<Yukine>\\F[18]\\AA[F]\\FF[43]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「３……」"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<雪音>\\F[18]\\AA[F]\\FF[43]"]
+              "parameters": ["\"Got it.\"\\n<Shuo>\\F[18]\\AA[FF]\\FF[43]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「２……」"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<朔>\\F[18]\\AA[FF]\\FF[43]"]
+              "parameters": ["\"3...\"\\n<Yukine>\\F[18]\\AA[F]\\FF[43]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「１！」"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<雪音>\\F[18]\\AA[F]\\FF[43]"]
+              "parameters": ["\"2...\"\\n<Shuo>\\F[18]\\AA[FF]\\FF[43]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「えい」"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<雪音/朔>\\F[18]\\AA[FF]\\FF[43]"]
+              "parameters": ["\"1!\"\\n<Yukine>\\F[18]\\AA[F]\\FF[43]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"Now!\"\\n<Yukine/Saku>\\F[18]\\AA[FF]\\FF[43]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -820,18 +794,18 @@
             { "code": 121, "indent": 0, "parameters": [194, 194, 0] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「行こう、朔」"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<雪音>\\F[18]\\AA[F]\\FF[43]"]
+              "parameters": [
+                "\"Let's go, Saku.\"\\n<Yukine>\\F[18]\\AA[F]\\FF[43]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「うん！」"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<朔>\\F[18]\\AA[FF]\\FF[43]"]
+              "parameters": ["\"Yeah!\"\\n<Shuo>\\F[18]\\AA[FF]\\FF[43]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 126, "indent": 0, "parameters": [55, 1, 0, 1] },
@@ -913,14 +887,22 @@
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「……朔」"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<朔禍月>\\FF[31]"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"...Saku\"\\n<Sakka Tsuki>\\FF[31]"]
+            },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [6, 8, true] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「許さぬぞ、子狐」"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<朔禍月>\\FF[37]"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"I will not forgive you, little fox.\"\\n<Sakari Tsuki>\\FF[37]"
+              ]
+            },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 56, 36, 8, 8, 2] },

@@ -962,7 +962,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1021,7 +1021,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1129,7 +1129,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1188,7 +1188,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1247,7 +1247,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1306,7 +1306,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1365,7 +1365,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1424,7 +1424,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1483,7 +1483,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1542,7 +1542,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1601,7 +1601,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1660,7 +1660,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1719,7 +1719,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1778,7 +1778,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1837,7 +1837,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1896,7 +1896,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1955,7 +1955,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2014,7 +2014,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2073,7 +2073,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2132,7 +2132,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2336,7 +2336,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2395,7 +2395,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2454,7 +2454,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2562,7 +2562,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3163,15 +3163,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あれ、あそこにだれかいるよ」"]
+              "parameters": [
+                "\"Hey, there's someone over there.\"\\n<Yukine>\\F[5]"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[5]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「ほん、と……に？」"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<朔>\\F[15]\\AA[FF]\\FF[20]"]
+              "parameters": ["\"Really...?\"\\n<Shuo>\\F[15]\\AA[FF]\\FF[20]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -3209,33 +3209,32 @@
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「っっっっっ！」"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<朔>\\FF[27]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ち、ちがう……あれは……あれは……すごく良くないもの"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["  だ」"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[15]\\AA[F]\\FF[27]"]
+              "parameters": ["\"Ahhhh!\"\\n<Shuo>\\FF[27]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「おねえちゃ……」"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<朔>\\F[15]\\AA[FF]\\FF[21]"]
+              "parameters": [
+                "\"No, that's different... that is... something very\nbad.\"\\n<Yukine>\\F[15]\\AA[F]\\FF[27]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「朔、しずかに……」"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<雪音>\\F[4]\\AA[F]\\FF[27]"]
+              "parameters": ["\"Onee-chan...\"\\n<Shuo>\\F[15]\\AA[FF]\\FF[21]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Saku, be quiet...\"\\n<Yukine>\\F[4]\\AA[F]\\FF[27]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -3261,20 +3260,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あれはきっと祟りだ……」"]
+              "parameters": ["\"That must be a curse...\"\\n<Yukine>\\F[10]"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[10]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（これまで見てきた呪詛や怨念の本体だ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  なんとか見つからないように逃げないと……）\\F[10]"
+                "(This is the embodiment of all the curses and\nmalice I've seen so far. I have to escape without\nbeing found...)\\F[10]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -3298,31 +3291,31 @@
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「■■■――■■、■」"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<？？？>\\FF[30]"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"■■■--■■、■\"\\n<???>\\FF[30]"]
+            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「っっっっっっ！！」"]
+              "parameters": ["\"Ahhhhhh!\"\\n<Yukine>\\F[15]"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[15]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（ものすごい祟りの気配。こんなの人間の霊が出せるもの"
+                "(Such an incredible aura of a curse. This isn't\nsomething a human spirit could produce!)\\F[15]"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  じゃない！）\\F[15]"]
+              "parameters": ["\"■■--■■■、■\"\\n<???>\\FF[30]"]
             },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「■■――■■■、■」"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<？？？>\\FF[30]"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
               "code": 250,
@@ -3344,18 +3337,15 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「うっっっ!!　こ、これって病院で死んだ人たちの霊っ！"
+                "\"Ughhh!! Are these the spirits of people who died\nin the hospital? There are so many of them!\"\\n<Yukine>\\F[15]"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  こんなにたくさん！」"]
+              "parameters": ["\"■■■...\"\\n<???>\\FF[30]"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[15]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「■■■……」"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<？？？>\\FF[30]"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
               "code": 250,
@@ -3388,19 +3378,20 @@
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「逃げよう、朔！"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  捕まったら殺されちゃう！」"]
+              "parameters": [
+                "\"Let's run, Saku! If we get caught, we'll be\nkilled!\"\\n<Yukine>\\F[16]"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[16]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「う、うん……」"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<朔>\\F[16]\\AA[FF]\\FF[21]"]
+              "parameters": [
+                "\"Yeah, okay...\"\\n<Shuo>\\F[16]\\AA[FF]\\FF[21]"
+              ]
             },
             {
               "code": 245,
@@ -3679,14 +3670,7 @@
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クリックでコンティニュー"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Click to continue-"] },
             { "code": 246, "indent": 0, "parameters": [1] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 117, "indent": 0, "parameters": [25] },

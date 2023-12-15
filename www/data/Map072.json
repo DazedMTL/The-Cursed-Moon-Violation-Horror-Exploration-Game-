@@ -401,13 +401,8 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（冷たくなってる……怪我もないのに。まるで魂を奪われた"
+                "It's like there's not even a trace of spiritual\nenergy left)\\F[8]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  みたいに少しの霊気も残ってない）\\F[8]"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -456,14 +451,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "（床に血文字でなにか書いてある……ごめんなさい。少し"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  動かしますね）\\F[8]"]
+              "parameters": ["I'll move it now)\\F[8]"]
             },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -513,28 +501,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "せいかいのドアをあけないと、はじめの部屋に戻され、たま"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "しいを食われる　私はたった二回のしっぱいでたましいを食"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "われた　もうなにも考えられない　きっとヒントはあるはず"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だ　私のむねんを晴らしてくれ"]
+              "parameters": ["Clear my grudge for me."]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },
@@ -2152,15 +2119,9 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「うぅ、胸がくるしい……どうしよう。また、間違えちゃっ"
+                "\"Ugh, my chest feels tight... What should I do? It\nseems I've made a mistake again... I wonder if I\ncan endure it next time.\"\\n<Yukine>\\F[13]"
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  たみたい……これ、次は耐えられないかな」"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[13]"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2248,14 +2209,7 @@
             { "code": 121, "indent": 0, "parameters": [3, 3, 0] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クリックでコンテニュー"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Click to continue"] },
             { "code": 230, "indent": 0, "parameters": [10] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
             { "code": 121, "indent": 0, "parameters": [3, 3, 1] },

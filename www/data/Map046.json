@@ -9804,7 +9804,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -10121,11 +10121,10 @@
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「え……？"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　おねえ……ちゃん？　どこ？」\\n<朔>\\FF[24]"]
+              "parameters": ["\"Eh...? Onee-chan? Where?\"\\n<Shuo>\\FF[24]"]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             {
@@ -10141,7 +10140,7 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["シーンをスキップ", "シーンを見る"], -1, -1, 1, 1]
+              "parameters": [["Scene Skip", "<View the scene>"], -1, -1, 1, 1]
             },
             { "code": 402, "indent": 1, "parameters": [0, "シーンをスキップ"] },
             { "code": 119, "indent": 2, "parameters": ["skip"] },
@@ -10163,14 +10162,7 @@
             { "code": 121, "indent": 0, "parameters": [3, 3, 0] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クリックでコンテニュー"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Click to continue"] },
             { "code": 230, "indent": 0, "parameters": [10] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
             { "code": 121, "indent": 0, "parameters": [3, 3, 1] },
@@ -10283,7 +10275,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -10930,47 +10922,38 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「くそっ……くそぅ……みんな、みんな、死んでしまった」\\n<男性の幽霊>"
+                "\"Damn it... damn it all... everyone, everyone is\ndead...\"\\n<Male Ghost>"
               ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「あんなバケモノに挑んで……師匠も、兄貴も……祟りに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  なっちまった」\\n<男性の幽霊>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（この人……自分が亡くなっていることに気付いてないんだ"
+                "\"Challenging such a monster... Master, and big\nbrother too... they've become cursed...\"\\n<Male Ghost>"
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["  ……）\\F[8]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ちくしょう……俺も、喰われる、祟りになりたくない……"
+                "(This person... he hasn't realized that he's\npassed away...)\\F[8]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  カエルはイヤだ」\\n<男性の幽霊>\\AA[N]\\F[8]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（だめだ……心を失っちゃってる）\\F[10]"]
+              "parameters": [
+                "\"Damn it... I don't want to be eaten, don't want\nto become cursed... I hate frogs\"\\n<Male Ghost>\\AA[N]\\F[8]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["(It's no use... he's lost his mind.)\\F[10]"]
             },
             { "code": 121, "indent": 0, "parameters": [163, 163, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -11203,7 +11186,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（なんだろう。巻物が落ちてる。この巻物はまだ読めそう）"
+                "(What's this? There's a scroll lying here. It\nlooks like it can still be read.)"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -11213,46 +11196,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#天保七年　如月　つごもり"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#いよいよ飢饉の波激しく餓死者を多く出たりける"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "\\#怨念吸いたる祟りはますます強大になりもはや一刻の猶予"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\#もなし"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#我ら精鋭を集め祓除のための郡を募るなり"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#天保七年　弥生　みつか"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\#我ら宗派教義の垣根を越え団結し　この村に祟りを追い"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\#込むなり"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\#村人すでに祟りに飲まれ　哀れ蛙（かわず）となりけり"
+                "In the seventh year of Tenpou, on the last day of\nKisaragi, the waves of famine grew fierce, and\nmany died of starvation. The grudge that absorbed\nthese resentments became ever more powerful, and\nthere was no longer any time to spare."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -11260,158 +11205,88 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\#人の嘆きを喰らいし悪神を誅すべしと総勢八十余名みな"
+                "We gathered our elite to recruit a group for the\npurpose of purification."
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#獨鈷を握りしめたる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#天才と謳われし兄の存在を頼もしく感じる"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#天保七年　弥生　むいか"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\#我らの結界陣に祟りを誘い込むことに成功す　幼子の姿を"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#せしとも油断はならず"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#すでに二十名ばかりが犠牲になる"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#我が師が命を賭した成果に感謝し祈りを捧げる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#同門を集め亡骸に祟りを滅することを誓うなり"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\#天保七年　卯月"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#祟りを捕らえて幾日がたったのか"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\#読経を重ね護摩をいくら焚いても一向に弱まる気配はない"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\#瘴気に斃れた仲間は数しれず　みな体力の限界を迎えている"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\#天保七年"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\#もう何日経ったか分からない　また一人仲間が呪詛に"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\#狂ってしまった"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#これで何人目か数えるのも忘れてしまった"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#兄も　同輩も残ってない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#もうずっと喉が痛い"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#幼子の祟りに我らの力は届いているのだろうか？"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\#天保"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#俺が生かされている理由を知ってしまった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\#祟りは……　あの神は私が記録を残していたのを知って"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\#いたのだ"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\#みな死んだ　私以外はみな蛙に変えられてしまった"
+                "In the seventh year of Tenpou, in the third month\nof Yayoi, we united beyond the barriers of our\nsectarian doctrines to drive the curse into this\nvillage. The villagers had already been consumed\nby the curse, pitifully transformed into frogs."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#俺の後ろで祟りが笑っている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#最後に祟りの名を残す"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#あれの名前は　朔禍月"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#人の手に負えるものではない神だ"]
+              "parameters": [
+                "We must slay the evil god that feeds on human\nlamentations. With over eighty of us, each\ngripping a vajra, I felt reassured by the presence\nof my brother, hailed as a genius."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#おそろしい　俺はおそろしい"]
+              "parameters": [
+                "In the seventh year of Tenpou, on the sixth day of\nYayoi, we successfully lured the curse into our\nbarrier formation. Even though it took the form of\na child, we could not let our guard down, and\nalready about twenty had become sacrifices."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#朔禍月さま　どうかカエルにはしないでくれ"]
+              "parameters": [
+                "Grateful for the results our master staked his\nlife on, we gathered our fellow disciples to pray\nand vowed to destroy the curse on his remains."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "In the seventh year of Tenpou, in the month of\nUzuki, how many days have passed since we captured\nthe curse? No matter how much we recite sutras or\nburn goma, there is no sign of it weakening.\nCountless comrades have fallen to the miasma, and\nall are reaching their physical limits."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "In the seventh year of Tenpou, I've lost count of\nthe days. Another comrade has gone mad from the\ncurse. I've forgotten how many that makes now."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "There's no one left, not my brother nor my peers.\nMy throat has been sore for so long. Is our power\neven reaching the child's curse?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "In Tenpou, I've come to know why I am still alive.\nThe curse... that god knew I was keeping records."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Everyone's dead except for me; they've all been\nturned into frogs. The curse is laughing behind\nme. I will leave behind the name of the curse at\nlast. Its name is Sakka Tsuki."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "It's a god beyond human control, terrifying. I am\nterrified. Oh Sakka Tsuki-sama, please don't turn\nme into a frog."
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },
@@ -11420,7 +11295,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（巻物はそこで終わっている）"]
+              "parameters": ["(The scroll ends there.)"]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -11429,7 +11304,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「朔禍月……それがあの祟りの名前なんだ」\\n<雪音>\\F[4]"
+                "\"Sakka Tsuki... That's the name of that curse.\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -11437,31 +11312,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「さか、ずき……さま……」\\n<朔>\\F[4]\\AA[FF]\\FF[23]"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「朔……なにかしってるの？」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[5]\\AA[F]\\FF[23]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「うん……そのおなまえ、きいたことあるきがする。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  でもうまく、おもいだせない」\\n<朔>\\F[4]\\AA[FF]\\FF[24]"
+                "\"Saka, zuki... sama...\"\\n<Shuo>\\F[4]\\AA[FF]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -11469,14 +11320,24 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「そうなんだ……じゃあ、考えても仕方ないから、まずは先"
+                "\"Saku... do you know something?\"\\n<Yukine>\\F[5]\\AA[F]\\FF[23]"
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["  に進んでみよう」"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<雪音>\\F[4]\\AA[F]\\FF[24]"]
+              "parameters": [
+                "\"Yeah... I feel like I've heard that name before.\nBut I can't quite remember.\"\\n<Shuo>\\F[4]\\AA[FF]\\FF[24]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"I see... Well, there's no use thinking about it\nnow. Let's move on ahead for now.\"\\n<Yukine>\\F[4]\\AA[F]\\FF[24]"
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [162, 162, 0] },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 54] },
@@ -11579,7 +11440,11 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（紙が挟まってる）"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["(There's a paper stuck in here)"]
+            },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -11587,37 +11452,17 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "あの古き神の痕跡を見つけた。我ら一派の宿敵であり、数百"
+                "We have found traces of that ancient deity, our\nsect's archenemy, harboring centuries of grudges.\nTo stand against the deep-seated enmity that has\npersisted from the past, we have honed our\ntechniques."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "年分の怨念を蓄積した祟り。過去から続く深い遺恨を立つた"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["めに我らは技を鍛えてきたのだ。"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "困難に直面した。この家の家主が協力をしてくれない。彼に"
+                "We've faced difficulties. The master of this house\nis not cooperating. It seems he thinks of us as a\nsuspicious religious group because he lacks\nspiritual sensitivity."
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "は霊感がないゆえに我らのことを怪しげな宗教団体だと思っ"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["ているようだ。"] },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -11682,7 +11527,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「なにこれ……ものすごい、呪いの気配だ」\\n<雪音>\\F[10]"
+                "\"What is this... Such an intense aura of a curse.\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -11690,13 +11535,8 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（なんとかしたいけど、今の私には祟りの要を壊すことはで"
+                "(I want to do something about it, but I can't\nbreak the source of the curse with my current\npowers...)\\F[10]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  きないよね……）\\F[10]"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -11744,14 +11584,10 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「これって……祟りの要だ。"]
+              "parameters": [
+                "\"This seems to be... the cause of the curse. It\nwas hidden in such a place.\"\\n<Yukine>\\F[4]"
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  こんなところに隠されてたんだ」"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[4]"] },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
               "code": 205,
@@ -11809,7 +11645,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「うん。ここには変な気配はないみたい」\\n<雪音>\\F[1]"
+                "\"Yeah. It doesn't seem like there's any strange\npresence here.\"\\n<Yukine>\\F[1]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -11817,14 +11653,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「朔、危ないから、少し離れてて」\\n<雪音>\\F[1]"
+                "\"Saku, it's dangerous, so stay back a little.\"\\n<Yukine>\\F[1]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……う、ん」\\n<朔>\\F[1]\\AA[FF]\\FF[24]"]
+              "parameters": ["\"...Okay.\"\\n<Shuo>\\F[1]\\AA[FF]\\FF[24]"]
             },
             { "code": 246, "indent": 0, "parameters": [1] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -11832,7 +11668,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「よーし、せーのっ……えいやっ！」\\n<雪音>\\F[19]\\AA[F]\\FF[24]"
+                "\"Ready, set... heave-ho!\"\\n<Yukine>\\F[19]\\AA[F]\\FF[24]"
               ]
             },
             {

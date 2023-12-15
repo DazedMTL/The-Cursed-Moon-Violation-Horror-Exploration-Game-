@@ -385,31 +385,34 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あれ、あかりがきえちゃったよ」\\n<朔>\\FF[29]"]
+              "parameters": ["\"Oh no, the light went out.\"\\n<Shuo>\\FF[29]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「どうしたんだろ？」\\n<雪音>\\F[5]\\AA[F]\\FF[29]"
+                "\"What happened?\"\\n<Yukine>\\F[5]\\AA[F]\\FF[29]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（いま、なにか廊下の先にいたような……）"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[8]\\AA[F]\\FF[29]"]
+              "parameters": [
+                "(Just now, was there something at the end of the\nhallway...)\\n<Yukine>\\F[8]\\AA[F]\\FF[29]"
+              ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["懐中電灯のスイッチを押す"], -1, -1, 1, 1]
+              "parameters": [
+                ["Press the switch on the flashlight"],
+                -1,
+                -1,
+                1,
+                1
+              ]
             },
             {
               "code": 402,
@@ -504,39 +507,24 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「きゃっっ！　なに、これ……やめて、触らないで！」\\n<雪音>\\F[16]"
+                "\"Kyaa! What is this... stop it, don't touch me!\"\\n<Yukine>\\F[16]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「や、やだっ！　た、たすけて！　おねえちゃん！」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[16]\\AA[FF]\\FF[21]"]
+              "parameters": [
+                "\"No, no! Help me! Onee-san!\"\\n<Shuo>\\F[16]\\AA[FF]\\FF[21]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "襲いかかってきた蛇のような生き物が、私たちの首に巻き"
+                "A creature like a snake attacked us, coiling\naround our necks. The tightening grip on our\nthroats was so strong, we couldn't breathe.\\n<Shuo>\\F[16]\\AA[N]\\FF[21]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "付きます。ぎりぎりと喉を締め付ける力は強く、息ができ"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ません。\\n<朔>\\F[16]\\AA[N]\\FF[21]"]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             {
@@ -551,41 +539,25 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「う、ぁっ……けほ、いき……でき、おねっ……ち……」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[16]\\AA[FF]\\FF[21]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「さく！　さくっ、こほっ……さ、……あ、ぐっ……」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[16]\\AA[F]\\FF[21]"]
+              "parameters": [
+                "\"Ugh, ah... cough, can't... breathe, Onee...\nsan...\"\\n<Shuo>\\F[16]\\AA[FF]\\FF[21]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "意識が急速に遠くなっていきます。真っ暗な闇が目の前を"
+                "\"Saku! Saku, cough... Sa,... ah, guh...\"\\n<Yukine>\\F[16]\\AA[F]\\FF[21]"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["覆い尽くそうとするなか、私は朔に手を伸ばします。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[16]\\AA[N]\\FF[21]"]
+              "parameters": [
+                "Consciousness rapidly fades away. As darkness\nthreatens to engulf everything before me, I reach\nout for Sakura.\\n<Shuo>\\F[16]\\AA[N]\\FF[21]"
+              ]
             },
             { "code": 242, "indent": 0, "parameters": [1] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -594,27 +566,22 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「さ、……く……っ、ぁ……」\\n<雪音>"]
+              "parameters": ["\"Sa,... ku... ah...\"\\n<Yukine>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "だけど離れてしまった手は二度と結ばれること無く、意識は"
+                "But the hands that had parted would never meet\nagain, and consciousness was enveloped by deep\nblackness."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["深い黒に包まれるのでした。"]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 111, "indent": 0, "parameters": [0, 57, 0] },
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["シーンをスキップ", "シーンを見る"], -1, -1, 1, 1]
+              "parameters": [["Skip scene", "View the scene"], -1, -1, 1, 1]
             },
             { "code": 402, "indent": 1, "parameters": [0, "シーンをスキップ"] },
             { "code": 119, "indent": 2, "parameters": ["skip"] },
@@ -636,14 +603,7 @@
             { "code": 121, "indent": 0, "parameters": [3, 3, 0] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クリックでコンテニュー"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Click to continue-"] },
             { "code": 230, "indent": 0, "parameters": [10] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
             { "code": 121, "indent": 0, "parameters": [3, 3, 1] },

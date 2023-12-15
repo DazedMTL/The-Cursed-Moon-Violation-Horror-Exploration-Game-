@@ -146,24 +146,23 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「朔！　よかった無事で！」\\n<雪音>\\F[3]"]
+              "parameters": [
+                "\"Saku! Thank goodness you're safe!\"\\n<Yukine>\\F[3]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……」\\n<朔>\\F[3]\\AA[N]"]
+              "parameters": ["\"...\"\\n<Shuo>\\F[3]\\AA[N]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「朔、どうしたの？　あれ……なんで。身体に力が……"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  入ら、ない……」\\n<雪音>\\F[13]"]
+              "parameters": [
+                "\"Saku, what's wrong? Huh... why? I can't seem\nto... put strength in my body...\"\\n<Yukine>\\F[13]"
+              ]
             },
             { "code": 242, "indent": 0, "parameters": [1] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -172,7 +171,7 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["シーンをスキップ", "シーンを見る"], -1, -1, 1, 1]
+              "parameters": [["Skip scene", "Look at the scene"], -1, -1, 1, 1]
             },
             { "code": 402, "indent": 1, "parameters": [0, "シーンをスキップ"] },
             { "code": 119, "indent": 2, "parameters": ["skip"] },
@@ -194,14 +193,7 @@
             { "code": 121, "indent": 0, "parameters": [3, 3, 0] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クリックでコンテニュー"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Click to continue"] },
             { "code": 230, "indent": 0, "parameters": [10] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
             { "code": 121, "indent": 0, "parameters": [3, 3, 1] },
@@ -458,13 +450,17 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（中に笹の葉に包まれたおにぎりがある）"]
+              "parameters": [
+                "(There's a rice ball wrapped in bamboo leaves\ninside.)"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（……少しもらってもいいよね）"]
+              "parameters": [
+                "(...It should be okay to take a little bit,\nright?)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -476,11 +472,12 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『笹の葉に包まれたおにぎり』を手に入れた"]
+              "parameters": [
+                "(You obtained a \"Rice Ball Wrapped in Bamboo\nLeaves\")"
+              ]
             },
             { "code": 126, "indent": 0, "parameters": [65, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },

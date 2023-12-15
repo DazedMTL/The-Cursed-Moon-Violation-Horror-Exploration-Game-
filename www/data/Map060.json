@@ -318,7 +318,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（開かない……）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It won't open...)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -373,104 +373,70 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「巻物だ。ずいぶん古いものみたいだけど……」\\n<雪音>\\F[5]"
+                "\"It's a scroll. It seems quite old...\"\\n<Yukine>\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「雪音おねえちゃん……なにがかいてあるの？」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[5]\\AA[FF]\\FF[22]"]
+              "parameters": ["\\n<Shuo>\\F[5]\\AA[FF]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ちょっと読んでみるね」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[22]"]
+              "parameters": [
+                "\"Let me read it for a bit.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[22]"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#山の社に古き神あり　祠に眠る白き石"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#神体に宿る者　神名を朔華月と云ふ"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "\\#人の願いを映す　昏き月のような性質を宿すゆえに"
+                "In the mountain shrine, there lies an ancient\ndeity, slumbering within a white stone. The being\nthat dwells within is called by the divine name,\nSakuhana Tsuki."
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#捧げられた者は　数え年十にも満たぬ幼子である"]
-            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\#さりとて　触れるべきにあらず　願うべきにあらず"
+                "Because it harbors a nature like the dark moon\nthat reflects people's wishes, those who are\noffered to it are but young children not yet ten\nyears of age."
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#かの神　人の姿を写せど　人の心を知らぬ者なり"]
-            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\#願ってはならぬ　祈ってはならぬ　すがってはならぬ"
+                "Yet one must not touch, must not wish upon, nor\npray to this deity. Though it may mirror the form\nof humans, it knows not the human heart."
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#さもなくば　月の華は禍いに転ずるなり"]
-            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#願わず　祈らず　すがらず　ただ寄り添えば"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#月より降りし孤神より　禍い華は芽吹かぬなり"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#神を祟りに堕してはならぬ"]
-            },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\#神はすがるものに非ず　ゆめゆめ忘れることなかれ"
+                "One must not wish, pray, or depend upon it;\notherwise, the flower of the moon will turn into\ncalamity."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Without wishing, praying, or depending, merely\nstaying close by, the calamity will not sprout\nfrom the solitary deity descended from the moon."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "One must not bring down a curse upon the deity;\nfor a deity is not one to be depended upon. Never\never forget this."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -479,88 +445,59 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「これって……かみさまの、こと？」\\n<朔>\\FF[22]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「そうみたい……"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  朔華月。これが本当の名前なんだね」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[5]\\AA[F]\\FF[22]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「朔が……かみさまに、いのったちゃったから」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[5]\\AA[FF]\\FF[23]"]
+              "parameters": ["\"Is this about... a deity?\"\\n<Shuo>\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「朔は悪くないよ。ううん……ほんとは誰も悪くないんだよ"
+                "\"It seems so... Sakuhana Tsuki. That must be its\ntrue name.\"\\n<Yukine>\\F[5]\\AA[F]\\FF[22]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  ただ、めぐり合わせが……悪かったんだよ」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[7]\\AA[F]\\FF[23]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「かみさま……」"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[7]\\AA[FF]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「いまは考えても仕方ないよ。とにかく先に進んでみよう」"
+                "\"Because Saku... prayed to the deity.\"\\n<Shuo>\\F[5]\\AA[FF]\\FF[23]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[7]\\AA[F]\\FF[23]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「……うん」"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[7]\\AA[FF]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（朔は……朔華月のことも助けたいんだね。私も……うん、"
+                "\"Saku isn't to blame. No... in truth, no one is to\nblame. It was just... unfortunate circumstances.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[23]"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  できることなら……）\\F[1]\\AA[F]\\FF[23]"]
+              "parameters": ["\"Deity...\"\\n<Shuo>\\F[7]\\AA[FF]\\FF[23]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"There's no use thinking about it now. Let's just\nkeep moving forward.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[23]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"...Okay.\"\\n<Shuo>\\F[7]\\AA[FF]\\FF[23]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "(Saku wants to help Sakuhana Tsuki too. I also...\nyes, if there's anything I can do...)\\FF[23]\\F[1]\\AA[F]"
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [238, 238, 0] },
             { "code": 0, "indent": 0, "parameters": [] }

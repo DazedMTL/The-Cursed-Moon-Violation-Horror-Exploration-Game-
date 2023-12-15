@@ -1773,7 +1773,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（……開かない）"] },
+            { "code": 401, "indent": 0, "parameters": ["(...It won't open)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1977,7 +1977,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（開かない……）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It won't open...)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2075,7 +2075,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2340,7 +2340,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2821,7 +2821,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「ひっ！？」\\n<雪音>\\F[15]"]
+              "parameters": ["\"Hik!? \"\\n<Yukine>\\F[15]"]
             },
             { "code": 121, "indent": 1, "parameters": [100, 100, 0] },
             { "code": 122, "indent": 1, "parameters": [3, 3, 0, 0, 37] },
@@ -2832,7 +2832,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["（真っ暗だ……そうだ、たしか拾った灯りが）"]
+              "parameters": [
+                "(It's pitch black... That's right, I picked up a\nlight somewhere...)"
+              ]
             },
             { "code": 117, "indent": 1, "parameters": [20] },
             {
@@ -3001,7 +3003,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3083,7 +3085,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「えっ！」\\n<雪音>\\F[12]"]
+              "parameters": ["\"Eh!\"\\n<Yukine>\\F[12]"]
             },
             {
               "code": 205,
@@ -3141,7 +3143,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ここって……学校の教室、だよね」\\n<雪音>\\F[4]"
+                "\"This place is... a school classroom, right?\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3149,33 +3151,17 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "いきなり目の前に現れたのは『学校』と呼ばれる建物の内側"
+                "Suddenly, what appeared before us was the inside\nof a building called \"school.\"\\F[4]"
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["でした。\\F[4]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "私も十月になると神社の外に出かけるので、この建物のこと"
+                "I also go outside the shrine when October comes,\nso I know about this building. I entered once out\nof curiosity. But I don't understand why the door\nleads to a school.\\F[4]"
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "も知っています。興味本位で一度だけ入ったこともあります。"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "ですがどうして、扉の先が学校に繋がっていたのかわかりま"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["せん。\\F[4]"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -3184,34 +3170,22 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（やっぱり、ここは時間や空間がおかしい。祟りの気配も"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  続いてるから、現世に戻ったわけじゃないんだ）\\F[4]"
+                "(Sure enough, time and space here are strange. The\npresence of the curse continues, so we haven't\nreturned to the real world.)\\F[4]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……」\\n<？？？>\\F[5]\\AA[FF]\\FF[20]"]
+              "parameters": ["\"...\"\\n<???>\\F[5]\\AA[FF]\\FF[20]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「大丈夫。なにがあっても私があなたを守るからね。行こう」"
+                "\"It's okay. No matter what happens, I will protect\nyou. Let's go.\"\\n<Yukine>\\F[4]\\AA[F]\\FF[20]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[4]\\AA[F]\\FF[20]"]
             },
             {
               "code": 356,
@@ -3371,7 +3345,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3913,13 +3887,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ひどい……体がめちゃくちゃにされてる。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  うっ、目も鼻も潰れてて血まみれだ」\\n<雪音>\\F[15]"
+                "\"It's terrible... The body has been completely\nmangled. Ugh, the eyes and nose are crushed, and\nit's covered in blood.\"\\n<Yukine>\\F[15]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -3930,7 +3899,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「傍になにか落ちてる……メモかな」\\n<雪音>\\F[4]"
+                "\"There's something fallen nearby... Maybe it's a\nnote.\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -3938,7 +3907,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["手に触れるな。隠れてやり過ごせ……あれは邪悪な……"]
+              "parameters": [
+                "Do not touch it. Hide and wait it out... That\nthing is evil..."
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [10] },
             { "code": 117, "indent": 0, "parameters": [25] },
@@ -3947,7 +3918,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（この先は血で汚れて見えない）"]
+              "parameters": [
+                "(The rest is obscured by blood and cannot be read)"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [10] },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -4009,7 +3982,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（ひどい死体だ……あんまり見たくない）"]
+              "parameters": [
+                "(It's a gruesome corpse... I don't really want to\nlook at it.)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4447,7 +4422,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「ひっ！？」\\n<雪音>\\F[15]"]
+              "parameters": ["\"Hik!?\"\\n<Yukine>\\F[15]"]
             },
             { "code": 121, "indent": 1, "parameters": [100, 100, 0] },
             { "code": 122, "indent": 1, "parameters": [3, 3, 0, 0, 37] },
@@ -4458,7 +4433,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["（真っ暗だ……そうだ、たしか拾った灯りが）"]
+              "parameters": [
+                "(It's pitch black... That's right, I'm sure I\npicked up a light somewhere...)"
+              ]
             },
             { "code": 117, "indent": 1, "parameters": [20] },
             {
@@ -4749,7 +4726,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「ひっ！？」\\n<雪音>\\F[15]"]
+              "parameters": ["\"Hik!?\"\\n<Yukine>\\F[15]"]
             },
             { "code": 121, "indent": 1, "parameters": [100, 100, 0] },
             { "code": 122, "indent": 1, "parameters": [3, 3, 0, 0, 37] },
@@ -4760,7 +4737,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["（真っ暗だ……そうだ、たしか拾った灯りが）"]
+              "parameters": [
+                "(It's pitch black... That's right, I picked up a\nlight somewhere...)"
+              ]
             },
             { "code": 117, "indent": 1, "parameters": [20] },
             {
@@ -4974,11 +4953,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「……く……どこ？"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  どこに、い……ったの……く……」\\n<女性の幽霊>"]
+              "parameters": [
+                "\"...Where? Where did it... go...?\"\\n<Female Ghost>"
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["namePop 40"] },
             { "code": 230, "indent": 0, "parameters": [10] },
@@ -5045,7 +5025,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（いまの幽霊……奥に気配が続いている）"]
+              "parameters": [
+                "(The presence of the ghost just now... It\ncontinues deeper inside.)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 35] },
@@ -5184,7 +5166,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あれ、なにか落ちてる」\\n<雪音>\\F[5]"]
+              "parameters": [
+                "\"Oh, something's dropped here.\"\\n<Yukine>\\F[5]"
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["MWP_INVALID"] },
             {
@@ -5195,11 +5179,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『きれいな乾電池』を手に入れた"]
+              "parameters": ["\"Obtained a clean battery.\""]
             },
             { "code": 126, "indent": 0, "parameters": [25, 0, 0, 1] },
             { "code": 117, "indent": 0, "parameters": [25] },
@@ -5207,7 +5190,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「これ……なにかに使えるかも」\\n<雪音>\\F[1]"]
+              "parameters": [
+                "\"This... might be useful for something.\"\\n<Yukine>\\F[1]"
+              ]
             },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 36] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -5313,37 +5298,24 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あれ……さっきと雰囲気がぜんぜん違う。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  すごく……イヤな感じがする」\\n<雪音>\\F[10]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「どうしよう……ここ、ものすごく怖い。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  怒り、悲しみ、憎しみ……色んな悪い気持ちが渦巻いてる」\\n<雪音>\\F[10]\\M[no]"
+                "\"Huh... The atmosphere is completely different\nfrom before. It feels really... unpleasant.\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うううっ、空気が……重い。"]
+              "parameters": [
+                "\"What should I do... This place is incredibly\nscary. Anger, sadness, hatred... all sorts of bad\nfeelings are swirling around.\"\\n<Yukine>\\F[10]\\M[no]"
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  息が苦しい……でも、あの女の子を助けなきゃ」\\n<雪音>\\F[10]"
+                "\"Ugh, the air is... heavy. It's hard to breathe...\nBut I have to save that girl.\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -5634,28 +5606,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「わわっ、びっくりした！」\\n<雪音>\\F[16]"]
+              "parameters": ["\"Wow, you startled me!\"\\n<Yukine>\\F[16]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「さま、た……て、さ……を、……けて」\\n<女性の幽霊>\\F[16]\\AA[N]"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「え、えっと……さっきの幽霊さんだよね。"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["  あのどうしたの？"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  私に……なにか伝えたいことがあるの？」\\n<雪音>\\F[12]"
+                "\"Please... help... me...\"\\n<Female Ghost>\\F[16]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5663,7 +5621,15 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「か……さま、……これ……を……うけと……て」\\n<女性の幽霊>\\F[12]\\AA[N]"
+                "\"Um, you're the ghost from before, right? What\nhappened? Do you have something you want to tell\nme?\"\\n<Yukine>\\F[12]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Please... take... this...\"\\n<Female Ghost>\\F[12]\\AA[N]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -5675,11 +5641,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『人形の胴体』を手に入れた"]
+              "parameters": ["\"Obtained the Doll's Torso\""]
             },
             { "code": 126, "indent": 0, "parameters": [30, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -5688,19 +5653,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「え、これって……お人形のからだ？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  どうして、私に……？」\\n<雪音>\\F[8]"]
+              "parameters": [
+                "\"Eh, is this... a doll's body? Why give it to\nme...?\"\\n<Yukine>\\F[8]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「おね……い。さく……たす……て、くだ……い」\\n<女性の幽霊>\\F[8]\\AA[N]"
+                "\"Please... help... complete it...\"\\n<Female Ghost>\\F[8]\\AA[N]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -5785,7 +5747,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「消えちゃった……成仏したわけじゃなさそうだけど……」\\n<雪音>\\F[8]"
+                "\"She disappeared... It doesn't seem like she\npassed on though...\"\\n<Yukine>\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5793,24 +5755,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「これって、なんだろう。お人形みたいだけど……腕も、足"
+                "\"What is this, I wonder. It looks like a doll...\nbut it's missing arms, legs, and a head...\"\\n<Yukine>\\F[8]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  も、頭もないし……」\\n<雪音>\\F[8]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「イヤな感じはしないけど……うーん、胴体だけだし、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  ちょっと不気味かも……」\\n<雪音>\\F[8]"]
+              "parameters": [
+                "\"It doesn't feel unpleasant... but hmm, just a\ntorso is kind of creepy...\"\\n<Yukine>\\F[8]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 7, true] },
@@ -5820,13 +5774,8 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「よく分かんないけど、大事なものみたいだし……大切に"
+                "\"I don't really understand, but it seems\nimportant... I'll take good care of it.\"\\n<Yukine>\\F[1]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  もっておこう」\\n<雪音>\\F[1]"]
             },
             { "code": 121, "indent": 0, "parameters": [120, 120, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5947,7 +5896,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -6033,7 +5982,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -6166,18 +6115,13 @@
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\#Tips"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#左下のライトマークのボタンをクリックすると"]
+              "parameters": [
+                "\\FFFF[52]Tips: You can turn the light on and off by\nclicking the button with the light mark in the\nbottom left."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#ライトのON/OFFを切り替えることができます"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\FFFF[52]"] },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },
             { "code": 121, "indent": 0, "parameters": [102, 102, 0] },

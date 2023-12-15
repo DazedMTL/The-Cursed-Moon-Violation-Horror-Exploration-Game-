@@ -473,30 +473,23 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「こんなところに手紙が……この匂いは……」"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[4]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「……もしかして、知ってるひとなの？」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[4]\\AA[FF]\\FF[22]"]
+              "parameters": [
+                "\"A letter in such a place... this scent is...\"\\n<Yukine>\\F[4]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「違うと思いたいけど……読んでみるね」"]
+              "parameters": ["\\n<Shuo>\\F[4]\\AA[FF]\\FF[22]"]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<雪音>\\F[4]\\AA[F]\\FF[22]"]
+              "parameters": [
+                "\"I want to think it's not, but... I'll read it.\"\\n<Yukine>\\F[4]\\AA[F]\\FF[22]"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -504,101 +497,48 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "祟り神の祓除を試みた　数百年の祟りはすさまじく　ほとん"
+                "The curse of the calamity god that we tried to\nexorcise is tremendous, having lasted for hundreds\nof years, and nearly all the sacred treasures have\nbeen destroyed. The power of the calamitous moon\nis stronger than imagined; it's no wonder even the\nhigh monks could not succeed. Although we felt a\nresponse in diminishing its power, it's uncertain\nif we can expect any further results."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "どの神具が壊れてしまった　想像以上に朔禍月の力は強い"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "高僧たちが叶わないわけだ　力を削いだ手応えはあったけど"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["これ以上の成果は見込めるかは分からない"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "もう彷徨う霊たちを浄化して　その力を借りる計画は諦める"
+                "It seems I have no choice but to give up on the\nplan to purify the wandering spirits and borrow\ntheir power. My one leg has been contaminated by\nthe curse, and it appears I no longer have the\nstrength to even patrol the mansion."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "しかない　片足を呪いで汚染された私には　屋敷を巡るだけ"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["の力は残っていないみたい"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "ここを訪れてからも多くの霊能者が挑んだようだけど　みな"
+                "Since my arrival here, many psychics have\nchallenged it, but all were swallowed by the curse\nof the calamitous moon before they could free the\nspirits."
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "霊たちを解放する間もなく　朔禍月の呪いに飲み込まれてし"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["まった"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "だけど諦めるわけにはいかない　あの子の元に帰るって約束"
+                "But I can't give up. I promised that child I would\nreturn. If we can save the shrine maiden, who is\nthe key to the curse, there must still be hope."
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "したんだ　祟りの要である巫女を助けることができれば　ま"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["だ希望はあるはず"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "あの子はまだ幼い　こんなところに囚われていちゃいけない"
+                "That child is still young; she shouldn't be\ntrapped in a place like this. I pray that the\nmother of the shrine maiden, who passed on her\nspiritual power, will carry my voice \"outside.\""
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "霊力を渡した巫女の母親が　私の声を『外』に届けてくれる"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["ことを祈ろう"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["雪音　どうか待ってて　きっと帰るから"]
+              "parameters": [
+                "Yukine, please wait for me, I will surely return."
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },
@@ -606,67 +546,47 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「おねえちゃん、この手紙って」"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\n<朔>\\FF[23]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「うん……私がまだ、神様になる前……大切にしてくれた人」"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[10]\\AA[F]\\FF[23]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「おねえちゃんの……おねえちゃんなの？」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[10]\\AA[FF]\\FF[28]"]
+              "parameters": ["\"Onee-san, this letter...\"\\n<Shuo>\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「そうだね……もう何百年も前かな。私に名前を付けてくれ"
+                "\"Yes... Before I became a goddess... someone who\ncherished me.\"\\n<Yukine>\\F[10]\\AA[F]\\FF[23]"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  た人だよ」\\n<雪音>\\F[7]\\AA[F]\\FF[28]"]
+              "parameters": [
+                "\"Onee-san's... Onee-san?\"\\n<Shuo>\\F[10]\\AA[FF]\\FF[28]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「じゃあ、さがさないと」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[7]\\AA[FF]\\FF[43]"]
+              "parameters": [
+                "\"That's right... It must have been hundreds of\nyears ago. The person who gave me my name.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[28]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うん……探してみようか。無事だといいけど」"]
+              "parameters": [
+                "\"Then, we have to search for them.\"\\n<Shuo>\\F[7]\\AA[FF]\\FF[43]"
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<雪音>\\F[7]\\AA[F]\\FF[43]"]
+              "parameters": [
+                "\"Yes... Let's try looking. I hope they're safe.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[43]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -675,12 +595,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うん……希望は捨てたらダメだよね」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[43]"]
+              "parameters": [
+                "\"Yes... We mustn't give up hope.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[43]"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

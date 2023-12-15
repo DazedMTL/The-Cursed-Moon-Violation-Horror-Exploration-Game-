@@ -312,13 +312,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（なにか机に紙が入っている）"]
+              "parameters": [
+                "(There's something inside the desk... a piece of\npaper)"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（手紙だ……なにが書いてあるんだろう）"]
+              "parameters": ["(It's a letter... I wonder what it says)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -326,38 +328,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ねえ……あのおまじない知ってる？"]
+              "parameters": ["Hey... do you know about that charm?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "中庭の壁に深夜二時、血で願い事を書くと願いごとが叶うん"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["だって"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "むかし、ピアノが上手だった女の子がずっとピアノが引ける"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ように願ったんだって"]
+              "parameters": ["She wished for it to happen"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "そしたら、ホントに願いがかなって今もピアノを引き続けて"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["いるらしいよ"] },
+            { "code": 401, "indent": 0, "parameters": ["It seems to exist"] },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },
             { "code": 117, "indent": 0, "parameters": [19] },
@@ -365,7 +345,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（もう一枚ある。こっちは筆跡が違うみたい）"]
+              "parameters": [
+                "(There's another piece. This one has different\nhandwriting)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -374,15 +356,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "待って、それって学校の怪談の『月光のピアニスト』のこと"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["でしょ"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "天才っていわれてた女の子が自殺しちゃった話じゃないの？"
+                "Isn't that the story about the girl who was called\na genius and then committed suicide?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -390,19 +364,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "その子、自殺するときに三人もクライメイトを巻き込んで"
+                "I don't want to do such a thing just to have my\nwish granted"
               ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["飛び降りたんでしょ"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["願いを叶えるために、そんなことしたくないよ"]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（……）\\F[10]"] },
+            { "code": 401, "indent": 0, "parameters": ["(...)\\F[10]"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 4,
@@ -465,20 +433,26 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ボ、ク……と……付、き合って……ください」\\n<男性の幽霊>"
+                "\"Please... go out... with me...\"\\n<Male Ghost>"
               ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["考えさせて", "いいえ"], -1, -1, 1, 1]
+              "parameters": [
+                ["Please let me think about it", "No"],
+                -1,
+                -1,
+                1,
+                1
+              ]
             },
             { "code": 402, "indent": 0, "parameters": [0, "考えさせて"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「あ、あ……待って、る……」\\n<男性の幽霊>"]
+              "parameters": ["\"Ah, ah... wait...ing...\"\\n<Male Ghost>"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "いいえ"] },
@@ -488,7 +462,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "「お……オ、マエ、を……犯し、て……ヤル……」\\n<男性の幽霊>"
+                "\"I... I will... violate... you...\"\\n<Male Ghost>"
               ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -497,7 +471,7 @@
             {
               "code": 102,
               "indent": 2,
-              "parameters": [["シーンをスキップ", "シーンを見る"], -1, -1, 1, 1]
+              "parameters": [["Scene Skip", "<View the scene>"], -1, -1, 1, 1]
             },
             { "code": 402, "indent": 2, "parameters": [0, "シーンをスキップ"] },
             { "code": 119, "indent": 3, "parameters": ["skip"] },
@@ -518,14 +492,7 @@
             { "code": 121, "indent": 1, "parameters": [3, 3, 0] },
             { "code": 121, "indent": 1, "parameters": [40, 40, 0] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 1, "parameters": [""] },
-            { "code": 401, "indent": 1, "parameters": [""] },
-            { "code": 401, "indent": 1, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["クリックでコンテニュー"]
-            },
+            { "code": 401, "indent": 1, "parameters": ["Click to continue"] },
             { "code": 230, "indent": 1, "parameters": [10] },
             { "code": 121, "indent": 1, "parameters": [40, 40, 1] },
             { "code": 121, "indent": 1, "parameters": [3, 3, 1] },
@@ -1034,7 +1001,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（からっぽだ）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It's empty)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1098,7 +1065,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（鍵だ。どこかで使えそうだ）"]
+              "parameters": [
+                "(It's a key. It looks like it could be used\nsomewhere.)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -1110,11 +1079,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『錆びた鉄の鍵』を手に入れた"]
+              "parameters": ["(You obtained the \"Rusty Iron Key.\")"]
             },
             { "code": 126, "indent": 0, "parameters": [32, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -1174,7 +1142,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（他に役に立ちそうなものはないかな）"]
+              "parameters": [
+                "(I wonder if there's anything else that might be\nuseful)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }

@@ -449,12 +449,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["綺麗な手毬が置いてある。"]
+              "parameters": ["A beautiful temari ball is placed here."]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["そのままにしておく", "触ってみる"], 0, 0, 2, 0]
+              "parameters": [
+                ["Leave it as it is", "<Touch it>Touch it</Touch it>"],
+                0,
+                0,
+                2,
+                0
+              ]
             },
             {
               "code": 402,
@@ -470,7 +476,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["振れた瞬間手毬が割れた。"]
+              "parameters": ["The moment it was swung, the temari ball broke."]
             },
             { "code": 115, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -625,7 +631,11 @@
               "parameters": [{ "code": 15, "parameters": [30], "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["手毬が動き出した。"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["The temari ball started to move."]
+            },
             {
               "code": 205,
               "indent": 0,
@@ -797,12 +807,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そして飛び回り、あっと思ったときには顔にすごい"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["衝撃が走り、なにも見えなくなった。"]
+              "parameters": [
+                "Then it flew around, and before I knew it, a\ntremendous impact hit my face, and I couldn't see\nanything."
+              ]
             },
             { "code": 354, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -900,17 +907,19 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["台座の上に３つの白い石が置いてある。"]
+              "parameters": [
+                "There are three white stones placed on the\npedestal."
+              ]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
                 [
-                  "そのままにする",
-                  "石を１つ取る",
-                  "石を２つ取る",
-                  "石を３つ取る"
+                  "Leave it as it is",
+                  "Take one of the stones",
+                  "Take two stones",
+                  "Take all three stones"
                 ],
                 0,
                 0,
@@ -924,17 +933,21 @@
             { "code": 402, "indent": 0, "parameters": [1, "石を１つ取る"] },
             { "code": 122, "indent": 1, "parameters": [12, 12, 0, 0, 1] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["石を１つ取った。"] },
+            { "code": 401, "indent": 1, "parameters": ["I took one stone."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "石を２つ取る"] },
             { "code": 122, "indent": 1, "parameters": [12, 12, 0, 0, 2] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["石を２つ取った。"] },
+            { "code": 401, "indent": 1, "parameters": ["I took two stones."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "石を３つ取る"] },
             { "code": 122, "indent": 1, "parameters": [12, 12, 0, 0, 3] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["石を３つ取った。"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["I took three stones."]
+            },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 117, "indent": 0, "parameters": [3] },
@@ -988,7 +1001,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["石を全部戻してみた。"]
+              "parameters": ["I tried putting all the stones back."]
             },
             { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 0] },
             { "code": 123, "indent": 0, "parameters": ["A", 1] },
@@ -1087,19 +1100,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["台座の上に５つの赤い石が置いてある。"]
+              "parameters": [
+                "There are five red stones placed on the pedestal."
+              ]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
                 [
-                  "そのままにする",
-                  "石を１つ取る",
-                  "石を２つ取る",
-                  "石を３つ取る",
-                  "石を４つ取る",
-                  "石を５つ取る"
+                  "Leave it as it is",
+                  "Take one of the stones",
+                  "Take two stones",
+                  "Take three stones",
+                  "Take four stones",
+                  "Take all five stones"
                 ],
                 0,
                 0,
@@ -1113,27 +1128,47 @@
             { "code": 402, "indent": 0, "parameters": [1, "石を１つ取る"] },
             { "code": 122, "indent": 1, "parameters": [11, 11, 0, 0, 1] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["石を１つ取った。"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["One stone was taken."]
+            },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "石を２つ取る"] },
             { "code": 122, "indent": 1, "parameters": [11, 11, 0, 0, 2] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["石を２つ取った。"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Two stones were taken."]
+            },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "石を３つ取る"] },
             { "code": 122, "indent": 1, "parameters": [11, 11, 0, 0, 3] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["石を３つ取った。"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Three stones were taken."]
+            },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [4, "石を４つ取る"] },
             { "code": 122, "indent": 1, "parameters": [11, 11, 0, 0, 4] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["石を４つ取った。"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Four stones were taken."]
+            },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [5, "石を５つ取る"] },
             { "code": 122, "indent": 1, "parameters": [11, 11, 0, 0, 5] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["石を５つ取った。"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["All five stones were taken."]
+            },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 117, "indent": 0, "parameters": [3] },
@@ -1187,7 +1222,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["石を全部戻してみた。"]
+              "parameters": ["I tried putting all the stones back."]
             },
             { "code": 122, "indent": 0, "parameters": [11, 11, 0, 0, 0] },
             { "code": 123, "indent": 0, "parameters": ["A", 1] },
@@ -1286,13 +1321,19 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["台座の上に２つの白い石が置いてある。"]
+              "parameters": [
+                "There are two white stones placed on the pedestal."
+              ]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["そのままにする", "石を１つ取る", "石を２つ取る"],
+                [
+                  "Leave them as they are",
+                  "Take one of the stones",
+                  "Take both stones"
+                ],
                 0,
                 0,
                 2,
@@ -1305,12 +1346,12 @@
             { "code": 402, "indent": 0, "parameters": [1, "石を１つ取る"] },
             { "code": 122, "indent": 1, "parameters": [13, 13, 0, 0, 1] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["石を１つ取った。"] },
+            { "code": 401, "indent": 1, "parameters": ["I took one stone."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "石を２つ取る"] },
             { "code": 122, "indent": 1, "parameters": [13, 13, 0, 0, 2] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["石を２つ取った。"] },
+            { "code": 401, "indent": 1, "parameters": ["I took two stones."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 117, "indent": 0, "parameters": [3] },
@@ -1364,7 +1405,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["石を全部戻してみた。"]
+              "parameters": ["I tried putting all the stones back."]
             },
             { "code": 122, "indent": 0, "parameters": [13, 13, 0, 0, 0] },
             { "code": 123, "indent": 0, "parameters": ["A", 1] },
@@ -1463,17 +1504,19 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["台座の上に３つの赤い石が置いてある。"]
+              "parameters": [
+                "There are three red stones placed on the pedestal."
+              ]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
                 [
-                  "そのままにする",
-                  "石を１つ取る",
-                  "石を２つ取る",
-                  "石を３つ取る"
+                  "Leave it as it is",
+                  "Take one of the stones",
+                  "Take two stones",
+                  "Take all three stones"
                 ],
                 0,
                 0,
@@ -1487,17 +1530,21 @@
             { "code": 402, "indent": 0, "parameters": [1, "石を１つ取る"] },
             { "code": 122, "indent": 1, "parameters": [14, 14, 0, 0, 1] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["石を１つ取った。"] },
+            { "code": 401, "indent": 1, "parameters": ["I took one stone."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "石を２つ取る"] },
             { "code": 122, "indent": 1, "parameters": [14, 14, 0, 0, 2] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["石を２つ取った。"] },
+            { "code": 401, "indent": 1, "parameters": ["I took two stones."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "石を３つ取る"] },
             { "code": 122, "indent": 1, "parameters": [14, 14, 0, 0, 3] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["石を３つ取った。"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["I took three stones."]
+            },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 117, "indent": 0, "parameters": [3] },
@@ -1551,7 +1598,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["石を全部戻してみた。"]
+              "parameters": ["I tried putting all the stones back."]
             },
             { "code": 122, "indent": 0, "parameters": [14, 14, 0, 0, 0] },
             { "code": 123, "indent": 0, "parameters": ["A", 1] },
@@ -1651,7 +1698,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "朝にピカピカお日様ひとつ　お父様、おはようございます"
+                "Good morning, Father, with the bright sun shining\nthis morning."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1709,7 +1756,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["夕焼け色にお日様1つ　水面にキラキラお日様２つ"]
+              "parameters": [
+                "One sun in the color of the sunset, two sparkling\nsuns on the water surface"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1767,7 +1816,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "お空にぽっかりお月さま一つ　それみてハネるおさかな１つ"
+                "A single moon floats in the sky, and seeing it, a\nsingle fish leaps"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1825,7 +1874,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お月さま沈んで夜空に　お山でわんこがワンワンワン"]
+              "parameters": [
+                "The moon sets, and in the night sky over the\nmountain, a puppy goes bark, bark, bark"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

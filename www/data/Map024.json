@@ -498,7 +498,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -622,13 +622,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["『江戸期の霊能力者と民話』"]
+              "parameters": ["\"Edo Period Spirit Mediums and Folktales\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「えっと……」\\n<雪音>\\F[5]"]
+              "parameters": ["\"Um...\"\\n<Yukine>\\F[5]"]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -636,105 +636,47 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "複数の資料によれば江戸時代の初期には若い女霊能力者が"
+                "According to multiple sources, in the early Edo\nperiod, there were young female spirit mediums who\ntraveled from place to place, subduing harmful\nmononoke and strange apparitions."
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "各地を行脚し、人を害するモノノケや怪異を調伏したと"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["記述がある。"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "彼女に関する資料は多岐にわたり、実在を確証づける資料が"
+                "The records concerning her are extensive, with\nevidence of her existence even found in the\narchives of feudal lords. It's clear that she was\nnot merely a figure of folklore or fairy tales,\nyet her true nature remains enigmatic."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大名の記録にも残っている。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "彼女の存在が民間伝承や昔話の類ではないのは明らかだろう。"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それでいて、その実態はひどく曖昧だ。"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["曰く、白い髪を有する若く美しい巫女であること"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["曰く、都を騒がす怪鳥を一太刀で鎮めしほどの手練で"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["あること"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "曰く、幼子を祟る霊を払い、病に伏す童の看病をするほど"
+                "It is said that she was a young and beautiful\nshrine maiden with white hair, skilled enough to\ncalm a mysterious bird that disturbed the capital\nwith a single stroke of her blade."
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["子供を愛すること"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["曰く、何故か小さな神社を活動の拠点とし、長くは"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["離れなかったこと"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "曰く、多くの人を救いながら、その名すら伝わっていない"
+                "It is said that she loved children enough to\nexorcise spirits that cursed infants and to care\nfor sick children, and for some reason, she used a\nsmall shrine as her base of operations and rarely\nleft it."
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["こと"] },
-            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["曰く、ある時を境に忽然と旅の痕跡を消したこと"]
+              "parameters": [
+                "It is said that while she saved many people, her\nname has not been passed down, and at some point,\nshe suddenly vanished without a trace."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そのどれもが私の興味を惹きつけて離さない。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["彼女は何者だったのか。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私はこれからも研究を続けていくつもりだ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "　　　　　　　　　　　　　　　　　　　著・大迫英次郎"
+                "All of these aspects draw my interest inexorably.\nWho was she? I intend to continue my research.\nAuthored by Eijiro Osako."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -743,26 +685,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「これって……」\\n<雪音>\\F[4]"]
+              "parameters": ["\"Could this be...\"\\n<Yukine>\\F[4]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……」\\n<朔>\\F[4]\\AA[FF]\\FF[20]"]
+              "parameters": ["\"...\"\\n<Shuo>\\F[4]\\AA[FF]\\FF[20]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（ううん……いまは、本を気にしてる場合じゃないよね）"
+                "\\F[7](No... now's not the time to be concerned about\nthe book.)\\AA[F]\\FF[20]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\F[7]\\AA[F]\\FF[20]"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -904,19 +841,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（小さな日本人形が机に置かれている）"]
+              "parameters": ["(A small Japanese doll is placed on the desk.)"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（私が持っている人形とは別の種類のようだ）"]
+              "parameters": [
+                "(It seems to be a different kind of doll than the\none I have.)"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（……あれ、首にホクロがある）"]
+              "parameters": ["(...Huh, there's a mole on its neck.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -972,25 +911,20 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あなたはだぁれ？」\\n<人形>"]
+              "parameters": ["\"Who are you?\"\\n<Doll>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「え……えっと？」\\n<雪音>\\F[12]"]
+              "parameters": ["\"Uh... um?\"\\n<Yukine>\\F[12]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「あなたは、ほんをよんでくれるひと？"]
-            },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  おねえちゃんみたいに、ほんをよんでくれる？」\\n<人形>\\F[12]\\AA[FF]"
+                "\"Are you someone who will read to me? Like an\nolder sister, will you read to me?\"\\n<Doll>\\F[12]\\AA[FF]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -998,7 +932,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「なにか本を……読んでほしいの？」\\n<雪音>\\F[5]"
+                "\"Do you want me to read something... to you?\"\\n<Yukine>\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1006,27 +940,22 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「うん。たのしいおはなしが、すきなの」\\n<人形>\\F[5]\\AA[FF]"
+                "\"Yes. I like fun stories.\"\\n<Doll>\\F[5]\\AA[FF]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（なにか本を読んであげたらいいのかな）\\F[5]"]
+              "parameters": ["(Should I read her a book, I wonder.)\\F[5]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（うーん……ここには本はたくさんあるけど、なにを読んで"
+                "(Hmm... There are lots of books here, but what\nshould I read to her?)\\F[8]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  あげたらいいかな）\\F[8]"]
             },
             {
               "code": 356,
@@ -1103,17 +1032,24 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「ほん、よんで。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  おねがい、ほん、よんで」\\n<人形>"]
+              "parameters": [
+                "\"Read the book. Please, read the book.\"\\n<Doll>"
+              ]
             },
             { "code": 111, "indent": 0, "parameters": [8, 33] },
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["本を読んであげる", "何もしない"], 1, 0, 1, 1]
+              "parameters": [
+                ["I'll read the book for you", "Do nothing"],
+                1,
+                0,
+                1,
+                1
+              ]
             },
             { "code": 402, "indent": 1, "parameters": [0, "本を読んであげる"] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -1121,10 +1057,9 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "「おもしろーい。ねえ、もっとよんで……もっと、えほんを"
+                "\"Interesting. Hey, read more... read more of the\npicture book.\"\\n<Doll>"
               ]
             },
-            { "code": 401, "indent": 2, "parameters": ["  よんで」\\n<人形>"] },
             { "code": 117, "indent": 2, "parameters": [32] },
             { "code": 121, "indent": 2, "parameters": [128, 128, 0] },
             { "code": 122, "indent": 2, "parameters": [21, 21, 1, 0, 1] },
@@ -1140,16 +1075,21 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["本を読んであげる", "何もしない"], 1, 0, 1, 1]
+              "parameters": [
+                ["Read the book to her", "I won't do anything"],
+                1,
+                0,
+                1,
+                1
+              ]
             },
             { "code": 402, "indent": 1, "parameters": [0, "本を読んであげる"] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["「おもしろーい。"] },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "  ねえ、もっとよんで……もっと、えほんをよんで」\\n<人形>"
+                "\"Interesting. Hey, read more... read more of the\npicture book.\"\\n<Doll>"
               ]
             },
             { "code": 117, "indent": 2, "parameters": [32] },
@@ -1167,16 +1107,21 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["本を読んであげる", "何もしない"], 1, 0, 1, 1]
+              "parameters": [
+                ["I'll read the book for you", "I won't do anything"],
+                1,
+                0,
+                1,
+                1
+              ]
             },
             { "code": 402, "indent": 1, "parameters": [0, "本を読んであげる"] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["「おもしろーい。"] },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "  ねえ、もっとよんで……もっと、えほんをよんで」\\n<人形>"
+                "\"Interesting. Hey, read more... read more of the\npicture book.\"\\n<Doll>"
               ]
             },
             { "code": 117, "indent": 2, "parameters": [32] },
@@ -1194,16 +1139,21 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["本を読んであげる", "何もしない"], 1, 0, 1, 1]
+              "parameters": [
+                ["I'll read the book for you", "I won't do anything"],
+                1,
+                0,
+                1,
+                1
+              ]
             },
             { "code": 402, "indent": 1, "parameters": [0, "本を読んであげる"] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["「おもしろーい。"] },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "  ねえ、もっとよんで……もっと、えほんをよんで」\\n<人形>"
+                "\"Interesting. Hey, read more... read more of the\npicture book.\"\\n<Doll>"
               ]
             },
             { "code": 117, "indent": 2, "parameters": [32] },
@@ -1221,7 +1171,13 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["本を読んであげる", "何もしない"], 1, 0, 1, 1]
+              "parameters": [
+                ["Okay, I'll read the book to you", "I won't do anything"],
+                1,
+                0,
+                1,
+                1
+              ]
             },
             { "code": 402, "indent": 1, "parameters": [0, "本を読んであげる"] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -1229,7 +1185,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "「そのほん、きらい……たのしいほんがいい」\\n<人形>"
+                "\"I don't like that book... I want a fun book.\"\\n<Doll>"
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -1244,7 +1200,13 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["本を読んであげる", "何もしない"], 1, 0, 1, 1]
+              "parameters": [
+                ["I'll read you a book", "I won't do anything"],
+                1,
+                0,
+                1,
+                1
+              ]
             },
             { "code": 402, "indent": 1, "parameters": [0, "本を読んであげる"] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -1252,7 +1214,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "「そのほん、きらい……たのしいほんがいい」\\n<人形>"
+                "\"I don't like that book... I want a fun book.\"\\n<Doll>"
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -1267,7 +1229,13 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["本を読んであげる", "何もしない"], 1, 0, 1, 1]
+              "parameters": [
+                ["I'll read you a book", "I won't do anything"],
+                1,
+                0,
+                1,
+                1
+              ]
             },
             { "code": 402, "indent": 1, "parameters": [0, "本を読んであげる"] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -1275,7 +1243,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "「そのほん、きらい……たのしいほんがいい」\\n<人形>"
+                "\"I don't like that book... I want a fun book.\"\\n<Doll>"
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -1290,7 +1258,7 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["本を読んであげる", "何もしない"], 1, 0, 1, 1]
+              "parameters": [["I'll read you a book", "Do nothing"], 1, 0, 1, 1]
             },
             { "code": 402, "indent": 1, "parameters": [0, "本を読んであげる"] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -1298,7 +1266,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "「そのほん、きらい……たのしいほんがいい」\\n<人形>"
+                "\"I don't like that book... I want a fun book.\"\\n<Doll>"
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -1358,11 +1326,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「ほん、よんで。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  おねがい、ほん、よんで」\\n<人形>"]
+              "parameters": [
+                "\"Read the book. Please, read the book.\"\\n<Doll>"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1419,58 +1388,53 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あなたは絵本が好きなの？」\\n<うさぎ>"]
+              "parameters": ["\"Do you like picture books?\"\\n<Rabbit>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うん。ほん、すきだよ」\\n<人形>"]
+              "parameters": ["\"Yeah. I like books.\"\\n<Doll>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「じゃあ、私が本を読んであげるわ」\\n<うさぎ>"]
+              "parameters": ["\"Then, I'll read a book for you.\"\\n<Rabbit>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ほんとに？」\\n<人形>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「ええ、ずっと好きな本を読んであげるわ」\\n<うさぎ>"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「私とずっといっしょにいてくれる？」\\n<人形>"]
+              "parameters": ["\"Really?\"\\n<Doll>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ええ、もちろんよ。たくさん読んであげるわね、私たくさ"
+                "\"Yes, I'll always read your favorite books to\nyou.\"\\n<Rabbit>"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  ん知ってるのよ」\\n<うさぎ>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（これで、よかったのかな）\\F[1]"]
+              "parameters": ["\"Will you stay with me forever?\"\\n<Doll>"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Of course. I'll read lots to you, I know so\nmany.\"\\n<Rabbit>"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["(Is this okay, I wonder?)\\F[1]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -1486,7 +1450,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「あれ？　いま、どこかで音が……」\\n<雪音>\\F[5]"
+                "\"Huh? Did I just hear a sound somewhere...?\"\\n<Yukine>\\F[5]"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [133, 133, 0] },
@@ -1554,7 +1518,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（人形は朗読を聞いている）"]
+              "parameters": ["(The doll is listening to the reading)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1610,19 +1574,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#人形から気配は失われている。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#そばにいる、うさぎも動かない。"]
-            },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "\\#ただ、どことなく人形もうさぎも幸せそうにみえる。"
+                "Somehow, both the doll and the rabbit seem to look\nhappy."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -1689,14 +1642,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（壁に穴が空いてる）"]
+              "parameters": ["(There's a hole in the wall)"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（小さな穴はとても通れそうにないけど……なにかの気配を感じる）"
+                "(The small hole doesn't look like something I\ncould pass through... but I sense something on the\nother side)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -1802,28 +1755,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["妹を探しています。名前・御城ユウミ（７歳）"]
+              "parameters": [
+                "I'm looking for my little sister. Name: Miyashiro\nYuumi (7 years old). She went missing in the\nlibrary. She has a bob haircut and a mole on her\nneck. She likes picture books."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["図書室で行方不明になりました。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おかっぱ髪で首にホクロがあります。"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["絵本が好きです。"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["見かけたら四年二組の御城サナエと警察まで"]
+              "parameters": [
+                "If you see her, please contact Miyashiro Sanae\nfrom fourth grade class two or the police. June\n1995"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": ["1995年6月"] },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1890,7 +1833,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "（【つりばしをわたって】と書かれた本が置かれてる）"
+                "(A book titled \"Crossing the Suspension Bridge\" is\nplaced here)"
               ]
             },
             { "code": 117, "indent": 1, "parameters": [20] },
@@ -1936,12 +1879,12 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（これ以上本を持てない）"]
+              "parameters": ["(I can't carry any more books)"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["本を戻す", "なにもしない"], 1, 0, 1, 1]
+              "parameters": [["Put the books back", "Do nothing"], 1, 0, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "本を戻す"] },
             { "code": 230, "indent": 1, "parameters": [20] },
@@ -1962,14 +1905,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（【つりばしをわたって】と書かれた本が置かれてる）"
+                "(A book titled \"Crossing the Suspension Bridge\" is\nplaced here)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["本を手に取る", "なにもしない"], 1, 0, 1, 1]
+              "parameters": [["<Pick up the book>", "Do nothing"], 1, 0, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "本を手に取る"] },
             { "code": 117, "indent": 1, "parameters": [24] },
@@ -1981,11 +1924,10 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": [""] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\#『つりばしをわたって』を手に入れた"]
+              "parameters": ["Acquired \"Crossing the Suspension Bridge\""]
             },
             { "code": 126, "indent": 1, "parameters": [33, 0, 0, 1] },
             { "code": 230, "indent": 1, "parameters": [20] },
@@ -2138,7 +2080,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["（【おうさまのしっぽ】と書かれた本が置かれてる）"]
+              "parameters": [
+                "(A book titled \"The King's Tail\" is placed here)"
+              ]
             },
             { "code": 117, "indent": 1, "parameters": [20] },
             { "code": 119, "indent": 1, "parameters": ["skip2"] },
@@ -2183,12 +2127,12 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（これ以上本を持てない）"]
+              "parameters": ["(I can't carry any more books)"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["本を戻す", "なにもしない"], 1, 0, 1, 1]
+              "parameters": [["Put the books back", "Do nothing"], 1, 0, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "本を戻す"] },
             { "code": 230, "indent": 1, "parameters": [20] },
@@ -2208,13 +2152,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（【おうさまのしっぽ】と書かれた本が置かれてる）"]
+              "parameters": [
+                "(A book titled \"The King's Tail\" is placed here)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["本を手に取る", "なにもしない"], 1, 0, 1, 1]
+              "parameters": [["<Pick up the book>", "Do nothing"], 1, 0, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "本を手に取る"] },
             { "code": 117, "indent": 1, "parameters": [24] },
@@ -2226,11 +2172,10 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": [""] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\#『おうさまのしっぽ』を手に入れた"]
+              "parameters": ["Obtained \"The King's Tail\""]
             },
             { "code": 126, "indent": 1, "parameters": [35, 0, 0, 1] },
             { "code": 230, "indent": 1, "parameters": [20] },
@@ -2383,7 +2328,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["（【うたうおひめさま】と書かれた本が置かれてる）"]
+              "parameters": [
+                "(A book titled \"The Singing Princess\" is placed\nhere.)"
+              ]
             },
             { "code": 117, "indent": 1, "parameters": [20] },
             { "code": 119, "indent": 1, "parameters": ["skip2"] },
@@ -2428,12 +2375,12 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（これ以上本を持てない）"]
+              "parameters": ["(I can't carry any more books.)"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["本を戻す", "なにもしない"], 1, 0, 1, 1]
+              "parameters": [["Put the books back", "Do nothing"], 1, 0, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "本を戻す"] },
             { "code": 230, "indent": 1, "parameters": [20] },
@@ -2453,13 +2400,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（【うたうおひめさま】と書かれた本が置かれてる）"]
+              "parameters": [
+                "(A book titled \"The Singing Princess\" is placed\nhere.)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["本を手に取る", "なにもしない"], 1, 0, 1, 1]
+              "parameters": [["<Pick up the book>", "Do nothing"], 1, 0, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "本を手に取る"] },
             { "code": 117, "indent": 1, "parameters": [24] },
@@ -2471,11 +2420,10 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": [""] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\#『うたうおひめさま』を手に入れた"]
+              "parameters": ["(\"The Singing Princess\" has been obtained.)"]
             },
             { "code": 126, "indent": 1, "parameters": [34, 0, 0, 1] },
             { "code": 230, "indent": 1, "parameters": [20] },
@@ -2629,7 +2577,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "（【ちょこれーとのおうじさま】と書かれた本が置かれてる）"
+                "(A book titled \"The Chocolate Prince\" is placed\nhere)"
               ]
             },
             { "code": 117, "indent": 1, "parameters": [20] },
@@ -2675,12 +2623,12 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（これ以上本を持てない）"]
+              "parameters": ["(I can't carry any more books)"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["本を戻す", "なにもしない"], 1, 0, 1, 1]
+              "parameters": [["Put the books back", "Do nothing"], 1, 0, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "本を戻す"] },
             { "code": 230, "indent": 1, "parameters": [20] },
@@ -2701,14 +2649,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（【ちょこれーとのおうじさま】と書かれた本が置かれてる）"
+                "(A book titled \"The Chocolate Prince\" is placed\nhere)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["本を手に取る", "なにもしない"], 1, 0, 1, 1]
+              "parameters": [["<Pick up the book>", "Do nothing"], 1, 0, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "本を手に取る"] },
             { "code": 117, "indent": 1, "parameters": [24] },
@@ -2720,11 +2668,10 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": [""] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\#『ちょこれーとのおうじさま』を手に入れた"]
+              "parameters": ["\"The Chocolate Prince\" has been obtained"]
             },
             { "code": 126, "indent": 1, "parameters": [36, 0, 0, 1] },
             { "code": 230, "indent": 1, "parameters": [20] },
@@ -2877,7 +2824,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["（【青いにんぎょひめ】と書かれた本が置かれてる）"]
+              "parameters": [
+                "(A book titled \"The Blue Mermaid\" is placed here.)"
+              ]
             },
             { "code": 117, "indent": 1, "parameters": [20] },
             { "code": 119, "indent": 1, "parameters": ["skip2"] },
@@ -2922,12 +2871,12 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（これ以上本を持てない）"]
+              "parameters": ["(I can't carry any more books.)"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["本を戻す", "なにもしない"], 1, 0, 1, 1]
+              "parameters": [["Put the books back", "Do nothing"], 1, 0, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "本を戻す"] },
             { "code": 230, "indent": 1, "parameters": [20] },
@@ -2947,13 +2896,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（【青いにんぎょひめ】と書かれた本が置かれてる）"]
+              "parameters": [
+                "(A book titled \"The Blue Mermaid\" is placed here.)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["本を手に取る", "なにもしない"], 1, 0, 1, 1]
+              "parameters": [["<Pick up the book>", "Do nothing"], 1, 0, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "本を手に取る"] },
             { "code": 117, "indent": 1, "parameters": [24] },
@@ -2965,11 +2916,10 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": [""] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\#『青いにんぎょひめ』を手に入れた"]
+              "parameters": ["(\"The Blue Mermaid\" has been obtained.)"]
             },
             { "code": 126, "indent": 1, "parameters": [37, 0, 0, 1] },
             { "code": 230, "indent": 1, "parameters": [20] },
@@ -3082,7 +3032,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["（【マッチと女の子】と書かれた本が置かれてる）"]
+              "parameters": [
+                "(A book titled \"The Match and the Girl\" is placed\nhere)"
+              ]
             },
             { "code": 117, "indent": 1, "parameters": [20] },
             { "code": 119, "indent": 1, "parameters": ["skip2"] },
@@ -3127,12 +3079,12 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（これ以上本を持てない）"]
+              "parameters": ["(I can't carry any more books)"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["本を戻す", "なにもしない"], 1, 0, 1, 1]
+              "parameters": [["Put the books back", "Do nothing"], 1, 0, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "本を戻す"] },
             { "code": 230, "indent": 1, "parameters": [20] },
@@ -3152,13 +3104,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（【マッチと女の子】と書かれた本が置かれてる）"]
+              "parameters": [
+                "(A book titled \"The Match and the Girl\" is placed\nhere)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["本を手に取る", "なにもしない"], 1, 0, 1, 1]
+              "parameters": [["<Pick up the book>", "Do nothing"], 1, 0, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "本を手に取る"] },
             { "code": 117, "indent": 1, "parameters": [24] },
@@ -3170,11 +3124,10 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": [""] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\#『マッチと女の子』を手に入れた"]
+              "parameters": ["Obtained \"The Match and the Girl\""]
             },
             { "code": 126, "indent": 1, "parameters": [38, 0, 0, 1] },
             { "code": 230, "indent": 1, "parameters": [20] },
@@ -3287,7 +3240,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["（【こうもりの友達】と書かれた本が置かれてる）"]
+              "parameters": ["(A book titled \"Bat's Friend\" is placed here.)"]
             },
             { "code": 117, "indent": 1, "parameters": [20] },
             { "code": 119, "indent": 1, "parameters": ["skip2"] },
@@ -3332,12 +3285,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（これ以上本を持てない）"]
+              "parameters": ["(I can't carry any more books.)"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["本を戻す", "なにもしない"], 1, 0, 1, 1]
+              "parameters": [
+                ["Put the books back", "I won't do anything"],
+                1,
+                0,
+                1,
+                1
+              ]
             },
             { "code": 402, "indent": 0, "parameters": [0, "本を戻す"] },
             { "code": 230, "indent": 1, "parameters": [20] },
@@ -3357,13 +3316,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（【こうもりの友達】と書かれた本が置かれてる）"]
+              "parameters": ["(A book titled \"Bat's Friend\" is placed here.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["本を手に取る", "なにもしない"], 1, 0, 1, 1]
+              "parameters": [["<Pick up the book>", "Do nothing"], 1, 0, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "本を手に取る"] },
             { "code": 117, "indent": 1, "parameters": [24] },
@@ -3375,11 +3334,10 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": [""] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\#『こうもりの友達』を手に入れた"]
+              "parameters": ["(\"Bat's Friend\" has been obtained.)"]
             },
             { "code": 126, "indent": 1, "parameters": [39, 0, 0, 1] },
             { "code": 230, "indent": 1, "parameters": [20] },
@@ -3492,7 +3450,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["（【しあわせな王子】と書かれた本が置かれてる）"]
+              "parameters": [
+                "(A book titled \"The Happy Prince\" is placed here)"
+              ]
             },
             { "code": 117, "indent": 1, "parameters": [20] },
             { "code": 119, "indent": 1, "parameters": ["skip2"] },
@@ -3537,12 +3497,12 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（これ以上本を持てない）"]
+              "parameters": ["(I can't carry any more books)"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["本を戻す", "なにもしない"], 1, 0, 1, 1]
+              "parameters": [["Put the books back", "Do nothing"], 1, 0, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "本を戻す"] },
             { "code": 230, "indent": 1, "parameters": [20] },
@@ -3562,13 +3522,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（【しあわせな王子】と書かれた本が置かれてる）"]
+              "parameters": [
+                "(A book titled \"The Happy Prince\" is placed here)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["本を手に取る", "なにもしない"], 1, 0, 1, 1]
+              "parameters": [["<Pick up the book>", "Do nothing"], 1, 0, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "本を手に取る"] },
             { "code": 117, "indent": 1, "parameters": [24] },
@@ -3580,11 +3542,10 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": [""] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\#『しあわせな王子』を手に入れた"]
+              "parameters": ["Obtained \"The Happy Prince\""]
             },
             { "code": 126, "indent": 1, "parameters": [40, 0, 0, 1] },
             { "code": 230, "indent": 1, "parameters": [20] },
@@ -3736,43 +3697,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（うさぎさんだ。この穴の中にいたんだ）\\F[5]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["（あ……でも、この子も目が無い。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  あの人形の子と同じだ）\\F[5]"]
+              "parameters": ["(It's a rabbit. It was inside this hole.)\\F[5]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「こんにちは、お姉さん。わたしは絵本を読んであげるのが"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  好きなの」\\n<うさぎ>\\F[5]\\AA[FF]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「たくさん覚えているのよ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  だれかお話を聞きたい子はいないかしら？」\\n<うさぎ>\\F[5]\\AA[FF]"
+                "(Ah... but this one also has no eyes. Just like\nthat doll girl.)\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3780,38 +3712,39 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「わぁ。うさぎさん、喋れるんだ……」\\n<雪音>\\F[5]"
+                "\"Hello, Onee-san. I love reading storybooks to\nothers.\"\\n<Rabbit>\\F[5]\\AA[FF]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ねえ、絵本が好きな子はいない？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  わたし、絵本好きの子を探してるの。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  理由は忘れちゃったけど、私を絵本が好きな子のところに"
+                "\"I remember so many. Is there anyone who wants to\nhear a story?\"\\n<Rabbit>\\F[5]\\AA[FF]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  連れて行って」\\n<うさぎ>\\F[5]\\AA[FF]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「わかった、じゃあ連れていってあげるね」\\n<雪音>\\F[1]"
+                "\"Wow. Mr. Rabbit, you can talk...\"\\n<Yukine>\\F[5]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Hey, is there a child who likes storybooks? I'm\nlooking for a child who loves them. I've forgotten\nwhy, but please take me to a child who loves\nstorybooks.\"\\n<Rabbit>\\F[5]\\AA[FF]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Understood, then I'll take you with me.\"\\n<Yukine>\\F[1]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -3824,11 +3757,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『小さなうさぎ』を手に入れた"]
+              "parameters": ["Acquired \"The Little Rabbit\""]
             },
             { "code": 121, "indent": 0, "parameters": [131, 131, 0] },
             { "code": 126, "indent": 0, "parameters": [41, 0, 0, 1] },
@@ -4023,7 +3955,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（うさぎは本を読んでいる）"]
+              "parameters": ["(The rabbit is reading a book)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4079,19 +4011,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#人形から気配は失われている。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#そばにいる、うさぎも動かない。"]
-            },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "\\#ただ、どことなく人形もうさぎも幸せそうにみえる。"
+                "The aura has faded from the doll. The rabbit\nbeside it doesn't move either. Yet, somehow, both\nthe doll and the rabbit seem content."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -4258,7 +4179,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（汚れた人形の目が置いてある）"]
+              "parameters": ["(There are dirty doll eyes placed here)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }

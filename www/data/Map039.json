@@ -266,7 +266,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -325,13 +325,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（大量の血の跡があるが、扉は開きそうにない）"]
+              "parameters": [
+                "(There are traces of a lot of blood, but the door\ndoesn't seem like it will open)"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（だけど、大きな恐怖の痕跡を感じる）"]
+              "parameters": ["(However, I can feel the traces of a great fear)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -390,7 +392,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }

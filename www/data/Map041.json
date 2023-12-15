@@ -843,7 +843,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（役に立ちそうなものはないかな）"]
+              "parameters": ["(I wonder if there's anything useful here)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -908,7 +908,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（役に立ちそうなものはないかな）"]
+              "parameters": ["(I wonder if there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -973,7 +973,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（役に立ちそうなものはないかな）"]
+              "parameters": ["(I wonder if there's anything useful here)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1038,7 +1038,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（役に立ちそうなものはないかな）"]
+              "parameters": ["(I wonder if there's anything useful here)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1100,7 +1100,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（からっぽだ）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It's empty)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1164,7 +1164,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（患者さんの病気について書かれている）"]
+              "parameters": ["(Written about the patient's illness)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1229,7 +1229,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（患者さんの病気について書かれている）"]
+              "parameters": ["(Written about the patient's illness)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }

@@ -409,12 +409,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「くそ、くそっ、ライターが見つからねえ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  どこ行きやがった」\\n<男性の幽霊>"]
+              "parameters": ["\"Where the hell did she go?\"\\n<Male Ghost>"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -462,25 +457,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「らいたー……らいたー、どこ……みつか……みつ、か……"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  ない」\\n<男性の幽霊>"]
+              "parameters": ["\"It's gone.\"\\n<Male Ghost>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（ああ、この場所を支えてた子供の霊が消えちゃったから"
+                "(Ah, the spirit of the child that was supporting\nthis place has vanished... and with it, the\nremnants of the soul have also shattered.)\\F[8]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  ……わずかに残ってた魂も壊れちゃったんだ）\\F[8]"]
             },
             { "code": 111, "indent": 0, "parameters": [0, 182, 1] },
             { "code": 121, "indent": 1, "parameters": [182, 182, 0] },
@@ -579,7 +564,11 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（何か落ちてる）"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["(Something's fallen here.)"]
+            },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [24] },
             {
@@ -590,11 +579,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『ライター』を手に入れた"]
+              "parameters": ["(I've obtained a \"Lighter.\")"]
             },
             { "code": 126, "indent": 0, "parameters": [54, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -741,66 +729,31 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あれ、これって……」"]
+              "parameters": ["\"Huh, is this...\"\\n<Yukine>\\F[5]"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[5]"] },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#■和六二年十月七日"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "\\#■■市の路上で男性が跳ねられて死亡した。警察の調べに"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\#よりますと男性は結婚相手の子を虐待死させていると見ら"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\#れ、数年前に失踪した雷太（当時十歳）くんの件と含めて"
+                "On October 7th, Showa 62, a man was hit and killed\non the streets of ■■ city. According to police\ninvestigations, the man is believed to have abused\nto death the child of his spouse, and the case is\nbeing investigated in connection with the\ndisappearance of Raita-kun (aged ten at the time)\nseveral years ago."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#捜査を進めております。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "\\#一方で日記にある虐待死したと思われる少年は存在は戸籍"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\#も遺体も確認できず、母や叔母とされていた女性も少年の"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\#生まれる前にすでに死亡していたと確認されており"
+                "The investigation is ongoing. Meanwhile, the boy\nbelieved to have died from abuse mentioned in the\ndiary has not been confirmed to exist, as neither\na family register entry nor a body has been found,\nand the women who were said to be his mother and\naunt had already died before the boy was born."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\#捜査は難航の■■■■"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["The investigation is facing difficulties."]
+            },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -808,56 +761,36 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（……え？　じゃあ、さっきの子供の霊って……だれなの？"
+                "(...Huh? Then, who was that child's spirit from\nbefore? Come to think of it, why did the soul have\nbruises?)\\F[8]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  そういえば、なんで魂にアザがあったの？）\\F[8]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（もしかして、あの子供の霊って、人を狂気に誘って異界に"
+                "(Could it be that the child's spirit was an evil\nspirit meant to lure people into madness and drag\nthem into another world?)\\F[8]"
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  引きずり込むための悪霊だったのかも）\\F[8]"]
-            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「どうしたの？」"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<朔>\\F[8]\\AA[FF]\\FF[22]"]
+              "parameters": ["\"What's wrong?\"\\n<Shuo>\\F[8]\\AA[FF]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「う……ううん、なんでもない。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  気にしないほうがよさそうだから、忘れよう」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[7]\\AA[F]\\FF[22]"]
+              "parameters": [
+                "\"Uh...no, it's nothing. It seems better not to\nworry about it, so let's forget it.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[22]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「？」"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<朔>\\F[7]\\AA[FF]\\FF[20]"]
+              "parameters": ["\"?\"\\n<Shuo>\\F[7]\\AA[FF]\\FF[20]"]
             },
             {
               "code": 356,
@@ -1064,33 +997,30 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（じ、地面がなくなってる）\\F[15]"]
+              "parameters": ["(Geez, the ground is disappearing...)\\F[15]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「おねえ、ちゃん……どうしたの？」\\n<朔>\\F[15]\\AA[FF]\\FF[22]"
+                "\"Onee-chan... what's wrong?\"\\n<Shuo>\\F[15]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「なんでもないよ……危ないから手を繋いでいようね」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[7]\\AA[F]\\FF[22]"]
+              "parameters": [
+                "\"It's nothing... It's dangerous, so let's hold\nhands.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[22]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（あんまり近づかないようにしよう）\\F[8]\\AA[F]\\FF[22]"
+                "(I should try not to get too close)\\FF[22]\\F[8]\\AA[F]"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -1146,7 +1076,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（この下って……どうなってるの）\\F[8]"]
+              "parameters": ["(What's beneath here...?)\\F[8]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
@@ -1156,20 +1086,15 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（も、ものすごい数の人がこの下で死んでる……）\\F[15]"
+                "(There are... an incredible number of people who\nhave died below...)\\F[15]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（亡くなった人が多すぎて地面が見えない。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  これ、みんな祟りに殺されちゃった人なの？）\\F[10]"
+                "(There are so many deceased that I can't even see\nthe ground. Were all these people killed by a\ncurse?)\\F[10]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }

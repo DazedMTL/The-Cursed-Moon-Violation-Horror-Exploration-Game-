@@ -1080,7 +1080,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（病院には戻らない方がよさそう）"]
+              "parameters": ["(It seems better not to go back to the hospital)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2036,7 +2036,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（女の子が……こんな……ひどいよ）"]
+              "parameters": ["(A girl... this is... terrible)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 246, "indent": 0, "parameters": [1] },
@@ -2064,7 +2064,7 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["シーンをスキップ", "シーンを見る"], -1, -1, 1, 1]
+              "parameters": [["Scene Skip", "View the scene"], -1, -1, 1, 1]
             },
             { "code": 402, "indent": 1, "parameters": [0, "シーンをスキップ"] },
             { "code": 119, "indent": 2, "parameters": ["skip"] },
@@ -2086,14 +2086,7 @@
             { "code": 121, "indent": 0, "parameters": [3, 3, 0] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クリックでコンテニュー"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Click to continue"] },
             { "code": 230, "indent": 0, "parameters": [10] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
             { "code": 121, "indent": 0, "parameters": [3, 3, 1] },
@@ -2342,43 +2335,33 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「はぁはぁ……また、景色が変わった」"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[12]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「おねえ……ちゃ、どうしたの？」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[12]\\AA[FF]\\FF[24]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「ううん、なんでもないよ」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[7]\\AA[F]\\FF[24]"]
+              "parameters": [
+                "\"Haa haa... The scenery has changed again.\"\\n<Yukine>\\F[12]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（この世界の時間と空間が歪んでるなんていったら怖がっ"
+                "\"Onee-chan, what's wrong?\"\\n<Shuo>\\F[12]\\AA[FF]\\FF[24]"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  ちゃうよね）\\F[7]\\AA[F]\\FF[24]"]
+              "parameters": [
+                "\"No, it's nothing.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[24]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "(If I tell her that time and space are distorted\nin this world, she'll be scared...)\\FF[24]\\F[7]\\AA[F]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -2404,48 +2387,33 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（もう、病院には戻れないよね。"]
+              "parameters": [
+                "(We can't go back to the hospital now. Yeah...\nSince Girl is recovering, let's move\nforward.)\\FF[24]\\F[7]\\AA[F]"
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  うん……朔も回復してきてるし、先に進んでみよう）\\F[7]\\AA[F]\\FF[24]"
+                "\"Girl, let's go.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「朔、行こう」"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[24]"]
+              "parameters": [
+                "\"Yeah. Oh, Onee-chan... Can I hold your hand?\"\\n<Shuo>\\F[1]\\AA[FF]\\FF[22]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うん。あ、の……おねえ、ちゃん。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  て……つないでいい？」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[1]\\AA[FF]\\FF[22]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「うん、もちろん！」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[2]\\AA[F]\\FF[22]"]
+              "parameters": [
+                "\"Yes, of course!\"\\n<Yukine>\\F[2]\\AA[F]\\FF[22]"
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }

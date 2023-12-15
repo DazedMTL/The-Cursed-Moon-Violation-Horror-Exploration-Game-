@@ -319,7 +319,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（役に立ちそうなものはないかな）"]
+              "parameters": ["(I wonder if there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -384,7 +384,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（役に立ちそうなものはないかな）"]
+              "parameters": ["(I wonder if there's anything useful here)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -498,7 +498,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -576,7 +576,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（この鍵……合うかな）"]
+              "parameters": ["(I wonder if this key will fit...)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -593,7 +593,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（よかった、合ってたみたい）"]
+              "parameters": ["(Thank goodness, it looks like it fits)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -733,7 +733,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（患者さんの病気について書かれている）"]
+              "parameters": ["(Written about the patient's illness)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -867,7 +867,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（患者さんの病気について書かれている）"]
+              "parameters": ["(Written about the patient's illness)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -931,210 +931,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「日記だ……えっと」\\n<雪音>\\F[5]"]
+              "parameters": ["\"A diary... let's see.\"\\n<Yukine>\\F[5]"]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#平成２９年　１１月４日"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["最近患者の数が妙に多い。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "また来院する人たちの体には赤黒い痣があることが多数ある。"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "検査しても異常は見られず痛みなどの訴えもない。奇妙だ。"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#平成２９年　１１月２６日"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["患者の数は増えるばかりだ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "安定していたはずの容態が急変して、病床に空きが出来て"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["しまう事態が頻発している。"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ミスはないはずなのに、なぜこうも死亡が続くのだ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["死亡者の体には痣があることが多い。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["検査を増やすことにする。"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#平成２９年　１２月３日"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日もまた一人亡くなった。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "左腕のヒビを負った若い女性で健康だったのに、肺塞栓症"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["を発症した。"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["彼女にも痣がある。なんなのだこれは。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["看護師たちも怖がっている。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それを責めることなどできない。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私も同じ気持ちだからだ。"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#平成２９年　１２月６日"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "突然、法衣を着た僧侶たちが十数人で押しかけてきた。"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["彼らがいうには、この病院は祟られているそうだ。"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["冗談ではない。"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["戯言をいうなら精神科に行ってくれ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["患者たちが不安がるので強引に叩き出した。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "壁に不気味な札を貼っていったので、剥がしてゴミ箱に"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["捨てた。"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#平成２９年　１２月１２日"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["孫がやってきた。"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["産婦人科での診察の結果、第一子を懐妊したようだ。"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["孫は喜んでいる。"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["私も嬉しい。"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "突然死ばかりが続く中、久しぶりの明るいニュースだ。"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ただ孫の脇腹にあった赤黒い痣がひどく気がかりだ。"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "子供の安全に強いご利益のあるという稲荷神社まで足を"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["伸ばし、安産祈願のお守りを買うべきだろうか。"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#平成２９年　１２月２２日"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "深夜の病院内に子供がいるという噂を看護師たちが話してい"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["た。"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "古めかしい着物を来ていて、どうみても患者ではないそうだ。"
+                "November 4, 2017: Recently, there has been an\noddly high number of patients. Moreover, many of\nthose who come to the hospital have dark red\nbruises on their bodies. No abnormalities are\nfound upon examination, and there are no\ncomplaints of pain. It's strange."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -1142,70 +947,118 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "痣ができる患者が急増したので、噂にまかっている暇はない。"
+                "November 26, 2017: The number of patients is only\nincreasing. Conditions that were stable are\nsuddenly changing, leading to frequent vacancies\nin the hospital beds."
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はやくなんとかしなければ。"]
+              "parameters": [
+                "There shouldn't be any mistakes, yet why do the\ndeaths continue? Many of the deceased have bruises\non their bodies. I will increase the number of\ntests."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#平成２９年　１２月２５日"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私の腕と首に痣ができた。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もう痣がない患者はいない。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["息子の顎下にも痣がある。"]
+              "parameters": [
+                "December 3, 2017: Today, another person passed\naway. A young woman with a fracture in her left\narm who was healthy otherwise developed a\npulmonary embolism."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["残っていた看護師も全員辞めてしまった。"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["私は死ぬのか？"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#平成２９年　１２月３１日"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["し　　た　　ない"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["しにた　　　い　　　"]
+              "parameters": [
+                "She also had a bruise. What is this? The nurses\nare scared too. I can't blame them; I feel the\nsame way."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#平成　　年　　　月　　日"]
+              "parameters": [
+                "December 6, 2017: Suddenly, a group of monks\nwearing robes barged in. They claim that this\nhospital is cursed. This is no joke."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["父さんが死んだ。"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["父さんの日記はとりあえず保管しておく。"]
+              "parameters": [
+                "If you're going to talk nonsense, please go to the\npsychiatric ward. I forcefully expelled them\nbecause they were causing anxiety among the\npatients. They left creepy talismans on the walls,\nwhich I peeled off and threw in the trash."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["俺もきっと長くはないだろう。"]
+              "parameters": [
+                "December 12, 2017: My grandchild came to visit.\nAccording to the examination at the obstetrics and\ngynecology department, it seems she is pregnant\nwith her first child. My grandchild is happy."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I'm also happy. It's a rare piece of good news\namidst the constant sudden deaths. However, I'm\nterribly worried about the dark red bruise on my\ngrandchild's side."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Perhaps I should extend a visit to the Inari\nshrine, which is said to have strong benefits for\nthe safety of children, and buy an amulet for an\neasy delivery."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "December 22, 2017: The nurses were talking about\nrumors of a child inside the hospital at night.\nThey say it's wearing an old-fashioned kimono and\nclearly not a patient."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "With the rapid increase in patients developing\nbruises, there's no time to indulge in rumors. I\nmust do something quickly."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "December 25, 2017: Bruises have appeared on my\narms and neck. There are no patients left without\nbruises. My son also has a bruise under his chin."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "All the remaining nurses have quit. Am I going to\ndie?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["December 31, 2017: I want to die down there."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Date unknown: Dad died. For now, I'll keep his\ndiary. I probably won't last much longer either."
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },
@@ -1213,13 +1066,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……これって」\\n<雪音>\\F[4]"]
+              "parameters": ["\"...Could this be?\"\\n<Yukine>\\F[4]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（あ、日記の横に鍵が置いてある）\\F[5]"]
+              "parameters": ["(Ah, there's a key next to the diary.)\\F[5]"]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             {
@@ -1230,11 +1083,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『ステンレスの鍵』を手に入れた"]
+              "parameters": ["\"Stainless Key\" acquired."]
             },
             { "code": 126, "indent": 0, "parameters": [69, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },

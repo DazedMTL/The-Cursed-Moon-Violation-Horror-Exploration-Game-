@@ -596,7 +596,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カバンのなかでなにか動いている……なんだろう）"]
+              "parameters": [
+                "(Something is moving inside the bag... What could\nit be?)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -606,34 +608,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["カバンの中には大量のイモムシが蠢いていた。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それらはお互いに肉体を貪りあいながら、身を"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["くねらせている。\\AA[N]\\F[15]"]
+              "parameters": ["It's writhing. \\F[15]\\AA[N]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「と、共食いしてる。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  な、なんで……カバンに虫の幼虫がこんなに？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  だれがこんな残酷なことをしたの」\\n<雪音>\\F[15]"
+                "\"They're... cannibalizing each other. Why... Why\nare there so many insect larvae in my bag? Who\nwould do such a cruel thing?\"\\n<Yukine>\\F[15]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }

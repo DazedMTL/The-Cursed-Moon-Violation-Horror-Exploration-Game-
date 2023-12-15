@@ -163,17 +163,13 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["（なんだろう、これ？）"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["(What's this?)"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（丸められた紙を広げたら、つたない字でなにか書いてある）"
+                "(When I unfolded the crumpled paper, there was\nsomething written in clumsy handwriting)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -182,125 +178,46 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この腕はもうダメだと言われた。"]
+              "parameters": ["I can hardly believe it."]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["切断するしか無いそうだ。"]
+              "parameters": ["After playing the piano so diligently every day."]
             },
-            { "code": 401, "indent": 0, "parameters": ["信じられない。"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["とても信じられない。"]
+              "parameters": ["I tried so hard, yet..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["I don't want to think about anything anymore."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "あんなにピアノを頑張ってきたのに、私の右腕はもう使い物"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["にならないといわれてしまった。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["なんでこんなことに。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "あんなに毎日いっしょうけんめいピアノを引いてきたのに。"
+                "I want to disappear just like the Little Mermaid\nwhose dreams didn't come true."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ねる時間も惜しんでやってきたのに。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ただママに褒めてほしかっただけなのに。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["すごく、がんばったのに。"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ピアノが引けないなら死んだほうがいい。"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["死んでしまいたい。"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["死んで楽になりたい。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もうなにも考えたくない。"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["夢が叶わなかった人魚姫みたいに消えてしまいたい。"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["あの子がいう。"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["なら願いを叶えてやるって。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "三人道連れにすれば、永遠にピアノを引いていいって。"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ここを繋げろって私にささやく。"]
+              "parameters": ["It whispers to me to connect here."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "いいよ。ピアノを引けるなら何人だって道連れにしてあげる。"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["繋げるってよくわからないけど、もうどうでもいい。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ピアノ以外どうでもいい。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "そうだ、月のような女の子だから最後に月光を演奏しよう。"
+                "That's right, she's a girl like the moon, so let's\nplay \"Moonlight\" for the last time."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -309,27 +226,20 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "（あの演奏してる幽霊……ここを屋敷に繋げちゃったんだ。"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  それに女の子って）\\F[4]"]
+              "parameters": ["  And that girl...\\F[4]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……」\\n<雪音>\\F[4]"]
+              "parameters": ["\"...\"\\n<Yukine>\\F[4]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ううん、いまはとにかく先に進もう」\\n<雪音>\\F[4]"
+                "\"No, for now, let's just move forward.\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -391,7 +301,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（これは……）"] },
+            { "code": 401, "indent": 0, "parameters": ["(This is...)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [24] },
             {
@@ -402,11 +312,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『人形の右腕』を手に入れた"]
+              "parameters": ["I've obtained the \"Doll's Right Arm\""]
             },
             { "code": 126, "indent": 0, "parameters": [42, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -415,18 +324,17 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「これって…もしかして、人形の腕？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  大きさも同じに見えるけど」\\n<雪音>\\F[5]"]
+              "parameters": [
+                "`Could this be... perhaps, the arm of a doll? It\nseems to be the same size too.\\n<Yukine>\\F[5]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「この人形に腕をつければ……」\\n<雪音>\\F[4]"]
+              "parameters": [
+                "`If I attach this arm to the doll...\\n<Yukine>\\F[4]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -444,32 +352,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（あっ、少しだけ女の子の生命力が戻ったみたい）\\F[1]"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「ねえ、あなた……私の声聞こえる？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  私のこと分かる？」\\n<雪音>\\F[5]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「……」\\n<？？？>\\F[5]\\AA[FF]\\FF[22]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「あっ……手を、にぎってくれた？」\\n<雪音>\\F[5]\\AA[F]\\FF[22]"
+                "(Ah, it seems like the girl's life force has\nreturned a little.)\\F[1]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -477,33 +360,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "ゆっくりと瞬きをする女の子は、私の声に反応しません。"
+                "`Hey, can you hear my voice? Do you understand me?\\n<Yukine>\\F[5]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "だけど、小さな手で私の指をゆっくりと握り返してくれます。"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\F[5]\\AA[F]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「ああ、よかった。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  触られているの、分かるようになったんだね。"]
+              "parameters": ["`...\\n<???>\\F[5]\\AA[FF]\\FF[22]"]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  ねえ。じゃあ、これも分かる？」\\n<雪音>\\F[3]\\AA[F]\\FF[22]"
+                "`Ah... did you squeeze my hand?\\n<Yukine>\\F[5]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -511,46 +382,45 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "サラサラの髪を撫でると、ほんの少しだけ心地良さそうに目"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["を細めてくれます。"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どうやら、人形の腕を取り戻したことで触覚が"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["戻ったようです。\\F[3]\\AA[N]\\FF[22]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「よかった。"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  じゃあ、他の部分も揃えて人形を完成させれば、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  この子を助けられるかも」\\n<雪音>\\F[2]\\AA[F]\\FF[22]"
+                "\\F[5]The girl blinks slowly and does not respond to my\nvoice. However, she slowly grips my finger with\nher small hand. \\AA[F]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……」\\n<？？？>\\F[2]\\AA[FF]\\FF[22]"]
+              "parameters": [
+                "`Ah, thank goodness. You've started to feel the\ntouch, haven't you? Hey, can you feel this too?\\n<Yukine>\\F[3]\\AA[F]\\FF[22]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「待ってて、私がんばるからね！」\\n<雪音>\\F[2]\\AA[F]\\FF[22]"
+                "When I stroke her silky hair, she slightly narrows\nher eyes in comfort. It seems that her sense of\ntouch has returned with the retrieval of the\ndoll's arm. \\FF[22]\\F[3]\\AA[N]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "`Thank goodness. If we can gather the other parts\nand complete the doll, maybe we can save this\ngirl.\\n<Yukine>\\F[2]\\AA[F]\\FF[22]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["`...\\n<???>\\F[2]\\AA[FF]\\FF[22]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "`Wait for me, I'll do my best!\\n<Yukine>\\F[2]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 122, "indent": 0, "parameters": [20, 20, 0, 0, 2] },
@@ -659,7 +529,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\#第２２回　ピアノコンクール小学生の部　B部門優勝"
+                "22nd Piano Contest, Elementary School Division B\nChampion"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -727,7 +597,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\#第２４回　ピアノコンクール中学生の部　A部門優勝"
+                "24th Piano Competition Junior High School Division\nA Winner"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -795,7 +665,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\#第１１回　ピアノコンクール　Vグループ　最優秀賞"
+                "11th Piano Concours Group V - Best Performance\nAward"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -863,7 +733,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\#第２７回　国際ピアノコンクール　Aクラス　準優勝"
+                "27th International Piano Competition A-Class\nRunner-Up"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -931,7 +801,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\#第１９回　全国ピアノコンクール　Gグループ　最優秀賞"
+                "19th National Piano Competition Group G - First\nPrize"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -995,11 +865,12 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#右腕切断術における手術・合併症の同意書"]
+              "parameters": [
+                "Surgical consent form for complications in right\narm amputation surgery."
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },

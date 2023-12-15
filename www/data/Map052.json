@@ -845,14 +845,7 @@
             { "code": 121, "indent": 0, "parameters": [3, 3, 0] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クリックでコンテニュー"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Click to continue"] },
             { "code": 230, "indent": 0, "parameters": [10] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
             { "code": 121, "indent": 0, "parameters": [3, 3, 1] },
@@ -1321,58 +1314,41 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……今度は全然知らない建物だ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  この国のお屋敷じゃなさそうだけど」\\n<雪音>\\F[8]"
+                "\"This is a completely unfamiliar building. It\ndoesn't seem like a mansion from this country.\"\\n<Yukine>\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「なんだか、すごくふるいにおいがする……」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[8]\\AA[FF]\\FF[24]"]
+              "parameters": [
+                "\"It smells really old...\"\\n<Shuo>\\F[8]\\AA[FF]\\FF[24]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「私も初めてみる建物だから気をつけて進もうね」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[8]\\AA[F]\\FF[24]"]
+              "parameters": [
+                "\"Since it's also my first time seeing this\nbuilding, let's be careful as we move forward.\"\\n<Yukine>\\F[8]\\AA[F]\\FF[24]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「おねえちゃん、めいわくかけてごめんね」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[8]\\AA[FF]\\FF[23]"]
+              "parameters": [
+                "\"Onee-san, I'm sorry for causing you trouble.\"\\n<Shuo>\\F[8]\\AA[FF]\\FF[23]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ううん、迷惑だなんて少しも思ってないよ」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[23]"]
+              "parameters": [
+                "\"No, not at all. I don't think it's a bother in\nthe slightest.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[23]"
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2230,7 +2206,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（中に何か入ってる）"]
+              "parameters": ["(There's something inside)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -2242,11 +2218,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『比翼の青鍵』を手に入れた"]
+              "parameters": ["Obtained the \"Paired Wing Blue Key\""]
             },
             { "code": 126, "indent": 0, "parameters": [56, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -2310,65 +2285,54 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「これ……どこの鍵だろう」"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[5]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「おねえちゃん、さくもみたい」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[5]\\AA[FF]\\FF[28]"]
+              "parameters": [
+                "\"I wonder which key this is...\"\\n<Yukine>\\F[5]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「はい、どーぞ」"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[28]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「よく、みえないけど……キラキラしててきれいだね」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[1]\\AA[FF]\\FF[40]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「そうだね……"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  これを使えるところが見つかるまで朔が持ってて」\\n<雪音>\\F[1]\\AA[F]\\FF[40]"
+                "\"Onee-san, Shaku wants to see too.\"\\n<Shuo>\\F[5]\\AA[FF]\\FF[28]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「うん！」"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<朔>\\F[1]\\AA[FF]\\FF[25]"]
+              "parameters": ["\"Here you go.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[28]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"It's hard to see, but... it's sparkling and\npretty, isn't it?\"\\n<Shuo>\\F[1]\\AA[FF]\\FF[40]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"That's right... Shaku, you hold onto this until\nwe find where it can be used.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[40]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"Okay!\"\\n<Shuo>\\F[1]\\AA[FF]\\FF[25]"]
             },
             { "code": 242, "indent": 0, "parameters": [1] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「子狐、お前は鍵の使い道など考えずともよい」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\AA[N]\\n<？？？>\\F[1]\\AA[FF]\\FF[25]"]
+              "parameters": [
+                "\"Little fox, you need not concern yourself with\nthe use of the key.\"\\n<???>\\F[1]\\AA[FF]\\FF[25]\\AA[N]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -2438,17 +2402,19 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「朔禍月！」"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[19]"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"Sakugami!\"\\n<Yukine>\\F[19]"]
+            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「気安く我の名を呼ぶとは不敬な子狐だ……下がれっ！」"
+                "\"How dare you call my name so casually, insolent\nlittle fox... Stand back!\"\\n<Sakari Tsuki>\\FF[33]"
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<朔禍月>\\FF[33]"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
               "code": 250,
@@ -2484,31 +2450,27 @@
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「おねえちゃん！」"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<朔>\\FF[27]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「だい、じょうぶ……」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[13]\\AA[F]\\FF[27]"]
+              "parameters": ["\"Onee-san!\"\\n<Shuo>\\FF[27]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ほう……子狐でもいちおうは神の末席か。"]
+              "parameters": [
+                "\"It's okay...\"\\n<Yukine>\\F[13]\\AA[F]\\FF[27]"
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  その受肉した心臓を握り潰したつもりだったが……」"]
+              "parameters": [
+                "\"Hmm... Even a little fox is at the end of the\ngods' table. I thought I had crushed that\nincarnate heart of yours...\"\\n<Sakari Tsuki>\\FF[35]"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<朔禍月>\\FF[35]"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
               "code": 250,
@@ -2547,28 +2509,22 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ああああ……あああ……」"]
+              "parameters": ["\"Aaaaa...aaaa...\"\\n<Evil Spirit>"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<悪霊>"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「また、あの悪霊が……」"]
+              "parameters": ["\"That evil spirit again...\"\\n<Yukine>\\F[15]"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[15]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「何度も取り逃す役立たずめ。"]
+              "parameters": [
+                "\"Useless creatures who let it escape time and\nagain. Those who cannot even hunt a fox are of no\nuse to me.\"\\n<Sakari Tsuki>\\FF[37]"
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  狐狩りもこなせぬモノは我には不要だ」"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\n<朔禍月>\\FF[37]"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
               "code": 250,
@@ -2583,84 +2539,67 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あの悪霊を軽くさわっただけで……」"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[15]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「さて……朔よ。"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  そろそろ我の元に帰ってこい」"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\n<朔禍月>\\FF[38]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「！」"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<朔>\\FF[27]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「もう十分であろう……お前は我の巫女だ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  子狐などと戯れるのはよせ」"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\n<朔禍月>\\FF[38]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「か、かみさま……さく」"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\n<朔>\\FF[23]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「朔よ。なにが不満なのだ……"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  この世界で永遠に過ごせるのだぞ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  悲しみも苦しみも不安も全て感じなくなるのに、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  なぜ逃げる。我を裏切るつもりか」\\n<朔禍月>\\FF[31]"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「あ、あの……」"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<朔>\\FF[23]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「帰ってこい朔。"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  見捨てられたお前は、我の傍にこそふさわしいのだ」\\n<朔禍月>\\FF[38]"
+                "\"Just by lightly touching that evil spirit...\"\\n<Yukine>\\F[15]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「か、勝手なこと言わないで……」"]
+              "parameters": [
+                "\"Now, Shaku. It's about time you returned to my\nside.\"\\n<Sakka Tsuki>\\FF[38]"
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<雪音>\\F[19]\\AA[F]\\FF[23]"]
+              "parameters": ["\"!\"\\n<Shuo>\\FF[27]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"That should be enough... You are my shrine\nmaiden. Stop frolicking with little foxes.\"\\n<Sakari Tsuki>\\FF[38]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"G-God... Shaku\"\\n<Shuo>\\FF[23]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"What dissatisfies you, Shaku... You can spend\neternity in this world. Without feeling sadness,\npain, or anxiety, why do you run? Do you intend to\nbetray me?\"\\n<Sakka Tsuki>\\FF[31]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"Um...\"\\n<Shuo>\\FF[23]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Come back, Shaku. You who were abandoned are most\nfitting by my side.\"\\n<Sakka Tsuki>\\FF[38]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Don't say things as you please...\"\\n<Yukine>\\F[19]\\AA[F]\\FF[23]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -2670,54 +2609,29 @@
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「こほっ……"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  あんなところに冷たい闇に朔を縛り付けて、何も感じる"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  ことができないように朔の五感を奪ったくせに」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[19]\\AA[F]\\FF[22]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「どれだけ朔が寂しい思いをしてたと思うの！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  たくさんの人を呪って、いっぱい人を祟りで殺した"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  世界で朔を一人ぼっちにして――アナタは何も朔の"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  ことを想ってなんかいないわ」\\n<雪音>\\F[19]\\AA[F]\\FF[23]"
+                "\"*cough*... To bind Shaku in such a cold darkness,\nto take away all her senses so she can't feel\nanything...\"\\n<Yukine>\\F[19]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「貴様……キツネの分際で我を愚弄するか」"]
+              "parameters": [
+                "\"Do you know how lonely Shaku has been! Cursing\nmany people, killing plenty with curses, leaving\nShaku all alone in the world--You don't care about\nShaku at all.\"\\n<Yukine>\\F[19]\\AA[F]\\FF[23]"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<朔禍月>\\FF[37]"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"You insolent creature... How dare a mere fox mock\nme.\"\\n<Sakka Tsuki>\\FF[37]"
+              ]
+            },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
               "code": 250,
@@ -2731,69 +2645,41 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ぐっ、ものすごい祟りだ。ノドが、肌が焼ける」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[15]\\AA[F]\\FF[26]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「もうよい……貴様は我が手ずから誅してやろう。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  その皮を剥ぎ、目玉をくり抜き、臓物を引きずり出せば"
+                "\"*gasp*, such a terrible curse. My throat, my skin\nis burning.\"\\n<Yukine>\\F[15]\\AA[F]\\FF[26]"
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  朔の心も変わろう」"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\n<朔禍月>\\FF[32]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「かみさま……やめて……おねえちゃんに、ひどいことしな"
+                "\"Enough... I shall personally punish you. Once I\nflay your skin, gouge out your eyes, and drag out\nyour entrails, perhaps Shaku's heart will change.\"\\n<Sakka Tsuki>\\FF[32]"
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["  いで」"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<朔>\\F[15]\\AA[FF]\\FF[26]"]
+              "parameters": [
+                "\"God... please stop... don't do horrible things to\nOnee-san.\"\\n<Shuo>\\F[15]\\AA[FF]\\FF[26]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ああ、かわいそうな朔よ。"]
+              "parameters": [
+                "\"Ah, poor Shaku. I will save you from the warmth\nsoon. Just wait a little.\"\\n<Sakka Tsuki>\\FF[32]"
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  すぐに、ぬくもりから助けてやるからな。"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["  少しまっておれ」"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<朔禍月>\\FF[32]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「朔、逃げるよっ！」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[19]\\AA[F]\\FF[26]"]
+              "parameters": [
+                "\"Shaku, let's run away!\"\\n<Yukine>\\F[19]\\AA[F]\\FF[26]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -3335,7 +3221,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -3421,7 +3307,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -3507,7 +3393,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -3593,7 +3479,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（ホコリが積もってるだけで、何もないみたい）"]
+              "parameters": [
+                "(It seems like there's nothing here, just a layer\nof dust.)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3658,7 +3546,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（本が積まれている）"]
+              "parameters": ["(There are books piled up)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3723,7 +3611,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（役に立ちそうなものはないかな）"]
+              "parameters": ["(I wonder if there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3788,7 +3676,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（ここには何も無いみたい）"]
+              "parameters": ["(It seems like there's nothing here)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3853,7 +3741,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（役に立ちそうなものはないかな）"]
+              "parameters": ["(I wonder if there's anything useful here)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3915,7 +3803,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（からっぽだ）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It's empty)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3979,7 +3867,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（役に立ちそうなものはないかな）"]
+              "parameters": ["(I wonder if there's anything useful here.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4044,7 +3932,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（役に立ちそうなものはないかな）"]
+              "parameters": ["(I wonder if there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4109,7 +3997,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（役に立ちそうなものはないかな）"]
+              "parameters": ["(I wonder if there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4174,7 +4062,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -4251,7 +4139,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（この鍵……合うかな）"]
+              "parameters": ["(I wonder if this key will fit...)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -4268,7 +4156,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（よかった、合ってたみたい）"]
+              "parameters": ["(Thank goodness, it seems to fit)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -4404,7 +4292,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（からっぽだ）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It's empty)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -4468,7 +4356,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（この中には何も無いみたい）"]
+              "parameters": ["(It seems like there's nothing inside)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4533,7 +4421,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（中に何か落ちてる）"]
+              "parameters": ["(There's something inside)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -4545,11 +4433,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『小さな十字架』を手に入れた"]
+              "parameters": ["Obtained \"Small Cross\""]
             },
             { "code": 126, "indent": 0, "parameters": [59, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -4608,7 +4495,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（他に役に立ちそうなものはないかな）"]
+              "parameters": ["(Is there anything else that might be useful?)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4673,7 +4560,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（この中には何も無いみたい）"]
+              "parameters": ["(It seems like there's nothing inside this)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4738,12 +4625,12 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（お花の絵が飾ってある）"]
+              "parameters": ["(There's a picture of flowers on display.)"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["見つめる", "何もしない"], 1, -1, 1, 1]
+              "parameters": [["Stare at it", "Do nothing"], 1, -1, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "見つめる"] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -4759,7 +4646,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（……見てると凄く胸がドキドキする）"]
+              "parameters": ["(...Looking at it makes my heart race.)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -4768,13 +4655,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（それに身体が凄く熱い……）"]
+              "parameters": ["(And my body feels so hot...)"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（あたま……ふわふわする）"]
+              "parameters": ["(My head... feels so light.)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -4785,20 +4672,15 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「お姉ちゃん……からだ、ぽかぽかする……わたし、なんだ"
+                "\"Onee-san... my body feels warm... I feel kind of\nstrange.\"\\n<Shuo>\\FF[23]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  かへんだよ」\\n<朔>\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「わたしも……朔、そこで少し休もう……はぁはぁ」\\n<雪音>\\F[9]\\AA[F]\\FF[23]"
+                "\"Me too... Let's rest here for a bit, Saku...\n*pant* *pant*\"\\n<Yukine>\\F[9]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 242, "indent": 0, "parameters": [1] },
@@ -4808,7 +4690,13 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["シーンをスキップ", "シーンを見る"], -1, -1, 1, 1]
+              "parameters": [
+                ["Scene Skip", "Let's take a look at the scene"],
+                -1,
+                -1,
+                1,
+                1
+              ]
             },
             { "code": 402, "indent": 1, "parameters": [0, "シーンをスキップ"] },
             { "code": 119, "indent": 2, "parameters": ["skip"] },
@@ -4830,14 +4718,7 @@
             { "code": 121, "indent": 0, "parameters": [3, 3, 0] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クリックでコンテニュー"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Click to continue"] },
             { "code": 230, "indent": 0, "parameters": [10] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
             { "code": 121, "indent": 0, "parameters": [3, 3, 1] },
@@ -4914,7 +4795,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（きれいな女性の絵が飾ってある）"]
+              "parameters": [
+                "(There's a picture of a beautiful woman on\ndisplay.)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4979,7 +4862,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -5283,7 +5166,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -5360,7 +5243,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（この鍵……合うかな）"]
+              "parameters": ["(I wonder if this key will fit...)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -5377,7 +5260,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（よかった、合ってたみたい）"]
+              "parameters": ["(Thank goodness, it looks like it fits)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {

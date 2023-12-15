@@ -825,13 +825,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ん、ここは……」\\n<朔>\\FF[23]"]
+              "parameters": ["\"Hmm, where is this...?\"\\n<Shuo>\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「おねえちゃん！」\\n<朔>\\FF[24]"]
+              "parameters": ["\"Onee-san!\"\\n<Shuo>\\FF[24]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -884,13 +884,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「わたし、だれかにひっぱられて……"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  おねえちゃんと、はぐれちゃった……の？」\\n<朔>\\FF[23]"
+                "\"I was pulled away by someone... Did I get\nseparated from Onee-san...?\"\\n<Shuo>\\FF[23]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -907,7 +902,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「は、はやくおねえちゃんをさがさないと」\\n<朔>\\FF[27]"
+                "\"I-I need to find Onee-san quickly.\"\\n<Shuo>\\FF[27]"
               ]
             },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 74] },
@@ -1009,13 +1004,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（……このかたち……カギかな？。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  おねえちゃんにあげたらきっとよろこんでくれるよね）\\F[22]"
+                "(...This shape... could it be a key? I'm sure\nOnee-san would be delighted if I gave it to her)\\F[22]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1122,7 +1112,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（……なにもはいってなさそう）"]
+              "parameters": [
+                "(...It doesn't seem like she's wearing anything\nunderneath.)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1525,7 +1517,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ひっ、やだ……さわらないで、やめっ……むぐっっ」\\n<朔>\\FF[27]"
+                "\"Hii, no... don't touch me, stop it... mmmph!\"\\n<Shuo>\\FF[27]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1533,20 +1525,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "肉の蛇を思わせる触手は、朔の身体にまとわりつくと首筋に"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["なにかを突き刺す。\\FF[27]\\AA[N]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「いたっ！　なに、つめたいのが、はいって……」\\n<朔>\\FF[21]"
+                "The tentacle, reminiscent of a serpent of flesh,\nwraps around Yukine's body and stabs something\ninto her neck. \\FF[27]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1554,7 +1533,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "その瞬間、朔の意識が急速に遠ざかっていく。\\FF[21]\\AA[N]"
+                "\"Ouch! What is this cold thing entering...?\"\\n<Shuo>\\FF[21]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1562,7 +1541,15 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「からだが、きゅうに……おもた、く……」\\n<朔>\\FF[23]"
+                "The moment it happens, Yukine's consciousness\nrapidly fades away. \\FF[21]\\AA[N]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"My body suddenly feels... so heavy, ugh...\"\\n<Shuo>\\FF[23]"
               ]
             },
             { "code": 242, "indent": 0, "parameters": [1] },
@@ -1571,7 +1558,7 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["シーンをスキップ", "シーンを見る"], -1, -1, 1, 1]
+              "parameters": [["Scene Skip", "<View the scene>"], -1, -1, 1, 1]
             },
             { "code": 402, "indent": 1, "parameters": [0, "シーンをスキップ"] },
             { "code": 119, "indent": 2, "parameters": ["skip"] },
@@ -1593,14 +1580,7 @@
             { "code": 121, "indent": 0, "parameters": [3, 3, 0] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クリックでコンテニュー"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Click to continue"] },
             { "code": 230, "indent": 0, "parameters": [10] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
             { "code": 121, "indent": 0, "parameters": [3, 3, 1] },

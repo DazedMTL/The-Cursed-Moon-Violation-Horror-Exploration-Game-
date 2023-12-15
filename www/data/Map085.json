@@ -131,7 +131,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「お前ら……本気言っておるのか」\\n<？？？>"]
+              "parameters": ["\"Are you all serious about this?\"\\n<???>"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
@@ -158,56 +158,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ご当主、もはや限界です。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  飢饉と長雨で村の者たちはバタバタと倒れています。"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  これ以上は村は持ちません。手をこまねていてはみな"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  死んでしまいます」\\n<？？？>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「近隣の子供たちは残らず死に絶えてしまいました。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  女たちは嘆き、身寄りを失った老人たちは次々に山に"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  捨てられています。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  どうかご決断を」\\n<？？？>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「……しかし、幼い子供を捧げるというのは……」\\n<？？？>"
+                "\"Lord, we have reached our limit. The famine and\nprolonged rains have caused our villagers to fall\none by one. The village can't hold on any longer.\nIf we do nothing, everyone will die.\"\\n<???>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -215,49 +167,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ご当主の子がご息女だけというのは存じ上げています。"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  ですが、どうか……どうか」\\n<？？？>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「某に供儀を捧げるというのか……たった一人授かった娘を」\\n<？？？>"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「おとうさん？」\\n<少女>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「苦渋の選択であることは重々承知の上です。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  しかし、もはや一時の猶予もなく。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  いくつもの里が滅んでしまいます。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  もはや近隣において神に捧げられる子はご息女以外には」\\n<？？？>"
+                "\"The children in the neighboring areas have all\nperished. The women are grieving, and the elderly\nwho have lost their relatives are being abandoned\nin the mountains one after another. Please, make a\ndecision.\"\\n<???>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -265,56 +175,80 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「なんのおはなしだろう……おきゃくさんかな？」\\n<少女>"
+                "\"...But to offer up a young child is...\"\\n<???>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「どうか……ご決断を！」\\n<？？？>"]
+              "parameters": [
+                "\"I am aware that your only child is your daughter.\nBut please... please.\"\\n<???>"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「………………相分かった」\\n<？？？>"]
+              "parameters": [
+                "\"Are you suggesting I offer a sacrifice... my only\ndaughter whom I was blessed with?\"\\n<???>"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「おお……」\\n<？？？>"]
+              "parameters": ["\"Father?\"\\n<Girl>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「しばし待て……神の元に送るのであれば相応の支度を"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["  せねばならぬ。"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  アレにも話さねばならぬのだ……納得を得られるとは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  思えぬが……」\\n<？？？>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「ああ……ご当主。"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  どうか……どうかお願い致します」\\n<？？？>"]
+              "parameters": [
+                "\"I am fully aware of the agonizing choice before\nus. However, we no longer have even a moment's\nrespite. Many villages have been destroyed. There\nare no other children left to offer to the gods in\nthe vicinity except for your daughter.\"\\n<???>"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……善処はしよう」\\n<？？？>"]
+              "parameters": [
+                "\"What are you talking about... Is there a guest?\"\\n<Girl>"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"Please... make your decision!\"\\n<???>"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"...I understand.\"\\n<???>"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\"Oh...\"\\n<???>"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Wait a moment... If we are to send her to the\ngods, proper preparations must be made. I must\nalso speak with her... I doubt she will\nconsent...\"\\n<???>"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"Ah... Lord. Please... I beg of you.\"\\n<???>"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"...I shall see to it.\"\\n<???>"]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
@@ -330,13 +264,8 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「このような決断を下さねばならんとは……私はなんと言え"
+                "\"To be forced to make such a decision... what am I\nto say?\"\\n<???>"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  ばいいのだ」\\n<？？？>"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 242, "indent": 0, "parameters": [2] },
@@ -392,59 +321,47 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「いまのは……記憶？」\\n<雪音>\\F[4]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "「この刀に残ってた過去の映像……なのかな？」\\n<雪音>\\F[4]"
+                "\"Was that just now... a memory?\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……」\\n<朔>\\F[4]\\AA[FF]\\FF[20]"]
+              "parameters": [
+                "\"A past vision that remained in this sword...\nperhaps?\"\\n<Yukine>\\F[4]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"...\"\\n<Shuo>\\F[4]\\AA[FF]\\FF[20]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（これで祟りは少し弱くできたはずだけど……全部を浄化は"
+                "\\F[4](With this, the curse should be weakened a bit...\nbut it seems impossible to purify it\ncompletely.)\\AA[F]\\FF[20]"
               ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["  無理みたい）"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\F[4]\\AA[F]\\FF[20]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（大樹に刺さってたこの刀……祟りを祓うのに使えるかも）"
+                "\\F[1](This sword that was stuck in the great tree... it\nmight be used to exorcise the curse.)\\AA[F]\\FF[20]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\F[1]\\AA[F]\\FF[20]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（役に立ちそうだし、持っていってみよう）"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\F[1]\\AA[F]\\FF[20]"]
+              "parameters": [
+                "\\F[1](It seems useful, so I'll take it with\nme.)\\AA[F]\\FF[20]"
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [3, 3, 0] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -456,11 +373,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『錆びた小太刀』を手に入れた"]
+              "parameters": ["\"Rusty Kodachi\" acquired"]
             },
             { "code": 126, "indent": 0, "parameters": [31, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },

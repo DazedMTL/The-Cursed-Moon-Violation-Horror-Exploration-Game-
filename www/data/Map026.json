@@ -226,7 +226,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -356,7 +356,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -415,7 +415,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -533,46 +533,31 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……」\\n<？？？>\\F[15]\\AA[FF]\\FF[20]"]
+              "parameters": ["\"...\"\\n<???>\\F[15]\\AA[FF]\\FF[20]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あの気配……どうしよう……さっきの悪霊だ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  まさか私たちを追いかけてくるなんて」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[15]\\AA[F]\\FF[20]"]
+              "parameters": [
+                "\"That presence... What should we do... It's the\nevil spirit from before. I can't believe it's\nactually following us.\"\\n<Yukine>\\F[15]\\AA[F]\\FF[20]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あ、ああ……う、ころ……す……たた、り……みんな、こ"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["  ろ……され……」"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<悪霊>\\F[15]\\AA[N]\\FF[20]"]
+              "parameters": [
+                "\"Ah, aah... I will... kill... curse... everyone,\nwill be... killed...\"\\n<Evil Spirit>\\F[15]\\AA[N]\\FF[20]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「すごい祟りの気配だ、逃げよう！」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[15]\\AA[F]\\FF[20]"]
+              "parameters": [
+                "\"This is an intense aura of a curse, let's run\naway!\"\\n<Yukine>\\F[15]\\AA[F]\\FF[20]"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [50] },
             {

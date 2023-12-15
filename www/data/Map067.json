@@ -194,7 +194,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（役に立ちそうなものはないかな）"]
+              "parameters": ["(I wonder if there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -259,7 +259,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（役に立ちそうなものはないかな）"]
+              "parameters": ["(I wonder if there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -324,7 +324,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（役に立ちそうなものはないかな）"]
+              "parameters": ["(I wonder if there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -527,7 +527,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（石台の上に何か置かれてた跡がある）"]
+              "parameters": [
+                "(There are traces of something having been placed\non the stone pedestal.)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -583,14 +585,19 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（たぶんこの石台は神様に何かを捧げるために置いてあるん"
+                "(Maybe this stone pedestal is here for offering\nsomething to the gods, huh?)\\F[1]"
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["  だよね）\\F[1]"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["おにぎりを置く", "何もしない"], 1, -1, 1, 1]
+              "parameters": [
+                ["I'll place the rice ball", "I won't do anything"],
+                1,
+                -1,
+                1,
+                1
+              ]
             },
             { "code": 402, "indent": 0, "parameters": [0, "おにぎりを置く"] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -604,7 +611,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（さっき見つけたおにぎりを置いてみよう）"]
+              "parameters": [
+                "(Let's try placing the onigiri I found earlier on\nit.)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 121, "indent": 0, "parameters": [223, 223, 0] },

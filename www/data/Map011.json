@@ -767,17 +767,10 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「この手形……」\\n<雪音>\\F[10]"]
+              "parameters": ["\"This handprint...\"\\n<Yukine>\\F[10]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "（助けを求めてた人のものだ。この人たち……助からなかっ"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["たんだ）\\F[10]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\F[10]"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 356, "indent": 0, "parameters": ["dpFocus 13 80"] },
             { "code": 230, "indent": 0, "parameters": [100] },
@@ -1309,17 +1302,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「この手形……」\\n<雪音>\\F[10]"]
+              "parameters": ["\"This handprint...\"\\n<Yukine>\\F[10]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（助けを求めてた人のものだ。この人たち……助からなかっ"
+                "(It belongs to the person who was asking for help.\nThese people... they didn't make it.)\\F[10]"
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["たんだ）\\F[10]"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 356, "indent": 0, "parameters": ["dpFocus 13 80"] },
             { "code": 230, "indent": 0, "parameters": [100] },
@@ -2197,7 +2189,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「いまのは……」\\n<雪音>\\F[4]"]
+              "parameters": ["\"That was...\"\\n<Yukine>\\F[4]"]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -2207,7 +2199,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「待って、私……あなたに聞きたいことが」\\n<雪音>\\F[16]"
+                "\"Wait, I... There's something I want to ask you\"\\n<Yukine>\\F[16]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -2361,7 +2353,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（開かない……カギがかかっているみたい）"]
+              "parameters": ["(It won't open... It seems to be locked.)"]
             },
             { "code": 111, "indent": 0, "parameters": [0, 34, 1] },
             {
@@ -2861,23 +2853,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（なにか書いてある）"]
+              "parameters": ["(Something is written here)"]
             },
             { "code": 356, "indent": 0, "parameters": ["MWP_INVALID"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\#■■月△日"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "〇〇市で火災が発生し、焼け跡から豊野美和さんの焼死体が"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "見つかった。警察の調べでは失火によるものとして捜査を――"
+                "On △ day of ■■ month, a fire broke out in 〇〇 city,\nand the charred body of Miwa Toyono was found in\nthe remains. The police investigation suggests it\nwas caused by an accidental fire and the\ninvestigation--"
               ]
             },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID -1 1"] },
@@ -2885,7 +2869,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（あとはかすれてよめない）"]
+              "parameters": ["(The rest is smudged and unreadable)"]
             },
             { "code": 121, "indent": 0, "parameters": [3, 3, 1] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
@@ -2994,7 +2978,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（開かない……カギがかかっているみたい）"]
+              "parameters": ["(It won't open... It seems to be locked.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3053,7 +3037,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3112,7 +3096,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4040,7 +4024,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「……」\\n<カエル>"] },
+            { "code": 401, "indent": 0, "parameters": ["\"...\"\\n<Frog>"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4084,17 +4068,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「なに？」\\n<カエル>"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["\"What?\"\\n<Frog>"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「カエルさん、どうしてクモさんを食べたいの？」\\n<雪音>\\F[7]"
+                "\"Mr. Frog, why do you want to eat the spider?\"\\n<Yukine>\\F[7]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4102,20 +4082,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「あのクモ、赤くて美味しそう。きっとイチゴみたいな味が"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["する」\\n<カエル>\\F[7]\\AA[N]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「カエルさんは……ほんとはイチゴがたべたいの？」\\n<雪音>\\F[5]"
+                "\"That spider is red and looks delicious. It must\ntaste like strawberries.\"\\n<Frog>\\F[7]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4123,7 +4090,15 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「イチゴがいい。本物のイチゴがほしい」\\n<カエル>\\F[7]\\AA[N]"
+                "\"Mr. Frog... do you actually want to eat\nstrawberries?\"\\n<Yukine>\\F[5]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"I prefer strawberries. I want real strawberries.\"\\n<Frog>\\F[7]\\AA[N]"
               ]
             },
             {
@@ -4185,29 +4160,23 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ああ、イチゴがほしいな。美味しいイチゴ、どこにあるん"
+                "\"Ah, I want strawberries. Delicious strawberries,\nwhere could they be... I've been searching for so\nlong...\"\\n<Frog>"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だろう……ずっとさがしてるのに……」\\n<カエル>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（本物のイチゴを探してあげたら、カエルさんはそこに行く"
+                "(If I find real strawberries for them, maybe Mr.\nFrog will go there...)\\F[5]"
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["のかも……）\\F[5]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（どこかにイチゴが生ってないか探してみよう……）\\F[1]"
+                "(Let's look around to see if there are any\nstrawberries growing somewhere...)\\F[1]"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [20, 20, 0] },
@@ -4258,19 +4227,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「……イチゴ、どこにあるんだろう。あのクモ、きっとイチ"
+                "\"...Where could the strawberries be? That spider\nmust taste like strawberries, I bet.\"\\n<Frog>"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ゴみたいな味だよね」\\n<カエル>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カエルさんのためにイチゴを探してみよう）\\F[1]"]
+              "parameters": [
+                "(Let's try looking for strawberries for Mr. Frog.)\\F[1]"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -4319,27 +4285,24 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「カエルさん、イチゴを見つけたよ。お庭のところに生えて"
+                "\"Mr. Frog, I found some strawberries. They're\ngrowing in the garden.\"\\n<Yukine>\\F[1]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["るよ」\\n<雪音>\\F[1]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ほんと？　ほんとにイチゴなの？」\\n<カエル>\\F[1]\\AA[N]"
+                "\"Really? Are they really strawberries?\"\\n<Frog>\\F[1]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「そうだよ、きっと美味しいよ」\\n<雪音>\\F[3]"]
+              "parameters": [
+                "\"Yes, they must be delicious.\"\\n<Yukine>\\F[3]"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [38, 1, true] },
             {
@@ -4457,7 +4420,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（いっちゃった。クモさん……どいてくれるかな）"]
+              "parameters": [
+                "(I came. Mr. Spider... could you move aside,\nplease?)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -4706,13 +4671,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（棚にロウソクがある……クモさんがいて取れない）"]
+              "parameters": [
+                "(There's a candle on the shelf... but I can't take\nit because of the spider.)"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（巣を壊すのは可哀想だし……）"]
+              "parameters": ["(It would be cruel to destroy its web...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -4763,34 +4730,15 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ねえ、クモさん。そのロウソクが欲しいんだけど、少しだ"
+                "\"Hey, Mr. Spider. I want that candle, could you\nmove aside just a little?\"\\n<Yukine>\\F[1]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["け退いてくれる？」\\n<雪音>\\F[1]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「いやだよ。だってここから離れたら、あのカエルに食べら"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "れちゃうもん。あのカエルが私をずっと食べようとしている"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "の。だから絶対離れないもん」\\n<赤い蜘蛛>\\F[1]\\AA[N]"
+                "\"No way. Because if I move away from here, that\nfrog will eat me. That frog has been trying to eat\nme forever. So I'm definitely not moving.\"\\n<Red Spider>\\F[1]\\AA[N]"
               ]
             },
             {
@@ -4854,20 +4802,17 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……カエルがいたら動かないよ」\\n<赤い蜘蛛>"]
+              "parameters": [
+                "\"...If there's a frog, I won't move.\"\\n<Red Spider>"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（カエルさんがいたらロウソクは取れないみたい。カエルさ"
+                "(It seems I can't get the candle if there's a\nfrog. I should try talking to Mr. Frog.)\\F[8]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["んと話してみよう）\\F[8]"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -4916,7 +4861,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「クモさん、カエルさんはどこかに行ったよ」\\n<雪音>\\F[1]"
+                "\"Mr. Spider, Mr. Frog has gone somewhere.\"\\n<Yukine>\\F[1]"
               ]
             },
             {
@@ -5046,13 +4991,8 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ありがとう。これで、ようやく私も……あの子のところに"
+                "\"Thank you. With this, I can finally go to that\nchild... Thank you.\"\\n<Black Figure>"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["行けるわ……ありがとう」\\n<黒い人影>"]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
@@ -5073,19 +5013,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（いまのは……もしかして、人の魂だったの？　それに……"
+                "(Was that just now... perhaps, a human soul?\nAnd... the spider webs have disappeared too.)\\F[5]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クモの巣もなくなっちゃった）\\F[5]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（成仏、できたのかな……）\\F[6]"]
+              "parameters": ["(I wonder if they were able to pass on...)\\F[6]"]
             },
             {
               "code": 356,
@@ -5153,11 +5088,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『ロウソク』を手に入れた"]
+              "parameters": ["\"I've obtained a \\\"Candle\\\"\""]
             },
             { "code": 126, "indent": 0, "parameters": [10, 0, 0, 1] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -5167,13 +5101,8 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（カエルさんのところにも行ってみよう。お庭のイチゴのと"
+                "\"(I should go see Mr. Frog too. He should be by\nthe strawberries in the garden, right?)\""
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ころにいるはずだよね）"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 121, "indent": 0, "parameters": [25, 25, 0] },
@@ -5239,7 +5168,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（他にはなにも入ってないみたい）"]
+              "parameters": ["(It seems like there's nothing else inside)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5298,7 +5227,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギ穴がない。これ、どうやって開けるんだろ？）"]
+              "parameters": ["(There's no keyhole. How do I open this?)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5406,7 +5335,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5465,7 +5394,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5524,7 +5453,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（開かない……カギがかかっているみたい）"]
+              "parameters": ["(It won't open... It seems to be locked.)"]
             },
             { "code": 111, "indent": 0, "parameters": [0, 34, 1] },
             {
@@ -5639,7 +5568,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（役に立ちそうなものはないかな）"]
+              "parameters": ["(I wonder if there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5747,7 +5676,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5846,7 +5775,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギ穴がない。これ、どうやって開けるんだろ？）"]
+              "parameters": [
+                "(There's no keyhole. How am I supposed to open\nthis?)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5905,7 +5836,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5964,37 +5895,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（小鳥さんが一羽、止まり木にいる。餌箱も水も空っぽだ。"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "鳥かごの中にスイッチがあるけど……これ開ける場所がない"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["みたい）\\F[4]\\FH[ON]"]
-            },
-            { "code": 230, "indent": 0, "parameters": [60] },
-            { "code": 108, "indent": 0, "parameters": ["ピヨピヨ"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「なに見てる。捕まっている私をわざわざ笑いに来たのか？」\\n<小鳥>\\F[4]\\AA[N]"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「違うの、だれかに捕まっちゃったのかなって思って」\\n<雪音>\\F[12]"
+                "(A single bird sits on a perch. The feeder and\nwater are empty. There's a switch inside the\nbirdcage... but it seems there's no way to open\nit.)\\FH[ON]\\F[4]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -6004,14 +5905,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「見ればわかるだろ。こうして自由もなく、水も与えられな"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "いままずっと閉じこめられているんだ」\\n<小鳥>\\F[12]\\AA[N]"
+                "\"What are you looking at? Did you come here just\nto laugh at me being caught?\"\\n<Little Bird>\\F[4]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6019,14 +5913,17 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ああ、のど乾いたなぁ。お水を飲ませてくれたら、一つく"
+                "\"No, I was just wondering if someone caught you.\"\\n<Yukine>\\F[12]"
               ]
             },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 108, "indent": 0, "parameters": ["ピヨピヨ"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "らいお願いを聞いてあげれるのになぁ」\\n<小鳥>\\F[12]\\AA[N]"
+                "\"Can't you see? I'm trapped here without freedom,\nand I've been left without any water.\"\\n<Little Bird>\\F[12]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6034,13 +5931,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（お水を持ってきたら、鳥かごのスイッチを押してもらえる"
+                "\"Ah, I'm so thirsty. If you gave me some water, I\nmight be willing to grant you a favor.\"\\n<Little Bird>\\F[12]\\AA[N]"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["かも）\\F[5]\\FH[OFF]"]
+              "parameters": [
+                "(If I bring some water, maybe I can get the bird\nto press the switch in the cage.)\\FH[OFF]\\F[5]"
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [31, 31, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6090,14 +5990,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「あーあー、だれかお水を飲ませてくれないかなー」\\n<小鳥>"
+                "\"Ah-ah-, can someone give me some water?\"\\n<Little Bird>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（お水を探してみよう）\\F[1]"]
+              "parameters": ["(Let's look for some water)\\F[1]"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -6460,7 +6360,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（役に立ちそうなものはないかな）"]
+              "parameters": ["(I wonder if there's anything useful here)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6519,7 +6419,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（役に立ちそうなものはないかな）"]
+              "parameters": ["(I wonder if there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }

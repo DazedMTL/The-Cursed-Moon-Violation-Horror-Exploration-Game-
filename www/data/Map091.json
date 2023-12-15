@@ -224,7 +224,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「あ、くっっ、なに……からだに、なにかが」\\n<朔>\\FF[21]"
+                "\"Ah, ah... what's... something is in my body...\"\\n<Shuo>\\FF[21]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -232,7 +232,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「朔！　どうしたの!?」\\n<雪音>\\F[16]\\AA[F]\\FF[21]"
+                "\"Sakura! What's wrong!?\"\\n<Yukine>\\F[16]\\AA[F]\\FF[21]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -240,7 +240,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「だめ、はいってこないで……おねえ、ちゃ……にげ」\\n<朔>\\F[16]\\AA[FF]\\FF[21]"
+                "\"No, don't come in... Onee-san... run away\"\\n<Shuo>\\F[16]\\AA[FF]\\FF[21]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -248,21 +248,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「朔っ！　しっかりして、朔！」\\n<雪音>\\F[16]\\AA[F]\\FF[21]"
+                "\"Sakura! Hold on, Sakura!\"\\n<Yukine>\\F[16]\\AA[F]\\FF[21]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……」\\n<朔>\\F[16]\\AA[FF]\\FF[20]"]
+              "parameters": ["\"...\"\\n<Shuo>\\F[16]\\AA[FF]\\FF[20]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「朔、どうしちゃったの、朔っ！」\\n<雪音>\\F[16]\\AA[F]\\FF[20]"
+                "\"Sakura, what happened to you, Sakura!\"\\n<Yukine>\\F[16]\\AA[F]\\FF[20]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -270,14 +270,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「…………くくくっ、愚かな子狐だ」\\n<朔>\\F[16]\\AA[FF]\\FF[34]"
+                "\"...hehehe, foolish little fox.\"\\n<Shuo>\\F[16]\\AA[FF]\\FF[34]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「えっっ？」\\n<雪音>\\F[16]\\AA[F]\\FF[34]"]
+              "parameters": ["\"Eh?!?\"\\n<Yukine>\\F[16]\\AA[F]\\FF[34]"]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             {
@@ -293,7 +293,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「朔、どう……して？」\\n<雪音>\\F[13]\\AA[F]\\FF[34]"
+                "\"Sakura, why...?\"\\n<Yukine>\\F[13]\\AA[F]\\FF[34]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -301,7 +301,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「罪は償ってもらうぞ、この泥棒キツネめ」\\n<朔>\\F[13]\\AA[FF]\\FF[34]"
+                "\"You will atone for your sins, you thieving fox.\"\\n<Shuo>\\F[13]\\AA[FF]\\FF[34]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -309,7 +309,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「そ、んな……朔禍月」\\n<雪音>\\F[13]\\AA[F]\\FF[34]"
+                "\"Th-that can't be... Sakura Kagetsuki\"\\n<Yukine>\\F[13]\\AA[F]\\FF[34]"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -319,20 +319,15 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "投げつけられた言葉が倒れ込んだ私に突き刺さり、そして"
+                "The words thrown at me pierced through as I\ncollapsed, and then everything went pitch black."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["なにもかも真っ暗になりました。"]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 111, "indent": 0, "parameters": [0, 58, 0] },
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["シーンをスキップ", "シーンを見る"], -1, -1, 1, 1]
+              "parameters": [["Scene Skip", "<View the scene>"], -1, -1, 1, 1]
             },
             { "code": 402, "indent": 1, "parameters": [0, "シーンをスキップ"] },
             { "code": 119, "indent": 2, "parameters": ["skip"] },
@@ -354,9 +349,6 @@
             { "code": 121, "indent": 0, "parameters": [3, 3, 0] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             { "code": 401, "indent": 0, "parameters": ["badEND4"] },
             { "code": 230, "indent": 0, "parameters": [10] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 1] },

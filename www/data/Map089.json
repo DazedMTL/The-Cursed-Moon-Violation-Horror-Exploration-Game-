@@ -1793,37 +1793,26 @@
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「あなたは……だれ？"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  どうして、朔とおなじおかお、なの？」\\n<朔>"]
+              "parameters": [
+                "\"Why do you have the same face as Saku?\"\\n<Shuo>"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「我は神……人の子は我を名で『さかずき』と呼んだでおっ"
+                "\"I am a god... The children of men once called me\n'Sakazuki'... but now, there is no one left to\ncall upon me, a forgotten deity.\"\\n<Sake Cup>"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  たが……もはや今となっては呼ぶものはおらず忘れられた"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  神である」\\n<さかずき>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「かみ……さま？」\\n<朔>"]
+              "parameters": ["\"A god... sama?\"\\n<Shuo>"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -1858,26 +1847,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「然り……童よ、お前は我に捧げられたのだな。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  現し世の飢饉を防ぐための供儀であろうが……」\\n<さかずき>"
+                "\"Indeed... Child, you have been offered to me,\nhaven't you? As a sacrifice to prevent famine in\nthis world...\"\\n<Sake Cup>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「月より降りし我には、世に豊穣をもたらす力など"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  ないというのに……我が子を捧げるとは愚かなことよ」\\n<さかずき>"
+                "\"Despite descending from the moon, I possess no\npower to bring fertility to the world... It is\nfoolishness to offer one's child.\"\\n<Sake Cup>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -1906,46 +1885,34 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「童……名は朔というのか？」\\n<さかずき>"]
+              "parameters": ["\"Child... Is your name Saku?\"\\n<Sake Cup>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「は、はい……」\\n<朔>"]
+              "parameters": ["\"Yes, it is...\"\\n<Shuo>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「怯えずともよい……我に捧げられしお前は、いまより我が"
+                "\"Do not be afraid... You who have been offered to\nme, from now on you shall become my shrine\nmaiden.\"\\n<Sake Cup>"
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  巫女になるのだ」\\n<さかずき>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「み、こ？」\\n<朔>"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「その身を捨てて、共に長きを生きるのだ。"]
+              "parameters": ["\"Shrine maiden?\"\\n<Shuo>"]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  たった一人の巫女として、我に仕えるだけだ。"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["  案ずるな。"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  痛みはない……その身体はしばし我が預かっておこう」\\n<さかずき>"
+                "\"You will abandon your body and live a long life\nwith me. As my sole shrine maiden, you will serve\nonly me. Do not worry. There will be no pain... I\nshall take care of your body for a while.\"\\n<Sake Cup>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -1971,25 +1938,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「さくの、からだ」\\n<朔>"]
+              "parameters": ["\"Saku's body...\"\\n<Shuo>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「これで肉体の縛めから解き放たれた。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  人として生きることは叶わぬが、もはや捧げられた身だ。"
+                "\"With this, you are freed from the bonds of the\nflesh. You cannot live as a human anymore, but you\nare now a dedicated being. There should be no\ndiscomfort.\"\\n<Sake Cup>"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  不自由はなかろう」\\n<さかずき>"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 2, true] },
@@ -1998,47 +1955,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「我が巫女よ……なにか願いはあるか？"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["  我に仕えるのだ。"] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  その信仰の力で望みを叶えてやろう」\\n<さかずき>"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「…………おとうさんと、おかあさんにあいたい。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  おうちに、かえりたい」\\n<朔>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「……」\\n<さかずき>"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「さびしい……おとうさんに……おかあさんに、"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["  あいたいよぉ。"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  かみさま、さびしいです」\\n<朔>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「……ああ、朔よ。お前も同じなのだな」\\n<さかずき>"
+                "\"My shrine maiden... Do you have any wishes? You\nshall serve me. I shall grant your desires with\nthe power of your faith.\"\\n<Sake cup>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2046,24 +1964,37 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「よかろう……ならば、巫女の両親も、その世界も我が取り"
+                "\"...I want to see my father and mother. I want to\ngo home.\"\\n<Shuo>"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  込んでやるとしよう。"]
+              "parameters": ["\"...\"\\n<Sake Cup>"]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  いずれ死する定めなのだ。"]
-            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  我が、その生の苦役から解き放ってやろう」\\n<さかずき>"
+                "\"I'm lonely... I want to see my father... my\nmother... God-sama, I am lonely.\"\\n<Shuo>"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"...Ah, Saku. You feel the same way, don't you?\"\\n<Sake Cup>"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Very well... Then, I shall take in the shrine\nmaiden's parents and her world as well. They are\nfated to die eventually. I shall release them from\nthe hardships of life.\"\\n<Sake Cup>"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },

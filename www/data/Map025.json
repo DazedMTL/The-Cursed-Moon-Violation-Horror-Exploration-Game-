@@ -116,25 +116,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#有名絵本作家　不審死"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "2015年8月　都内の小学校で作家の御城サナエさんが死亡して"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いるのが発見されました。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "絵本【おうさまのしっぽ】【うたうおひめさま】といった"
+                "Picture books like \"The King's Tail\" and \"The\nSinging Princess\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -142,37 +125,11 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "名著を残した作家の不審な死に、警察は事件性が強いとして"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["捜査を進めているようです。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "御城サナエさんは、同小学校の卒業生であり、サナエさんの"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "在学中に彼女の妹が眼球だけを校内に残して失踪したという"
+                "During her school years, her sister disappeared,\nleaving only her eyeballs behind on campus"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "痛ましい事件と同じ状況から警察は同一犯の仕業と断定し―"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["―」"] },
+            { "code": 401, "indent": 0, "parameters": ["-"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 117, "indent": 0, "parameters": [25] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -182,7 +139,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「人形とうさぎさん……そうだったんだ」\\n<雪音>\\F[10]"
+                "\"Dolls and bunny rabbits... so that's how it was.\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -190,7 +147,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「二人ともやっと会うことができた、でいいのかな……」\\n<雪音>\\F[10]"
+                "\"I wonder if it's okay to say that both of them\nfinally got to meet...\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -304,7 +261,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -429,7 +386,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -479,7 +436,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（この鍵……合うかな）"]
+              "parameters": ["(I wonder if this key will fit...)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -496,7 +453,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（よかった、合ってたみたい）"]
+              "parameters": ["(Thank goodness, it looks like it fits)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 117, "indent": 0, "parameters": [20] },

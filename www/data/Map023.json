@@ -189,17 +189,28 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["（呪いの大樹に錆びた刀が刺さっている）"]
+              "parameters": [
+                "(A rusted sword is stuck in the cursed great tree)"
+              ]
             },
             { "code": 117, "indent": 1, "parameters": [20] },
             { "code": 230, "indent": 1, "parameters": [20] },
             { "code": 117, "indent": 1, "parameters": [24] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["私はーー"] },
+            { "code": 401, "indent": 1, "parameters": ["I am--"] },
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["刀を大樹に突き刺す", "何もしない"], 1, -1, 1, 1]
+              "parameters": [
+                [
+                  "I thrust the sword into the great tree",
+                  "I won't do anything"
+                ],
+                1,
+                -1,
+                1,
+                1
+              ]
             },
             {
               "code": 402,
@@ -221,7 +232,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "（この子がいるのに危ないことはしない方がいいよね）"
+                "(It's better not to do anything dangerous with\nthis child around)"
               ]
             },
             { "code": 117, "indent": 2, "parameters": [20] },
@@ -231,35 +242,26 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「なにこれ。"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  この木……ものすごい、呪いの気配だ」\\n<雪音>\\F[10]"
+                "`What is this? This tree... it has an incredible\naura of a curse.\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……」\\n<？？？>\\F[10]\\AA[FF]\\FF[23]"]
+              "parameters": ["`...`\\n<???>\\F[10]\\AA[FF]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「きっと、これが屋敷を作ってる呪いの一つなんだ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  これを放置してたら、けっこう危ないかも」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[10]\\AA[F]\\FF[23]"]
+              "parameters": [
+                "`Surely, this must be one of the curses that's\ncreating the mansion. If we leave it as is, it\ncould be quite dangerous.\\n<Yukine>\\F[10]\\AA[F]\\FF[23]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
@@ -317,33 +319,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「木の真ん中に……なにか刺さってる。"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["  あれって刀？」"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[4]\\AA[F]\\FF[23]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "呪いをまとった大きな木に、一本の古びたサビだらけの刀が"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["刺さっています。"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そこから深い亀裂が大木の上下に走り、ジワジワと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "弱い呪いが溢れ出しているのがわかります。\\F[4]\\AA[N]\\FF[23]"
+                "`There's something stuck in the middle of the\ntree... Is that a sword?\\n<Yukine>\\F[4]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -351,56 +328,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "噴き出す黒い呪いは、まるで大樹から流れる血のようです。"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\F[4]\\AA[N]\\FF[23]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「この刀が、木から出る呪いを斬っているのかな？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  刀が呪いを封じているんじゃなくて、この小太刀の力を"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  封じるために木が呪いを出しているのかも……」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[4]\\AA[F]\\FF[23]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「……」\\n<？？？>\\F[4]\\AA[FF]\\FF[23]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「うーん。この刀を、私の神様の力で押し込んだら……屋敷"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  を覆う祟りの要を一つ壊せるかも？」\\n<雪音>\\F[4]\\AA[F]\\FF[23]"
+                "A large tree cloaked in a curse, with an old,\nrust-covered sword stuck in it. Deep cracks run up\nand down the tree, and a weak curse seems to be\nseeping out slowly.\\F[4]\\AA[N]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -408,29 +336,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（成功すれば屋敷の呪いを削げるはず……でも失敗すれば、"
+                "\\F[4]The black curse that bursts forth is like blood\nflowing from the great tree.\\AA[N]\\FF[23]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  逆流した呪いで私も女の子も死んでしまうかも……）"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\F[4]\\AA[F]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（だけど、このまま祟りを放置するのは……）"]
+              "parameters": [
+                "`Is this sword cutting the curse coming from the\ntree? Maybe it's not that the sword is sealing the\ncurse, but rather the tree is emitting a curse to\nseal the power of this short sword...\\n<Yukine>\\F[4]\\AA[F]\\FF[23]"
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\F[4]\\AA[N]\\FF[23]"]
+              "parameters": ["`...`\\n<???>\\F[4]\\AA[FF]\\FF[23]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "`Hmm. If I push this sword in with the power of my\ngod... maybe I can destroy one of the sources of\nthe curse covering the mansion?\\n<Yukine>\\F[4]\\AA[F]\\FF[23]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\F[4](If successful, we should be able to reduce the\nmansion's curse... but if we fail, the backlash of\nthe curse might kill both me and the\ngirl...)\\AA[F]\\FF[23]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\F[4](But leaving the curse as it is...)\\AA[N]\\FF[23]"
+              ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 123, 1] },
             { "code": 121, "indent": 1, "parameters": [123, 123, 0] },
@@ -439,11 +384,17 @@
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["私はーー"] },
+            { "code": 401, "indent": 0, "parameters": ["I am--"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["刀を大樹に突き刺す", "何もしない"], 1, -1, 1, 1]
+              "parameters": [
+                ["Thrust the sword into the great tree", "I won't do anything"],
+                1,
+                -1,
+                1,
+                1
+              ]
             },
             {
               "code": 402,
@@ -464,7 +415,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "（この子がいるのに危ないことはしない方がいいよね）"
+                "(It's better not to do anything dangerous with\nthis child around)"
               ]
             },
             { "code": 117, "indent": 1, "parameters": [20] },
@@ -477,20 +428,15 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「私の神気をこめて、この小太刀を使えば……きっと呪いを"
+                "`If I infuse my divine energy into this short\nsword... surely I can purify the curse.\\n<Yukine>\\F[4]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  浄化できるはずだよね」\\n<雪音>\\F[4]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "錆びた刀の柄を握って、覚悟を決めます。\\F[4]\\AA[N]"
+                "Gripping the hilt of the rusted sword, I resolve\nmyself.\\AA[N]\\F[4]"
               ]
             },
             { "code": 243, "indent": 0, "parameters": [] },
@@ -499,7 +445,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「えいっ！　上手くいって！」\\n<雪音>\\F[18]"]
+              "parameters": ["`Ei! Let it work!\\n<Yukine>\\F[18]"]
             },
             {
               "code": 250,

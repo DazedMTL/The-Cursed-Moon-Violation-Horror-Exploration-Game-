@@ -2394,21 +2394,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「幸三さん、今日もお疲れ様です」\\n<雪音>\\F[3]"
+                "\"Mr. Kozou, good work today as well.\"\\n<Yukine>\\F[3]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……」\\n<幸三>\\F[3]\\AA[N]"]
+              "parameters": ["\"...\"\\n<Kozou>\\F[3]\\AA[N]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「うーん、やっぱり私のことは見えないのか」\\n<雪音>\\F[8]"
+                "\"Hmm, I guess you still can't see me, huh?\"\\n<Yukine>\\F[8]"
               ]
             },
             { "code": 122, "indent": 0, "parameters": [5, 5, 1, 0, 1] },
@@ -2459,25 +2459,20 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「幸三さーん、幸三さんってば」\\n<雪音>\\F[12]"]
+              "parameters": ["\"Kouzou-san, Kouzou-san!\"\\n<Yukine>\\F[12]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……」\\n<幸三>\\F[12]\\AA[N]"]
+              "parameters": ["\"...\"\\n<Kosan>\\F[12]\\AA[N]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「はぁ、やっぱり聞こえないか。"]
-            },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  たまにはお話してみたいのにな」\\n<雪音>\\F[10]"
+                "\"Sigh, you can't hear me, can you? I wish we could\nhave a chat once in a while.\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2576,37 +2571,15 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「今日も親子連れのお礼参りだったな。ほんと、ここの神様"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  ってご利益あるんだ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  私も子供ができたら雪音さまにお願いしようかしら？」\\n<巫女>"
+                "\"Today we had another family coming to give\nthanks. It's really true that the deity here is so\nbenevolent. Maybe when I have a child, I should\nmake a request to Yukine-sama as well?\"\\n<Shrine Maiden>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「そのときは大歓迎だよ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  でも巫女をやめちゃったらすこし寂しくなるね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  ……っていっても私の声は聞こてないんだけど」\\n<雪音>\\F[3]"
+                "\"You'll be most welcome then. But it would be a\nlittle lonely if you quit being a miko... not that\nyou can hear my voice, though.\"\\n<Yukine>\\F[3]"
               ]
             },
             { "code": 122, "indent": 0, "parameters": [5, 5, 1, 0, 1] },
@@ -2657,25 +2630,17 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「雪音さま。どうか私に良縁を授けてください。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  できれば、高収入で背の高いハンサムでお願いします」\\n<巫女>"
+                "\"Yukine-sama, please grant me a good match. If\npossible, I'd like someone with a high income,\ntall, and handsome.\"\\n<Shrine Maiden>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うーん……それは私のご利益じゃ難しいかな。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  子供を守ることはできるけど」\\n<雪音>\\F[7]"]
+              "parameters": [
+                "\"Hmm... that might be a bit difficult with the\nblessings I have. I can protect children, though.\"\\n<Yukine>\\F[7]"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3204,25 +3169,17 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「小さな神社なのに参拝者が多いなー。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  お婆ちゃんもこの神社で七五三したっていってたし……」\\n<巫女>"
+                "\"It's a small shrine, yet there are so many\nvisitors. My grandmother said she did her Shichi-\nGo-San here too...\"\\n<Shrine Maiden>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「そのときのことは覚えてるよ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  なんだかちょっと懐かしいな」\\n<雪音>\\F[3]"]
+              "parameters": [
+                "\"I remember that time. It feels somewhat\nnostalgic.\"\\n<Yukine>\\F[3]"
+              ]
             },
             { "code": 122, "indent": 0, "parameters": [5, 5, 1, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -3272,19 +3229,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「私の子供もここで七五三とかするのかなー？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  なんてね……」\\n<巫女>"]
+              "parameters": [
+                "\"I wonder if my child will also celebrate Shichi-\nGo-San here? Just kidding...\"\\n<Shrine Maiden>"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「えへへ、そのときは元気に育つように頑張るからね」\\n<雪音>\\F[2]"
+                "\"Ehehe, when that time comes, I'll do my best to\nraise them healthy.\"\\n<Yukine>\\F[2]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4354,13 +4308,8 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「今日も平和だな。風も気持ちいいし、こんな日が続いたら"
+                "\"It's peaceful today as well. The breeze feels\nnice, I wish days like this would continue.\"\\n<Yukine>\\F[1]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いいな」\\n<雪音>\\F[1]"]
             },
             {
               "code": 205,
@@ -4502,59 +4451,25 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「雪音さま雪音さま、この子の病気を治してくれて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  ありがとうございます。このご恩は一生忘れません」\\n<少女の母親>"
+                "\"Yukine-sama, Yukine-sama, thank you for curing my\nchild's illness. I will never forget this kindness\nfor as long as I live.\"\\n<Girl's Mother>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ありがとうございます神様"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  ……ねえねえ、お母さん。ほんとに私の病気って神様が"
+                "\"Thank you, God... Hey, Mom. Did God really cure\nmy illness?\"\\n<Girl>"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  治してくれたの？」\\n<少女>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「そうよ、ここの神様。雪音さまが治してくれたのよ。こ"
+                "\"Yes, the deity here. Yukine-sama cured you. This\ndeity is famous for being kind and helping\nchildren. Many other children have prayed here and\nbeen cured just like you.\"\\n<Girl's Mother>"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  この神様は子供を助けてくれる優しい神として有名なの。"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  あなた以外にもたくさんの子供がここでお祈りして治った"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  そうよ」\\n<少女の母親>"]
             },
             { "code": 213, "indent": 0, "parameters": [51, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4562,65 +4477,40 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「へえー、すごいー。あのお姉ちゃんが治してくれたんだ"
+                "\"Wow, that's amazing. So that Onee-san cured me.\"\\n<Girl>"
               ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["  ー」\\n<少女>"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「お姉ちゃん……？"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  あそこにいる神主さんはおじいちゃんに見えるけど。"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  あっちの巫女さんのことかしら？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  お姉さんって感じじゃないけど」\\n<少女の母親>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「違うよ。あそこに座ってる白いお姉ちゃんだよ。ほら見"
+                "\"Onee-san...? The priest over there looks like an\nold man to me. Maybe you mean that shrine maiden?\nShe doesn't quite look like an Onee-san though.\"\\n<Girl's Mother>"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  えるでしょ」\\n<少女>"]
+              "parameters": [
+                "\"No, not them. I'm talking about the Onee- san\nsitting over there in white. Look, you can see\nher, right?\"\\n<Girl>"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [47, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ごめんね、ちょっとお母さんには見えないみたい。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  あ……そうだ、病気も治ったし今日はシチューに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  しましょうか」\\n<少女の母親>"]
+              "parameters": [
+                "\"Sorry dear, it seems Mommy can't see her. Ah...\nthat's right, now that your illness is cured,\nshall we have stew today?\"\\n<Girl's Mother>"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「わーい、シチューだ。おかあさんのシチュー大好きー♥」\\n<少女の母親>"
+                "\"Yay, stew! I love Mommy's stew♥\"\\n<Girl's Mother>"
               ]
             },
             {
@@ -4792,30 +4682,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（あの子の病気はちゃんと治ったんだ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  すっかり元気になったみたいだし、頑張ったかいが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  あったかな）\\F[2]"]
+              "parameters": [
+                "(Her illness has really been cured. She seems\ncompletely healthy now, it was worth the effort.)\\F[2]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……でも久しぶりに『見える子』だったなぁ……"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["  お姉ちゃんか。"] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  なんだか嬉しいし、ちょっと神社を見て回ろうかな」\\n<雪音>\\F[1]"
+                "\"...But it's been a while since I met a 'child who\ncan see'. An Onee-san, huh? It makes me happy.\nMaybe I'll take a little walk around the shrine.\"\\n<Yukine>\\F[1]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -4823,15 +4699,13 @@
             { "code": 117, "indent": 0, "parameters": [10] },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\#Tips"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\#右上のヒントボタンから攻略情報を確認することができます"
+                "\\FFFF[53]Tips: You can check the strategy information from\nthe hint button in the top right corner."
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\FFFF[53]"] },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },
             { "code": 121, "indent": 0, "parameters": [27, 27, 0] },
@@ -5288,14 +5162,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「これは……」\\n<雪音>\\F[4]"]
+              "parameters": ["\"This is...\"\\n<Yukine>\\F[4]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "『だれか……たすけて……くるしい、くるしいよぉ』\\n<？？？>\\F[4]\\AA[N]"
+                "\"Someone... help... it hurts, it hurts so much...\"\\n<???>\\F[4]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5303,19 +5177,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（この中から声がしてるの？　でも……この中……）\\F[10]"
+                "(Is the voice coming from inside here? But...\ninside this...)\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（ものすごい呪いの渦だ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  入ったら……もう、出てこれないかも……）\\F[10]"]
+              "parameters": [
+                "If I go in... I might never be able to come out\nagain...)\\F[10]"
+              ]
             },
             { "code": 122, "indent": 0, "parameters": [7, 7, 0, 3, 5, -1, 0] },
             { "code": 122, "indent": 0, "parameters": [8, 8, 0, 3, 5, -1, 1] },
@@ -5748,14 +5619,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "「雪音さま、危ないです。近づいたら祟りに呑みこまれちゃ"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  いますよ！」\\n<狐>"]
+              "parameters": ["\"She's right here!\"\\n<Fox>"]
             },
             {
               "code": 205,
@@ -5849,14 +5713,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「でも……」\\n<雪音>\\F[10]"]
+              "parameters": ["\"But...\"\\n<Yukine>\\F[10]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "『たすけて……だれか、たすけて……』\\n<？？？>\\F[10]\\AA[N]"
+                "\"Help... someone, please help...\"\\n<???>\\F[10]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5864,7 +5728,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「でも、女の子が助けを求めてるのに放っておくなんて……」\\n<雪音>\\F[10]"
+                "\"But I can't just ignore a girl asking for\nhelp...\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5872,25 +5736,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ダメです。こんな祟りのなかでは神様も力が使えなくなり"
+                "\"No, you can't. In this kind of curse, even gods\nlose their power and will die.\"\\n<Fox>\\F[10]\\AA[N]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  ます。死んじゃいますよ」\\n<狐>\\F[10]\\AA[N]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「…………」\\n<雪音>\\F[10]"]
+              "parameters": ["\"...\"\\n<Yukine>\\F[10]"]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["「危険でも助けに行く」", "「助けるのを諦める」"],
+                ["I'll go help, even if it's dangerous", "Give up on helping"],
                 -1,
                 -1,
                 1,
@@ -5906,13 +5765,8 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「ごめん。私、助けに行くよ。"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
               "parameters": [
-                "  だって私は子供を守る神様だから」\\n<雪音>\\F[4]"
+                "\"I'm sorry. I have to go help. After all, I am a\ngod who protects children.\"\\n<Yukine>\\F[4]"
               ]
             },
             {
@@ -5978,7 +5832,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「雪音さまー！」\\n<狐>"]
+              "parameters": ["\"Lady Yukine-!\"\\n<Fox>"]
             },
             { "code": 356, "indent": 1, "parameters": ["Light deactivate"] },
             {
@@ -6101,7 +5955,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "（助けに行ったら、この子が一人になっちゃう）\\F[10]"
+                "(If I go to help, this child will be left alone.)\\F[10]"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -6109,7 +5963,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "「ひーん、雪音さまー。いかないでくださいー」\\n<狐>\\F[10]\\AA[N]"
+                "\"Hii-n, Lady Yukine-. Please don't go-\"\\n<Fox>\\F[10]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -6117,21 +5971,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "「……わかった、行かないよ。だからそんな顔しないで、い"
+                "\"...Okay, I won't go. So don't make that face, be\na good child.\"\\n<Yukine>\\F[7]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["  い子だから」\\n<雪音>\\F[7]"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "「こやぁぁぁぁぁぁぁぁぁんっっ」\\n<狐>\\F[7]\\AA[N]"
-              ]
+              "parameters": ["\"Koyaaaaaaaan!\"\\n<Fox>\\F[7]\\AA[N]"]
             },
             { "code": 230, "indent": 1, "parameters": [60] },
             {
@@ -6148,10 +5995,11 @@
             { "code": 121, "indent": 1, "parameters": [40, 40, 0] },
             { "code": 230, "indent": 1, "parameters": [120] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 1, "parameters": [""] },
-            { "code": 401, "indent": 1, "parameters": [""] },
-            { "code": 401, "indent": 1, "parameters": [""] },
-            { "code": 401, "indent": 1, "parameters": ["END1 変わらない日常"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["END1 Unchanging Everyday Life"]
+            },
             { "code": 354, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
@@ -6389,14 +6237,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「これは……」\\n<雪音>\\F[4]"]
+              "parameters": ["\"This is...\"\\n<Yukine>\\F[4]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "『だれか……たすけて……くるしい、くるしいよぉ』\\n<？？？>\\F[4]\\AA[N]"
+                "\"Someone... help... it hurts, it hurts so much...\"\\n<???>\\F[4]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6404,19 +6252,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（この中から声がしてるの？　でも……この中……）\\F[10]"
+                "(Is the voice coming from inside this? But...\ninside this...)\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（ものすごい呪いの渦だ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  入ったら……もう、出てこれないかも……）\\F[10]"]
+              "parameters": [
+                "(It's a tremendous whirl of curses. If I enter...\nI might never be able to get out...)\\F[10]"
+              ]
             },
             { "code": 122, "indent": 0, "parameters": [7, 7, 0, 3, 5, -1, 0] },
             { "code": 122, "indent": 0, "parameters": [8, 8, 0, 3, 5, -1, 1] },
@@ -6850,13 +6695,8 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「雪音さま、危ないです。近づいたら祟りに呑みこまれちゃ"
+                "\"Yukine-sama, it's dangerous. If you get too\nclose, you'll be swallowed by the curse!\"\\n<Fox>"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  いますよ！」\\n<狐>"]
             },
             {
               "code": 205,
@@ -6950,14 +6790,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「でも……」\\n<雪音>\\F[10]"]
+              "parameters": ["\"But...\"\\n<Yukine>\\F[10]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "『たすけて……だれか、たすけて……』\\n<？？？>\\F[10]\\AA[N]"
+                "\"Help me... someone, please help me...\"\\n<???>\\F[10]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6965,7 +6805,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「でも、女の子が助けを求めてるのに放っておくなんて……」\\n<雪音>\\F[10]"
+                "\"But I can't just ignore a girl who's asking for\nhelp...\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6973,25 +6813,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ダメです。こんな祟りのなかでは神様も力が使えなくなり"
+                "\"No, it's impossible. In the midst of such a\ncurse, even the gods can't use their powers.\nYou'll die.\"\\n<Fox>\\F[10]\\AA[N]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  ます。死んじゃいますよ」\\n<狐>\\F[10]\\AA[N]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「…………」\\n<雪音>\\F[10]"]
+              "parameters": ["\"...\"\\n<Yukine>\\F[10]"]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["「危険でも助けに行く」", "「助けるのを諦める」"],
+                ["I'll go help, even if it's dangerous", "Give up on helping"],
                 -1,
                 -1,
                 1,
@@ -7007,13 +6842,8 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「ごめん。私、助けに行くよ。"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
               "parameters": [
-                "  だって私は子供を守る神様だから」\\n<雪音>\\F[4]"
+                "\"I'm sorry. I have to go help. After all, I am a\ngod who protects children.\"\\n<Yukine>\\F[4]"
               ]
             },
             {
@@ -7079,7 +6909,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「雪音さまー！」\\n<狐>"]
+              "parameters": ["\"Yukine-sama-!\"\\n<Fox>"]
             },
             { "code": 356, "indent": 1, "parameters": ["Light deactivate"] },
             {
@@ -7202,7 +7032,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "（助けに行ったら、この子が一人になっちゃう）\\F[10]"
+                "(If I go to help, this child will be left alone.)\\F[10]"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -7210,7 +7040,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "「ひーん、雪音さまー。いかないでくださいー」\\n<狐>\\F[10]\\AA[N]"
+                "\"Hii-n, Yukine-sama-. Please don't go-\"\\n<Fox>\\F[10]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -7218,21 +7048,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "「……わかった、行かないよ。だからそんな顔しないで、い"
+                "\"...Alright, I won't go. So don't make that face,\nyou're a good child.\"\\n<Yukine>\\F[7]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["  い子だから」\\n<雪音>\\F[7]"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "「こやぁぁぁぁぁぁぁぁぁんっっ」\\n<狐>\\F[7]\\AA[N]"
-              ]
+              "parameters": ["\"Koyaaaaaaaan!\"\\n<Fox>\\F[7]\\AA[N]"]
             },
             { "code": 230, "indent": 1, "parameters": [60] },
             {
@@ -7249,10 +7072,11 @@
             { "code": 121, "indent": 1, "parameters": [40, 40, 0] },
             { "code": 230, "indent": 1, "parameters": [120] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 1, "parameters": [""] },
-            { "code": 401, "indent": 1, "parameters": [""] },
-            { "code": 401, "indent": 1, "parameters": [""] },
-            { "code": 401, "indent": 1, "parameters": ["END1 変わらない日常"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["END1 Unchanging Everyday Life"]
+            },
             { "code": 354, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
@@ -7393,7 +7217,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（お賽銭が入ってる）"]
+              "parameters": ["(There's an offering inside)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 122, "indent": 0, "parameters": [5, 5, 1, 0, 1] },
@@ -7451,7 +7275,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（またシュークリームとかお供えしてくれないかな）"]
+              "parameters": ["(I wonder if she'll offer me some cream again)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -7555,14 +7379,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ねえ、雪音さま。遊びませんか？」\\n<狐>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "「また遊びたいの？　お昼も遊んだよ」\\n<雪音>\\F[7]"
+                "\"Hey, Yukine-sama. Won't you play with me?\"\\n<Fox>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -7570,14 +7388,24 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「いいじゃないですかー、遊びましょうよー」\\n<狐>\\F[7]\\AA[N]"
+                "\"You want to play again? We already played at\nnoon.\"\\n<Yukine>\\F[7]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「また明日に遊ぼうね」\\n<雪音>\\F[7]"]
+              "parameters": [
+                "\"What's the harm? Let's play some more-\"\\n<Fox>\\F[7]\\AA[N]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Let's play again tomorrow, okay?\"\\n<Yukine>\\F[7]"
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["namePop 72"] },
             { "code": 122, "indent": 0, "parameters": [5, 5, 1, 0, 1] },
@@ -7718,7 +7546,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（落ち葉が集められてる）"]
+              "parameters": ["(The fallen leaves have been gathered up)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -7775,13 +7603,8 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「そういえば、むかし食べさせてもらった焼き芋おいし"
+                "\"Come to think of it, the baked sweet potatoes you\ngave me a while back were delicious...\"\\n<Yukine>\\F[2]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  かったなー」\\n<雪音>\\F[2]"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -7925,7 +7748,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（この神社の由来とご利益が書いてある）"]
+              "parameters": [
+                "(This explains the origin of the shrine and its\nblessings.)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 122, "indent": 0, "parameters": [5, 5, 1, 0, 1] },
@@ -7983,13 +7808,8 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「子供を守るご利益はともかく、由来は間違っているんだよ"
+                "\"Setting aside the blessing of protecting\nchildren, the origin is wrong, you know?\"\\n<Yukine>\\F[7]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  ねー」\\n<雪音>\\F[7]"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -8229,14 +8049,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「これは……」\\n<雪音>\\F[4]"]
+              "parameters": ["\"This is...\"\\n<Yukine>\\F[4]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "『だれか……たすけて……くるしい、くるしいよぉ』\\n<？？？>\\F[4]\\AA[N]"
+                "\"Someone... help me... it hurts, it hurts so\nmuch...\"\\n<???>\\F[4]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -8244,19 +8064,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（この中から声がしてるの？　でも……この中……）\\F[10]"
+                "(Is the voice coming from inside this? But...\ninside this...)\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（ものすごい呪いの渦だ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  入ったら……もう、出てこれないかも……）\\F[10]"]
+              "parameters": [
+                "(It's a tremendous vortex of curses. If I enter...\nI might never be able to get out...)\\F[10]"
+              ]
             },
             { "code": 122, "indent": 0, "parameters": [7, 7, 0, 3, 5, -1, 0] },
             { "code": 122, "indent": 0, "parameters": [8, 8, 0, 3, 5, -1, 1] },
@@ -8690,13 +8507,8 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「雪音さま、危ないです。近づいたら祟りに呑みこまれちゃ"
+                "\"Yukine-sama, it's dangerous. If you get too\nclose, you'll be swallowed up by the curse!\"\\n<Fox>"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  いますよ！」\\n<狐>"]
             },
             {
               "code": 205,
@@ -8790,14 +8602,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「でも……」\\n<雪音>\\F[10]"]
+              "parameters": ["\"But...\"\\n<Yukine>\\F[10]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "『たすけて……だれか、たすけて……』\\n<？？？>\\F[10]\\AA[N]"
+                "\"Help... someone, please help...\"\\n<???>\\F[10]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -8805,7 +8617,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「でも、女の子が助けを求めてるのに放っておくなんて……」\\n<雪音>\\F[10]"
+                "\"But I can't just ignore a girl who's asking for\nhelp...\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -8813,25 +8625,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ダメです。こんな祟りのなかでは神様も力が使えなくなり"
+                "\"No, it's impossible. In the midst of such a\ncurse, even the gods can't use their powers.\nYou'll die.\"\\n<Fox>\\F[10]\\AA[N]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  ます。死んじゃいますよ」\\n<狐>\\F[10]\\AA[N]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「…………」\\n<雪音>\\F[10]"]
+              "parameters": ["\"...\"\\n<Yukine>\\F[10]"]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["「危険でも助けに行く」", "「助けるのを諦める」"],
+                ["I'll go help, even if it's dangerous", "Give up on helping"],
                 -1,
                 -1,
                 1,
@@ -8847,13 +8654,8 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「ごめん。私、助けに行くよ。"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
               "parameters": [
-                "  だって私は子供を守る神様だから」\\n<雪音>\\F[4]"
+                "\"I'm sorry. I have to go help. After all, I am a\ngod who protects children.\"\\n<Yukine>\\F[4]"
               ]
             },
             {
@@ -8919,7 +8721,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「雪音さまー！」\\n<狐>"]
+              "parameters": ["\"Yukine-sama-!\"\\n<Fox>"]
             },
             { "code": 356, "indent": 1, "parameters": ["Light deactivate"] },
             {
@@ -9042,7 +8844,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "（助けに行ったら、この子が一人になっちゃう）\\F[10]"
+                "(If I go to help, this child will be left alone.)\\F[10]"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -9050,7 +8852,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "「ひーん、雪音さまー。いかないでくださいー」\\n<狐>\\F[10]\\AA[N]"
+                "\"Hii-n, Yukine-sama-. Please don't go-\"\\n<Fox>\\F[10]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -9058,21 +8860,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "「……わかった、行かないよ。だからそんな顔しないで、い"
+                "\"...Alright, I won't go. So don't make that face,\nyou're a good child.\"\\n<Yukine>\\F[7]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["  い子だから」\\n<雪音>\\F[7]"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "「こやぁぁぁぁぁぁぁぁぁんっっ」\\n<狐>\\F[7]\\AA[N]"
-              ]
+              "parameters": ["\"Koyaaaaaaaan!\"\\n<Fox>\\F[7]\\AA[N]"]
             },
             { "code": 230, "indent": 1, "parameters": [60] },
             {
@@ -9089,10 +8884,11 @@
             { "code": 121, "indent": 1, "parameters": [40, 40, 0] },
             { "code": 230, "indent": 1, "parameters": [120] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 1, "parameters": [""] },
-            { "code": 401, "indent": 1, "parameters": [""] },
-            { "code": 401, "indent": 1, "parameters": [""] },
-            { "code": 401, "indent": 1, "parameters": ["END1 変わらない日常"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["END1 Unchanging Everyday Life"]
+            },
             { "code": 354, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
@@ -9230,22 +9026,20 @@
           "list": [
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\"Help me\"\\n<???>"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["『たすけて』\\n<？？？>"]
+              "parameters": ["\"Who's there?\"\\n<Yukine>\\F[5]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「だれ？」\\n<雪音>\\F[5]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["（いま……鳥居の方から声がしたような）\\F[4]"]
+              "parameters": [
+                "(Just now... It seemed like a voice came from the\ndirection of the torii gate)\\F[4]"
+              ]
             },
             {
               "code": 245,
@@ -9260,7 +9054,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（それに、この鈴の音。どこから……）\\F[4]"]
+              "parameters": [
+                "(And this bell sound. Where is it coming from...)\\F[4]"
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["ダッシュ禁止"] },
             {

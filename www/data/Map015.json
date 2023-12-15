@@ -224,12 +224,12 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（なにか書いてある）"]
+              "parameters": ["(Something is written here)"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["読む", "読まない"], 1, -1, 1, 1]
+              "parameters": [["Read it", "I won't read it"], 1, -1, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "読む"] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -243,89 +243,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#七十六年五月十八日"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["明日から修行で修験道の荒行に挑む。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["十日に及ぶ過酷な修行だが、衆生の人々を"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["苦しめる霊を鎮める霊力を鍛えるための大切な行だ。"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["努力を積み重ね、師に追いつかねばならない。"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\#七十六年六月二日"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["わずかに霊力の高まりを感じる。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["日々の禊と瞑想の効果はあるようだ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "明日は初の除霊に挑む。私が人を救えることを証明したい。"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\#七十九年二月三日"] },
-            { "code": 401, "indent": 0, "parameters": ["師匠が消えた。"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["かねてから挑む予定だった大きな祟りを祓うと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["出ていったきり、二か月も帰ってこない。"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あの師が破れたのだろうか。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["まだ救われた恩返しもできていないのに。"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\#八十一年八月七日"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日はものすごく暑い日だ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["師匠の手がかりを知る老齢の霊能力者とわたりを"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "つけることができたが、屋敷に挑むには力不足だといわれた。"
+                "May 18, 1976: From tomorrow, I will undertake the\nascetic practices of Shugendo. It's a grueling\nten-day training, but it's an important task to\ncultivate the spiritual power needed to calm the\nspirits that torment the living beings."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -333,128 +252,102 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "天才といわれた彼の弟子も、屋敷に挑み戻らなかったという。"
+                "I must continue to work hard and catch up to my\nmaster."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "その筋では名を口にすることも忌避される『祟り月の屋敷』"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["というそうだ。"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#八十三年九月二十日"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["山中の神社を見つけた。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["朽ちた神社にはおぞましいほどの呪いを感じる。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ここの主も『祟り月の屋敷』に喰われたのだろうか。"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["神すら飲み込むほどの呪いに私は勝てるのだろうか。"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\#八十七年一月九日"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "ついに屋敷に挑む。都内に通じる道があるのを見つけたのだ。"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "いまや師の力を超え、界隈では知らぬものがいない霊能者"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["になるまで霊力を鍛え上げた。"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "師の仇をうち、積年の呪いを解放する役目を果たすときが来"
+                "June 2, 1976: I feel a slight increase in my\nspiritual power. It seems that the daily\npurification and meditation are having an effect.\nTomorrow, I will face my first exorcism. I want to\nprove that I can save people."
               ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["たのだ。"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\#八十七年一月十日"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "死にたくない死にたくない死にたくない死にたくない死にた"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "くない死にたくない死にたくない死にたくない死にたくない"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["死にたくないしにたくないしにたくないしにたくない"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "しにたくないしにたくないしにたくない　しねば喰われる　"
+                "February 3, 1979: The master has disappeared. He\nwent out to exorcise a major curse he had planned\nto confront for some time and hasn't returned for\ntwo months."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "たましいものみこまれる　おそろしい　おそろしい　かけた"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "つきは　ひとの手におえるものではない　　わたしも　とり"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こま　れる　とちがのろわれてしまう"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#この先には何も書いてない。"]
+              "parameters": [
+                "Could it be that the master was defeated? And I\nhave yet to repay him for saving me."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "August 7, 1981: Today is an extremely hot day. I\nmanaged to make contact with an elderly psychic\nwho knows clues about the master, but I was told\nthat I'm not strong enough to challenge the\nmansion."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Even his disciple, who was called a genius,\nchallenged the mansion and never returned. In\nthose circles, it's known as the \"Cursed Moon\nMansion,\" a name that is shunned even in speech."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "September 20, 1983: I found a shrine in the\nmountains. The decayed shrine is filled with a\nhideous curse. Perhaps its deity was also consumed\nby the \"Cursed Moon Mansion.\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Can I really overcome a curse that even swallows\ngods?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "January 9, 1987: At last, I will challenge the\nmansion. I've found a path that leads to it from\nwithin the city. Now, having honed my spiritual\npower to surpass my master's and become a psychic\nknown to all in the area, it's time."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "The time has come for me to avenge my master and\nrelease the long-standing curse."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "January 10, 1987: I don't want to die I don't want\nto die I don't want to die I don't want to die I\ndon't want to die I don't want to die I don't want\nto die I don't want to die I don't want to die I\ndon't want to die I don't want to die I don't want\nto die"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I don't want to die if I die I'll be consumed\nsouls will be swallowed it's terrifying it's\nterrifying the cursed moon is not something humans\ncan handle I too will be taken cursed by the land"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["There's nothing written beyond this point."]
             },
             { "code": 111, "indent": 0, "parameters": [0, 87, 1] },
             { "code": 121, "indent": 1, "parameters": [87, 87, 0] },
@@ -567,7 +460,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1262,7 +1155,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1318,7 +1211,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（鍵が開いてる。ここから飛び降りて逃げよう）"]
+              "parameters": [
+                "(The lock is open. I should jump down from here\nand escape.)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 246, "indent": 0, "parameters": [1] },
@@ -1376,12 +1271,11 @@
             },
             { "code": 230, "indent": 0, "parameters": [100] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「危なかった。"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  追いかけてこないから……逃げられた、のかな？」\\n<雪音>\\F[13]"
+                "\"That was close. Since they're not chasing me...\nmaybe I've escaped?\"\\n<Yukine>\\F[13]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1389,7 +1283,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「あ……ロウソクの火が消えちゃった」\\n<雪音>\\F[8]"
+                "\"Ah... The candle flame has gone out.\"\\n<Yukine>\\F[8]"
               ]
             },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 34] },
@@ -1513,7 +1407,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（いま、なにか音が……）"]
+              "parameters": ["(Did I just hear a sound...?)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 121, "indent": 0, "parameters": [89, 89, 0] },
@@ -1891,14 +1785,7 @@
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クリックでコンティニュー"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Click to continue-"] },
             { "code": 246, "indent": 0, "parameters": [1] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 117, "indent": 0, "parameters": [25] },
@@ -2362,7 +2249,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（汚れてて読めない）"]
+              "parameters": ["(It's too dirty to read)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }

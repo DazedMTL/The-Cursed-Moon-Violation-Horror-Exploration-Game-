@@ -184,7 +184,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（ロウソクがある。袋にはマッチが入っている）"]
+              "parameters": ["(There's a candle. Matches are inside the bag.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -250,7 +250,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（家族写真のようだが、子供の顔は焦げて分からない）"
+                "(It looks like a family photo, but the child's\nface is burnt and unrecognizable.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -316,7 +316,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（泣いている老婆が一人で写っている）"]
+              "parameters": ["(A photo of an old woman crying alone is shown)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -381,7 +381,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（白黒の写真には大きな棺が２つ並んでいる）"]
+              "parameters": [
+                "(The black and white photo shows two large coffins\nside by side.)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -446,7 +448,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（なにか燃えた建物が写っている）"]
+              "parameters": ["(A burnt building is captured in the photo)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }

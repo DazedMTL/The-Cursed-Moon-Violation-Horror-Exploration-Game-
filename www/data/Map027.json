@@ -1049,7 +1049,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1108,7 +1108,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1256,7 +1256,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1520,14 +1520,7 @@
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クリックでコンティニュー"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Click to continue-"] },
             { "code": 246, "indent": 0, "parameters": [1] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 117, "indent": 0, "parameters": [25] },
@@ -1717,47 +1710,38 @@
             { "code": 117, "indent": 0, "parameters": [47] },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「…………」"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[9]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "「祟りの気配が、なくなった……どこかに行ったみたい……」"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[9]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「こわくなかった？」"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[8]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「……」\\n<？？？>\\F[8]\\AA[FF]\\FF[20]"]
+              "parameters": ["\"...\"\\n<Yukine>\\F[9]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「そっか。まだ分かんないんだね……でもあなたのこと、"
+                "\"The aura of the curse has disappeared... It seems\nto have gone somewhere else...\"\\n<Yukine>\\F[9]"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  絶対に助けてあげるからね」"]
+              "parameters": ["\"Weren't you scared?\"\\n<Yukine>\\F[8]"]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<雪音>\\F[7]\\AA[F]\\FF[20]"]
+              "parameters": ["\"...\"\\n<???>\\F[8]\\AA[FF]\\FF[20]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"I see. You still don't understand, huh... But I\nwill definitely save you, no matter what.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[20]"
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 48] },

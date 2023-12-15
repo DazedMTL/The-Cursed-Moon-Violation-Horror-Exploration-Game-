@@ -2953,15 +2953,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「■■■……」\\n<？？？>\\FF[30]"]
+              "parameters": ["\"...\"\\n<???>\\FF[30]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「祟り神！"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  あなた――あなたの名は、朔禍月ね」\\n<雪音>\\F[19]"
+                "\"Curse God! Your name is Sakumogatsu, isn't it?\"\\n<Yukine>\\F[19]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2969,21 +2968,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「■■■……ほう、我が名を看破するか」\\n<朔禍月>\\FF[35]"
+                "\"...Hmm, you see through my name?\"\\n<Sakka Tsuki>\\FF[35]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「‼!!」\\n<雪音>\\F[16]"]
+              "parameters": ["\"‼!!\"\\n<Yukine>\\F[16]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（どういうこと！　朔禍月……朔にそっくりだ）\\F[15]"
+                "(What does this mean! Sakumogatsu... looks just\nlike Saku.)\\F[15]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2991,47 +2990,31 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（雰囲気はまるで違うけど、顔だけじゃなくて背格好まで"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["  一緒だ）\\F[15]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「ふむ……ここの坊主の記録でも読んだか。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  人には読めぬ術を施したつもりだったが、神眼は欺けぬか」\\n<朔禍月>\\FF[31]"
+                "(The aura is completely different, but not just\nthe face, even the stature is the same.)\\F[15]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あなた、どうしてこんな非道いことをするの。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  どうして沢山の人を祟りで殺したの！」\\n<雪音>\\F[15]"
+                "\"Hmm... Did you read the records of the monk here?\nI thought I had cast a spell that humans couldn't\nread, but it seems divine eyes cannot be\ndeceived.\"\\n<Sakka Tsuki>\\FF[31]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ふむ……子狐が喋っておる。"]
+              "parameters": [
+                "\"Why do you do such cruel things? Why have you\nkilled so many people with your curse!\"\\n<Yukine>\\F[15]"
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  それに、なんといった？　もしや……」\\n<朔禍月>\\FF[31]"
+                "\"Hmm... The little fox speaks. And what did you\nsay? Could it be...\"\\n<Sakari Tsuki>\\FF[31]"
               ]
             },
             {
@@ -3046,53 +3029,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ケモノごときが、この我を糾弾しているつもりか？」\\n<朔禍月>\\FF[33]"
+                "\"A mere beast dares to accuse me?\"\\n<Sakari Tsuki>\\FF[33]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うっっっ!?」\\n<雪音>\\F[13]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["（すごい祟りの気配！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  病院で感じたものよりずっと強い。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  これが祟り神の力なの!?）\\F[13]"]
+              "parameters": ["\"Ughhh!?\"\\n<Yukine>\\F[13]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「我の領地に土足で入りこみ、我の宝物を奪ったあげく……"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "　よくもぬけぬけと吠えたものだな」\\n<朔禍月>\\FF[33]"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（宝物？"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  なんのことかわからないけど、聞ける雰囲気じゃない）\\F[15]"
+                "(Such an intense aura of a curse! It's much\nstronger than what I felt at the hospital. Is this\nthe power of a Curse God!? )\\F[13]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3100,7 +3051,23 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「子狐よ、覚悟はできているのだろうな？」\\n<朔禍月>\\FF[32]"
+                "\"You dare to tread into my territory with dirty\nfeet and steal my treasure... How brazenly you\nbark.\"\\n<Sakka Tsuki>\\FF[33]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "(Treasure? I don't know what he's talking about,\nbut it's not the atmosphere to ask.)\\F[15]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Little fox, are you prepared?\"\\n<Sakka Tsuki>\\FF[32]"
               ]
             },
             {
@@ -3121,59 +3088,42 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（またあの悪霊が……）\\F[15]"]
+              "parameters": ["(That evil spirit again...)\\F[15]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「おねえちゃん、こわい……」\\n<朔>\\F[15]\\AA[FF]\\FF[21]"
+                "\"Onee-san, I'm scared...\"\\n<Shuo>\\F[15]\\AA[FF]\\FF[21]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……」\\n<朔禍月>\\FF[31]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["（だめだ、私じゃ……こんな強い祟りには勝てない。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  逃げなきゃ）\\F[10]\\AA[F]\\FF[21]"]
+              "parameters": ["\"...\"\\n<Sakka Tsuki>\\FF[31]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「おねえ、ちゃん……」\\n<朔>\\F[10]\\AA[FF]\\FF[21]"
+                "(It's no use, I can't... I can't win against such\na strong curse. I have to run away.)\\FF[21]\\F[10]\\AA[F]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「さ、朔……走れる？"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  合図したら逃げるよ」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[4]\\AA[F]\\FF[21]"]
+              "parameters": ["\"Onee-chan...\"\\n<Shuo>\\F[10]\\AA[FF]\\FF[21]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「う、うん……だいじょうぶ」\\n<朔>\\F[4]\\AA[FF]\\FF[23]"
+                "\"Saku, can you run? When I give the signal, we'll\nescape.\"\\n<Yukine>\\F[4]\\AA[F]\\FF[21]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3181,22 +3131,29 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「逃さぬぞ……やれ、狐狩りの時間だ」\\n<朔禍月>\\FF[34]"
+                "\"Yes, I'm okay.\"\\n<Shuo>\\F[4]\\AA[FF]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うううううう……」\\n<悪霊>\\FF[34]\\AA[N]"]
+              "parameters": [
+                "\"You won't escape... Now, it's time for a fox\nhunt.\"\\n<Sakka Tsuki>\\FF[34]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"Uuuuuuu...\"\\n<Evil Spirit>\\FF[34]\\AA[N]"]
             },
             { "code": 242, "indent": 0, "parameters": [1] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「朔！」"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<雪音>\\F[19]\\AA[F]\\FF[23]"]
+              "parameters": ["\"Saku!\"\\n<Yukine>\\F[19]\\AA[F]\\FF[23]"]
             },
             {
               "code": 245,
@@ -4389,47 +4346,38 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「くそっ……くそぅ……みんな、みんな、死んでしまった」\\n<男性の幽霊>"
+                "\"Damn it... damn it all... everyone, everyone is\ndead...\"\\n<Male Ghost>"
               ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「あんなバケモノに挑んで……師匠も、兄貴も……祟りに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  なっちまった」\\n<男性の幽霊>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（この人……自分が亡くなっていることに気付いてないんだ"
+                "\"Challenging such a monster... Master and big\nbrother... they've become cursed spirits.\"\\n<Male Ghost>"
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["  ……）\\F[8]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ちくしょう……俺も、喰われる、祟りになりたくない……"
+                "(This person... he hasn't realized that he's\npassed away...)\\F[8]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  カエルはイヤだ」\\n<男性の幽霊>\\AA[N]\\F[8]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（だめだ……心を失っちゃってる）\\F[10]"]
+              "parameters": [
+                "\"Damn it... I don't want to be eaten, don't want\nto become a cursed spirit... I hate frogs.\"\\n<Male Ghost>\\AA[N]\\F[8]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["(It's no use... he's lost his mind.)\\F[10]"]
             },
             { "code": 121, "indent": 0, "parameters": [163, 163, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6791,14 +6739,7 @@
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クリックでコンティニュー"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Click to continue"] },
             { "code": 246, "indent": 0, "parameters": [1] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 117, "indent": 0, "parameters": [25] },

@@ -395,7 +395,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（階段が……なんで……）"]
+              "parameters": ["(The stairs... why are they... )"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -494,7 +494,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（階段が……なんで……）"]
+              "parameters": ["(The stairs... why are they... )"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -593,7 +593,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（階段が……なんで……）"]
+              "parameters": ["(The stairs... why are they... )"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }

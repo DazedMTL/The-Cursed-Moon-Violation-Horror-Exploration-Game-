@@ -299,7 +299,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（開かない……奥に、誰かいるみたいだけど）"]
+              "parameters": [
+                "(It won't open... It seems like there's someone\ninside, though.)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -320,20 +322,17 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「そこの人、聞こえる？　私、助けにきたの。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  いま動ける？」\\n<雪音>"]
+              "parameters": [
+                "\"Is anyone there? Can you hear me? I've come to\nhelp. Can you move right now?\"\\n<Yukine>"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「…………」\\n<？？？>"] },
+            { "code": 401, "indent": 0, "parameters": ["\"...\"\\n<???>"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（あれ？　返事がない。どうしたんだろ）"]
+              "parameters": ["(Huh? No response. I wonder what's wrong.)"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 235, "indent": 0, "parameters": [90] },
@@ -399,48 +398,35 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ねえ、あなた……聞こえる？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  そこにいるんだよね？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  聞こえてる？」\\n<雪音>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「……ねえってば。"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  あなた、捕まってるの？」\\n<雪音>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「…………」\\n<？？？>"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["（やっぱり返事がない。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  呼吸する音は……聞こえるから生きてみたいだけど。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  もしかして、しゃべれない状態なのかな）"]
+              "parameters": [
+                "\"Hey, can you hear me? You're there, aren't you?\nCan you hear me?\"\\n<Yukine>"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「すぐに助けてあげるから待ってて」\\n<雪音>"]
+              "parameters": [
+                "\"...Hey. Are you caught in something?\"\\n<Yukine>"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\"...\"\\n<???>"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "(There's still no response. I can hear\nbreathing... so it seems like they're alive. Maybe\nthey can't speak right now.)"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"I'll rescue you soon, so just wait for me.\"\\n<Yukine>"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -518,16 +504,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「すぐに私が助けてあげるから待っててね」\\n<雪音>"
+                "\"Just wait a little, I'll help you out soon.\"\\n<Yukine>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「…………」\\n<？？？>"] },
+            { "code": 401, "indent": 0, "parameters": ["\"...\"\\n<???>"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（まずはここの開ける鍵を探さなきゃ）"]
+              "parameters": ["(First, I need to find the key to open this.)"]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -751,46 +737,24 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ひどい……こんな小さな女の子を閉じ込めて、こんな状態"
+                "\"How terrible... To lock up such a little girl and\ntie her up with ropes in this state.\"\\n<Yukine>"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  で縄で縛るなんて」\\n<雪音>"]
+              "parameters": ["(Her complexion is poor, I'm really worried.)"]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\"...\"\\n<???>"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（私は目を閉じたままの少女に近づき、あらわになった"
+                "\"Hey, are you okay? Can you hear my voice?\"\\n<Yukine>"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  肌から目をそらしながら、ぷにっとした頬を刺激します。"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  顔色が悪くて、ひどく心配です）"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「…………」\\n<？？？>"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「ねえ、あなた、大丈夫。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  私の声、聞こえる？」\\n<雪音>"]
             },
             {
               "code": 231,
@@ -798,133 +762,90 @@
               "parameters": [90, "CG4_2", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「…………」\\n<？？？>"] },
+            { "code": 401, "indent": 0, "parameters": ["\"...\"\\n<???>"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「っっっ！？」\\n<雪音>"]
+              "parameters": ["\"Gasp!?\"\\n<Yukine>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（この子、すごくかわいい……）"]
+              "parameters": ["(This child, she's so cute...)"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……っ、…………っ？」\\n<？？？>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「え、あなた……もしかして喋れないの？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  それに声も届いてない……？」\\n<雪音>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「…………？」\\n<？？？>"]
+              "parameters": ["\"...huh, ...huh?\"\\n<???>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（私に向けられるはずの視線が、どこか見当違いの方を向い"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  ています。少女の目には私のことが映っていないようです）"
+                "\"Eh, you... can't you speak? And my voice isn't\nreaching you...?\"\\n<Yukine>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\"...\"\\n<???>"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["(It seems like she can't see me in her eyes.)"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「そんな……目も見えないの……それなのに、こんなところ"
+                "\"That's so... She can't see either... And yet, she\nwas left all alone locked up in a place like\nthis...\"\\n<Yukine>"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\"...\"\\n<???>"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  で一人ぼっちで閉じ込められてたの……」\\n<雪音>"
+                "\"Don't worry, I'll help you out right away...\"\\n<Yukine>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「…………？」\\n<？？？>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "「心配しないで、すぐに私が助けてあげるから……」\\n<雪音>"
+                "(But no matter how much strength I use, the ropes\nwon't loosen.)"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（固く結ばれた縄を手にかけます。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  でも、どれだけ力を込めても縄は緩まりません）"]
+              "parameters": ["(I'm getting frustrated.)"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（だめだ。これ……すごく強い呪詛がかけられてる。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  たぶん、このままだとハサミで切っても大変なことに"
+                "\"Just wait a bit, I'll untie the ropes soon, so\njust hang in there a little longer.\"\\n<Yukine>"
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["  なっちゃう）"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\"...\"\\n<???>"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ちょっと待ってて、すぐに縄を解いてあげるから少しだけ"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  我慢してて」\\n<雪音>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「…………」\\n<？？？>"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "（この子の縄を解くために、道具を探しに行かないと）"
+                "(I need to find some tools to untie this child's\nropes.)"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -1004,20 +925,17 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「待ってて、すぐに助けてあげるから」\\n<雪音>"]
+              "parameters": [
+                "\"Wait for me, I'll help you right away.\"\\n<Yukine>"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「…………」\\n<？？？>"] },
+            { "code": 401, "indent": 0, "parameters": ["\"...\"\\n<???>"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（こんな小さな子を閉じ込めるなんてひどい。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  絶対に助けてあげなきゃ）"]
+              "parameters": ["(I must definitely help her.)"]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1075,28 +993,23 @@
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「…………」\\n<？？？>"] },
+            { "code": 401, "indent": 0, "parameters": ["\"...\"\\n<???>"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「はやく助けてあげなきゃ……なにか、縄を外す道具を探し"
+                "\"I need to help quickly... I have to find\nsomething to untie the ropes.\"\\n<Yukine>"
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  てみないと」\\n<雪音>"]
-            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「…………」\\n<？？？>"] },
+            { "code": 401, "indent": 0, "parameters": ["\"...\"\\n<???>"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「もう少しだけ待ってて、すぐに探してくるから」\\n<雪音>"
+                "\"Just wait a little longer, I'll go look for it\nright away.\"\\n<Yukine>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -1159,7 +1072,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「これだけ集まれば、この縄も焼き切れるはずだけど……」\\n<雪音>"
+                "\"With this many gathered, we should be able to\nburn through this rope...\"\\n<Yukine>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1167,7 +1080,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "そう願いながら、熱くなった札を黒い縄に近づけます。"
+                "While hoping so, I bring the heated talisman close\nto the black rope."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -1183,21 +1096,10 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["呪われた縄はあっという間に焼き切れました。"]
+              "parameters": ["The cursed rope was burned through in no time."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "役目を終えた札はそのまま灰になり、微かな燐光だけを残し"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["て消えてしまいます。"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["And it disappears."] },
             { "code": 126, "indent": 0, "parameters": [28, 1, 0, 1] },
             { "code": 126, "indent": 0, "parameters": [29, 1, 0, 5] },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -1252,14 +1154,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「やった」\\n<雪音>\\F[3]"]
+              "parameters": ["\"Thank goodness\"\\n<Yukine>\\F[3]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ねえ、あなた。動ける、声は聞こえる？」\\n<雪音>\\F[8]"
+                "\"Hey, can you move? Can you hear my voice?\"\\n<Yukine>\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1267,21 +1169,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "しかし、少女は拘束から解放されても何一つ反応しません。"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "その目は虚ろで、私の声も聞こえていないようです。\\F[8]"
+                "Her eyes are vacant, and it seems she can't hear\nmy voice.\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うーん、だめかー」\\n<雪音>\\F[12]"]
+              "parameters": ["\"Hmm, no good, huh?\"\\n<Yukine>\\F[12]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
@@ -1291,7 +1186,31 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「そうだ、あの幽霊さんにもらった人形っ！」\\n<雪音>\\F[17]"
+                "\"That's right, the doll that ghost lady gave me!\"\\n<Yukine>\\F[17]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["It was.\\F[17]"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Hey, can you hear me? Can you see me?\"\\n<Yukine>\\F[5]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"...\"\\n<???>\\F[5]\\AA[FF]\\FF[20]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Even when I hold her hand, there is no response.\n\\F[10]\\AA[F]\\FF[20]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1299,66 +1218,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "ふと思い立ち、しまっておいた胴体だけの人形をかざします。"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "すると、肌にわずかに生気が戻り、虚ろだった瞳が瞬きをし"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["ました。\\F[17]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「ねえ、あなた聞こえる。私が見える？」\\n<雪音>\\F[5]"
+                "It seems she has lost all sensation. \\F[10]\\AA[F]\\FF[20]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……」\\n<？？？>\\F[5]\\AA[FF]\\FF[20]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "彼女の手を握ってもなんの反応もありません。\\F[10]\\AA[F]\\FF[20]"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "どうやら声が聞こえず、目も見えないだけではなく、身体中"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "のあらゆる感覚を失っているようです。\\F[10]\\AA[F]\\FF[20]"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "ですが、神様としての力をほとんど使えない今の私では、"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どうすることもできません。\\F[10]\\AA[F]\\FF[20]"]
+              "parameters": ["There's nothing I can do. \\F[10]\\AA[F]\\FF[20]"]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
@@ -1417,37 +1284,22 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「うーん、どうしよう。助けを求めてたのは、きっとこの子"
+                "\"Hmm, what to do? She must be the one who was\nasking for help... I can't just leave her here.\"\\n<Yukine>\\F[13]\\AA[F]\\FF[20]"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"...\"\\n<???>\\F[13]\\AA[FF]\\FF[20]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  だし……こんなところに置いていくわけにはいかないよね」"
+                "\"Hey, can you stand up?\"\\n<Yukine>\\F[8]\\AA[F]\\FF[20]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[13]\\AA[F]\\FF[20]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「……」\\n<？？？>\\F[13]\\AA[FF]\\FF[20]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「ねえ、あなた……立てる？」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[8]\\AA[F]\\FF[20]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -1478,110 +1330,51 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「歩けるといいんだけど……あれ？立てるんだね？」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[5]\\AA[F]\\FF[20]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["手を取って立ち上がると、彼女も立ち上がります。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "そして、手を離すとそのまま動かなくなってしまいます"
+                "\"It would be good if you could walk... Huh? You\ncan stand?\"\\n<Yukine>\\F[5]\\AA[F]\\FF[20]"
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\F[5]\\AA[F]\\FF[20]"]
-            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\F[5]AA[F]\\FF[20]"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "手を繋いで歩くと、彼女も歩きます。そして手を離せば、"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["彼女は人形のように立ち止まってしまいます"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\F[1]\\AA[F]\\FF[20]"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["\\F[1]AA[F]\\FF[20]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「えっと……手を繋いだら、身体の感覚がなくても"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["  歩けるんだ。"] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  さっきのお札と人形のおかげかな？」\\n<雪音>\\F[5]\\AA[F]\\FF[20]"
+                "\"So... if we hold hands, you can walk even without\nfeeling your body. Could it be thanks to the charm\nand doll from earlier?\"\\n<Yukine>\\F[5]\\AA[F]\\FF[20]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……」\\n<？？？>\\F[5]\\AA[FF]\\FF[20]"]
+              "parameters": ["\"...\"\\n<???>\\F[5]\\AA[FF]\\FF[20]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「うん、大丈夫だよ。心配しないで」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[7]\\AA[F]\\FF[20]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「……」\\n<？？？>\\F[7]\\AA[FF]\\FF[20]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「私はあなたを絶対に見捨てたりしないから。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  さあ、手を繋ごう。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  ここは暗いし、怖いから……私と一緒にあったかい"]
-            },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  ところに帰ろうね」\\n<雪音>\\F[3]\\AA[F]\\FF[20]"
+                "\"Yes, it's okay. Don't worry.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[20]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"...\"\\n<???>\\F[7]\\AA[FF]\\FF[20]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"I will never abandon you. Come on, let's hold\nhands. It's dark and scary here... Let's go back\nto a warm place together.\"\\n<Yukine>\\F[3]\\AA[F]\\FF[20]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -1623,17 +1416,6 @@
             { "code": 356, "indent": 0, "parameters": ["P_CALL_CE 55 6 1 ON"] },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\#Tips"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#右下のトークボタンをクリックすると"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#少女と会話することができます"]
-            },
             { "code": 401, "indent": 0, "parameters": ["\\FFFF[54]"] },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },
@@ -2524,26 +2306,17 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「え……いまの女の子って……"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  えっ、待って……あの子はここで縛られているのに……」"
+                "\"Eh... that girl just now... Wait... she's tied up\nhere...\"\\n<Yukine>\\F[15]"
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[15]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あれ？　え……じゃあ……さっきまで屋敷を歩いていた"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  女の子は……だれ、だったの？」\\n<雪音>\\F[15]"]
+              "parameters": [
+                "\"Huh? Eh... then... who was the girl that was\nwalking around the mansion until just now?\"\\n<Yukine>\\F[15]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [90] },
             {
@@ -2589,13 +2362,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「っっっっっっ！？」\\n<雪音>\\F[16]"]
+              "parameters": ["\"Ahhhhhh!? \"\\n<Yukine>\\F[16]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「いまのは……？」\\n<雪音>\\F[15]"]
+              "parameters": ["\"What was that just now...?\"\\n<Yukine>\\F[15]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -2649,13 +2422,8 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「こ、怖がってちゃだめ……早く、あの子を助けてあげない"
+                "\"I can't be scared... I have to hurry and help\nher...\"\\n<Yukine>\\F[8]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  と」\\n<雪音>\\F[8]"]
             },
             { "code": 121, "indent": 0, "parameters": [114, 114, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2755,14 +2523,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「うっ……なにここ、すごい悪い霊気がたまってる。この感"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  じ……ずっと封印されて、誰も出入りしてないんだ」\\n<雪音>\\F[10]"
+                "\"Ugh... What is this place? There's a terrible\naccumulation of evil spirits. It feels like...\nit's been sealed for a long time, with no one\ncoming or going.\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 38] },
@@ -2863,7 +2624,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（役に立ちそうなものはないかな）"]
+              "parameters": ["(I wonder if there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2919,7 +2680,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（この鍵で牢を開けられるかも）"]
+              "parameters": [
+                "(I might be able to unlock the prison with this\nkey)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 121, "indent": 0, "parameters": [3, 3, 0] },
@@ -2932,11 +2695,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『錆びた大きな鍵』を手に入れた"]
+              "parameters": ["\"Obtained the Rusty Large Key\""]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 126, "indent": 0, "parameters": [27, 0, 0, 1] },
@@ -2996,7 +2758,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（他に役に立ちそうなものはないかな）"]
+              "parameters": [
+                "(I wonder if there's anything else that might be\nuseful...)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }

@@ -539,32 +539,30 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「雪音おねえちゃん……あのゆうれいさんって……」"]
+              "parameters": ["\\n<Shuo>\\FF[24]Saku"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<朔>\\FF[24]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「うん……」"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<雪音>\\F[10]\\AA[F]\\FF[24]"]
+              "parameters": ["\"Yeah...\"\\n<Yukine>\\F[10]\\AA[F]\\FF[24]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「鈴音……ちゃん」"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[8]"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"Suzune...chan\"\\n<Yukine>\\F[8]"]
+            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……ゆ、き……ね……な、の？」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\F[8]\\AA[N]\\n<女性の幽霊>"]
+              "parameters": [
+                "\"...Yu, ki...ne...is it?\"\\n<Female Ghost>\\F[8]\\AA[N]"
+              ]
             },
             {
               "code": 231,
@@ -629,83 +627,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「雪音……なんだね」\\n<鈴音>"]
+              "parameters": ["\"It's Yukine...isn't it?\"\\n<Suzune>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「うん。そうだよ鈴音ちゃん……やっと会えたね。ずっと"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  ……ずっと会いたかったよ」\\n<雪音>\\F[10]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「ごめんね。雪音のところに帰りたかったけど……わたし、"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  負けちゃった」\\n<鈴音>\\AA[N]\\F[10]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「ううん……その気持ちだけでうれしいよ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  あのとき、朔を助けてって声を届けたのは鈴音ちゃん"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["  だったんだね」"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[7]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「うん……あなたに押し付ける形になってごめんね。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  でも祟りを放っておけなかったし　あの子のこと、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  助けたかったの」\\n<鈴音>\\AA[N]\\F[7]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「うん。私もおんなじ気持ちだよ……朔は私が守るからあと"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  は任せて鈴音ちゃん。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  これでも神様なんだから、安心していいよ」\\n<雪音>\\F[6]"
+                "\"Yes, that's right Suzune-chan...we finally meet.\nI've always...always wanted to see you.\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -713,7 +642,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「そっか……雪音は立派になったんだね」\\n<鈴音>\\AA[N]\\F[6]"
+                "\"I'm sorry. I wanted to return to where Yukine\nwas, but...I lost.\"\\n<Suzune>\\AA[N]\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -721,54 +650,64 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「うん。鈴音ちゃんみたいになりたくて、いっぱい頑張った"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["  よ。"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  鈴音ちゃんが私を助けてくれたみたいに、誰かを助け"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  られるように頑張ったの」\\n<雪音>\\F[2]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「うん、偉いね。すごく偉いよ……じゃあ、雪音。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  あとは、お願いしていい？」\\n<鈴音>\\AA[N]\\F[2]"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「うん……大丈夫。"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  鈴音ちゃん、いままでお疲れさま……ゆっくり休んでね」\\n<雪音>\\F[1]"
+                "\"No...just knowing you feel that way makes me\nhappy. It was you, Suzune-chan, who sent the voice\nto save Saku at that time, wasn't it?\"\\n<Yukine>\\F[7]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ありがとう……雪音。"]
+              "parameters": [
+                "\"Yes...I'm sorry for pushing it onto you. But I\ncouldn't just leave the curse alone, and I wanted\nto save that child.\"\\n<Suzune>\\AA[N]\\F[7]"
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  じゃあ……さようなら……」\\n<鈴音>\\AA[N]\\F[1]"]
+              "parameters": [
+                "\"Yes. I feel the same way...I will protect Saku,\nso you can leave the rest to me, Suzune-chan.\nAfter all, I am a goddess now, so you can rest\nassured.\"\\n<Yukine>\\F[6]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"I see...Yukine, you've become so admirable.\"\\n<Suzune>\\AA[N]\\F[6]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Yes. I wanted to be like you, Suzune-chan, and I\nworked really hard. Just like you helped me, I\nwanted to be able to help someone else.\"\\n<Yukine>\\F[2]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Yes, that's great. You're very admirable...So,\nYukine. Can I leave the rest to you?\"\\n<Suzune>\\AA[N]\\F[2]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Yes...it's okay. Suzune-chan, you've worked hard\nuntil now...take a good rest.\"\\n<Yukine>\\F[1]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Thank you...Yukine. Well then...goodbye...\"\\n<Suzune>\\AA[N]\\F[1]"
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [236, 236, 0] },
             { "code": 0, "indent": 0, "parameters": [] }

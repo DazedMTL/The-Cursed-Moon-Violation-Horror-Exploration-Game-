@@ -224,7 +224,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -563,7 +563,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -649,13 +649,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（引き出しの中に古い日記がある）"]
+              "parameters": ["(There's an old diary inside the drawer.)"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（つたない子供の文字だけどなんとか読めそう）"]
+              "parameters": [
+                "(It's in a child's clumsy handwriting, but it\nseems legible.)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -664,133 +666,72 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "あの子がきょうもきていた　ずっとおやしきの方をみている"
+                "That girl came again today, always looking towards\nthe mansion, the girl with beautiful hair. I want\nto talk to her."
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["きれいな髪のおんなの子　おはなししてみたいな"]
-            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["パパがさいきんへん　なんだかぶつぶついってる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ママはおんなの子なんてしらないっていう　"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ときどき　おうちのなかにいるのに　へんなの"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おんなの子とあそんでみた　すごくたのしかった"]
-            },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "メイドさんがさわいでいる　おにわで何かあったみたい"
+                "Dad has been acting strange lately, muttering to\nhimself. Mom says she doesn't know any girl, which\nis odd because sometimes she's inside our house."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["メイドさんたちがいなくなっちゃった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["なかよしのメアリーも　いなくなっちゃった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おそーしきをしたけど　おそーしきって何だろう"]
+              "parameters": [
+                "I tried playing with the girl and it was so much\nfun. The maids were making a fuss, it seems\nsomething happened in the garden."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["パパがずっとじゅうじかをもってる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["まっくろいふくのおとこの人がやってきた"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["でもこわいかおして　すぐにかえっちゃった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["てにおえない　ってなんだろう？"]
+              "parameters": [
+                "The maids have disappeared, and my dear friend\nMary too. They did something called a search, but\nwhat is a search?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["くろいふくの人たちがいっぱいきた"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おへやからでたらだめだって　どうしてかな"]
+              "parameters": [
+                "Dad has been carrying a cross all the time. A man\nin black clothes came, but he had a scary face and\nleft right away. What does 'beyond help' mean?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["みんなあかくなちゃった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["パパもママも　くろいふくの人たちも"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["みんな　みんなまっかになっちゃった"]
+              "parameters": [
+                "Lots of people in black clothes came. They said\nit's bad to leave the room, I wonder why."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["でも　きれいなかみのおんなの子　"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["わたしとあそぼうっていうの"]
+              "parameters": [
+                "Everyone turned red. Dad, Mom, the people in black\nclothes, everyone, everyone turned bright red."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["パパママごめんなさい　"]
+              "parameters": [
+                "But the girl with the pretty hair says let's play\ntogether."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リッテ　おでかけしますね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["すぐにかえってくるからね"]
+              "parameters": [
+                "Sorry, Papa and Mama. I'm going out with Litty.\nI'll come back soon."
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },
@@ -799,7 +740,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（ここから筆跡が異なっている）"]
+              "parameters": ["(The handwriting changes from here.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -807,22 +748,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この異邦の娘では我が巫女を果せぬ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["我が領域で喰らうほかはあるまい"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["美しい金色の髪と碧眼を失うのは残念ではあるが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["朔ほどの素質があるものはやはり稀有であろう"]
+              "parameters": [
+                "This foreign girl cannot fulfill our shrine maiden\nrole. There is no choice but to consume her within\nmy domain. It's regrettable to lose such beautiful\ngolden hair and blue eyes, but a talent like hers\nis indeed rare."
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },
@@ -831,7 +759,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（……この屋敷に住んでた子は……ダメ、だったのかな）\\F[10]"
+                "(...Did the child who lived in this mansion... not\nmake it?)\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -839,7 +767,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（小さな子供まで殺しちゃうなんて……ひどい……）\\F[10]"
+                "(To kill even a small child... how terrible...)\\F[10]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -905,7 +833,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {

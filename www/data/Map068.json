@@ -458,12 +458,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（引き出しの中に太刀が入ってる）"]
+              "parameters": ["(There's a long sword inside the drawer)"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["太刀を持っていく", "何もしない"], 1, -1, 1, 1]
+              "parameters": [
+                ["Take the sword with me", "Do nothing"],
+                1,
+                -1,
+                1,
+                1
+              ]
             },
             { "code": 402, "indent": 0, "parameters": [0, "太刀を持っていく"] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -735,14 +741,7 @@
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クリックでコンティニュー"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Click to continue"] },
             { "code": 242, "indent": 0, "parameters": [1] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 117, "indent": 0, "parameters": [25] },
@@ -816,12 +815,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（引き出しの中に太刀が入ってる）"]
+              "parameters": ["(There's a sword inside the drawer)"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["太刀を持っていく", "何もしない"], 1, -1, 1, 1]
+              "parameters": [
+                ["Take the sword with me", "Do nothing"],
+                1,
+                -1,
+                1,
+                1
+              ]
             },
             { "code": 402, "indent": 0, "parameters": [0, "太刀を持っていく"] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -842,11 +847,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『祈りの太刀』を手に入れた"]
+              "parameters": ["I've obtained the \"Prayer Sword\""]
             },
             { "code": 126, "indent": 0, "parameters": [66, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -859,7 +863,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（この太刀から強い力を感じる……）\\F[4]"]
+              "parameters": [
+                "(I can feel a strong power emanating from this\nsword...)\\F[4]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
@@ -868,7 +874,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（え、小太刀が光って）\\n<雪音>\\F[3]"]
+              "parameters": [
+                "(Eh, the short sword is glowing)\\n<Yukine>\\F[3]"
+              ]
             },
             {
               "code": 231,
@@ -910,81 +918,42 @@
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「白き神よ。"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  封じられし太刀を解放してくださったことを感謝します。"
+                "\"O white deity. I am grateful for the release of\nthe sealed sword. With the demon-breaking power of\nthe sword, I have been able to escape the bonds of\nthe calamitous moon.\"\\n<Samurai Spirit>"
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  太刀の破魔の力で朔禍月の束縛から逃れることが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  できました」\\n<侍の霊>"]
-            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あの……こ、この刀って？」\\n<雪音>\\F[4]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「其の一振りは刀匠宗近が鍛えし奉納刀の影打ち。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  清らかな祈りをこめて打たれた我が家の家宝。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  どうか、その刀で我が娘をお救いください」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<侍の霊>\\F[4]\\AA[N]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「娘？　じゃあ、あなたは？」\\n<雪音>\\F[5]"]
+              "parameters": ["\"Um...what is this sword?\"\\n<Yukine>\\F[4]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「我が名は月守景之。民も子も守れず、死に逃げた末に、"
+                "\"This blade is a shadow-cast by the swordsmith\nMunenori, a consecrated sword forged with pure\nprayers. It is the treasured heirloom of my\nfamily. Please, use this sword to save my\ndaughter.\"\\n<Samurai Spirit>\\F[4]\\AA[N]"
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  魂を脇差しに宿した愚かな武士でございます。"]
-            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  白き神よ、どうかあの子を。朔をお救いください――」"
+                "\"Daughter? Then, who are you?\"\\n<Yukine>\\F[5]"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<侍の霊>\\F[5]\\AA[N]"]
+              "parameters": [
+                "\"My name is Tsukimori Kageno. A foolish samurai\nwho failed to protect his people and child, and in\nthe end, fled into death, housing his soul within\nthis wakizashi. O white deity, please save that\nchild. Save Sakuya--\"\\n<Samurai Spirit>\\F[5]\\AA[N]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -1003,40 +972,31 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「どうか……おねがい致す」\\n<侍の霊>"]
+              "parameters": ["\"Please...I beg of you.\"\\n<Samurai Spirit>"]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「さっきの人。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  朔の……おとうさんだったんだ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　祟りを祓いながら、ずっと朔を助けてくれる人を"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  待っていたんだね」\\n<雪音>\\F[4]"]
+              "parameters": [
+                "\"The person from before. He was Sakuya's...father.\nHe's been waiting all this time while warding off\nthe curse, waiting for someone to come and save\nSakuya.\"\\n<Yukine>\\F[4]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……」\\n<雪音>\\F[4]"]
+              "parameters": ["\"...\"\\n<Yukine>\\F[4]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「はい、必ずその願い叶えてみせます」\\n<雪音>\\F[4]"
+                "\"Yes, I will definitely fulfill your wish.\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 118, "indent": 0, "parameters": ["skip"] },
@@ -1231,7 +1191,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（役に立ちそうなものはないかな）"]
+              "parameters": ["(I wonder if there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1296,7 +1256,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（役に立ちそうなものはないかな）"]
+              "parameters": ["(I wonder if there's anything useful here.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }

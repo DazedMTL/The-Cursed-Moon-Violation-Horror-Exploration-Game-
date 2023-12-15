@@ -1499,7 +1499,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「なに……ここ」\\n<雪音>\\F[8]"]
+              "parameters": ["\"What... is this place?\"\\n<Yukine>\\F[8]"]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
@@ -1558,13 +1558,8 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（すごくイヤな感じだ……でも女の子が助けを求めているな"
+                "(It feels really unpleasant... But if a girl is\nasking for help, I have to search...)\\F[4]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  ら探さなきゃ……）\\F[4]"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2484,18 +2479,14 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["（縄で固定されている）"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["(Tied up with rope)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 111, "indent": 0, "parameters": [8, 20] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「これで縄を切っちゃえば」\\n<雪音>\\F[1]"]
+              "parameters": ["\"If I cut the rope like this\"\\n<Yukine>\\F[1]"]
             },
             { "code": 230, "indent": 1, "parameters": [60] },
             {
@@ -2524,7 +2515,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「よし、これで中に入れる」\\n<雪音>\\F[3]"]
+              "parameters": [
+                "\"Alright, now I can get inside\"\\n<Yukine>\\F[3]"
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -2862,7 +2855,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うっ、すごい負の感情が……」\\n<雪音>\\F[15]"]
+              "parameters": [
+                "\"Ugh, such intense negative emotions...\"\\n<Yukine>\\F[15]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -2961,7 +2956,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（呼んでる。やっぱりこのお屋敷だ……）\\F[10]"]
+              "parameters": [
+                "(Someone's calling. It's definitely this\nmansion...)\\F[10]"
+              ]
             },
             {
               "code": 356,
@@ -3608,7 +3605,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うっ、すごい負の感情が……」\\n<雪音>\\F[15]"]
+              "parameters": [
+                "\"Ugh, such intense negative emotions...\"\\n<Yukine>\\F[15]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -3707,7 +3706,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（呼んでる。やっぱりこのお屋敷だ……）\\F[10]"]
+              "parameters": [
+                "(It's calling me. It must be this mansion...)\\F[10]"
+              ]
             },
             {
               "code": 356,
@@ -4156,18 +4157,14 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["（縄で固定されている）"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["(Tied up with rope)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 111, "indent": 0, "parameters": [8, 20] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「これで縄を切っちゃえば」\\n<雪音>\\F[1]"]
+              "parameters": ["\"If I cut the rope like this\"\\n<Yukine>\\F[1]"]
             },
             { "code": 230, "indent": 1, "parameters": [60] },
             {
@@ -4197,7 +4194,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「よし、これで中に入れる」\\n<雪音>\\F[3]"]
+              "parameters": [
+                "\"Alright, now I can get inside\"\\n<Yukine>\\F[3]"
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -4566,14 +4565,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「かあさん。かあさんが食べたかったイチゴ……やっとみつ"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  けたよ。待たせて、ごめんね。ごめんね、かあさん」\\n<カエル>"
+                "\"I'm home. Sorry to keep you waiting. Sorry, Mom.\"\\n<Frog>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -4640,7 +4632,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カエルさんのいたところに、なにか落ちてる）"]
+              "parameters": ["(There's something lying where the frog was.)"]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 356, "indent": 0, "parameters": ["MWP_INVALID"] },
@@ -4652,11 +4644,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『マッチ』を手に入れた"]
+              "parameters": ["(\"Matches\" obtained)"]
             },
             { "code": 126, "indent": 0, "parameters": [11, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -4665,25 +4656,12 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ずっと……心残りがあったんだね。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  おかあさんのところには……行けたのかな？」\\n<雪音>\\F[6]"
+                "\"You've always... had regrets, haven't you? Were\nyou able to... go to your mother's place?\"\\n<Yukine>\\F[6]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\#Tips"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\#特定のアイテムはアイテム一覧から使用することができます"
-              ]
-            },
             { "code": 401, "indent": 0, "parameters": ["\\FFFF[50]"] },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },
@@ -5308,7 +5286,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "（この井戸……古いけど、下には水がたまってるみたい）"
+                "(This well... it's old, but it seems there's water\ncollected at the bottom.)"
               ]
             },
             { "code": 117, "indent": 2, "parameters": [20] },
@@ -5321,10 +5299,10 @@
               "indent": 0,
               "parameters": [
                 [
-                  "なにもしない",
-                  "井戸をのぞきこむ",
-                  "水を汲むif(s[32])",
-                  "井戸を調べるif(s[37])"
+                  "Do nothing",
+                  "I peer into the well",
+                  "Draw waterif(s[32])",
+                  "Examine the wellif(s[37])"
                 ],
                 -2,
                 -1,
@@ -5361,13 +5339,8 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "覗き込んだ拍子に井戸の一部が崩れ、あっと思ったときには"
+                "(As I peered in, part of the well crumbled, and\nbefore I knew it, my body was being sucked into\nthe well--)"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["身体は井戸に吸い込まれ――"]
             },
             { "code": 230, "indent": 1, "parameters": [30] },
             {
@@ -5383,10 +5356,9 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "頭の奥で響いたひどく鈍い音とともに、なにもかもが真っ暗"
+                "(With a terribly dull sound echoing in the back of\nmy head, everything went pitch black.)"
               ]
             },
-            { "code": 401, "indent": 1, "parameters": ["になった。"] },
             { "code": 242, "indent": 1, "parameters": [1] },
             { "code": 230, "indent": 1, "parameters": [100] },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -5394,14 +5366,7 @@
             { "code": 121, "indent": 1, "parameters": [3, 3, 0] },
             { "code": 121, "indent": 1, "parameters": [40, 40, 0] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": [""] },
-            { "code": 401, "indent": 1, "parameters": [""] },
-            { "code": 401, "indent": 1, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["クリックでコンテニュー"]
-            },
+            { "code": 401, "indent": 1, "parameters": ["Click to continue-"] },
             { "code": 230, "indent": 1, "parameters": [10] },
             { "code": 121, "indent": 1, "parameters": [40, 40, 1] },
             { "code": 121, "indent": 1, "parameters": [3, 3, 1] },
@@ -5434,7 +5399,9 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["（この深さだと桶で水を汲めない……）"]
+              "parameters": [
+                "(With this depth, I can't draw water with a\nbucket...)"
+              ]
             },
             { "code": 117, "indent": 2, "parameters": [20] },
             { "code": 119, "indent": 2, "parameters": ["skip"] },
@@ -5445,7 +5412,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["（これで井戸の水が汲めそう）"]
+              "parameters": [
+                "(With this, I should be able to draw water from\nthe well.)"
+              ]
             },
             { "code": 117, "indent": 1, "parameters": [20] },
             { "code": 126, "indent": 1, "parameters": [15, 1, 0, 1] },
@@ -5468,7 +5437,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「んっしょ、んっしょっ……」\\n<雪音>\\F[14]"]
+              "parameters": ["\"Heave-ho, heave-ho...\"\\n<Yukine>\\F[14]"]
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 230, "indent": 1, "parameters": [30] },
@@ -5477,7 +5446,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "「はぁ、重かった。あとはお水の入れ物を探さないと……」\\n<雪音>\\F[12]"
+                "\"Haah, that was heavy. Now I need to find a\ncontainer for the water...\"\\n<Yukine>\\F[12]"
               ]
             },
             {
@@ -5506,14 +5475,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "（この井戸……古いけど、下には水がたまってるみたい）"
+                "(This well... it's old, but it seems there's water\ncollected at the bottom.)"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["（でも汲むための『つるべ』がない）"]
+              "parameters": ["(But there's no \"bucket\" to draw the water.)"]
             },
             { "code": 117, "indent": 1, "parameters": [20] },
             { "code": 111, "indent": 1, "parameters": [0, 33, 1] },
@@ -6073,7 +6042,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（お水の入れ物を探さないと）"]
+              "parameters": ["(I need to find a container for water.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6138,11 +6107,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『水の入った皿』を手に入れた"]
+              "parameters": ["\"I've obtained a dish filled with water.\""]
             },
             { "code": 126, "indent": 0, "parameters": [16, 0, 0, 1] },
             { "code": 121, "indent": 0, "parameters": [3, 3, 1] },
@@ -6152,7 +6120,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（これを鳥さんに飲ませてあげよう）"]
+              "parameters": ["\"(I should give this to the bird to drink.)\""]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -6308,7 +6276,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（クワがある……使えそうだ）"]
+              "parameters": ["(There's a hoe... it seems usable)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 121, "indent": 0, "parameters": [3, 3, 0] },
@@ -6321,12 +6289,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\#『クワ』を手に入れた"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["\"Obtained a Hoe\""] },
             { "code": 126, "indent": 0, "parameters": [18, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 121, "indent": 0, "parameters": [3, 3, 1] },
@@ -6387,7 +6350,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（他に役に立ちそうなものはないかな）"]
+              "parameters": ["(Is there anything else that might be useful?)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6629,12 +6592,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（ここだけ、少し土が盛り上がっている）"]
+              "parameters": ["(Just here, the soil is slightly raised.)"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["掘り返す", "何もしない"], 1, -1, 1, 1]
+              "parameters": [
+                ["<Dig up the raised soil>", "Do nothing"],
+                1,
+                -1,
+                1,
+                1
+              ]
             },
             { "code": 402, "indent": 0, "parameters": [0, "掘り返す"] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -6660,12 +6629,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（これ……かんざしだ。これが……贈り物、なのかな。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  一緒にハサミも埋まってる）\\F[5]"]
+              "parameters": [
+                "(This... it's a hairpin. Could this be... a gift,\nI wonder. There's also a pair of scissors buried\nwith it.)\\F[5]"
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [3, 3, 0] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -6677,11 +6643,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『綺麗なかんざし』を手に入れた"]
+              "parameters": ["\"Obtained a Beautiful Hairpin\""]
             },
             { "code": 126, "indent": 0, "parameters": [19, 0, 0, 1] },
             {
@@ -6692,11 +6657,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『丈夫なハサミ』を手に入れた"]
+              "parameters": ["\"Obtained a Sturdy Pair of Scissors\""]
             },
             { "code": 126, "indent": 0, "parameters": [20, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -7211,7 +7175,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（赤い実がなってる。これって……果物だよね）"]
+              "parameters": [
+                "(Red berries are growing. This is... fruit, isn't\nit?)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -7268,7 +7234,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "（これってカエルさんの言ってたイチゴ……なのかな？）"
+                "(Is this the strawberry that Kaeru-san was talking\nabout... I wonder?)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -7339,7 +7305,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（この事をカエルさんに教えてあげよう）"]
+              "parameters": ["(I should tell Mr. Frog about this.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -7443,7 +7409,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うっ、すごい負の感情が……」\\n<雪音>\\F[15]"]
+              "parameters": [
+                "\"Ugh, such intense negative emotions...\"\\n<Yukine>\\F[15]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -7542,7 +7510,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（呼んでる。やっぱりこのお屋敷だ……）\\F[10]"]
+              "parameters": [
+                "(Calling me. It's definitely this mansion...)\\F[10]"
+              ]
             },
             {
               "code": 356,

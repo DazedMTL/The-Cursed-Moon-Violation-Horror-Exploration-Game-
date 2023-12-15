@@ -524,7 +524,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（開かない……）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It won't open...)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
               "code": 205,
@@ -606,7 +606,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（開かない……）"] },
+            { "code": 401, "indent": 0, "parameters": ["(It won't open...)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
               "code": 205,
@@ -946,7 +946,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「朔、無事だったんだね！」\\n<雪音>\\F[3]"]
+              "parameters": ["\"Saku, you're safe!\"\\n<Yukine>\\F[3]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [10, 1, true] },
@@ -1019,12 +1019,11 @@
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「よかったー。"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  すごく心配したよ、どこも怪我とかしてない？」\\n<雪音>\\F[2]"
+                "\"Thank goodness. I was really worried, are you\nhurt anywhere?\"\\n<Yukine>\\F[2]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1032,36 +1031,24 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「うん、ちょっとだけこわかったけどだいじょーぶだよ」"
+                "\"Yeah, I was a little scared, but I'm okay.\"\\n<Shuo>\\F[2]\\AA[FF]\\FF[40]"
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<朔>\\F[2]\\AA[FF]\\FF[40]"]
+              "parameters": [
+                "\"I see, thank goodness. I'm really glad.\"\\n<Yukine>\\F[2]\\AA[F]\\FF[40]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「そっか、よかった。ほんとによかった」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[2]\\AA[F]\\FF[40]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「そうだ。"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  これ……ひろったんだけど、やくにたつかな？」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[2]\\AA[FF]\\FF[40]"]
+              "parameters": [
+                "\"Oh right. I found this... could it be useful?\"\\n<Shuo>\\F[2]\\AA[FF]\\FF[40]"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             {
@@ -1072,11 +1059,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『銀細工の鍵』を手に入れた"]
+              "parameters": ["\"Obtained a Silver Filigree Key.\""]
             },
             { "code": 126, "indent": 0, "parameters": [72, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -1085,23 +1071,17 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あっ、これ……ありがとう、朔。助かるよ」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[3]\\AA[F]\\FF[40]"]
+              "parameters": [
+                "\"Ah, this... Thank you, Saku. It's a big help.\"\\n<Yukine>\\F[3]\\AA[F]\\FF[40]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「えへへ、おねえちゃんのやくにたててよかったー」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<雪音>\\F[3]\\AA[F]\\FF[25]"]
+              "parameters": [
+                "\"Ehehe, I'm glad I could be of help to Onee-san.\"\\n<Yukine>\\F[3]\\AA[F]\\FF[25]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [10, 4, true] },

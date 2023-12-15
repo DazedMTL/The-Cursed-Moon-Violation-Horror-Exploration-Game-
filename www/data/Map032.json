@@ -135,7 +135,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（カギがかかってて開かない）"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -312,9 +312,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "「えっ、なんで……ここは、どこ？」\\n<雪音>\\F[15]"
-              ]
+              "parameters": ["\"Eh, why... Where is this?\"\\n<Yukine>\\F[15]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -367,17 +365,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ここって……病院だよね。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  さっきまで学校だったのに……やっぱり、この屋敷は"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  歪んでるんだ」\\n<雪音>\\F[10]"]
+              "parameters": [
+                "\"This place... it's a hospital, right? Just a\nmoment ago we were at school... This mansion\nreally is warped.\"\\n<Yukine>\\F[10]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -399,32 +389,22 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「祟りの気配がすごく濃くなってる。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  ここで亡くなった人たちや苦しんだ人の、負の感情を"
+                "\"The aura of the curse is getting much stronger.\nThe mansion is absorbing the negative emotions of\nthe people who died or suffered here.\"\\n<Yukine>\\F[10]"
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  屋敷が取り込んでいるんだ」\\n<雪音>\\F[10]"]
-            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……」\\n<？？？>\\F[10]\\AA[FF]\\FF[23]"]
+              "parameters": ["\"...\"\\n<???>\\F[10]\\AA[FF]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「……うん。大丈夫。私がついてるからね」\\n<雪音>\\F[7]\\AA[F]\\FF[23]"
+                "\"...Yeah. It's okay. I'm with you.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },

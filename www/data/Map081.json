@@ -117,32 +117,24 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（タンスの中に綺麗な桐箱が入っている。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["  なにか大切なものが保管されてるみたい）\\F[5]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "「慎重に紐を解いて、っと……あ！」\\n<雪音>\\F[4]"
+                "It seems like something important is stored here.\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あ、これ……人形の瞳だ。"]
+              "parameters": [
+                "\"Carefully untie the string, and... oh!\"\\n<Yukine>\\F[4]"
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  ああよかった……これで全部そろったよ」\\n<雪音>\\F[3]"
+                "\"Ah, this... it's a doll's eye. Thank goodness...\nnow I have everything I need.\"\\n<Yukine>\\F[3]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -154,11 +146,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\#『人形の瞳』を手に入れた"]
+              "parameters": ["\"Doll's Eye\" acquired"]
             },
             { "code": 126, "indent": 0, "parameters": [57, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -168,20 +159,15 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「これでおめめがみえるようになるの？」\\n<朔>\\F[3]\\AA[FF]\\FF[22]"
+                "\"With this, will I be able to see again?\"\\n<Shuo>\\F[3]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「いま試してみるね。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "  これを、こうして……一つにしてあげれば……」\\n<雪音>\\F[1]\\AA[F]\\FF[22]"
+                "\"Let's try it now. If I put this here, like so...\nand bring them together...\"\\n<Yukine>\\F[1]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -197,98 +183,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……んっ⁉︎」\\n<朔>\\FF[28]"]
+              "parameters": ["\"...huh⁉︎\"\\n<Shuo>\\FF[28]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「朔、どうしたの！」\\n<雪音>\\F[16]\\AA[F]\\FF[28]"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「あ、ああ……みえる。みえるよ！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  おねえちゃんのおかおがみえる」\\n<朔>\\F[16]\\AA[FF]\\FF[42]"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「ーーーーっ」\\n<雪音>\\F[2]\\AA[F]\\FF[42]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その言葉に胸がいっぱいになります。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "私はとうとう朔の失われていた感覚を全て取り戻すことが"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["できたのです。"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\F[2]\\AA[N]\\FF[42]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "嬉しくて、嬉しくて温かい気持ちを言葉にすることができま"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["せん。"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\F[2]\\AA[F]\\FF[42]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「おねえちゃんって、こんなおかおだったんだね。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  かみがまっしろで、やさしそうで、まるでかみさまみたい。 "
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["  すごくきれい」"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<朔>\\F[2]\\AA[FF]\\FF[40]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「朔、私は神様だよ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  あと朔もかわいいよ」\\n<雪音>\\F[3]\\AA[F]\\FF[40]"
+                "\"Saku, what's wrong!\"\\n<Yukine>\\F[16]\\AA[F]\\FF[28]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -296,34 +198,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「ありがとう雪音さま」\\n<朔>\\F[3]\\AA[FF]\\FF[25]"
+                "\"Ah, ah... I can see. I can see! I can see Onee-\nsan's face.\"\\n<Shuo>\\F[16]\\AA[FF]\\FF[42]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「朔、雪音おねえちゃんでいいよ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "  さぁ、目も戻ったことだし一緒に出口を探そう」\\n<雪音>\\F[1]\\AA[F]\\FF[25]"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「……」\\n<朔>\\F[1]\\AA[FF]\\FF[23]"]
+              "parameters": ["\"----\"\\n<Yukine>\\F[2]\\AA[F]\\FF[42]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「朔、どうしたの？」\\n<雪音>\\F[5]\\AA[F]\\FF[23]"
+                "\\F[2]My heart is full with those words. I have finally\nmanaged to restore all of Saku's lost\nsenses.\\AA[N]\\FF[42]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -331,16 +220,69 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「お胸が、ちょっと……ううん、やっぱりなんでもない」\\n<朔>\\F[5]\\AA[FF]\\FF[23]"
+                "\\F[2]I'm so happy, so happy that I can't put this warm\nfeeling into words.\\AA[F]\\FF[42]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「そう？"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  ならいいんだけど……」\\n<雪音>\\F[5]\\AA[F]\\FF[23]"
+                "\"Onee-san, so this is what your face looks like.\nYour hair is pure white, you look so kind, almost\nlike a goddess. You're very beautiful.\"\\n<Shuo>\\F[2]\\AA[FF]\\FF[40]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Saku, I am a goddess. And you're cute too.\"\\n<Yukine>\\F[3]\\AA[F]\\FF[40]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Thank you, Yukine-sama.\"\\n<Shuo>\\F[3]\\AA[FF]\\FF[25]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Saku, just Yukine Onee-san is fine. Now that your\neyes are back, let's look for the exit together.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[25]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"...\"\\n<Shuo>\\F[1]\\AA[FF]\\FF[23]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Saku, what's the matter?\"\\n<Yukine>\\F[5]\\AA[F]\\FF[23]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Your chest is, a little... no, never mind, it's\nnothing.\"\\n<Shuo>\\F[5]\\AA[FF]\\FF[23]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Is that so? Well, if you say it's nothing...\"\\n<Yukine>\\F[5]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 76] },
@@ -621,7 +563,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["（からっぽ）"] },
+            { "code": 401, "indent": 0, "parameters": ["(Empty)"] },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
