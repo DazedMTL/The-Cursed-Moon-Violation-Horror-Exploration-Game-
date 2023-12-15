@@ -1,0 +1,37 @@
+[
+  null,
+  {
+    "id": 1,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "主人公",
+    "classId": 1,
+    "equips": [0, 1, 2, 3, 4],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "雪音",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 2,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "朔",
+    "classId": 1,
+    "equips": [0, 0, 0, 0, 0],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "朔",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  }
+]
