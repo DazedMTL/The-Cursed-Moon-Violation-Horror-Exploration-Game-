@@ -411,7 +411,7 @@
               "indent": 0,
               "parameters": ["「……そういうこと、だったんだ」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[10]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[10]"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -424,7 +424,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [" かして、人形の？」\\n<\\N[1]>\\F[4]"]
+              "parameters": [" かして、人形の？」\\n<雪音>\\F[4]"]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             {
@@ -448,7 +448,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「早く朔の所に戻ろう」\\n<\\N[1]>\\F[4]"]
+              "parameters": ["「早く朔の所に戻ろう」\\n<雪音>\\F[4]"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }

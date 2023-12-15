@@ -946,7 +946,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「朔、無事だったんだね！」\\n<\\N[1]>\\F[3]"]
+              "parameters": ["「朔、無事だったんだね！」\\n<雪音>\\F[3]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [10, 1, true] },
@@ -1024,7 +1024,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  すごく心配したよ、どこも怪我とかしてない？」\\n<\\N[1]>\\F[2]"
+                "  すごく心配したよ、どこも怪我とかしてない？」\\n<雪音>\\F[2]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1049,7 +1049,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[2]\\AA[F]\\FF[40]"]
+              "parameters": ["\\n<雪音>\\F[2]\\AA[F]\\FF[40]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["「そうだ。"] },
@@ -1090,7 +1090,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[3]\\AA[F]\\FF[40]"]
+              "parameters": ["\\n<雪音>\\F[3]\\AA[F]\\FF[40]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1101,7 +1101,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[3]\\AA[F]\\FF[25]"]
+              "parameters": ["\\n<雪音>\\F[3]\\AA[F]\\FF[25]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [10, 4, true] },

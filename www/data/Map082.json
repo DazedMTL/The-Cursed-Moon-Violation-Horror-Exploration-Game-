@@ -185,7 +185,7 @@
               "indent": 0,
               "parameters": ["「さよなら……鈴音ちゃん。私の初めての友達」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[70]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[70]"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 242, "indent": 0, "parameters": [3] },
             {
@@ -248,7 +248,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「うん……お別れしてきた」\\n<\\N[1]>\\F[7]\\AA[F]\\FF[23]"
+                "「うん……お別れしてきた」\\n<雪音>\\F[7]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -270,7 +270,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  う少し二人で頑張ろうね」\\n<\\N[1]>\\F[2]\\AA[F]\\FF[23]"
+                "  う少し二人で頑張ろうね」\\n<雪音>\\F[2]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

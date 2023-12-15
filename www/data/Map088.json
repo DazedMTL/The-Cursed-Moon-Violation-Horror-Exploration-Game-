@@ -231,7 +231,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「うっっ、この空気……ものすごい祟りの気配だ」\\n<\\N[1]>\\F[15]"
+                "「うっっ、この空気……ものすごい祟りの気配だ」\\n<雪音>\\F[15]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -278,7 +278,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  危ないから」\\n<\\N[1]>\\F[4]\\AA[F]\\FF[26]"]
+              "parameters": ["  危ないから」\\n<雪音>\\F[4]\\AA[F]\\FF[26]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -401,7 +401,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「……祠の中になにか入ってる……これは石？」\\n<\\N[1]>\\F[4]"
+                "「……祠の中になにか入ってる……これは石？」\\n<雪音>\\F[4]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -429,7 +429,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  る強い感情は……え……『寂しい』？　なんで？」\\n<\\N[1]>\\F[10]"
+                "  る強い感情は……え……『寂しい』？　なんで？」\\n<雪音>\\F[10]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -450,7 +450,7 @@
                 "「うっ、すごい祟りを出し始めた。朔禍月に気付かれたんだ！」"
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[15]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[15]"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
               "code": 250,
@@ -462,7 +462,7 @@
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["「きゃぁぁっ！」"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[16]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[16]"] },
             {
               "code": 205,
               "indent": 0,
@@ -539,7 +539,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[9]\\AA[F]\\FF[27]"]
+              "parameters": ["\\n<雪音>\\F[9]\\AA[F]\\FF[27]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -557,7 +557,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[10]\\AA[F]\\FF[27]"]
+              "parameters": ["\\n<雪音>\\F[10]\\AA[F]\\FF[27]"]
             },
             { "code": 121, "indent": 0, "parameters": [242, 242, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -657,7 +657,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「……祠の中になにか入ってる……これは石？」\\n<\\N[1]>\\F[4]"
+                "「……祠の中になにか入ってる……これは石？」\\n<雪音>\\F[4]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -692,7 +692,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  え……『寂しい』？　なんで？」\\n<\\N[1]>\\F[10]"]
+              "parameters": ["  え……『寂しい』？　なんで？」\\n<雪音>\\F[10]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -715,7 +715,7 @@
               "indent": 0,
               "parameters": ["  朔禍月に気付かれたんだ！」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[15]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[15]"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
               "code": 250,
@@ -731,7 +731,7 @@
               "indent": 0,
               "parameters": ["「この小刀で……えあっ！」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[19]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[19]"] },
             {
               "code": 250,
               "indent": 0,
@@ -755,14 +755,14 @@
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["「だめだ……」"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[15]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[15]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": ["「……そうだ。あの刀なら壊せるかも」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[4]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[4]"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
               "code": 250,
@@ -798,11 +798,11 @@
               "indent": 0,
               "parameters": ["「……おねがい、壊れて！」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[4]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[4]"] },
             { "code": 246, "indent": 0, "parameters": [1] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["「えいっ！」"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[9]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[9]"] },
             {
               "code": 250,
               "indent": 0,
@@ -1068,7 +1068,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[1]\\AA[F]\\FF[23]"]
+              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1141,7 +1141,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[7]\\AA[F]\\FF[23]"]
+              "parameters": ["\\n<雪音>\\F[7]\\AA[F]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1163,7 +1163,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[8]\\AA[F]\\FF[23]"]
+              "parameters": ["\\n<雪音>\\F[8]\\AA[F]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1174,7 +1174,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[8]\\AA[F]\\FF[23]"]
+              "parameters": ["\\n<雪音>\\F[8]\\AA[F]\\FF[23]"]
             },
             { "code": 246, "indent": 0, "parameters": [1] },
             {
@@ -1261,7 +1261,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  ち去ったほうが良さそう」\\n<\\N[1]>\\F[8]"]
+              "parameters": ["  ち去ったほうが良さそう」\\n<雪音>\\F[8]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1276,7 +1276,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「そうだね……出口を探さないと」\\n<\\N[1]>\\F[7]\\AA[F]\\FF[43]"
+                "「そうだね……出口を探さないと」\\n<雪音>\\F[7]\\AA[F]\\FF[43]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1352,7 +1352,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  取り込んで……」\\n<\\N[1]>\\F[10]\\AA[F]\\FF[23]"
+                "  取り込んで……」\\n<雪音>\\F[10]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1381,7 +1381,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  たくさん生み出して」\\n<\\N[1]>\\F[4]\\AA[F]\\FF[23]"
+                "  たくさん生み出して」\\n<雪音>\\F[4]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1404,7 +1404,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[4]\\AA[F]\\FF[23]"]
+              "parameters": ["\\n<雪音>\\F[4]\\AA[F]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1499,7 +1499,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  早く立ち去ったほうが良さそう」\\n<\\N[1]>\\F[8]"
+                "  早く立ち去ったほうが良さそう」\\n<雪音>\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1515,7 +1515,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「そうだね……出口を探さないと」\\n<\\N[1]>\\F[7]\\AA[F]\\FF[43]"
+                "「そうだね……出口を探さないと」\\n<雪音>\\F[7]\\AA[F]\\FF[43]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1530,7 +1530,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  思うの」\\n<\\N[1]>\\F[3]\\AA[F]\\FF[43]"]
+              "parameters": ["  思うの」\\n<雪音>\\F[3]\\AA[F]\\FF[43]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1550,7 +1550,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  えっと、これを近づけて」\\n<\\N[1]>\\F[1]\\AA[F]\\FF[22]"
+                "  えっと、これを近づけて」\\n<雪音>\\F[1]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -1584,7 +1584,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[1]\\AA[F]\\FF[40]"]
+              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[40]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["「ほんと？"] },
@@ -1612,7 +1612,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[2]\\AA[F]\\FF[40]"]
+              "parameters": ["\\n<雪音>\\F[2]\\AA[F]\\FF[40]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1635,7 +1635,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[2]\\AA[F]\\FF[22]"]
+              "parameters": ["\\n<雪音>\\F[2]\\AA[F]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["「やったぁ」"] },

@@ -132,7 +132,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「え、人の……手？」\\n<\\N[1]>\\F[15]"]
+              "parameters": ["「え、人の……手？」\\n<雪音>\\F[15]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -151,7 +151,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ひゃっ――」\\n<\\N[1]>\\F[16]"]
+              "parameters": ["「ひゃっ――」\\n<雪音>\\F[16]"]
             },
             { "code": 246, "indent": 0, "parameters": [1] },
             { "code": 221, "indent": 0, "parameters": [] },

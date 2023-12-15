@@ -6540,7 +6540,7 @@
               "indent": 0,
               "parameters": ["「あっ、これって！」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[3]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[3]"] },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [24] },
             {
@@ -6617,7 +6617,7 @@
               "indent": 0,
               "parameters": ["「あれ、でもこれ……」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[8]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[8]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -6643,7 +6643,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[8]\\AA[F]\\FF[22]"]
+              "parameters": ["\\n<雪音>\\F[8]\\AA[F]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -6677,7 +6677,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[7]\\AA[F]\\FF[23]"]
+              "parameters": ["\\n<雪音>\\F[7]\\AA[F]\\FF[23]"]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -6691,7 +6691,7 @@
             { "code": 230, "indent": 0, "parameters": [90] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["「どう……かな？」"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[5]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[5]"] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -6714,7 +6714,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[3]\\AA[F]\\FF[28]"]
+              "parameters": ["\\n<雪音>\\F[3]\\AA[F]\\FF[28]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -6774,7 +6774,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[2]\\AA[F]\\FF[22]"]
+              "parameters": ["\\n<雪音>\\F[2]\\AA[F]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -6801,7 +6801,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[1]\\AA[F]\\FF[25]"]
+              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[25]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["「うん」"] },

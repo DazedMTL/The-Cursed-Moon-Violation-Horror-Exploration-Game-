@@ -882,7 +882,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  学生証は……平成２５年入学　富田　アカネ」\\n<\\N[1]>\\F[5]"
+                "  学生証は……平成２５年入学　富田　アカネ」\\n<雪音>\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -973,7 +973,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……これは」\\n<\\N[1]>\\F[10]"]
+              "parameters": ["「……これは」\\n<雪音>\\F[10]"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1226,7 +1226,7 @@
                 "「こんなにたくさんの血が出てたら……この人はもう……」"
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[10]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[10]"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 4,

@@ -2160,7 +2160,7 @@
               "indent": 0,
               "parameters": ["  たみたい……これ、次は耐えられないかな」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[13]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[13]"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,

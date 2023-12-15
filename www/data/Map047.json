@@ -2961,7 +2961,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  あなた――あなたの名は、朔禍月ね」\\n<\\N[1]>\\F[19]"
+                "  あなた――あなたの名は、朔禍月ね」\\n<雪音>\\F[19]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2976,7 +2976,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「‼!!」\\n<\\N[1]>\\F[16]"]
+              "parameters": ["「‼!!」\\n<雪音>\\F[16]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -3018,7 +3018,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  どうして沢山の人を祟りで殺したの！」\\n<\\N[1]>\\F[15]"
+                "  どうして沢山の人を祟りで殺したの！」\\n<雪音>\\F[15]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3053,7 +3053,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うっっっ!?」\\n<\\N[1]>\\F[13]"]
+              "parameters": ["「うっっっ!?」\\n<雪音>\\F[13]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -3166,7 +3166,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[4]\\AA[F]\\FF[21]"]
+              "parameters": ["\\n<雪音>\\F[4]\\AA[F]\\FF[21]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -3196,7 +3196,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[19]\\AA[F]\\FF[23]"]
+              "parameters": ["\\n<雪音>\\F[19]\\AA[F]\\FF[23]"]
             },
             {
               "code": 245,

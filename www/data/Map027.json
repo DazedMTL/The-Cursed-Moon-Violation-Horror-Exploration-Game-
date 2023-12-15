@@ -1718,7 +1718,7 @@
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["「…………」"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[9]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[9]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1727,14 +1727,14 @@
                 "「祟りの気配が、なくなった……どこかに行ったみたい……」"
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[9]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[9]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": ["「こわくなかった？」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[8]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[8]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1757,7 +1757,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[7]\\AA[F]\\FF[20]"]
+              "parameters": ["\\n<雪音>\\F[7]\\AA[F]\\FF[20]"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 48] },

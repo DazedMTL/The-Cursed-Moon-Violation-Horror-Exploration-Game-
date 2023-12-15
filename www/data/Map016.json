@@ -2381,7 +2381,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「これで縄を切っちゃえば」\\n<\\N[1]>\\F[1]"]
+              "parameters": ["「これで縄を切っちゃえば」\\n<雪音>\\F[1]"]
             },
             { "code": 230, "indent": 1, "parameters": [60] },
             {
@@ -2410,7 +2410,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「よし、これで中に入れる」\\n<\\N[1]>\\F[3]"]
+              "parameters": ["「よし、これで中に入れる」\\n<雪音>\\F[3]"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -3665,7 +3665,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「これで縄を切っちゃえば」\\n<\\N[1]>\\F[1]"]
+              "parameters": ["「これで縄を切っちゃえば」\\n<雪音>\\F[1]"]
             },
             { "code": 230, "indent": 1, "parameters": [60] },
             {
@@ -3695,7 +3695,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「よし、これで中に入れる」\\n<\\N[1]>\\F[3]"]
+              "parameters": ["「よし、これで中に入れる」\\n<雪音>\\F[3]"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -5210,7 +5210,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "「これだけ集めれば十分だよね。女の子の所に戻ろうか」\\n<\\N[1]>\\F[1]"
+                "「これだけ集めれば十分だよね。女の子の所に戻ろうか」\\n<雪音>\\F[1]"
               ]
             },
             {

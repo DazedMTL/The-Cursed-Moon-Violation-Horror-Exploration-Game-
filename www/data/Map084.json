@@ -392,7 +392,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「どうしたんだろ？」\\n<\\N[1]>\\F[5]\\AA[F]\\FF[29]"
+                "「どうしたんだろ？」\\n<雪音>\\F[5]\\AA[F]\\FF[29]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -404,7 +404,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[8]\\AA[F]\\FF[29]"]
+              "parameters": ["\\n<雪音>\\F[8]\\AA[F]\\FF[29]"]
             },
             {
               "code": 102,
@@ -504,7 +504,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「きゃっっ！　なに、これ……やめて、触らないで！」\\n<\\N[1]>\\F[16]"
+                "「きゃっっ！　なに、これ……やめて、触らないで！」\\n<雪音>\\F[16]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -567,7 +567,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[16]\\AA[F]\\FF[21]"]
+              "parameters": ["\\n<雪音>\\F[16]\\AA[F]\\FF[21]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -594,7 +594,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「さ、……く……っ、ぁ……」\\n<\\N[1]>"]
+              "parameters": ["「さ、……く……っ、ぁ……」\\n<雪音>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {

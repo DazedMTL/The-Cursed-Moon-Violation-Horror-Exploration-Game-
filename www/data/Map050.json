@@ -866,7 +866,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[7]\\AA[F]\\FF[24]"]
+              "parameters": ["\\n<雪音>\\F[7]\\AA[F]\\FF[24]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1770,7 +1770,7 @@
               "indent": 0,
               "parameters": ["  それに走ったせいでベタベタする」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[11]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[11]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1794,7 +1794,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[8]\\AA[F]\\FF[23]"]
+              "parameters": ["\\n<雪音>\\F[8]\\AA[F]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["「うう……」"] },
@@ -1812,7 +1812,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[8]\\AA[F]\\FF[23]"]
+              "parameters": ["\\n<雪音>\\F[8]\\AA[F]\\FF[23]"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2414,7 +2414,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[8]\\AA[F]\\FF[20]"]
+              "parameters": ["\\n<雪音>\\F[8]\\AA[F]\\FF[20]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -2437,7 +2437,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[8]\\AA[F]\\FF[24]"]
+              "parameters": ["\\n<雪音>\\F[8]\\AA[F]\\FF[24]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -2455,7 +2455,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[8]\\AA[F]\\FF[23]"]
+              "parameters": ["\\n<雪音>\\F[8]\\AA[F]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -2573,7 +2573,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n<\\N[1]>\\F[8]\\AA[F]\\FF[23]"]
+              "parameters": ["\\n<雪音>\\F[8]\\AA[F]\\FF[23]"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -2696,7 +2696,7 @@
               "indent": 0,
               "parameters": ["「ねえ、君。入っておいで、そこは――」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[1]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[1]"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
               "code": 205,
@@ -2739,7 +2739,7 @@
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["「え？」\\n<\\N[1]>"] },
+            { "code": 401, "indent": 0, "parameters": ["「え？」\\n<雪音>"] },
             {
               "code": 250,
               "indent": 0,
@@ -2959,7 +2959,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n<\\N[1]>\\F[8]\\AA[F]\\FF[23]"]
+              "parameters": ["\\n<雪音>\\F[8]\\AA[F]\\FF[23]"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -3034,7 +3034,7 @@
               "indent": 0,
               "parameters": ["「ねえ、君。入っておいで」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[1]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[1]"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
               "code": 205,
@@ -3170,7 +3170,7 @@
               "indent": 0,
               "parameters": ["  あなたのケーキなんだから、お腹いっぱいたべて」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[2]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[2]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -3225,7 +3225,7 @@
                 "「できれば……生きてるときに、食べさせてあげたかったな」"
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[10]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[10]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["「おねえちゃん……」"] },
             {
@@ -3249,7 +3249,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[7]\\AA[F]\\FF[23]"]
+              "parameters": ["\\n<雪音>\\F[7]\\AA[F]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -4971,7 +4971,7 @@
               "indent": 0,
               "parameters": ["「あ、涼しい風が出てきた。まだ動いたんだ」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[5]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[5]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -4994,7 +4994,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[1]\\AA[F]\\FF[28]"]
+              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[28]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -5005,7 +5005,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[1]\\AA[F]\\FF[28]"]
+              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[28]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -5115,7 +5115,7 @@
               "indent": 0,
               "parameters": ["「出て行っちゃった……どうしたんだろ？」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[5]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[5]"] },
             { "code": 126, "indent": 0, "parameters": [53, 1, 0, 1] },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 66] },
             { "code": 118, "indent": 0, "parameters": ["skip"] },
@@ -5288,7 +5288,7 @@
             { "code": 401, "indent": 0, "parameters": ["\\F[5]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["「えっと……」"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[5]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[5]"] },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
@@ -5542,7 +5542,7 @@
               "indent": 0,
               "parameters": ["「こんなの……ひどいよ。子供にそんな事するなんて」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[15]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[15]"] },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 65] },
             { "code": 121, "indent": 0, "parameters": [171, 171, 0] },
             {
@@ -6225,7 +6225,7 @@
               "indent": 0,
               "parameters": ["「確かこうやって……」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[4]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[4]"] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             {
               "code": 250,
@@ -6253,7 +6253,7 @@
               "indent": 0,
               "parameters": ["「よし！　火が付いた」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[3]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[3]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,

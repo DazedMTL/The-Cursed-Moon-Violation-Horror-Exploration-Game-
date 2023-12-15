@@ -3165,7 +3165,7 @@
               "indent": 0,
               "parameters": ["「あれ、あそこにだれかいるよ」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[5]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[5]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["「ほん、と……に？」"] },
             {
@@ -3221,7 +3221,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[15]\\AA[F]\\FF[27]"]
+              "parameters": ["\\n<雪音>\\F[15]\\AA[F]\\FF[27]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["「おねえちゃ……」"] },
@@ -3235,7 +3235,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[4]\\AA[F]\\FF[27]"]
+              "parameters": ["\\n<雪音>\\F[4]\\AA[F]\\FF[27]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -3263,7 +3263,7 @@
               "indent": 0,
               "parameters": ["「あれはきっと祟りだ……」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[10]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[10]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -3306,7 +3306,7 @@
               "indent": 0,
               "parameters": ["「っっっっっっ！！」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[15]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[15]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -3352,7 +3352,7 @@
               "indent": 0,
               "parameters": ["  こんなにたくさん！」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[15]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[15]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["「■■■……」"] },
             { "code": 401, "indent": 0, "parameters": ["\\n<？？？>\\FF[30]"] },
@@ -3394,7 +3394,7 @@
               "indent": 0,
               "parameters": ["  捕まったら殺されちゃう！」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[16]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[16]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["「う、うん……」"] },
             {

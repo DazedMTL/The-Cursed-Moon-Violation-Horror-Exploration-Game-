@@ -236,7 +236,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  この木……ものすごい、呪いの気配だ」\\n<\\N[1]>\\F[10]"
+                "  この木……ものすごい、呪いの気配だ」\\n<雪音>\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -259,7 +259,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[10]\\AA[F]\\FF[23]"]
+              "parameters": ["\\n<雪音>\\F[10]\\AA[F]\\FF[23]"]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
@@ -323,7 +323,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[4]\\AA[F]\\FF[23]"]
+              "parameters": ["\\n<雪音>\\F[4]\\AA[F]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -380,7 +380,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[4]\\AA[F]\\FF[23]"]
+              "parameters": ["\\n<雪音>\\F[4]\\AA[F]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -400,7 +400,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  を覆う祟りの要を一つ壊せるかも？」\\n<\\N[1]>\\F[4]\\AA[F]\\FF[23]"
+                "  を覆う祟りの要を一つ壊せるかも？」\\n<雪音>\\F[4]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -483,7 +483,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  浄化できるはずだよね」\\n<\\N[1]>\\F[4]"]
+              "parameters": ["  浄化できるはずだよね」\\n<雪音>\\F[4]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -499,7 +499,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「えいっ！　上手くいって！」\\n<\\N[1]>\\F[18]"]
+              "parameters": ["「えいっ！　上手くいって！」\\n<雪音>\\F[18]"]
             },
             {
               "code": 250,

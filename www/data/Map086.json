@@ -414,7 +414,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……今の記憶は……朔の過去？」\\n<\\N[1]>\\F[4]"]
+              "parameters": ["「……今の記憶は……朔の過去？」\\n<雪音>\\F[4]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -433,7 +433,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[4]\\AA[F]\\FF[22]"]
+              "parameters": ["\\n<雪音>\\F[4]\\AA[F]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {

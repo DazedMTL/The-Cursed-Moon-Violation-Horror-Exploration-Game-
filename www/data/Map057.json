@@ -475,7 +475,7 @@
               "indent": 0,
               "parameters": ["「こんなところに手紙が……この匂いは……」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[4]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[4]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -496,7 +496,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[4]\\AA[F]\\FF[22]"]
+              "parameters": ["\\n<雪音>\\F[4]\\AA[F]\\FF[22]"]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -620,7 +620,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[10]\\AA[F]\\FF[23]"]
+              "parameters": ["\\n<雪音>\\F[10]\\AA[F]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -644,7 +644,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  た人だよ」\\n<\\N[1]>\\F[7]\\AA[F]\\FF[28]"]
+              "parameters": ["  た人だよ」\\n<雪音>\\F[7]\\AA[F]\\FF[28]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -666,7 +666,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[7]\\AA[F]\\FF[43]"]
+              "parameters": ["\\n<雪音>\\F[7]\\AA[F]\\FF[43]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -680,7 +680,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[1]\\AA[F]\\FF[43]"]
+              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[43]"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

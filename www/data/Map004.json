@@ -1499,7 +1499,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「なに……ここ」\\n<\\N[1]>\\F[8]"]
+              "parameters": ["「なに……ここ」\\n<雪音>\\F[8]"]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
@@ -2495,7 +2495,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「これで縄を切っちゃえば」\\n<\\N[1]>\\F[1]"]
+              "parameters": ["「これで縄を切っちゃえば」\\n<雪音>\\F[1]"]
             },
             { "code": 230, "indent": 1, "parameters": [60] },
             {
@@ -2524,7 +2524,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「よし、これで中に入れる」\\n<\\N[1]>\\F[3]"]
+              "parameters": ["「よし、これで中に入れる」\\n<雪音>\\F[3]"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -2862,7 +2862,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うっ、すごい負の感情が……」\\n<\\N[1]>\\F[15]"]
+              "parameters": ["「うっ、すごい負の感情が……」\\n<雪音>\\F[15]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -3608,7 +3608,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うっ、すごい負の感情が……」\\n<\\N[1]>\\F[15]"]
+              "parameters": ["「うっ、すごい負の感情が……」\\n<雪音>\\F[15]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -4167,7 +4167,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「これで縄を切っちゃえば」\\n<\\N[1]>\\F[1]"]
+              "parameters": ["「これで縄を切っちゃえば」\\n<雪音>\\F[1]"]
             },
             { "code": 230, "indent": 1, "parameters": [60] },
             {
@@ -4197,7 +4197,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「よし、これで中に入れる」\\n<\\N[1]>\\F[3]"]
+              "parameters": ["「よし、これで中に入れる」\\n<雪音>\\F[3]"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -4671,7 +4671,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  おかあさんのところには……行けたのかな？」\\n<\\N[1]>\\F[6]"
+                "  おかあさんのところには……行けたのかな？」\\n<雪音>\\F[6]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -5468,7 +5468,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「んっしょ、んっしょっ……」\\n<\\N[1]>\\F[14]"]
+              "parameters": ["「んっしょ、んっしょっ……」\\n<雪音>\\F[14]"]
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 230, "indent": 1, "parameters": [30] },
@@ -5477,7 +5477,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "「はぁ、重かった。あとはお水の入れ物を探さないと……」\\n<\\N[1]>\\F[12]"
+                "「はぁ、重かった。あとはお水の入れ物を探さないと……」\\n<雪音>\\F[12]"
               ]
             },
             {
@@ -7443,7 +7443,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うっ、すごい負の感情が……」\\n<\\N[1]>\\F[15]"]
+              "parameters": ["「うっ、すごい負の感情が……」\\n<雪音>\\F[15]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {

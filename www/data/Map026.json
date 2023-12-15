@@ -549,7 +549,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[15]\\AA[F]\\FF[20]"]
+              "parameters": ["\\n<雪音>\\F[15]\\AA[F]\\FF[20]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -572,7 +572,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[15]\\AA[F]\\FF[20]"]
+              "parameters": ["\\n<雪音>\\F[15]\\AA[F]\\FF[20]"]
             },
             { "code": 117, "indent": 0, "parameters": [50] },
             {

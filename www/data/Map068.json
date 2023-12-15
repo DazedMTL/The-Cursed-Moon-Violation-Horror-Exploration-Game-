@@ -868,7 +868,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（え、小太刀が光って）\\n<\\N[1]>\\F[3]"]
+              "parameters": ["（え、小太刀が光って）\\n<雪音>\\F[3]"]
             },
             {
               "code": 231,
@@ -932,7 +932,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あの……こ、この刀って？」\\n<\\N[1]>\\F[4]"]
+              "parameters": ["「あの……こ、この刀って？」\\n<雪音>\\F[4]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -959,7 +959,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「娘？　じゃあ、あなたは？」\\n<\\N[1]>\\F[5]"]
+              "parameters": ["「娘？　じゃあ、あなたは？」\\n<雪音>\\F[5]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1023,20 +1023,20 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  待っていたんだね」\\n<\\N[1]>\\F[4]"]
+              "parameters": ["  待っていたんだね」\\n<雪音>\\F[4]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……」\\n<\\N[1]>\\F[4]"]
+              "parameters": ["「……」\\n<雪音>\\F[4]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「はい、必ずその願い叶えてみせます」\\n<\\N[1]>\\F[4]"
+                "「はい、必ずその願い叶えてみせます」\\n<雪音>\\F[4]"
               ]
             },
             { "code": 118, "indent": 0, "parameters": ["skip"] },

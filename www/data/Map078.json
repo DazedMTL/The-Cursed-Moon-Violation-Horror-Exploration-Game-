@@ -1294,7 +1294,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あれは……」\\n<\\N[1]>\\F[5]"]
+              "parameters": ["「あれは……」\\n<雪音>\\F[5]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -1348,7 +1348,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  どうしてだろ」\\n<\\N[1]>\\F[4]\\AA[F]\\FF[28]"]
+              "parameters": ["  どうしてだろ」\\n<雪音>\\F[4]\\AA[F]\\FF[28]"]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
@@ -1486,7 +1486,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  澄んでいるんだ」\\n<\\N[1]>\\F[1]"]
+              "parameters": ["  澄んでいるんだ」\\n<雪音>\\F[1]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1513,7 +1513,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「そうみたい……」\\n<\\N[1]>\\F[1]\\AA[F]\\FF[22]"]
+              "parameters": ["「そうみたい……」\\n<雪音>\\F[1]\\AA[F]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1548,14 +1548,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  かしたら……」\\n<\\N[1]>\\F[4]"]
+              "parameters": ["  かしたら……」\\n<雪音>\\F[4]"]
             },
             { "code": 242, "indent": 0, "parameters": [1] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「えいっっ」\\n<\\N[1]>\\F[19]"]
+              "parameters": ["「えいっっ」\\n<雪音>\\F[19]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -1591,7 +1591,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「わわっっっ、」\\n<\\N[1]>\\F[12]"]
+              "parameters": ["「わわっっっ、」\\n<雪音>\\F[12]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1672,7 +1672,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「朔。この光って!?」\\n<\\N[1]>\\F[16]\\AA[F]\\FF[28]"
+                "「朔。この光って!?」\\n<雪音>\\F[16]\\AA[F]\\FF[28]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1798,7 +1798,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「朔、ちょっと！　どうしたの？」\\n<\\N[1]>\\F[16]"
+                "「朔、ちょっと！　どうしたの？」\\n<雪音>\\F[16]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1864,7 +1864,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「さ、朔っっ！」\\n<\\N[1]>\\F[16]"]
+              "parameters": ["「さ、朔っっ！」\\n<雪音>\\F[16]"]
             },
             {
               "code": 250,
@@ -1994,7 +1994,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  ら心配したよ」\\n<\\N[1]>\\F[8]"]
+              "parameters": ["  ら心配したよ」\\n<雪音>\\F[8]"]
             },
             { "code": 111, "indent": 0, "parameters": [8, 58] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -2034,7 +2034,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "  からだ……あったかいよ」\\n<\\N[1]>\\F[5]\\AA[F]\\FF[63]"
+                "  からだ……あったかいよ」\\n<雪音>\\F[5]\\AA[F]\\FF[63]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2049,7 +2049,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "  からだ……あったかいよ」\\n<\\N[1]>\\F[5]\\AA[F]\\FF[42]"
+                "  からだ……あったかいよ」\\n<雪音>\\F[5]\\AA[F]\\FF[42]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2096,7 +2096,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "  もう霊体じゃ、なくなってる……みたいだけど……？」\\n<\\N[1]>\\F[4]\\AA[F]\\FF[60]"
+                "  もう霊体じゃ、なくなってる……みたいだけど……？」\\n<雪音>\\F[4]\\AA[F]\\FF[60]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2111,7 +2111,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "  もう霊体じゃ、なくなってる……みたいだけど……？」\\n<\\N[1]>\\F[4]\\AA[F]\\FF[42]"
+                "  もう霊体じゃ、なくなってる……みたいだけど……？」\\n<雪音>\\F[4]\\AA[F]\\FF[42]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2313,7 +2313,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n<\\N[1]>\\F[1]\\AA[F]\\FF[62]"]
+              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[62]"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -2328,7 +2328,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n<\\N[1]>\\F[1]\\AA[F]\\FF[23]"]
+              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[23]"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -2375,7 +2375,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n<\\N[1]>\\F[2]\\AA[F]\\FF[61]"]
+              "parameters": ["\\n<雪音>\\F[2]\\AA[F]\\FF[61]"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -2388,7 +2388,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n<\\N[1]>\\F[2]\\AA[F]\\FF[25]"]
+              "parameters": ["\\n<雪音>\\F[2]\\AA[F]\\FF[25]"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -2434,7 +2434,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n<\\N[1]>\\F[1]\\AA[F]\\FF[64]"]
+              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[64]"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -2452,7 +2452,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n<\\N[1]>\\F[1]\\AA[F]\\FF[45]"]
+              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[45]"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -2888,7 +2888,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「朔禍月……」\\n<\\N[1]>\\F[4]"]
+              "parameters": ["「朔禍月……」\\n<雪音>\\F[4]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -3034,7 +3034,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  死者で人の心を埋め尽くしても幸せにはなれないよ」\\n<\\N[1]>\\F[4]"
+                "  死者で人の心を埋め尽くしても幸せにはなれないよ」\\n<雪音>\\F[4]"
               ]
             },
             {
@@ -3063,7 +3063,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「くっ！」\\n<\\N[1]>\\F[55]"]
+              "parameters": ["「くっ！」\\n<雪音>\\F[55]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -3100,7 +3100,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  にはならない」\\n<\\N[1]>\\F[18]"]
+              "parameters": ["  にはならない」\\n<雪音>\\F[18]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["「黙れ、狐！"] },
@@ -3141,7 +3141,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "  屋敷の要を壊したから弱ってるんだ）\\n<\\N[1]>\\F[55]"
+                "  屋敷の要を壊したから弱ってるんだ）\\n<雪音>\\F[55]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -3328,7 +3328,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「朔、自由になりたい？」\\n<\\N[1]>\\F[4]"]
+              "parameters": ["「朔、自由になりたい？」\\n<雪音>\\F[4]"]
             },
             { "code": 111, "indent": 0, "parameters": [0, 247, 0] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3363,7 +3363,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "「私も……同じだよ」\\n<\\N[1]>\\F[1]\\AA[F]\\FF[62]"
+                "「私も……同じだよ」\\n<雪音>\\F[1]\\AA[F]\\FF[62]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -3373,7 +3373,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "「私も……同じだよ」\\n<\\N[1]>\\F[1]\\AA[F]\\FF[23]"
+                "「私も……同じだよ」\\n<雪音>\\F[1]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -3451,7 +3451,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「朔、あぶない！」\\n<\\N[1]>\\F[16]"]
+              "parameters": ["「朔、あぶない！」\\n<雪音>\\F[16]"]
             },
             { "code": 230, "indent": 0, "parameters": [10] },
             {
@@ -3703,7 +3703,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「さ、く……」\\n<\\N[1]>"]
+              "parameters": ["「さ、く……」\\n<雪音>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -3742,7 +3742,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「にげ、……」\\n<\\N[1]>"]
+              "parameters": ["「にげ、……」\\n<雪音>"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -3891,7 +3891,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あっ……」\\n<\\N[1]>"]
+              "parameters": ["「あっ……」\\n<雪音>"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -3936,7 +3936,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「っっっ！　っっっッ！」\\n<\\N[1]>"]
+              "parameters": ["「っっっ！　っっっッ！」\\n<雪音>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -4184,7 +4184,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "「それに錆びが無くなってる」\\n<\\N[1]>\\F[4]\\AA[F]\\FF[66]"
+                "「それに錆びが無くなってる」\\n<雪音>\\F[4]\\AA[F]\\FF[66]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -4194,7 +4194,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "「それに錆びが無くなってる」\\n<\\N[1]>\\F[4]\\AA[F]\\FF[28]"
+                "「それに錆びが無くなってる」\\n<雪音>\\F[4]\\AA[F]\\FF[28]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -4335,7 +4335,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  朔、急ごう！　帰れなくなっちゃう」\\n<\\N[1]>\\F[19]"
+                "  朔、急ごう！　帰れなくなっちゃう」\\n<雪音>\\F[19]"
               ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 247, 0] },
@@ -4610,7 +4610,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「これは……」\\n<\\N[1]>\\F[18]"]
+              "parameters": ["「これは……」\\n<雪音>\\F[18]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -4639,7 +4639,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ありがとう！」\\n<\\N[1]>\\F[3]"]
+              "parameters": ["「ありがとう！」\\n<雪音>\\F[3]"]
             },
             {
               "code": 231,
@@ -4787,7 +4787,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「朔、逃げよう。走れる？」\\n<\\N[1]>\\F[4]"]
+              "parameters": ["「朔、逃げよう。走れる？」\\n<雪音>\\F[4]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["「大丈夫だよ。"] },
@@ -4966,7 +4966,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「朔、いまのうちに！」\\n<\\N[1]>\\F[19]"]
+              "parameters": ["「朔、いまのうちに！」\\n<雪音>\\F[19]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -5063,7 +5063,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ッッッッッ！」\\n<\\N[1]>\\F[16]"]
+              "parameters": ["「ッッッッッ！」\\n<雪音>\\F[16]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -5149,7 +5149,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「朔、いまだよ。まだ走れる？」\\n<\\N[1]>\\F[4]\\AA[F]\\FF[23]"
+                "「朔、いまだよ。まだ走れる？」\\n<雪音>\\F[4]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5172,7 +5172,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[8]\\AA[F]\\FF[24]"]
+              "parameters": ["\\n<雪音>\\F[8]\\AA[F]\\FF[24]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -5186,7 +5186,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "小さな手を握ります。\\n<\\N[1]>\\F[8]\\AA[N]\\FF[24]"
+                "小さな手を握ります。\\n<雪音>\\F[8]\\AA[N]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5198,7 +5198,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[4]\\AA[F]\\FF[24]"]
+              "parameters": ["\\n<雪音>\\F[4]\\AA[F]\\FF[24]"]
             },
             {
               "code": 205,
@@ -5332,7 +5332,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「現世への道だ！　行くよ、朔」\\n<\\N[1]>\\F[19]"]
+              "parameters": ["「現世への道だ！　行くよ、朔」\\n<雪音>\\F[19]"]
             },
             {
               "code": 231,

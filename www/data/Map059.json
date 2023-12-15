@@ -514,7 +514,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[5]\\AA[F]\\FF[22]"]
+              "parameters": ["\\n<雪音>\\F[5]\\AA[F]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -529,7 +529,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「え？　朔のへやなの？」\\n<\\N[1]>\\F[5]\\AA[F]\\FF[22]"
+                "「え？　朔のへやなの？」\\n<雪音>\\F[5]\\AA[F]\\FF[22]"
               ]
             },
             {
@@ -583,7 +583,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[5]\\AA[F]\\FF[40]"]
+              "parameters": ["\\n<雪音>\\F[5]\\AA[F]\\FF[40]"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -685,7 +685,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あれ？　開かない」\\n<\\N[1]>\\F[5]"]
+              "parameters": ["「あれ？　開かない」\\n<雪音>\\F[5]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -708,7 +708,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  朔のお部屋だから知ってるんだね」\\n<\\N[1]>\\F[1]\\AA[F]\\FF[22]"
+                "  朔のお部屋だから知ってるんだね」\\n<雪音>\\F[1]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -771,7 +771,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  るなんて」\\n<\\N[1]>\\F[5]"]
+              "parameters": ["  るなんて」\\n<雪音>\\F[5]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -789,7 +789,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「朔、読んでもいい？」\\n<\\N[1]>\\F[5]\\AA[F]\\FF[22]"
+                "「朔、読んでもいい？」\\n<雪音>\\F[5]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -803,7 +803,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「わかった」\\n<\\N[1]>\\F[1]\\AA[F]\\FF[40]"]
+              "parameters": ["「わかった」\\n<雪音>\\F[1]\\AA[F]\\FF[40]"]
             },
             { "code": 243, "indent": 0, "parameters": [] },
             { "code": 242, "indent": 0, "parameters": [1] },
@@ -941,7 +941,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[1]\\AA[F]\\FF[23]"]
+              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -963,7 +963,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[7]\\AA[F]\\FF[23]"]
+              "parameters": ["\\n<雪音>\\F[7]\\AA[F]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -986,7 +986,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……おちついた？」\\n<\\N[1]>\\F[6]"]
+              "parameters": ["「……おちついた？」\\n<雪音>\\F[6]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1030,7 +1030,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「手、繋ごうね」\\n<\\N[1]>\\F[1]\\AA[F]\\FF[29]"]
+              "parameters": ["「手、繋ごうね」\\n<雪音>\\F[1]\\AA[F]\\FF[29]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1048,7 +1048,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「んっ、この気配は……？」\\n<\\N[1]>\\F[4]\\AA[F]\\FF[25]"
+                "「んっ、この気配は……？」\\n<雪音>\\F[4]\\AA[F]\\FF[25]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -1058,7 +1058,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「朔、これって……もしかして」\\n<\\N[1]>\\F[5]"]
+              "parameters": ["「朔、これって……もしかして」\\n<雪音>\\F[5]"]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             {
@@ -1114,7 +1114,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[1]\\AA[F]\\FF[22]"]
+              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1136,7 +1136,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[1]\\AA[F]\\FF[24]"]
+              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[24]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1278,7 +1278,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[7]\\AA[F]\\FF[22]"]
+              "parameters": ["\\n<雪音>\\F[7]\\AA[F]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1300,7 +1300,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[7]\\AA[F]\\FF[22]"]
+              "parameters": ["\\n<雪音>\\F[7]\\AA[F]\\FF[22]"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1515,7 +1515,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「なにか伝えたいことがあるみたい」\\n<\\N[1]>\\F[5]"
+                "「なにか伝えたいことがあるみたい」\\n<雪音>\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

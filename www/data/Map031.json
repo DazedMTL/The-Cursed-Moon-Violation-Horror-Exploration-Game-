@@ -2344,7 +2344,7 @@
               "indent": 0,
               "parameters": ["「はぁはぁ……また、景色が変わった」"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[12]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[12]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -2365,7 +2365,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[7]\\AA[F]\\FF[24]"]
+              "parameters": ["\\n<雪音>\\F[7]\\AA[F]\\FF[24]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -2418,7 +2418,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[1]\\AA[F]\\FF[24]"]
+              "parameters": ["\\n<雪音>\\F[1]\\AA[F]\\FF[24]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -2445,7 +2445,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[2]\\AA[F]\\FF[22]"]
+              "parameters": ["\\n<雪音>\\F[2]\\AA[F]\\FF[22]"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }

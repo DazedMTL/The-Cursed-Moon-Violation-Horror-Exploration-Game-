@@ -931,7 +931,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「日記だ……えっと」\\n<\\N[1]>\\F[5]"]
+              "parameters": ["「日記だ……えっと」\\n<雪音>\\F[5]"]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -1213,7 +1213,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「……これって」\\n<\\N[1]>\\F[4]"]
+              "parameters": ["「……これって」\\n<雪音>\\F[4]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {

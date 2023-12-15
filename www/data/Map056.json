@@ -672,7 +672,7 @@
               "indent": 0,
               "parameters": ["（この気配……私たち、また戻ってきたんだ）"]
             },
-            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>\\F[8]"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<雪音>\\F[8]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -691,7 +691,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[5]\\AA[F]\\FF[22]"]
+              "parameters": ["\\n<雪音>\\F[5]\\AA[F]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -766,7 +766,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\F[7]\\AA[F]\\FF[22]"]
+              "parameters": ["\\n<雪音>\\F[7]\\AA[F]\\FF[22]"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
