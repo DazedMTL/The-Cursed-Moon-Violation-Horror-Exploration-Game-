@@ -168,9 +168,9 @@
         "parameters": [
           [
             "Close",
-            "<View the walkthrough (spoiler alert)>",
+            "View the walkthrough (spoiler alert)>",
             "Hint for the true ENDif(s[256])",
-            "<EroSceneHint>Ero Scene Hint</EroSceneHint>"
+            "エロシーンヒント"
           ],
           0,
           -1,
@@ -2113,7 +2113,7 @@
       {
         "code": 102,
         "indent": 1,
-        "parameters": [["Skip scene", "<View the scene>"], -1, -1, 1, 1]
+        "parameters": [["Skip scene", "View the scene"], -1, -1, 1, 1]
       },
       { "code": 402, "indent": 1, "parameters": [0, "シーンをスキップ"] },
       { "code": 119, "indent": 2, "parameters": ["skip"] },
@@ -33740,7 +33740,7 @@
         "code": 102,
         "indent": 0,
         "parameters": [
-          ["<View the scene>", "<View CG>", "Go back"],
+          ["View the scene", "View CG", "Go back"],
           -2,
           -1,
           1,
@@ -33774,7 +33774,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["<View CG>", "Go back"], -2, -1, 1, 1]
+        "parameters": [["View CG", "Go back"], -2, -1, 1, 1]
       },
       { "code": 402, "indent": 0, "parameters": [0, "CGを見る"] },
       { "code": 117, "indent": 1, "parameters": [93] },
@@ -33797,7 +33797,7 @@
         "code": 102,
         "indent": 0,
         "parameters": [
-          ["<View the scene>", "<View CG>", "Go back"],
+          ["View the scene", "View CG", "Go back"],
           -2,
           -1,
           1,
@@ -33831,7 +33831,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["<View CG>", "Go back"], -2, -1, 1, 1]
+        "parameters": [["View CG", "Go back"], -2, -1, 1, 1]
       },
       { "code": 402, "indent": 0, "parameters": [0, "CGを見る"] },
       { "code": 117, "indent": 1, "parameters": [94] },
@@ -33854,7 +33854,7 @@
         "code": 102,
         "indent": 0,
         "parameters": [
-          ["<View the scene>", "<View CG>", "Go back"],
+          ["View the scene", "View CG", "Go back"],
           -2,
           -1,
           1,
@@ -33889,7 +33889,7 @@
         "code": 102,
         "indent": 0,
         "parameters": [
-          ["<View the scene>", "<View CG>", "Go back"],
+          ["View the scene", "View CG", "Go back"],
           -2,
           -1,
           1,
@@ -33924,7 +33924,7 @@
         "code": 102,
         "indent": 0,
         "parameters": [
-          ["<View the scene>", "<View CG>", "Go back"],
+          ["View the scene", "View CG", "Go back"],
           -2,
           -1,
           1,
@@ -33959,7 +33959,7 @@
         "code": 102,
         "indent": 0,
         "parameters": [
-          ["<View the scene>", "<View CG>", "Go back"],
+          ["View the scene", "View CG", "Go back"],
           -2,
           -1,
           1,
@@ -33994,7 +33994,7 @@
         "code": 102,
         "indent": 0,
         "parameters": [
-          ["<View the scene>", "<View CG>", "Go back"],
+          ["View the scene", "View CG", "Go back"],
           -2,
           -1,
           1,
@@ -34029,7 +34029,7 @@
         "code": 102,
         "indent": 0,
         "parameters": [
-          ["<View the scene>", "<View CG>", "Go back"],
+          ["View the scene", "View CG", "Go back"],
           -2,
           -1,
           1,
@@ -34064,7 +34064,7 @@
         "code": 102,
         "indent": 0,
         "parameters": [
-          ["<View the scene>", "<View CG>", "Go back"],
+          ["View the scene", "View CG", "Go back"],
           -2,
           -1,
           1,
@@ -34099,7 +34099,7 @@
         "code": 102,
         "indent": 0,
         "parameters": [
-          ["<View the scene>", "<View CG>", "Go back"],
+          ["View the scene", "View CG", "Go back"],
           -2,
           -1,
           1,
@@ -34134,7 +34134,7 @@
         "code": 102,
         "indent": 0,
         "parameters": [
-          ["<View the scene>", "<View CG>", "Go back"],
+          ["View the scene", "View CG", "Go back"],
           -2,
           -1,
           1,
@@ -34169,7 +34169,7 @@
         "code": 102,
         "indent": 0,
         "parameters": [
-          ["<View the scene>", "<View CG>", "Go back"],
+          ["View the scene", "View CG", "Go back"],
           -2,
           -1,
           1,
@@ -34204,7 +34204,7 @@
         "code": 102,
         "indent": 0,
         "parameters": [
-          ["<View the scene>", "<View CG>", "Go back"],
+          ["View the scene", "View CG", "Go back"],
           -2,
           -1,
           1,
@@ -34239,7 +34239,7 @@
         "code": 102,
         "indent": 0,
         "parameters": [
-          ["<View the scene>", "<View CG>", "Go back"],
+          ["View the scene", "View CG", "Go back"],
           -2,
           -1,
           1,
@@ -34274,7 +34274,7 @@
         "code": 102,
         "indent": 0,
         "parameters": [
-          ["<View the scene>", "<View CG>", "Go back"],
+          ["View the scene", "View CG", "Go back"],
           -2,
           -1,
           1,

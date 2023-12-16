@@ -455,7 +455,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Leave it as it is", "<Touch it>Touch it</Touch it>"],
+                ["そのままにしておく", "触ってみる"],
                 0,
                 0,
                 2,

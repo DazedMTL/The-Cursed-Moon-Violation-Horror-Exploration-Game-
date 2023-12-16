@@ -18,7 +18,7 @@
       { "level": 1, "note": "", "skillId": 8 },
       { "level": 1, "note": "", "skillId": 10 }
     ],
-    "name": "勇者",
+    "name": "Hero",
     "note": "",
     "params": [
       [
@@ -115,7 +115,7 @@
       { "code": 52, "dataId": 6, "value": 0 }
     ],
     "learnings": [],
-    "name": "戦士",
+    "name": "Warrior",
     "note": "",
     "params": [
       [
@@ -209,7 +209,7 @@
       { "code": 52, "dataId": 2, "value": 0 }
     ],
     "learnings": [{ "level": 1, "note": "", "skillId": 9 }],
-    "name": "魔術師",
+    "name": "Magician",
     "note": "",
     "params": [
       [
@@ -303,7 +303,7 @@
       { "code": 52, "dataId": 2, "value": 0 }
     ],
     "learnings": [{ "level": 1, "note": "", "skillId": 8 }],
-    "name": "僧侶",
+    "name": "Monk",
     "note": "",
     "params": [
       [

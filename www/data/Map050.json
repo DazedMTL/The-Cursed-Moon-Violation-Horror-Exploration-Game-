@@ -4168,7 +4168,7 @@
               "indent": 0,
               "parameters": [
                 [
-                  "<CakeOption>Take the cake with you</CakeOption>",
+                  "Take the cake with you",
                   "Do nothing"
                 ],
                 1,
