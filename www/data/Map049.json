@@ -1199,7 +1199,7 @@
             "tileId": 0
           },
           "list": [
-            { "code": 356, "indent": 0, "parameters": ["namePop 10 会話"] },
+            { "code": 356, "indent": 0, "parameters": ["namePop 10 Talk"] },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2285,7 +2285,7 @@
             "tileId": 0
           },
           "list": [
-            { "code": 356, "indent": 0, "parameters": ["namePop 19 会話"] },
+            { "code": 356, "indent": 0, "parameters": ["namePop 19 Talk"] },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3147,7 +3147,7 @@
             "tileId": 0
           },
           "list": [
-            { "code": 356, "indent": 0, "parameters": ["namePop 27 会話"] },
+            { "code": 356, "indent": 0, "parameters": ["namePop 27 Talk"] },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3968,7 +3968,7 @@
             "tileId": 0
           },
           "list": [
-            { "code": 356, "indent": 0, "parameters": ["namePop 31 会話"] },
+            { "code": 356, "indent": 0, "parameters": ["namePop 31 Talk"] },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

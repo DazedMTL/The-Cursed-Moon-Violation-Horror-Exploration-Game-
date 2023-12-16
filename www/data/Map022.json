@@ -946,7 +946,7 @@
             "tileId": 0
           },
           "list": [
-            { "code": 356, "indent": 0, "parameters": ["namePop 3 会話"] },
+            { "code": 356, "indent": 0, "parameters": ["namePop 3 Talk"] },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
