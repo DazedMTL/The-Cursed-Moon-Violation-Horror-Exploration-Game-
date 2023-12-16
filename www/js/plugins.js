@@ -419,7 +419,7 @@ var $plugins = [
     name: "LoadComSim",
     status: true,
     description: "ver1.00 メニューコマンドにロードを追加します。",
-    parameters: { loadtext: "ロード" },
+    parameters: { loadtext: "Load" },
   },
   {
     name: "aligncenter",
