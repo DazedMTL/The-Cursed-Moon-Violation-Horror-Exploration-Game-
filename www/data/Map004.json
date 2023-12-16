@@ -6612,7 +6612,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["<Dig up the raised soil>", "Do nothing"],
+                ["Dig up the raised soil", "Do nothing"],
                 1,
                 -1,
                 1,

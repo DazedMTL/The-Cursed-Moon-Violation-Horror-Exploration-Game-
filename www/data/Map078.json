@@ -2876,8 +2876,8 @@
               "indent": 0,
               "parameters": [
                 [
-                  "<Fight with Sakurazuki>",
-                  "<Sakuto and I will run away together>if(!s[247])"
+                  "Fight with Sakurazuki",
+                  "Sakuto and I will run away togetherif(!s[247])"
                 ],
                 -1,
                 -1,

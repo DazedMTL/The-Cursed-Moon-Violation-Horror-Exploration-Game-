@@ -267,7 +267,7 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["Skip scene", "<View the scene>"], -1, -1, 1, 1]
+              "parameters": [["Skip scene", "View the scene"], -1, -1, 1, 1]
             },
             { "code": 402, "indent": 1, "parameters": [0, "シーンをスキップ"] },
             { "code": 119, "indent": 2, "parameters": ["skip"] },
