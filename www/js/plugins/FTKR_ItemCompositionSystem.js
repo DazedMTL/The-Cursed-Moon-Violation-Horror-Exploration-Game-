@@ -1519,11 +1519,11 @@ function Game_IcsRecipeBook() {
         if (args.length === 1 && !isNaN(args[0])) {
           FTKR.ICS.openType = Number(args[0]);
         } else {
-          if (args[0]) FTKR.ICS.windowText.title = args[0];
-          if (args[1]) FTKR.ICS.windowText.slotTitle = args[1];
-          if (args[2]) FTKR.ICS.windowText.statusTitle = args[2];
-          if (args[3]) FTKR.ICS.windowText.command = setArgStr(args[3]);
-          if (args[4]) FTKR.ICS.windowText.background = setArgStr(args[4]);
+          if (args[0]) FTKR.ICS.windowText.title = args[0].replace(/_/g, ' ');
+          if (args[1]) FTKR.ICS.windowText.slotTitle = args[1].replace(/_/g, ' ');
+          if (args[2]) FTKR.ICS.windowText.statusTitle = args[2].replace(/_/g, ' ');
+          if (args[3]) FTKR.ICS.windowText.command = setArgStr(args[3].replace(/_/g, ' '));
+          if (args[4]) FTKR.ICS.windowText.background = setArgStr(args[4].replace(/_/g, ' '));
         }
         SceneManager.push(Scene_ICS);
         break;

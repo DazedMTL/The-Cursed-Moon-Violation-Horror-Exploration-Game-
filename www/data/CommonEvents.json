@@ -85,7 +85,7 @@
       {
         "code": 356,
         "indent": 0,
-        "parameters": ["ICS_Open アイテムを組み合わせる"]
+        "parameters": ["ICS_Open Combine_Items"]
       },
       { "code": 0, "indent": 0, "parameters": [] }
     ],
