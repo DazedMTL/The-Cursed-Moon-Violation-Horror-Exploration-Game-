@@ -11059,7 +11059,11 @@
             "tileId": 0
           },
           "list": [
-            { "code": 356, "indent": 0, "parameters": ["namePop 153 会話 7"] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["namePop 153 Conversation 7"]
+            },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

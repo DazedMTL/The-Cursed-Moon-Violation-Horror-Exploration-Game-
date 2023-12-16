@@ -456,7 +456,11 @@
             "tileId": 0
           },
           "list": [
-            { "code": 356, "indent": 0, "parameters": ["namePop 4 会話 8"] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["namePop 4 Conversation 8"]
+            },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

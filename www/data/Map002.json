@@ -4712,22 +4712,22 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["namePop 72 会話 35 black"]
+              "parameters": ["namePop 72 Conversation 35 black"]
             },
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["namePop 37 会話 8 black"]
+              "parameters": ["namePop 37 Conversation 8 black"]
             },
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["namePop 45 会話 6 black"]
+              "parameters": ["namePop 45 Conversation 6 black"]
             },
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["namePop 38 会話 8 black"]
+              "parameters": ["namePop 38 Conversation 8 black"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }

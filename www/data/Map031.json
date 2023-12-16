@@ -2096,7 +2096,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["namePop 29 調べる 20"]
+              "parameters": ["namePop 29 Investigate 20"]
             },
             { "code": 201, "indent": 0, "parameters": [0, 31, 29, 11, 8, 2] },
             { "code": 230, "indent": 0, "parameters": [40] },
@@ -2202,7 +2202,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["namePop 29 調べる 20"]
+              "parameters": ["namePop 29 Investigate 20"]
             },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }

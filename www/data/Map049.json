@@ -346,7 +346,11 @@
             "tileId": 0
           },
           "list": [
-            { "code": 356, "indent": 0, "parameters": ["namePop 8 調べる 20"] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["namePop 8 Investigate 20"]
+            },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2922,7 +2926,11 @@
             "tileId": 0
           },
           "list": [
-            { "code": 356, "indent": 0, "parameters": ["namePop 9 調べる 20"] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["namePop 9 Investigate 20"]
+            },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2978,7 +2986,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["namePop 22 調べる 20"]
+              "parameters": ["namePop 22 Investigate 20"]
             },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }

@@ -222,7 +222,11 @@
             "tileId": 0
           },
           "list": [
-            { "code": 356, "indent": 0, "parameters": ["namePop 18 会話 30"] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["namePop 18 Conversation 30"]
+            },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -4430,7 +4434,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["namePop 7 調べる -40"]
+              "parameters": ["namePop 7 Investigate -40"]
             },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }

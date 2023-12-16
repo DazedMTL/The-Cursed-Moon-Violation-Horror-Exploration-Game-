@@ -12152,7 +12152,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["namePop 38 会話 25 black"]
+              "parameters": ["namePop 38 Conversation 25 black"]
             },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -12249,7 +12249,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["namePop 66 会話 4 black"]
+              "parameters": ["namePop 66 Conversation 4 black"]
             },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }

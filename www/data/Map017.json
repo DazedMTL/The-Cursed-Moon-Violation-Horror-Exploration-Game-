@@ -4869,7 +4869,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["namePop 40 会話 8 black"]
+              "parameters": ["namePop 40 Conversation 8 black"]
             },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
