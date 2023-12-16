@@ -851,7 +851,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I wonder if there's anything useful here)"]
+              "parameters": ["(I don't think there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -981,7 +981,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I wonder if there's anything useful here)"]
+              "parameters": ["(I don't think there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1046,7 +1046,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I wonder if there's anything useful here)"]
+              "parameters": ["(I don't think there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
