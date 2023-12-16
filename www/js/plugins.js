@@ -156,7 +156,7 @@ var $plugins = [
       "Description Wrap": "false",
       "---フォント---": "",
       "Font Name": "GameFont",
-      "Font Size": "28",
+      "Font Size": "20",
       "Font Size Change": "12",
       "Font Changed Max": "96",
       "Font Changed Min": "12",

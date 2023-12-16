@@ -176,7 +176,7 @@
     }
     var extendText = getMetaValues(item, ["拡張説明", "ExtendDesc"]);
     if (extendText) {
-      this.setText(
+      this.setTextItem(
         (param.swapDescription ? "" : this._text + "\n") + extendText
       );
     }
