@@ -182,7 +182,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：Ａ棟１階の廊下 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_1st__floor_of_Building_A 15"
               ]
             },
             {
@@ -253,7 +253,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：Ａ棟１階の廊下 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_1st__floor_of_Building_A 15"
               ]
             },
             {
@@ -324,7 +324,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：Ａ棟１階の廊下 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_1st__floor_of_Building_A 15"
               ]
             },
             {
@@ -395,7 +395,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：Ａ棟１階の廊下 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_1st__floor_of_Building_A 15"
               ]
             },
             {

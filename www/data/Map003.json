@@ -159,7 +159,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+              ]
             },
             {
               "code": 231,
@@ -235,7 +237,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+              ]
             },
             {
               "code": 231,
@@ -436,7 +440,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：女の子を助ける 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Save_the_Girl 15"]
             },
             {
               "code": 231,
@@ -857,7 +861,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：拘束を解く方法を探す 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Look_for_a_way_to_remove_the__r__estraints 15"
               ]
             },
             {
@@ -1423,7 +1427,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：出口を探す 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_the_exit 15"]
             },
             {
               "code": 231,

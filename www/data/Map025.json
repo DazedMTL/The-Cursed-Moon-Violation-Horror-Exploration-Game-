@@ -322,7 +322,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：小部屋 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Small_Room 15"
+              ]
             },
             {
               "code": 231,
@@ -513,7 +515,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：音楽室 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Music_Room 15"
+              ]
             },
             {
               "code": 231,
@@ -772,7 +776,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：廊下A 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_A 15"
+              ]
             },
             {
               "code": 231,
@@ -841,7 +847,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：図書室 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Library 15"
+              ]
             },
             {
               "code": 231,

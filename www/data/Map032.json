@@ -200,7 +200,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：A病棟 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_Ward_A 15"]
             },
             {
               "code": 231,

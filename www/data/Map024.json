@@ -555,7 +555,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：扉が並んだ部屋 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_A_Room_with_Doors__L__ined_Up 15"
               ]
             },
             {
@@ -770,7 +770,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：Ａ棟１階のＤ教室 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st__Flo__or,_Classroom_D 15"
               ]
             },
             {
@@ -961,7 +961,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：人形に本を読んであげる 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Read_a_book_to_the_doll 15"
               ]
             },
             {
@@ -975,7 +975,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：人形に本を読んであげる 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Read_a_book_to_the_doll 15"
               ]
             },
             {
@@ -1457,7 +1457,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：出口を探す 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_the_exit 15"]
             },
             {
               "code": 231,
@@ -3771,7 +3771,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：人形のところへ連れていく 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Take_to_the_doll's_place 15"
               ]
             },
             {

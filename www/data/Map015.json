@@ -525,7 +525,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：リビング 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Living_Room 15"
+              ]
             },
             {
               "code": 231,
@@ -585,7 +587,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：リビング 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Living_Room 15"
+              ]
             },
             {
               "code": 231,
@@ -657,7 +661,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：血塗られた家2階 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__2nd_Floor 15"
               ]
             },
             {
@@ -719,7 +723,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：血塗られた家2階 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__2nd_Floor 15"
               ]
             },
             {
@@ -826,7 +830,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：血塗られた家1階 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__1st_Floor 15"
               ]
             },
             {
@@ -888,7 +892,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：血塗られた家1階 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__1st_Floor 15"
               ]
             },
             {
@@ -994,7 +998,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：血塗られた家1階 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__1st_Floor 15"
               ]
             },
             {
@@ -1056,7 +1060,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：血塗られた家1階 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__1st_Floor 15"
               ]
             },
             {
@@ -1241,7 +1245,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：屋敷の前庭 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Mansion's_Front_Yard 15"
+              ]
             },
             {
               "code": 231,
@@ -1290,7 +1296,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：女の子を探す 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_the_Girl 15"]
             },
             {
               "code": 231,
@@ -1514,7 +1520,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：血塗られた家2階 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__2nd_Floor 15"
               ]
             },
             {
@@ -1576,7 +1582,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：血塗られた家2階 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__2nd_Floor 15"
               ]
             },
             {

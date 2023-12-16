@@ -5864,7 +5864,7 @@
             {
               "code": 356,
               "indent": 1,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：？？？？ 15"]
+              "parameters": ["D_TEXT Current_Location:_???? 15"]
             },
             {
               "code": 231,
@@ -5874,7 +5874,7 @@
             {
               "code": 356,
               "indent": 1,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：女の子を探す 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_the_Girl 15"]
             },
             {
               "code": 231,
@@ -6941,7 +6941,7 @@
             {
               "code": 356,
               "indent": 1,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：？？？？ 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_???? 15"]
             },
             {
               "code": 231,
@@ -6951,7 +6951,7 @@
             {
               "code": 356,
               "indent": 1,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：女の子を探す 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_the_Girl 15"]
             },
             {
               "code": 231,
@@ -8753,7 +8753,7 @@
             {
               "code": 356,
               "indent": 1,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：？？？？ 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_???? 15"]
             },
             {
               "code": 231,
@@ -8763,7 +8763,7 @@
             {
               "code": 356,
               "indent": 1,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：女の子を探す 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_the_Girl 15"]
             },
             {
               "code": 231,
@@ -9063,7 +9063,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：鈴の音の場所を探す 15"
+                "D_TEXT \\ow[0]\\c[15]Task:_Search_for_the_location_of_the__bell_sound 15"
               ]
             },
             {

@@ -611,7 +611,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：Ａ棟２階のＢ教室 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Classroom_B_on_the__2nd_floor_of_Building_A 15"
               ]
             },
             {

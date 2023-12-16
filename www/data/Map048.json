@@ -2033,7 +2033,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：田舎道２ 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Country_Road_2 15"
+              ]
             },
             {
               "code": 231,
@@ -2093,7 +2095,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：田舎道２ 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Country_Road_2 15"
+              ]
             },
             {
               "code": 231,
@@ -2162,7 +2166,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：田舎道２ 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Country_Road_2 15"
+              ]
             },
             {
               "code": 231,
@@ -2222,7 +2228,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：田舎道２ 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Country_Road_2 15"
+              ]
             },
             {
               "code": 231,
@@ -2303,7 +2311,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：古民家 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Old_Private_House 15"
+              ]
             },
             {
               "code": 231,
@@ -2758,7 +2768,7 @@
               "code": 356,
               "indent": 1,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：井戸に行き水を汲む 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Go_to_the_well_and_draw_water 15"
               ]
             },
             {
@@ -2938,7 +2948,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：稲籾を届ける 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Deliver_the_rice_ears 15"
+              ]
             },
             {
               "code": 231,
@@ -3145,7 +3157,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：収穫用の道具を探す 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Look_for_harvesting_tools 15"
               ]
             },
             {
@@ -3373,7 +3385,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：稲を刈る 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Harvest_the_rice 15"]
             },
             {
               "code": 231,

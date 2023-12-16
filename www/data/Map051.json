@@ -294,7 +294,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：民家 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Private_House 15"
+              ]
             },
             {
               "code": 231,
@@ -795,7 +797,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：出口を探す 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Find_the_exit 15"]
             },
             {
               "code": 231,

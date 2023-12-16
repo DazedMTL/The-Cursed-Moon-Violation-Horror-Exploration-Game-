@@ -292,7 +292,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：扉の並んだ部屋 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_The_Room_with_Many__Doors 15"
               ]
             },
             {
@@ -563,7 +563,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：逃げる 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Run_Away 15"]
             },
             {
               "code": 231,

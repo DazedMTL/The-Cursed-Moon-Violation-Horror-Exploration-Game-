@@ -121,7 +121,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：洋館２階 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-style_House,__2nd_Floor 15"
+              ]
             },
             {
               "code": 231,

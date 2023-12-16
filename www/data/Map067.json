@@ -395,7 +395,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：炊事所 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Kitchen 15"
+              ]
             },
             {
               "code": 231,
@@ -464,7 +466,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：炊事所 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Kitchen 15"
+              ]
             },
             {
               "code": 231,

@@ -804,9 +804,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：女の子を追いかける 15"
-              ]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Chase_the_girl 15"]
             },
             {
               "code": 231,
@@ -1351,9 +1349,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：女の子を追いかける 15"
-              ]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Chase_the_Girl 15"]
             },
             {
               "code": 231,
@@ -2226,9 +2222,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：女の子を追いかける 15"
-              ]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Chase_the_girl 15"]
             },
             {
               "code": 231,
@@ -2380,7 +2374,7 @@
               "code": 356,
               "indent": 1,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：戸を開ける方法を探す 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Look_for_a_way_to_open_the_door 15"
               ]
             },
             {
@@ -2445,7 +2439,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+              ]
             },
             {
               "code": 231,
@@ -3324,7 +3320,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：焦げ臭い部屋 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Burnt-smelling_Room 15"
+              ]
             },
             {
               "code": 231,
@@ -3580,7 +3578,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い玄関 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Entrance 15"
+              ]
             },
             {
               "code": 231,
@@ -3640,7 +3640,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い玄関 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Entrance 15"
+              ]
             },
             {
               "code": 231,
@@ -3709,7 +3711,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い玄関 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Entrance 15"
+              ]
             },
             {
               "code": 231,
@@ -3769,7 +3773,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い玄関 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Entrance 15"
+              ]
             },
             {
               "code": 231,
@@ -3838,7 +3844,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+              ]
             },
             {
               "code": 231,
@@ -3907,7 +3915,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+              ]
             },
             {
               "code": 231,
@@ -3976,7 +3986,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+              ]
             },
             {
               "code": 231,
@@ -4285,7 +4297,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：鳥かごの部屋 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_The_Birdcage_Room 15"
+              ]
             },
             {
               "code": 231,
@@ -4355,7 +4369,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：鳥かごの部屋 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_The_Birdcage_Room 15"
+              ]
             },
             {
               "code": 231,
@@ -4554,7 +4570,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：イチゴを探す 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_strawberries 15"]
             },
             {
               "code": 231,
@@ -4879,7 +4895,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：蜘蛛さんと話す 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Talk_to_the_spider 15"
+              ]
             },
             {
               "code": 231,
@@ -4990,7 +5008,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+              ]
             },
             {
               "code": 231,
@@ -5059,7 +5079,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+              ]
             },
             {
               "code": 231,
@@ -5201,9 +5223,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：カエルさんに話しかける 15"
-              ]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Talk_to_Mr_Frog 15"]
             },
             {
               "code": 231,
@@ -5580,7 +5600,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：カエルさんの所に向かう 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Head_to_Mr_Frog's_place 15"
               ]
             },
             {
@@ -5874,7 +5894,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：地下へ続く階段 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Stairs_leading__unde__rground 15"
               ]
             },
             {
@@ -6166,7 +6186,7 @@
               "code": 356,
               "indent": 1,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：戸を開ける方法を探す 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Find_a_way_to_open_the_door 15"
               ]
             },
             {
@@ -6571,7 +6591,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：地下へ続く階段 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Stairs_leading__unde__rground 15"
               ]
             },
             {
@@ -6833,7 +6853,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：水を探す 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_water 15"]
             },
             {
               "code": 231,
@@ -7073,7 +7093,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：戸棚を調べる 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Check_the_cupboard 15"
+              ]
             },
             {
               "code": 231,
@@ -7208,7 +7230,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い廊下2 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor_2 15"
+              ]
             },
             {
               "code": 231,
@@ -7268,7 +7292,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：鳥かごの部屋 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_The_Birdcage_Room 15"
+              ]
             },
             {
               "code": 231,
@@ -7337,7 +7363,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+              ]
             },
             {
               "code": 231,
@@ -7406,7 +7434,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+              ]
             },
             {
               "code": 231,
@@ -7847,7 +7877,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：残り火を集める 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Gather_the_remaining_embers 15"
+              ]
             },
             {
               "code": 231,
@@ -8046,7 +8078,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：鳥かごの部屋 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_The_Birdcage_Room 15"
+              ]
             },
             {
               "code": 231,
@@ -8195,7 +8229,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：水をすくう 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Scoop_water 15"]
             },
             {
               "code": 231,
@@ -8489,7 +8523,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：女の子を探す 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_the_Girl 15"]
             },
             {
               "code": 231,
@@ -9038,7 +9072,7 @@
             {
               "code": 356,
               "indent": 1,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：部屋を探索する 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Explore_the_room 15"]
             },
             {
               "code": 231,
@@ -9109,7 +9143,7 @@
               "code": 356,
               "indent": 1,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：探し物を見つけてあげる 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Find_the_lost_item_for_her 15"
               ]
             },
             {
@@ -9487,7 +9521,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：女の子を探す 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Find_the_Girl 15"]
             },
             {
               "code": 231,
@@ -9608,7 +9642,7 @@
               "code": 356,
               "indent": 1,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：女の子の所に戻る 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Return_to_the_Girl's_location 15"
               ]
             },
             {
@@ -9720,7 +9754,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+              ]
             },
             {
               "code": 231,
@@ -9789,7 +9825,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+              ]
             },
             {
               "code": 231,
@@ -10234,7 +10272,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：切望の部屋 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Room_of_Longing 15"
+              ]
             },
             {
               "code": 231,
@@ -10541,9 +10581,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：幽霊に話しかける 15"
-              ]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Talk_to_the_ghost 15"]
             },
             {
               "code": 231,
@@ -11131,7 +11169,7 @@
               "code": 356,
               "indent": 1,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：女の子の所に戻る 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Return_to_the_Girl's_location 15"
               ]
             },
             {
@@ -12684,7 +12722,7 @@
               "code": 356,
               "indent": 1,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：女の子の所に戻る 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Return_to_the_Girl's_location 15"
               ]
             },
             {

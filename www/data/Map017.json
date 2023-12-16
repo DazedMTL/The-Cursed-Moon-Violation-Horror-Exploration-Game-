@@ -712,7 +712,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：屋敷の前庭 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Mansion's_Front_Yard 15"
+              ]
             },
             {
               "code": 231,
@@ -1644,7 +1646,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+              ]
             },
             {
               "code": 231,
@@ -1713,7 +1717,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い玄関 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Entrance 15"
+              ]
             },
             {
               "code": 231,
@@ -1828,7 +1834,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：？？？ 15"]
+              "parameters": ["D_TEXT Current_Location:_??? 15"]
             },
             {
               "code": 231,
@@ -2188,7 +2194,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+              ]
             },
             {
               "code": 231,
@@ -2502,7 +2510,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い玄関 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Entrance 15"
+              ]
             },
             {
               "code": 231,
@@ -2574,7 +2584,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：屋敷の前庭 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Mansion's_Front_Yard 15"
+              ]
             },
             {
               "code": 231,
@@ -3191,7 +3203,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：Ａ棟１階のＤ教室 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st__Flo__or,_Classroom_D 15"
               ]
             },
             {
@@ -5422,7 +5434,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：座敷牢 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Tatami_Room_Prison 15"
+              ]
             },
             {
               "code": 231,
@@ -5832,7 +5846,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：座敷牢 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Tatami_Room_Prison 15"
+              ]
             },
             {
               "code": 231,

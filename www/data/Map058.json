@@ -189,7 +189,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：屋敷の縁側 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Mansion's_Veranda 15"
+              ]
             },
             {
               "code": 231,
@@ -258,7 +260,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：屋敷の縁側 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Mansion's_Veranda 15"
+              ]
             },
             {
               "code": 231,
@@ -714,7 +718,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：？？？ 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_??? 15"]
             },
             {
               "code": 231,

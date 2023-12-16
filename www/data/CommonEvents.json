@@ -170,7 +170,7 @@
             "Close",
             "View the walkthrough (spoiler alert)>",
             "Hint for the true ENDif(s[256])",
-            "エロシーンヒント"
+            "Hints for Erotic Scene"
           ],
           0,
           -1,
@@ -328,7 +328,7 @@
       {
         "code": 356,
         "indent": 0,
-        "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：神社 15"]
+        "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_Shrine 15"]
       },
       {
         "code": 231,
@@ -338,7 +338,9 @@
       {
         "code": 356,
         "indent": 0,
-        "parameters": ["D_TEXT \\ow[0]\\c[15]やること：境内を見て回る 15"]
+        "parameters": [
+          "D_TEXT \\ow[0]\\c[15]To_Do:_Look_around_the_shrine_precincts 15"
+        ]
       },
       {
         "code": 231,
@@ -33739,13 +33741,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [
-          ["View the scene", "View CG", "Go back"],
-          -2,
-          -1,
-          1,
-          1
-        ]
+        "parameters": [["View the scene", "View CG", "Go back"], -2, -1, 1, 1]
       },
       { "code": 402, "indent": 0, "parameters": [0, "シーンを見る"] },
       { "code": 221, "indent": 1, "parameters": [] },
@@ -33796,13 +33792,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [
-          ["View the scene", "View CG", "Go back"],
-          -2,
-          -1,
-          1,
-          1
-        ]
+        "parameters": [["View the scene", "View CG", "Go back"], -2, -1, 1, 1]
       },
       { "code": 402, "indent": 0, "parameters": [0, "シーンを見る"] },
       { "code": 221, "indent": 1, "parameters": [] },
@@ -33853,13 +33843,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [
-          ["View the scene", "View CG", "Go back"],
-          -2,
-          -1,
-          1,
-          1
-        ]
+        "parameters": [["View the scene", "View CG", "Go back"], -2, -1, 1, 1]
       },
       { "code": 402, "indent": 0, "parameters": [0, "シーンを見る"] },
       { "code": 221, "indent": 1, "parameters": [] },
@@ -33888,13 +33872,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [
-          ["View the scene", "View CG", "Go back"],
-          -2,
-          -1,
-          1,
-          1
-        ]
+        "parameters": [["View the scene", "View CG", "Go back"], -2, -1, 1, 1]
       },
       { "code": 402, "indent": 0, "parameters": [0, "シーンを見る"] },
       { "code": 221, "indent": 1, "parameters": [] },
@@ -33923,13 +33901,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [
-          ["View the scene", "View CG", "Go back"],
-          -2,
-          -1,
-          1,
-          1
-        ]
+        "parameters": [["View the scene", "View CG", "Go back"], -2, -1, 1, 1]
       },
       { "code": 402, "indent": 0, "parameters": [0, "シーンを見る"] },
       { "code": 221, "indent": 1, "parameters": [] },
@@ -33958,13 +33930,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [
-          ["View the scene", "View CG", "Go back"],
-          -2,
-          -1,
-          1,
-          1
-        ]
+        "parameters": [["View the scene", "View CG", "Go back"], -2, -1, 1, 1]
       },
       { "code": 402, "indent": 0, "parameters": [0, "シーンを見る"] },
       { "code": 221, "indent": 1, "parameters": [] },
@@ -33993,13 +33959,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [
-          ["View the scene", "View CG", "Go back"],
-          -2,
-          -1,
-          1,
-          1
-        ]
+        "parameters": [["View the scene", "View CG", "Go back"], -2, -1, 1, 1]
       },
       { "code": 402, "indent": 0, "parameters": [0, "シーンを見る"] },
       { "code": 221, "indent": 1, "parameters": [] },
@@ -34028,13 +33988,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [
-          ["View the scene", "View CG", "Go back"],
-          -2,
-          -1,
-          1,
-          1
-        ]
+        "parameters": [["View the scene", "View CG", "Go back"], -2, -1, 1, 1]
       },
       { "code": 402, "indent": 0, "parameters": [0, "シーンを見る"] },
       { "code": 221, "indent": 1, "parameters": [] },
@@ -34063,13 +34017,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [
-          ["View the scene", "View CG", "Go back"],
-          -2,
-          -1,
-          1,
-          1
-        ]
+        "parameters": [["View the scene", "View CG", "Go back"], -2, -1, 1, 1]
       },
       { "code": 402, "indent": 0, "parameters": [0, "シーンを見る"] },
       { "code": 221, "indent": 1, "parameters": [] },
@@ -34098,13 +34046,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [
-          ["View the scene", "View CG", "Go back"],
-          -2,
-          -1,
-          1,
-          1
-        ]
+        "parameters": [["View the scene", "View CG", "Go back"], -2, -1, 1, 1]
       },
       { "code": 402, "indent": 0, "parameters": [0, "シーンを見る"] },
       { "code": 221, "indent": 1, "parameters": [] },
@@ -34133,13 +34075,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [
-          ["View the scene", "View CG", "Go back"],
-          -2,
-          -1,
-          1,
-          1
-        ]
+        "parameters": [["View the scene", "View CG", "Go back"], -2, -1, 1, 1]
       },
       { "code": 402, "indent": 0, "parameters": [0, "シーンを見る"] },
       { "code": 221, "indent": 1, "parameters": [] },
@@ -34168,13 +34104,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [
-          ["View the scene", "View CG", "Go back"],
-          -2,
-          -1,
-          1,
-          1
-        ]
+        "parameters": [["View the scene", "View CG", "Go back"], -2, -1, 1, 1]
       },
       { "code": 402, "indent": 0, "parameters": [0, "シーンを見る"] },
       { "code": 221, "indent": 1, "parameters": [] },
@@ -34203,13 +34133,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [
-          ["View the scene", "View CG", "Go back"],
-          -2,
-          -1,
-          1,
-          1
-        ]
+        "parameters": [["View the scene", "View CG", "Go back"], -2, -1, 1, 1]
       },
       { "code": 402, "indent": 0, "parameters": [0, "シーンを見る"] },
       { "code": 221, "indent": 1, "parameters": [] },
@@ -34238,13 +34162,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [
-          ["View the scene", "View CG", "Go back"],
-          -2,
-          -1,
-          1,
-          1
-        ]
+        "parameters": [["View the scene", "View CG", "Go back"], -2, -1, 1, 1]
       },
       { "code": 402, "indent": 0, "parameters": [0, "シーンを見る"] },
       { "code": 221, "indent": 1, "parameters": [] },
@@ -34273,13 +34191,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [
-          ["View the scene", "View CG", "Go back"],
-          -2,
-          -1,
-          1,
-          1
-        ]
+        "parameters": [["View the scene", "View CG", "Go back"], -2, -1, 1, 1]
       },
       { "code": 402, "indent": 0, "parameters": [0, "シーンを見る"] },
       { "code": 221, "indent": 1, "parameters": [] },

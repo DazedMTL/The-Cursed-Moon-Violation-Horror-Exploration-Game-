@@ -366,7 +366,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：病室B 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hospital_Room_B 15"
+              ]
             },
             {
               "code": 231,
@@ -435,7 +437,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：手術室前 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_In_front_of_the__ope_rating_room 15"
+              ]
             },
             {
               "code": 231,
@@ -504,7 +508,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：手術室前 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_In_front_of_the__ope_rating_room 15"
+              ]
             },
             {
               "code": 231,
@@ -683,7 +689,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：病室D 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hospital_Room_D 15"
+              ]
             },
             {
               "code": 231,
@@ -752,7 +760,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：総合窓口 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_General_Information___Desk 15"
+              ]
             },
             {
               "code": 231,
@@ -821,7 +831,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：総合窓口 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_General_Information___Desk 15"
+              ]
             },
             {
               "code": 231,

@@ -2199,7 +2199,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：田舎道 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Country_Road 15"
+              ]
             },
             {
               "code": 231,
@@ -2230,7 +2232,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：出口を探す 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_the_exit 15"]
             },
             {
               "code": 231,
@@ -3404,7 +3406,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：逃げる 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Run_Away 15"]
             },
             {
               "code": 231,
@@ -3685,7 +3687,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：出口を探す 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_the_exit 15"]
             },
             {
               "code": 231,
@@ -3702,7 +3704,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：総合窓口 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_General_Information___Desk 15"
+              ]
             },
             {
               "code": 231,

@@ -372,7 +372,7 @@
           args.push($gameScreen.dTextSize || 28);
         }
         var fontSize = getArgNumber(args.pop());
-        $gameScreen.setDTextPicture(connectArgs(args), fontSize);
+        $gameScreen.setDTextPicture(connectArgs(args).replace(/_/g, ' '), fontSize-2);
         break;
       case "D_TEXT_SETTING":
         switch (getCommandName(args[0])) {

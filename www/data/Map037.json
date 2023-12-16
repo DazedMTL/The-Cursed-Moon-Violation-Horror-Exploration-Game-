@@ -489,7 +489,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：A病棟 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_Ward_A 15"]
             },
             {
               "code": 231,
@@ -558,7 +558,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：A病棟 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_Ward_A 15"]
             },
             {
               "code": 231,
@@ -1152,7 +1152,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：放射線科窓口 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Radiology_Reception___Desk 15"
+              ]
             },
             {
               "code": 231,
@@ -1662,7 +1664,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：診察室B 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Examination_Room_B 15"
+              ]
             },
             {
               "code": 231,
@@ -1731,7 +1735,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：診察室B 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Examination_Room_B 15"
+              ]
             },
             {
               "code": 231,
@@ -1800,7 +1806,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：女子トイレ 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Girls'_Restroom 15"
+              ]
             },
             {
               "code": 231,
@@ -2191,7 +2199,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：？？？ 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_??? 15"]
             },
             {
               "code": 231,
@@ -2260,7 +2268,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：男子トイレ 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Men's_Restroom 15"
+              ]
             },
             {
               "code": 231,
@@ -2329,7 +2339,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：診察室B 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Examination_Room_B 15"
+              ]
             },
             {
               "code": 231,
@@ -2398,7 +2410,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：診察室B 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Examination_Room_B 15"
+              ]
             },
             {
               "code": 231,
@@ -2467,7 +2481,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：放射線科窓口 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Radiology_Reception___Desk 15"
+              ]
             },
             {
               "code": 231,
@@ -2640,7 +2656,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：診察室A 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Examination_Room_A 15"
+              ]
             },
             {
               "code": 231,

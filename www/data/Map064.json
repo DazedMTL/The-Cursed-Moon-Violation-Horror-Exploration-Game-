@@ -364,7 +364,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：地下に続く階段 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Stairs_leading__unde_rground 15"
               ]
             },
             {
@@ -435,7 +435,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：地下の隠し部屋 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Underground_Hidden__Room 15"
               ]
             },
             {
@@ -581,7 +581,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所： 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location: 15"]
             },
             {
               "code": 231,

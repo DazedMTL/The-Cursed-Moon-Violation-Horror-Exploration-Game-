@@ -271,7 +271,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：廊下３ 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_3 15"
+              ]
             },
             {
               "code": 231,
@@ -340,7 +342,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：納戸３ 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Storage_Room_3 15"
+              ]
             },
             {
               "code": 231,
@@ -409,7 +413,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：迷いの間 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_The_Hall_of__Bewilderment 15"
+              ]
             },
             {
               "code": 231,
@@ -478,7 +484,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：迷いの間 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_The_Room_of_Stray 15"
+              ]
             },
             {
               "code": 231,

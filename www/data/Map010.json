@@ -241,7 +241,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：２階の廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Second_Floor_Hallway 15"
+              ]
             },
             {
               "code": 231,
@@ -310,7 +312,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：２階の廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Second_Floor_Hallway 15"
+              ]
             },
             {
               "code": 231,
@@ -379,7 +383,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：２階の廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Second_Floor_Hallway 15"
+              ]
             },
             {
               "code": 231,
@@ -448,7 +454,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：２階の廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Second_Floor_Hallway 15"
+              ]
             },
             {
               "code": 231,
@@ -660,7 +668,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：Ａ棟１階のＤ教室 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st__Flo__or,_Classroom_D 15"
               ]
             },
             {
@@ -731,7 +739,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：Ａ棟１階のＤ教室 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st__Flo__or,_Classroom_D 15"
               ]
             },
             {
@@ -802,7 +810,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：Ａ棟１階のＤ教室 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st__Flo__or,_Classroom_D 15"
               ]
             },
             {
@@ -873,7 +881,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：Ａ棟１階のＤ教室 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st__Flo__or,_Classroom_D 15"
               ]
             },
             {
@@ -944,7 +952,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：Ａ棟１階のＥ教室 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st__Flo__or,_Classroom_E 15"
               ]
             },
             {
@@ -1015,7 +1023,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：Ａ棟１階のＥ教室 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st__Flo__or,_Classroom_E 15"
               ]
             },
             {
@@ -1086,7 +1094,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：Ａ棟１階のＥ教室 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st__Flo__or,_Classroom_E 15"
               ]
             },
             {
@@ -1157,7 +1165,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：Ａ棟１階のＥ教室 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st__Flo__or,_Classroom_E 15"
               ]
             },
             {
@@ -1304,7 +1312,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：学校の中庭 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_School_Courtyard 15"
+              ]
             },
             {
               "code": 231,
@@ -1450,7 +1460,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：学校の中庭 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_School_Courtyard 15"
+              ]
             },
             {
               "code": 231,

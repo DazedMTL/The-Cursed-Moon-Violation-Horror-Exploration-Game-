@@ -182,7 +182,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：放射線科窓口 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Radiology_Reception___Desk 15"
+              ]
             },
             {
               "code": 231,

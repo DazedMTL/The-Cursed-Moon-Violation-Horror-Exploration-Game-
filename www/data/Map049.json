@@ -189,7 +189,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：田舎道３ 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Country_Road_3 15"
+              ]
             },
             {
               "code": 231,
@@ -278,7 +280,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：田舎道３ 15"]
+              "parameters": ["D_TEXT Current_Location:_Country_Road_3 15"]
             },
             {
               "code": 231,
@@ -481,7 +483,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：古民家の奥間 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_The_Back_Room_of_an___Old_House 15"
+              ]
             },
             {
               "code": 231,
@@ -550,7 +554,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：古民家 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Old_Private_House 15"
+              ]
             },
             {
               "code": 231,
@@ -619,7 +625,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：古民家 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Old_Private_House 15"
+              ]
             },
             {
               "code": 231,
@@ -1087,7 +1095,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：古民家内を探索する 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Explore_the_old_folk_house 15"
               ]
             },
             {
@@ -1810,7 +1818,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：古民家を探索する 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Explore_the_old_folk_house 15"
               ]
             },
             {
@@ -1970,7 +1978,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：食べ物を探す 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Look_for_food 15"]
             },
             {
               "code": 231,
@@ -2173,7 +2181,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：古民家内を探索する 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Explore_the_old_folk_house 15"
               ]
             },
             {
@@ -2718,7 +2726,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：出口を探す 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_the_exit 15"]
             },
             {
               "code": 231,
@@ -3812,7 +3820,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：雑炊を届ける 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Task:_Deliver_the_porridge 15"
+              ]
             },
             {
               "code": 231,

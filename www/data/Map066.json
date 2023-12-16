@@ -500,7 +500,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：納戸 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Storage_Room 15"
+              ]
             },
             {
               "code": 231,
@@ -569,7 +571,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：納戸２ 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Storage_Room_2 15"
+              ]
             },
             {
               "code": 231,
@@ -638,7 +642,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：仲ノ間 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Nakano-ma 15"
+              ]
             },
             {
               "code": 231,
@@ -707,7 +713,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：仲ノ間 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Nakano-ma 15"
+              ]
             },
             {
               "code": 231,

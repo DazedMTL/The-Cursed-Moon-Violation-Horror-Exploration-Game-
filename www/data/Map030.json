@@ -1091,7 +1091,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：扉が並んだ部屋 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_A_Room_with_Rows_of____Doors 15"
               ]
             },
             {
@@ -1165,7 +1165,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：病室B 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hospital_Room_B 15"
+              ]
             },
             {
               "code": 231,

@@ -290,7 +290,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：灯りのない部屋 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_A_Room_Without_Light 15"
               ]
             },
             {
@@ -352,7 +352,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：灯りのない部屋 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_A_Room_Without_Light 15"
               ]
             },
             {
@@ -926,7 +926,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：子供部屋 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Children's_Room 15"
+              ]
             },
             {
               "code": 231,
@@ -995,7 +997,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：洋館１階 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-_style_House__1st_Floor 15"
+              ]
             },
             {
               "code": 231,

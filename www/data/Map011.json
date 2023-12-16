@@ -794,9 +794,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：女の子を追いかける 15"
-              ]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Chase_the_girl 15"]
             },
             {
               "code": 231,
@@ -1335,9 +1333,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：女の子を追いかける 15"
-              ]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Chase_the_girl 15"]
             },
             {
               "code": 231,
@@ -2206,9 +2202,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：女の子を追いかける 15"
-              ]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Chase_the_girl 15"]
             },
             {
               "code": 231,
@@ -2360,7 +2354,7 @@
               "code": 356,
               "indent": 1,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：戸を開ける方法を探す 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Find_a_way_to_open_the_door 15"
               ]
             },
             {
@@ -2425,7 +2419,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+              ]
             },
             {
               "code": 231,
@@ -3152,7 +3148,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：焦げ臭い部屋 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Burnt-smelling_Room 15"
+              ]
             },
             {
               "code": 231,
@@ -3408,7 +3406,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い玄関 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Entrance 15"
+              ]
             },
             {
               "code": 231,
@@ -3477,7 +3477,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い玄関 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Entrance 15"
+              ]
             },
             {
               "code": 231,
@@ -4104,7 +4106,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：イチゴを探す 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_strawberries 15"]
             },
             {
               "code": 231,
@@ -4428,7 +4430,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：蜘蛛さんと話す 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Talk_to_the_spider 15"
+              ]
             },
             {
               "code": 231,
@@ -4539,7 +4543,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+              ]
             },
             {
               "code": 231,
@@ -4608,7 +4614,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+              ]
             },
             {
               "code": 231,
@@ -4744,9 +4752,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：カエルさんに話しかける 15"
-              ]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Talk_to_Mr_Frog 15"]
             },
             {
               "code": 231,
@@ -5025,9 +5031,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：ロウソクを手に入れる 15"
-              ]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Obtain_candles 15"]
             },
             {
               "code": 231,
@@ -5112,7 +5116,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：カエルさんの所に向かう 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Head_to_Mr_Frog's_place 15"
               ]
             },
             {
@@ -5460,7 +5464,7 @@
               "code": 356,
               "indent": 1,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：戸を開ける方法を探す 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Find_a_way_to_open_the_door 15"
               ]
             },
             {
@@ -6061,7 +6065,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：鳥かごの部屋 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_The_Birdcage_Room 15"
+              ]
             },
             {
               "code": 231,
@@ -6130,7 +6136,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+              ]
             },
             {
               "code": 231,
@@ -6199,7 +6207,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+              ]
             },
             {
               "code": 231,

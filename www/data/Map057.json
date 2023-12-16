@@ -299,7 +299,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway 15"
+              ]
             },
             {
               "code": 231,
@@ -369,7 +371,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：庭に面した部屋 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Room_facing_the__gar_den 15"
               ]
             },
             {

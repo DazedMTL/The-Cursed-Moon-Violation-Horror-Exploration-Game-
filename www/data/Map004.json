@@ -2576,7 +2576,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：大きい小屋 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Large_Cabin 15"
+              ]
             },
             {
               "code": 231,
@@ -2710,7 +2712,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い玄関 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Entrance 15"
+              ]
             },
             {
               "code": 231,
@@ -2785,7 +2789,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い玄関 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Entrance 15"
+              ]
             },
             {
               "code": 231,
@@ -2963,7 +2969,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：屋敷の前庭 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Mansion's_Front_Yard 15"
+              ]
             },
             {
               "code": 231,
@@ -3713,7 +3721,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：屋敷の前庭 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Mansion's_Front_Yard 15"
+              ]
             },
             {
               "code": 231,
@@ -4255,7 +4265,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：小さい小屋 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Small_Cabin 15"
+              ]
             },
             {
               "code": 231,
@@ -4670,7 +4682,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：女の子を探す 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Find_the_Girl 15"]
             },
             {
               "code": 231,
@@ -5453,7 +5465,7 @@
               "code": 356,
               "indent": 1,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：お水の入れ物を探す 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Look_for_a_water_container 15"
               ]
             },
             {
@@ -5489,7 +5501,9 @@
             {
               "code": 356,
               "indent": 2,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：つるべを探す 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Search_for_the_Tsurube 15"
+              ]
             },
             {
               "code": 231,
@@ -6127,7 +6141,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：小鳥さんに水をあげる 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Give_water_to_the_little_bird 15"
               ]
             },
             {
@@ -7241,9 +7255,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：カエルさんに教える 15"
-              ]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Teach_Mr_Frog 15"]
             },
             {
               "code": 231,
@@ -7517,7 +7529,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：屋敷の前庭 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Mansion's_Front_Yard 15"
+              ]
             },
             {
               "code": 231,

@@ -1453,7 +1453,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：洋館２階 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-_style_House__2nd_Floor 15"
+              ]
             },
             {
               "code": 231,
@@ -1522,7 +1524,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：洋館１階 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-_style_House__1st_Floor 15"
+              ]
             },
             {
               "code": 231,
@@ -1591,7 +1595,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：洋館１階 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-_style_House__1st_Floor 15"
+              ]
             },
             {
               "code": 231,
@@ -1660,7 +1666,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：洋館１階 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-_style_House__1st_Floor 15"
+              ]
             },
             {
               "code": 231,
@@ -1729,7 +1737,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：洋館１階 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-_style_House__1st_Floor 15"
+              ]
             },
             {
               "code": 231,
@@ -1798,7 +1808,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：洋館１階 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-_style_House__1st_Floor 15"
+              ]
             },
             {
               "code": 231,
@@ -1867,7 +1879,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：洋館１階 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-_style_House__1st_Floor 15"
+              ]
             },
             {
               "code": 231,
@@ -1936,7 +1950,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：洋館１階 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-_style_House__1st_Floor 15"
+              ]
             },
             {
               "code": 231,
@@ -2005,7 +2021,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：キッチン 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Kitchen 15"
+              ]
             },
             {
               "code": 231,
@@ -2074,7 +2092,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：キッチン 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Kitchen 15"
+              ]
             },
             {
               "code": 231,
@@ -2143,7 +2163,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：廊下 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway 15"
+              ]
             },
             {
               "code": 231,
@@ -2715,7 +2737,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：逃げる 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Run_Away 15"]
             },
             {
               "code": 231,
@@ -3089,7 +3111,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：リビング 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Living_Room 15"
+              ]
             },
             {
               "code": 231,
@@ -3158,7 +3182,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：リビング 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Living_Room 15"
+              ]
             },
             {
               "code": 231,
@@ -4170,7 +4196,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：特別室 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Special_Room 15"
+              ]
             },
             {
               "code": 231,
@@ -4232,7 +4260,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：特別室 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Special_Room 15"
+              ]
             },
             {
               "code": 231,
@@ -5274,7 +5304,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：特別室 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Special_Room 15"
+              ]
             },
             {
               "code": 231,
@@ -5336,7 +5368,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：特別室 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Special_Room 15"
+              ]
             },
             {
               "code": 231,

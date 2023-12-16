@@ -443,7 +443,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：民家 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Private_House 15"
+              ]
             },
             {
               "code": 231,
@@ -524,7 +526,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：田舎道２ 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Country_Road_2 15"
+              ]
             },
             {
               "code": 231,
@@ -613,7 +617,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：田舎道２ 15"]
+              "parameters": ["D_TEXT Current_Location:_Country_Road_2 15"]
             },
             {
               "code": 231,
@@ -982,7 +986,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：洗面所 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Washroom 15"
+              ]
             },
             {
               "code": 231,
@@ -1116,7 +1122,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：トイレ 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_Toilet 15"]
             },
             {
               "code": 231,
@@ -1185,7 +1191,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：民家 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Private_House 15"
+              ]
             },
             {
               "code": 231,
@@ -1301,7 +1309,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]現在の場所：民家のリビング 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_A_Private_House's__L_iving_Room 15"
               ]
             },
             {
@@ -1555,7 +1563,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：民家 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Private_House 15"
+              ]
             },
             {
               "code": 231,
@@ -1624,7 +1634,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：民家 15"]
+              "parameters": ["D_TEXT Current_Location:_Private_House 15"]
             },
             {
               "code": 231,
@@ -2378,7 +2388,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：民家を探索する 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Explore_the_private_house 15"
+              ]
             },
             {
               "code": 231,
@@ -3122,7 +3134,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：民家を探索する 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Task:_Search_the_private_house 15"
+              ]
             },
             {
               "code": 231,
@@ -3360,7 +3374,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：洋館１階 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-_style_House__1st_Floor 15"
+              ]
             },
             {
               "code": 231,
@@ -4167,10 +4183,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                [
-                  "Take the cake with you",
-                  "Do nothing"
-                ],
+                ["Take the cake with you", "Do nothing"],
                 1,
                 -1,
                 1,
@@ -5277,7 +5290,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]やること：子供の幽霊を助ける 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Help_the_child_ghost 15"
               ]
             },
             {
