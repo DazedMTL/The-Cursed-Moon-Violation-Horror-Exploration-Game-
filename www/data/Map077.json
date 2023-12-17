@@ -825,13 +825,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Hmm, where is this...?\"\\n<Shuo>\\FF[23]"]
+              "parameters": ["\"Hmm, where is this...?\"\\n<Saku>\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Onee-san!\"\\n<Shuo>\\FF[24]"]
+              "parameters": ["\"Onee-san!\"\\n<Saku>\\FF[24]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -885,7 +885,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I was pulled away by someone... Did I get\nseparated from Onee-san...?\"\\n<Shuo>\\FF[23]"
+                "\"I was pulled away by someone... Did I get\nseparated from Onee-san...?\"\\n<Saku>\\FF[23]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -902,7 +902,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I-I need to find Onee-san quickly.\"\\n<Shuo>\\FF[27]"
+                "\"I-I need to find Onee-san quickly.\"\\n<Saku>\\FF[27]"
               ]
             },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 74] },
@@ -1521,7 +1521,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hii, no... don't touch me, stop it... mmmph!\"\\n<Shuo>\\FF[27]"
+                "\"Hii, no... don't touch me, stop it... mmmph!\"\\n<Saku>\\FF[27]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1537,7 +1537,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ouch! What is this cold thing entering...?\"\\n<Shuo>\\FF[21]"
+                "\"Ouch! What is this cold thing entering...?\"\\n<Saku>\\FF[21]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1553,7 +1553,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"My body suddenly feels... so heavy, ugh...\"\\n<Shuo>\\FF[23]"
+                "\"My body suddenly feels... so heavy, ugh...\"\\n<Saku>\\FF[23]"
               ]
             },
             { "code": 242, "indent": 0, "parameters": [1] },

@@ -243,7 +243,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Shuo>\\FF[23]Saku"]
+              "parameters": ["\\n<Saku>\\FF[23]Saku"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -257,7 +257,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Um...\"\\n<Shuo>\\F[7]\\AA[FF]\\FF[23]"]
+              "parameters": ["\"Um...\"\\n<Saku>\\F[7]\\AA[FF]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -271,7 +271,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Y-Yes!\"\\n<Shuo>\\F[2]\\AA[FF]\\FF[40]"]
+              "parameters": ["\"Y-Yes!\"\\n<Saku>\\F[2]\\AA[FF]\\FF[40]"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

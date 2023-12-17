@@ -389,7 +389,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Oh no, the light went out.\"\\n<Shuo>\\FF[29]"]
+              "parameters": ["\"Oh no, the light went out.\"\\n<Saku>\\FF[29]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -519,7 +519,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"No, no! Help me! Onee-san!\"\\n<Shuo>\\F[16]\\AA[FF]\\FF[21]"
+                "\"No, no! Help me! Onee-san!\"\\n<Saku>\\F[16]\\AA[FF]\\FF[21]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -527,7 +527,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A creature like a snake attacked us, coiling\naround our necks. The tightening grip on our\nthroats was so strong, we couldn't breathe.\\n<Shuo>\\F[16]\\AA[N]\\FF[21]"
+                "A creature like a snake attacked us, coiling\naround our necks. The tightening grip on our\nthroats was so strong, we couldn't breathe.\\n<Saku>\\F[16]\\AA[N]\\FF[21]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -544,7 +544,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ugh, ah... cough, can't... breathe, Onee...\nsan...\"\\n<Shuo>\\F[16]\\AA[FF]\\FF[21]"
+                "\"Ugh, ah... cough, can't... breathe, Onee...\nsan...\"\\n<Saku>\\F[16]\\AA[FF]\\FF[21]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -560,7 +560,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Consciousness rapidly fades away. As darkness\nthreatens to engulf everything before me, I reach\nout for Sakura.\\n<Shuo>\\F[16]\\AA[N]\\FF[21]"
+                "Consciousness rapidly fades away. As darkness\nthreatens to engulf everything before me, I reach\nout for Saku.\\n<Saku>\\F[16]\\AA[N]\\FF[21]"
               ]
             },
             { "code": 242, "indent": 0, "parameters": [1] },

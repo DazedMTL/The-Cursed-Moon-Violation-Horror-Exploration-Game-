@@ -1041,7 +1041,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yeah, I was a little scared, but I'm okay.\"\\n<Shuo>\\F[2]\\AA[FF]\\FF[40]"
+                "\"Yeah, I was a little scared, but I'm okay.\"\\n<Saku>\\F[2]\\AA[FF]\\FF[40]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1057,7 +1057,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Oh right. I found this... could it be useful?\"\\n<Shuo>\\F[2]\\AA[FF]\\FF[40]"
+                "\"Oh right. I found this... could it be useful?\"\\n<Saku>\\F[2]\\AA[FF]\\FF[40]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },

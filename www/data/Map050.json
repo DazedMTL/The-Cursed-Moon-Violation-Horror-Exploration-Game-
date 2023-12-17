@@ -856,7 +856,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Onee-san... my body feels all sticky.\"\\n<Shuo>\\FF[24]"
+                "\"Onee-san... my body feels all sticky.\"\\n<Saku>\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -872,7 +872,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thank you, Onee-san.\"\\n<Shuo>\\F[7]\\AA[FF]\\FF[41]"
+                "\"Thank you, Onee-san.\"\\n<Saku>\\F[7]\\AA[FF]\\FF[41]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1756,7 +1756,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This place... it's so muggy.\"\\n<Shuo>\\F[11]\\AA[FF]\\FF[23]"
+                "\"This place... it's so muggy.\"\\n<Saku>\\F[11]\\AA[FF]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1771,7 +1771,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Ugh...\"\\n<Shuo>\\F[8]\\AA[FF]\\FF[23]"]
+              "parameters": ["\"Ugh...\"\\n<Saku>\\F[8]\\AA[FF]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -2334,7 +2334,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Onee-san... what's wrong?\"\\n<Shuo>\\F[4]\\AA[FF]\\FF[20]"
+                "\"Onee-san... what's wrong?\"\\n<Saku>\\F[4]\\AA[FF]\\FF[20]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2350,7 +2350,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...Aren't you going to let them in?\"\\n<Shuo>\\F[8]\\AA[FF]\\FF[24]"
+                "\"...Aren't you going to let them in?\"\\n<Saku>\\F[8]\\AA[FF]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2366,7 +2366,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Onee-san... please help them.\"\\n<Shuo>\\F[8]\\AA[FF]\\FF[23]"
+                "\"Onee-san... please help them.\"\\n<Saku>\\F[8]\\AA[FF]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2473,7 +2473,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["`Onee-san\\n<Shuo>\\F[10]\\AA[FF]\\FF[23]"]
+              "parameters": ["`Onee-san\\n<Saku>\\F[10]\\AA[FF]\\FF[23]"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -2674,7 +2674,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["`Onee-chan... what's wrong?\\n<Shuo>"]
+              "parameters": ["`Onee-chan... what's wrong?\\n<Saku>"]
             },
             {
               "code": 250,
@@ -2689,7 +2689,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "`Onee-chan... where did you go? Onee-chan...\nOnee--\\n<Shuo>"
+                "`Onee-chan... where did you go? Onee-chan...\nOnee--\\n<Saku>"
               ]
             },
             {
@@ -2701,7 +2701,7 @@
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["`Ah...\\n<Shuo>"] },
+            { "code": 401, "indent": 0, "parameters": ["`Ah...\\n<Saku>"] },
             {
               "code": 250,
               "indent": 0,
@@ -2843,7 +2843,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["`Sister\\n<Shuo>\\F[10]\\AA[FF]\\FF[23]"]
+              "parameters": ["`Sister\\n<Saku>\\F[10]\\AA[FF]\\FF[23]"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -3111,7 +3111,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["`Sister...\\n<Shuo>\\F[10]\\AA[FF]\\FF[23]"]
+              "parameters": ["`Sister...\\n<Saku>\\F[10]\\AA[FF]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -3126,7 +3126,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "`Yeah, that's right. Let's go outside together...\\n<Shuo>\\F[7]\\AA[FF]\\FF[23]"
+                "`Yeah, that's right. Let's go outside together...\\n<Saku>\\F[7]\\AA[FF]\\FF[23]"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [180, 180, 0] },
@@ -4867,7 +4867,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Whoa, what? There's wind blowing inside the\nhouse... why?\"\\n<Shuo>\\F[5]\\AA[FF]\\FF[28]"
+                "\"Whoa, what? There's wind blowing inside the\nhouse... why?\"\\n<Saku>\\F[5]\\AA[FF]\\FF[28]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

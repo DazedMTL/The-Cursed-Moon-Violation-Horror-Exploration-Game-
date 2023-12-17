@@ -810,7 +810,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Onee-chan? What's wrong?\"\\n<Shuo>\\F[15]\\AA[FF]\\FF[24]"
+                "\"Onee-chan? What's wrong?\"\\n<Saku>\\F[15]\\AA[FF]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -826,7 +826,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yeah, I'm fine.\"\\n<Shuo>\\F[8]\\AA[FF]\\FF[25]"
+                "\"Yeah, I'm fine.\"\\n<Saku>\\F[8]\\AA[FF]\\FF[25]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1806,7 +1806,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Onee-san, what was that sound just now?\"\\n<Shuo>\\F[16]\\AA[FF]\\FF[24]"
+                "\"Onee-san, what was that sound just now?\"\\n<Saku>\\F[16]\\AA[FF]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1967,7 +1967,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Onee-chan...\"\\n<Shuo>\\F[8]\\AA[FF]\\FF[23]"]
+              "parameters": ["\"Onee-chan...\"\\n<Saku>\\F[8]\\AA[FF]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -2145,7 +2145,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Did she disappear?\"\\n<Shuo>\\F[1]\\AA[FF]\\FF[24]"
+                "\"Did she disappear?\"\\n<Saku>\\F[1]\\AA[FF]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2161,7 +2161,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thank goodness...\"\\n<Shuo>\\F[1]\\AA[FF]\\FF[41]"
+                "\"Thank goodness...\"\\n<Saku>\\F[1]\\AA[FF]\\FF[41]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -2613,7 +2613,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Really?\"\\n<Shuo>\\F[3]\\AA[FF]\\FF[22]"]
+              "parameters": ["\"Really?\"\\n<Saku>\\F[3]\\AA[FF]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -2689,7 +2689,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I smell... the earth...\"\\n<Shuo>\\F[4]\\AA[FF]\\FF[22]"
+                "\"I smell... the earth...\"\\n<Saku>\\F[4]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2705,7 +2705,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yes. But there's also a strange... smell. Onee-\nsan, why is that?\"\\n<Shuo>\\F[2]\\AA[FF]\\FF[22]"
+                "\"Yes. But there's also a strange... smell. Onee-\nsan, why is that?\"\\n<Saku>\\F[2]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3341,7 +3341,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"What's wrong...?\"\\n<Shuo>\\F[10]\\AA[FF]\\FF[24]"
+                "\"What's wrong...?\"\\n<Saku>\\F[10]\\AA[FF]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3787,7 +3787,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...I don't, understand.\"\\n<Shuo>\\F[2]\\AA[FF]\\FF[29]"
+                "\"...I don't, understand.\"\\n<Saku>\\F[2]\\AA[FF]\\FF[29]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

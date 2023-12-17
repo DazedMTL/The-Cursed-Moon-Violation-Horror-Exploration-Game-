@@ -224,7 +224,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah, ah... what's... something is in my body...\"\\n<Shuo>\\FF[21]"
+                "\"Ah, ah... what's... something is in my body...\"\\n<Saku>\\FF[21]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -232,7 +232,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Sakura! What's wrong!?\"\\n<Yukine>\\F[16]\\AA[F]\\FF[21]"
+                "\"Saku! What's wrong!?\"\\n<Yukine>\\F[16]\\AA[F]\\FF[21]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -240,7 +240,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"No, don't come in... Onee-san... run away\"\\n<Shuo>\\F[16]\\AA[FF]\\FF[21]"
+                "\"No, don't come in... Onee-san... run away\"\\n<Saku>\\F[16]\\AA[FF]\\FF[21]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -248,21 +248,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Sakura! Hold on, Sakura!\"\\n<Yukine>\\F[16]\\AA[F]\\FF[21]"
+                "\"Saku! Hold on, Saku!\"\\n<Yukine>\\F[16]\\AA[F]\\FF[21]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"...\"\\n<Shuo>\\F[16]\\AA[FF]\\FF[20]"]
+              "parameters": ["\"...\"\\n<Saku>\\F[16]\\AA[FF]\\FF[20]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Sakura, what happened to you, Sakura!\"\\n<Yukine>\\F[16]\\AA[F]\\FF[20]"
+                "\"Saku, what happened to you, Saku!\"\\n<Yukine>\\F[16]\\AA[F]\\FF[20]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -270,7 +270,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...hehehe, foolish little fox.\"\\n<Shuo>\\F[16]\\AA[FF]\\FF[34]"
+                "\"...hehehe, foolish little fox.\"\\n<Saku>\\F[16]\\AA[FF]\\FF[34]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -293,7 +293,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Sakura, why...?\"\\n<Yukine>\\F[13]\\AA[F]\\FF[34]"
+                "\"Saku, why...?\"\\n<Yukine>\\F[13]\\AA[F]\\FF[34]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -301,7 +301,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You will atone for your sins, you thieving fox.\"\\n<Shuo>\\F[13]\\AA[FF]\\FF[34]"
+                "\"You will atone for your sins, you thieving fox.\"\\n<Saku>\\F[13]\\AA[FF]\\FF[34]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -309,7 +309,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Th-that can't be... Sakura Kagetsuki\"\\n<Yukine>\\F[13]\\AA[F]\\FF[34]"
+                "\"Th-that can't be... Saku Kagetsuki\"\\n<Yukine>\\F[13]\\AA[F]\\FF[34]"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },

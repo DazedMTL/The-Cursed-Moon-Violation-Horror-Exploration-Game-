@@ -159,7 +159,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"With this, will I be able to see again?\"\\n<Shuo>\\F[3]\\AA[FF]\\FF[22]"
+                "\"With this, will I be able to see again?\"\\n<Saku>\\F[3]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -183,7 +183,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"...huh⁉︎\"\\n<Shuo>\\FF[28]"]
+              "parameters": ["\"...huh⁉︎\"\\n<Saku>\\FF[28]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -198,7 +198,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah, ah... I can see. I can see! I can see Onee-\nsan's face.\"\\n<Shuo>\\F[16]\\AA[FF]\\FF[42]"
+                "\"Ah, ah... I can see. I can see! I can see Onee-\nsan's face.\"\\n<Saku>\\F[16]\\AA[FF]\\FF[42]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -228,7 +228,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Onee-san, so this is what your face looks like.\nYour hair is pure white, you look so kind, almost\nlike a goddess. You're very beautiful.\"\\n<Shuo>\\F[2]\\AA[FF]\\FF[40]"
+                "\"Onee-san, so this is what your face looks like.\nYour hair is pure white, you look so kind, almost\nlike a goddess. You're very beautiful.\"\\n<Saku>\\F[2]\\AA[FF]\\FF[40]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -244,7 +244,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thank you, Yukine-sama.\"\\n<Shuo>\\F[3]\\AA[FF]\\FF[25]"
+                "\"Thank you, Yukine-sama.\"\\n<Saku>\\F[3]\\AA[FF]\\FF[25]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -259,7 +259,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"...\"\\n<Shuo>\\F[1]\\AA[FF]\\FF[23]"]
+              "parameters": ["\"...\"\\n<Saku>\\F[1]\\AA[FF]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -274,7 +274,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Your chest is, a little... no, never mind, it's\nnothing.\"\\n<Shuo>\\F[5]\\AA[FF]\\FF[23]"
+                "\"Your chest is, a little... no, never mind, it's\nnothing.\"\\n<Saku>\\F[5]\\AA[FF]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

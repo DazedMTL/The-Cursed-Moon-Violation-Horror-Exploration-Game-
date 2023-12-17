@@ -2348,7 +2348,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Onee-chan, what's wrong?\"\\n<Shuo>\\F[12]\\AA[FF]\\FF[24]"
+                "\"Onee-chan, what's wrong?\"\\n<Saku>\\F[12]\\AA[FF]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2408,7 +2408,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yeah. Oh, Onee-chan... Can I hold your hand?\"\\n<Shuo>\\F[1]\\AA[FF]\\FF[22]"
+                "\"Yeah. Oh, Onee-chan... Can I hold your hand?\"\\n<Saku>\\F[1]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

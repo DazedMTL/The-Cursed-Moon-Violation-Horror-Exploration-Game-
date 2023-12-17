@@ -2,7 +2,7 @@
 // TMPlugin - リージョン通行設定
 // バージョン: 1.0.0
 // 最終更新日: 2018/03/02
-// 配布元    : http://hikimoki.sakura.ne.jp/
+// 配布元    : http://hikimoki.Saku.ne.jp/
 //-----------------------------------------------------------------------------
 // Copyright (c) 2018 tomoaky
 // Released under the MIT license.
@@ -12,7 +12,7 @@
 /*:
  * @plugindesc その場所が通行可能かどうかをリージョンで設定できるようになります。
  *
- * @author tomoaky (http://hikimoki.sakura.ne.jp/)
+ * @author tomoaky (http://hikimoki.Saku.ne.jp/)
  *
  * @param passableRegions
  * @desc タイルに関係なく通行を可能にするリージョン番号

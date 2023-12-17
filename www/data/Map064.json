@@ -539,7 +539,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Shuo>\\FF[24]Saku"]
+              "parameters": ["\\n<Saku>\\FF[24]Saku"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {

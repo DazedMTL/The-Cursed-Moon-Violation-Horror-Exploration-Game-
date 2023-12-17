@@ -515,7 +515,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"What does it say?\"\\n<Shuo>\\F[5]\\AA[FF]\\FF[22]"
+                "\"What does it say?\"\\n<Saku>\\F[5]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -585,7 +585,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"What's wrong...?\"\\n<Shuo>\\F[10]\\AA[FF]\\FF[24]"
+                "\"What's wrong...?\"\\n<Saku>\\F[10]\\AA[FF]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -628,7 +628,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Big sister. What, why did the lights go out...?\"\\n<Shuo>"
+                "\"Big sister. What, why did the lights go out...?\"\\n<Saku>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

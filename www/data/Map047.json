@@ -3105,7 +3105,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Onee-san, I'm scared...\"\\n<Shuo>\\F[15]\\AA[FF]\\FF[21]"
+                "\"Onee-san, I'm scared...\"\\n<Saku>\\F[15]\\AA[FF]\\FF[21]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3126,7 +3126,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Onee-chan...\"\\n<Shuo>\\F[10]\\AA[FF]\\FF[21]"]
+              "parameters": ["\"Onee-chan...\"\\n<Saku>\\F[10]\\AA[FF]\\FF[21]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -3141,7 +3141,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yes, I'm okay.\"\\n<Shuo>\\F[4]\\AA[FF]\\FF[23]"
+                "\"Yes, I'm okay.\"\\n<Saku>\\F[4]\\AA[FF]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

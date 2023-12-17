@@ -177,7 +177,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Why are you talking outside?\"\\n<Shuo>"]
+              "parameters": ["\"Why are you talking outside?\"\\n<Saku>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -200,7 +200,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Mother, what's wrong? Why are you crying?\"\\n<Shuo>"
+                "\"Mother, what's wrong? Why are you crying?\"\\n<Saku>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -224,7 +224,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Mother, why are you crying? Don't cry... Yukine\nwill be good, so please don't cry.\"\\n<Shuo>"
+                "\"Mother, why are you crying? Don't cry... Yukine\nwill be good, so please don't cry.\"\\n<Saku>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -239,7 +239,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Father? Is Yukine going somewhere?\"\\n<Shuo>"]
+              "parameters": ["\"Father? Is Yukine going somewhere?\"\\n<Saku>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -254,7 +254,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Mother, don't cry... Yukine will go anywhere...\nso please don't cry.\"\\n<Shuo>"
+                "\"Mother, don't cry... Yukine will go anywhere...\nso please don't cry.\"\\n<Saku>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -331,7 +331,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Onee-san, what's... wrong?\"\\n<Shuo>\\F[4]\\AA[FF]\\FF[22]"
+                "\"Onee-san, what's... wrong?\"\\n<Saku>\\F[4]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -347,7 +347,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I don't... understand. I can't... remember.\"\\n<Shuo>\\F[4]\\AA[FF]\\FF[23]"
+                "\"I don't... understand. I can't... remember.\"\\n<Saku>\\F[4]\\AA[FF]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

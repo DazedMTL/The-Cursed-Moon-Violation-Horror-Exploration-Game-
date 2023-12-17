@@ -6618,7 +6618,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Shuo>\\F[8]\\AA[FF]\\FF[22]"]
+              "parameters": ["\\n<Saku>\\F[8]\\AA[FF]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -6640,7 +6640,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Is that so?\"\\n<Shuo>\\FF[23]"]
+              "parameters": ["\"Is that so?\"\\n<Saku>\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -6672,7 +6672,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hmm... Ah, inside my mouth... I can taste\nsomething. And... it's vague, but I can see\nsomething.\"\\n<Shuo>\\F[5]\\AA[FF]\\FF[28]"
+                "\"Hmm... Ah, inside my mouth... I can taste\nsomething. And... it's vague, but I can see\nsomething.\"\\n<Saku>\\F[5]\\AA[FF]\\FF[28]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6686,7 +6686,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\F[3]Seeing Sakura look at \"me\" for the first time with\nher eyes, joy overflows in my heart. At last, we\nwere able to restore most of Sakura's senses.\n\\AA[F]\\FF[28]"
+                "\\F[3]Seeing Saku look at \"me\" for the first time with\nher eyes, joy overflows in my heart. At last, we\nwere able to restore most of Saku's senses.\n\\AA[F]\\FF[28]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6694,7 +6694,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\F[3]Seeing Sakura's smiling face filled with emotion\nmakes me incredibly happy. \\AA[F]\\FF[28]"
+                "\\F[3]Seeing Saku's smiling face filled with emotion\nmakes me incredibly happy. \\AA[F]\\FF[28]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6702,7 +6702,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Onee-san, are you smiling?\"\\n<Shuo>\\F[3]\\AA[FF]\\FF[22]"
+                "\"Onee-san, are you smiling?\"\\n<Saku>\\F[3]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6710,7 +6710,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yes. Because I'm really happy. Just a little bit\nmore to go, Sakura.\"\\n<Yukine>\\F[2]\\AA[F]\\FF[22]"
+                "\"Yes. Because I'm really happy. Just a little bit\nmore to go, Saku.\"\\n<Yukine>\\F[2]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6718,7 +6718,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thank you so much.\"\\n<Shuo>\\F[2]\\AA[FF]\\FF[25]"
+                "\"Thank you so much.\"\\n<Saku>\\F[2]\\AA[FF]\\FF[25]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6733,7 +6733,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Okay.\"\\n<Shuo>\\F[1]\\AA[FF]\\FF[25]"]
+              "parameters": ["\"Okay.\"\\n<Saku>\\F[1]\\AA[FF]\\FF[25]"]
             },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 70] },
             { "code": 121, "indent": 0, "parameters": [184, 184, 0] },

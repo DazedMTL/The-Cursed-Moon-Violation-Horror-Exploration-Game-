@@ -384,7 +384,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Shuo>\\F[5]\\AA[FF]\\FF[22]"]
+              "parameters": ["\\n<Saku>\\F[5]\\AA[FF]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -449,7 +449,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Is this about... a deity?\"\\n<Shuo>\\FF[22]"]
+              "parameters": ["\"Is this about... a deity?\"\\n<Saku>\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -464,7 +464,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Because Saku... prayed to the deity.\"\\n<Shuo>\\F[5]\\AA[FF]\\FF[23]"
+                "\"Because Saku... prayed to the deity.\"\\n<Saku>\\F[5]\\AA[FF]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -479,7 +479,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Deity...\"\\n<Shuo>\\F[7]\\AA[FF]\\FF[23]"]
+              "parameters": ["\"Deity...\"\\n<Saku>\\F[7]\\AA[FF]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -493,7 +493,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"...Okay.\"\\n<Shuo>\\F[7]\\AA[FF]\\FF[23]"]
+              "parameters": ["\"...Okay.\"\\n<Saku>\\F[7]\\AA[FF]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {

@@ -1796,14 +1796,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"I'm scared...\"\\n<Shuo>"]
+              "parameters": ["\"I'm scared...\"\\n<Saku>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Why did you leave Yukine behind? Why can't I go\nhome? What is a sacrifice?\"\\n<Shuo>"
+                "\"Why did you leave Yukine behind? Why can't I go\nhome? What is a sacrifice?\"\\n<Saku>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1811,7 +1811,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I want to go home... Mom, I want to go home...\"\\n<Shuo>"
+                "\"I want to go home... Mom, I want to go home...\"\\n<Saku>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1829,7 +1829,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Who's there? Is someone there?\"\\n<Shuo>"]
+              "parameters": ["\"Who's there? Is someone there?\"\\n<Saku>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1870,7 +1870,7 @@
               "parameters": [99, 0, 0, 0, 0, 0, 100, 100, 255, 0, 30, true]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\"Eek!\"\\n<Shuo>"] },
+            { "code": 401, "indent": 0, "parameters": ["\"Eek!\"\\n<Saku>"] },
             { "code": 121, "indent": 0, "parameters": [239, 239, 0] },
             {
               "code": 232,
@@ -1892,7 +1892,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Eh... Why is Yukine...?\"\\n<Shuo>"]
+              "parameters": ["\"Eh... Why is Yukine...?\"\\n<Saku>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {

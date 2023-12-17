@@ -778,7 +778,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"What's wrong?\"\\n<Shuo>\\F[8]\\AA[FF]\\FF[22]"]
+              "parameters": ["\"What's wrong?\"\\n<Saku>\\F[8]\\AA[FF]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -792,7 +792,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"?\"\\n<Shuo>\\F[7]\\AA[FF]\\FF[20]"]
+              "parameters": ["\"?\"\\n<Saku>\\F[7]\\AA[FF]\\FF[20]"]
             },
             {
               "code": 356,
@@ -1006,7 +1006,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Onee-chan... what's wrong?\"\\n<Shuo>\\F[15]\\AA[FF]\\FF[22]"
+                "\"Onee-chan... what's wrong?\"\\n<Saku>\\F[15]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

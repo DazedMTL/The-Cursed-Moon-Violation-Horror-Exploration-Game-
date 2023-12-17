@@ -242,7 +242,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Eh? This place, is it my home... Why?\"\\n<Shuo>"
+                "\"Eh? This place, is it my home... Why?\"\\n<Saku>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -257,7 +257,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Eh? A god...?\"\\n<Shuo>"]
+              "parameters": ["\"Eh? A god...?\"\\n<Saku>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {

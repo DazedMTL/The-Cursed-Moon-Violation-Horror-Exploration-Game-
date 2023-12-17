@@ -10124,7 +10124,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Eh...? Onee-chan? Where?\"\\n<Shuo>\\FF[24]"]
+              "parameters": ["\"Eh...? Onee-chan? Where?\"\\n<Saku>\\FF[24]"]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             {
@@ -11328,7 +11328,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Saka, zuki... sama...\"\\n<Shuo>\\F[4]\\AA[FF]\\FF[23]"
+                "\"Saka, zuki... sama...\"\\n<Saku>\\F[4]\\AA[FF]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -11344,7 +11344,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yeah... I feel like I've heard that name before.\nBut I can't quite remember.\"\\n<Shuo>\\F[4]\\AA[FF]\\FF[24]"
+                "\"Yeah... I feel like I've heard that name before.\nBut I can't quite remember.\"\\n<Saku>\\F[4]\\AA[FF]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -11676,7 +11676,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"...Okay.\"\\n<Shuo>\\F[1]\\AA[FF]\\FF[24]"]
+              "parameters": ["\"...Okay.\"\\n<Saku>\\F[1]\\AA[FF]\\FF[24]"]
             },
             { "code": 246, "indent": 0, "parameters": [1] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

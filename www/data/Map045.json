@@ -3173,7 +3173,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Really...?\"\\n<Shuo>\\F[15]\\AA[FF]\\FF[20]"]
+              "parameters": ["\"Really...?\"\\n<Saku>\\F[15]\\AA[FF]\\FF[20]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -3214,7 +3214,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Ahhhh!\"\\n<Shuo>\\FF[27]"]
+              "parameters": ["\"Ahhhh!\"\\n<Saku>\\FF[27]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -3228,7 +3228,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Onee-chan...\"\\n<Shuo>\\F[15]\\AA[FF]\\FF[21]"]
+              "parameters": ["\"Onee-chan...\"\\n<Saku>\\F[15]\\AA[FF]\\FF[21]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -3392,7 +3392,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yeah, okay...\"\\n<Shuo>\\F[16]\\AA[FF]\\FF[21]"
+                "\"Yeah, okay...\"\\n<Saku>\\F[16]\\AA[FF]\\FF[21]"
               ]
             },
             {

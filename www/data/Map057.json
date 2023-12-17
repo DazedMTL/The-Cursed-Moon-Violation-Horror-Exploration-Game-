@@ -483,7 +483,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Shuo>\\F[4]\\AA[FF]\\FF[22]"]
+              "parameters": ["\\n<Saku>\\F[4]\\AA[FF]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -548,7 +548,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Onee-san, this letter...\"\\n<Shuo>\\FF[23]"]
+              "parameters": ["\"Onee-san, this letter...\"\\n<Saku>\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -563,7 +563,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Onee-san's... Onee-san?\"\\n<Shuo>\\F[10]\\AA[FF]\\FF[28]"
+                "\"Onee-san's... Onee-san?\"\\n<Saku>\\F[10]\\AA[FF]\\FF[28]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -579,7 +579,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Then, we have to search for them.\"\\n<Shuo>\\F[7]\\AA[FF]\\FF[43]"
+                "\"Then, we have to search for them.\"\\n<Saku>\\F[7]\\AA[FF]\\FF[43]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

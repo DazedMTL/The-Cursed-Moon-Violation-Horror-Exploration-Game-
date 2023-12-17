@@ -1797,7 +1797,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Why do you have the same face as Saku?\"\\n<Shuo>"
+                "\"Why do you have the same face as Saku?\"\\n<Saku>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1812,7 +1812,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"A god... sama?\"\\n<Shuo>"]
+              "parameters": ["\"A god... sama?\"\\n<Saku>"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -1891,7 +1891,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Yes, it is...\"\\n<Shuo>"]
+              "parameters": ["\"Yes, it is...\"\\n<Saku>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1905,7 +1905,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Shrine maiden?\"\\n<Shuo>"]
+              "parameters": ["\"Shrine maiden?\"\\n<Saku>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1938,7 +1938,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Saku's body...\"\\n<Shuo>"]
+              "parameters": ["\"Saku's body...\"\\n<Saku>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1964,7 +1964,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...I want to see my father and mother. I want to\ngo home.\"\\n<Shuo>"
+                "\"...I want to see my father and mother. I want to\ngo home.\"\\n<Saku>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1978,7 +1978,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I'm lonely... I want to see my father... my\nmother... God-sama, I am lonely.\"\\n<Shuo>"
+                "\"I'm lonely... I want to see my father... my\nmother... God-sama, I am lonely.\"\\n<Saku>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

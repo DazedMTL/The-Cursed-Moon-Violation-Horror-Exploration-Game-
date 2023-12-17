@@ -709,7 +709,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Shuo>\\FF[29]Saku"]
+              "parameters": ["\\n<Saku>\\FF[29]Saku"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -723,7 +723,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Y-Yes!\"\\n<Shuo>\\F[17]\\AA[FF]\\FF[43]"]
+              "parameters": ["\"Y-Yes!\"\\n<Saku>\\F[17]\\AA[FF]\\FF[43]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -745,7 +745,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Got it.\"\\n<Shuo>\\F[18]\\AA[FF]\\FF[43]"]
+              "parameters": ["\"Got it.\"\\n<Saku>\\F[18]\\AA[FF]\\FF[43]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -757,7 +757,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"2...\"\\n<Shuo>\\F[18]\\AA[FF]\\FF[43]"]
+              "parameters": ["\"2...\"\\n<Saku>\\F[18]\\AA[FF]\\FF[43]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -805,7 +805,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Yeah!\"\\n<Shuo>\\F[18]\\AA[FF]\\FF[43]"]
+              "parameters": ["\"Yeah!\"\\n<Saku>\\F[18]\\AA[FF]\\FF[43]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 126, "indent": 0, "parameters": [55, 1, 0, 1] },

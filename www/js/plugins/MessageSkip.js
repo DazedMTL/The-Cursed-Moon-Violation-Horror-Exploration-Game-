@@ -205,7 +205,7 @@
  * ・SkipAlreadyReadMessage.jsとの連携
  * SkipAlreadyReadMessage.js（奏ねこま様作）と併用したときに
  * 当プラグインのスキップ機能は「既読スキップ」機能になります。
- * http://makonet.sakura.ne.jp/rpg_tkool/
+ * http://makonet.Saku.ne.jp/rpg_tkool/
  *
  * ・パラメータ「オート待機フレーム」を設定するとオートモード時の待機フレームを変更できます。
  * 制御文字\v[n]のほか、JavaScript計算式が使えます。
@@ -385,7 +385,7 @@
  * ・SkipAlreadyReadMessage.jsとの連携
  * SkipAlreadyReadMessage.js（奏ねこま様作）と併用したときに
  * 当プラグインのスキップ機能は「既読スキップ」機能になります。
- * http://makonet.sakura.ne.jp/rpg_tkool/
+ * http://makonet.Saku.ne.jp/rpg_tkool/
  *
  * ・パラメータ「オート待機フレーム」を設定するとオートモード時の待機フレームを変更できます。
  * 制御文字\v[n]のほか、JavaScript計算式が使えます。

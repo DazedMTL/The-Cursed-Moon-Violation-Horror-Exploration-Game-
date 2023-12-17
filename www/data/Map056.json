@@ -679,7 +679,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Huh? This place looks like the house where I used\nto live.\"\\n<Shuo>\\F[8]\\AA[FF]\\FF[22]"
+                "\"Huh? This place looks like the house where I used\nto live.\"\\n<Saku>\\F[8]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -693,7 +693,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yeah. This pillar... these marks, I remember\nthem. And that wall over there, it's faint but I\nrecognize it.\"\\n<Shuo>\\F[5]\\AA[FF]\\FF[40]"
+                "\"Yeah. This pillar... these marks, I remember\nthem. And that wall over there, it's faint but I\nrecognize it.\"\\n<Saku>\\F[5]\\AA[FF]\\FF[40]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -701,7 +701,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"(Come to think of it, when Sakura was tied up,\nher senses hadn't returned yet. So, the one who\nfirst gave me the doll's torso was... Sakura's\nmother?)\\FF[22]\"\\F[4]\\AA[F]"
+                "\"(Come to think of it, when Saku was tied up,\nher senses hadn't returned yet. So, the one who\nfirst gave me the doll's torso was... Saku's\nmother?)\\FF[22]\"\\F[4]\\AA[F]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -709,7 +709,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\F[4]\"(And if this is Sakura's house, why was she tied\nup? And what about that curse god that looked just\nlike Sakura...)\\AA[F]\\FF[22]\""
+                "\\F[4]\"(And if this is Saku's house, why was she tied\nup? And what about that curse god that looked just\nlike Saku...)\\AA[F]\\FF[22]\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -717,7 +717,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Onee-san, what's wrong?\"\\n<Shuo>\\F[4]\\AA[FF]\\FF[22]"
+                "\"Onee-san, what's wrong?\"\\n<Saku>\\F[4]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

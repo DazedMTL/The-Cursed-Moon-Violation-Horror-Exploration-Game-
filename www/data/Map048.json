@@ -2897,7 +2897,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Big sis, do your best...\"\\n<Shuo>\\F[12]\\AA[FF]\\FF[29]"
+                "\"Big sis, do your best...\"\\n<Saku>\\F[12]\\AA[FF]\\FF[29]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3345,7 +3345,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Onee-chan... what's wrong?\"\\n<Shuo>\\F[5]\\AA[FF]\\FF[24]"
+                "\"Onee-chan... what's wrong?\"\\n<Saku>\\F[5]\\AA[FF]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3539,7 +3539,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Mugwort...?\"\\n<Shuo>\\F[5]\\AA[FF]\\FF[22]"]
+              "parameters": ["\"Mugwort...?\"\\n<Saku>\\F[5]\\AA[FF]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -3717,7 +3717,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"What's that?\"\\n<Shuo>\\F[5]\\AA[FF]\\FF[22]"]
+              "parameters": ["\"What's that?\"\\n<Saku>\\F[5]\\AA[FF]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -3915,7 +3915,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Onee-san? What's wrong?\"\\n<Shuo>\\F[2]\\AA[FF]\\FF[22]"
+                "\"Onee-san? What's wrong?\"\\n<Saku>\\F[2]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3931,7 +3931,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I'm fine. But, I want to hold hands.\"\\n<Shuo>\\F[1]\\AA[FF]\\FF[40]"
+                "\"I'm fine. But, I want to hold hands.\"\\n<Saku>\\F[1]\\AA[FF]\\FF[40]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

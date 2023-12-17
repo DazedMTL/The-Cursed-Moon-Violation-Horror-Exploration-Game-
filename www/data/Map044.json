@@ -537,7 +537,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"My name is... Sakura.\"\\n<Shuo>\\F[1]\\AA[FF]\\FF[24]"
+                "\"My name is... Saku.\"\\n<Saku>\\F[1]\\AA[FF]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -545,7 +545,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Sakura... I'll remember that. Yeah, it's a\nbeautiful and nice name.\"\\n<Yukine>\\F[2]\\AA[F]\\FF[24]"
+                "\"Saku... I'll remember that. Yeah, it's a\nbeautiful and nice name.\"\\n<Yukine>\\F[2]\\AA[F]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -553,7 +553,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Tha...thank you.\"\\n<Shuo>\\F[2]\\AA[FF]\\FF[25]"
+                "\"Tha...thank you.\"\\n<Saku>\\F[2]\\AA[FF]\\FF[25]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -569,7 +569,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Sakura, listen... I'm trying to escape from this\nscary mansion right now. Do you know anything?\"\\n<Yukine>\\F[1]\\AA[F]\\FF[25]"
+                "\"Saku, listen... I'm trying to escape from this\nscary mansion right now. Do you know anything?\"\\n<Yukine>\\F[1]\\AA[F]\\FF[25]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -577,7 +577,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Um...cough, cough, cough! I'm sorry.\"\\n<Shuo>\\F[1]\\AA[FF]\\FF[26]"
+                "\"Um...cough, cough, cough! I'm sorry.\"\\n<Saku>\\F[1]\\AA[FF]\\FF[26]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -666,7 +666,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Okay...\"\\n<Shuo>\\F[8]\\AA[FF]\\FF[24]"]
+              "parameters": ["\"Okay...\"\\n<Saku>\\F[8]\\AA[FF]\\FF[24]"]
             },
             { "code": 122, "indent": 0, "parameters": [20, 20, 0, 0, 3] },
             { "code": 121, "indent": 0, "parameters": [145, 145, 0] },

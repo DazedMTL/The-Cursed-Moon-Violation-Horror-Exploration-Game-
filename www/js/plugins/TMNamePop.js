@@ -2,7 +2,7 @@
 // TMPlugin - ネームポップ
 // バージョン: 2.0.0
 // 最終更新日: 2016/08/12
-// 配布元    : http://hikimoki.sakura.ne.jp/
+// 配布元    : http://hikimoki.Saku.ne.jp/
 //-----------------------------------------------------------------------------
 // Copyright (c) 2016 tomoaky
 // Released under the MIT license.
@@ -12,7 +12,7 @@
 /*:
  * @plugindesc イベントの頭上に文字列を表示する機能を追加します。
  *
- * @author tomoaky (http://hikimoki.sakura.ne.jp/)
+ * @author tomoaky (http://hikimoki.Saku.ne.jp/)
  *
  * @param backOpacity
  * @desc ネームポップの背景の不透明度。
