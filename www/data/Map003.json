@@ -159,9 +159,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
-              ]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い廊下 15"]
             },
             {
               "code": 231,
@@ -237,9 +235,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
-              ]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]現在の場所：暗い廊下 15"]
             },
             {
               "code": 231,
@@ -304,7 +300,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It won't open... It seems like there's someone\ninside, though.)"
+                "(It won't open... It seems like there's someone inside,\nthough.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -327,7 +323,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Is anyone there? Can you hear me? I've come to\nhelp. Can you move right now?\"\\n<Yukine>"
+                "\"Hey there, can you hear me? I've come to help. Can you move\nright now?\"\\n<\\N[1]>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -403,7 +399,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hey, can you hear me? You're there, aren't you?\nCan you hear me?\"\\n<Yukine>"
+                "\"Hey, can you hear me? You're there, aren't you? Can you\nhear me?\"\\n<\\N[1]>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -411,7 +407,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...Hey. Are you caught in something?\"\\n<Yukine>"
+                "\"...Hey. Are you caught in something?\"\\n<\\N[1]>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -421,7 +417,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(There's still no response. I can hear\nbreathing... so it seems like they're alive. Maybe\nthey can't speak right now.)"
+                "(Still no response. I can hear breathing... so it seems like\nthey're alive. Maybe they're unable to speak.)"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -429,7 +425,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I'll rescue you soon, so just wait for me.\"\\n<Yukine>"
+                "\"I'll rescue you soon, so just wait for me.\"\\n<\\N[1]>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -440,7 +436,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Save_the_Girl 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：女の子を助ける 15"]
             },
             {
               "code": 231,
@@ -508,7 +504,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Just wait a little, I'll help you out soon.\"\\n<Yukine>"
+                "\"I'll help you out right away, so just wait for me.\"\\n<\\N[1]>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -741,14 +737,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"How terrible... To lock up such a little girl and\ntie her up with ropes in this state.\"\\n<Yukine>"
+                "\"How terrible... To lock up such a little girl and tie her\nup with ropes in this state.\"\\n<\\N[1]>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(Her complexion is poor, I'm really worried.)"]
+              "parameters": [
+                "(I approach the girl with her eyes closed, stimulating her\nsoft cheeks while trying to look away from her exposed skin.\nHer complexion is poor, and I'm terribly worried.)"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["\"...\"\\n<???>"] },
@@ -757,7 +755,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hey, are you okay? Can you hear my voice?\"\\n<Yukine>"
+                "\"Hey, are you okay? Can you hear my voice?\"\\n<\\N[1]>"
               ]
             },
             {
@@ -772,7 +770,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Gasp!?\"\\n<Yukine>"]
+              "parameters": ["\"Gasp!? \"\\n<\\N[1]>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -791,7 +789,59 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Eh, you... can't you speak? And my voice isn't\nreaching you...?\"\\n<Yukine>"
+                "\"Eh, you... can't you speak? And my voice isn't reaching\nyou...?\"\\n<\\N[1]>"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\"...?\"\\n<???>"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "(The gaze that should be directed at me is looking somewhere\nelse. It seems she can't see me.)"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Such a thing... You can't see either... And yet, you were\nlocked up all alone in a place like this...\"\\n<\\N[1]>"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\"...?\"\\n<???>"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Don't worry, I'll help you out right away...\"\\n<\\N[1]>"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "(I grab the tightly tied ropes. But no matter how much\nstrength I use, the ropes won't loosen.)"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "(It's no use. This... there's a very strong curse on it.\nProbably, even if I try to cut it with scissors, something\nterrible will happen.)"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Just wait a bit, I'll untie the ropes soon, so please bear\nwith it a little longer.\"\\n<\\N[1]>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -800,56 +850,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It seems like she can't see me in her eyes.)"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "\"That's so... She can't see either... And yet, she\nwas left all alone locked up in a place like\nthis...\"\\n<Yukine>"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\"...\"\\n<???>"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Don't worry, I'll help you out right away...\"\\n<Yukine>"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "(But no matter how much strength I use, the ropes\nwon't loosen.)"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["(I'm getting frustrated.)"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Just wait a bit, I'll untie the ropes soon, so\njust hang in there a little longer.\"\\n<Yukine>"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\"...\"\\n<???>"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "(I need to find some tools to untie this child's\nropes.)"
+                "(I need to go find some tools to untie this child's ropes.)"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -861,7 +863,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]To_Do:_Look_for_a_way_to_remove_the__r__estraints 15"
+                "D_TEXT \\ow[0]\\c[15]やること：拘束を解く方法を探す 15"
               ]
             },
             {
@@ -930,7 +932,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Wait for me, I'll help you right away.\"\\n<Yukine>"
+                "\"Just wait, I'll help you out right away.\"\\n<\\N[1]>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -939,7 +941,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I must definitely help her.)"]
+              "parameters": [
+                "(It's terrible to lock up such a small child. I absolutely\nhave to help her.)"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1003,7 +1007,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I need to help quickly... I have to find\nsomething to untie the ropes.\"\\n<Yukine>"
+                "\"I need to help quickly... I have to find something to untie\nthe ropes.\"\\n<\\N[1]>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1013,7 +1017,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Just wait a little longer, I'll go look for it\nright away.\"\\n<Yukine>"
+                "\"Just wait a little longer, I'll go look for it right away.\"\\n<\\N[1]>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -1076,7 +1080,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"With this many gathered, we should be able to\nburn through this rope...\"\\n<Yukine>"
+                "\"With this many gathered, we should be able to burn through\nthis rope...\"\\n<\\N[1]>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1084,7 +1088,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "While hoping so, I bring the heated talisman close\nto the black rope."
+                "Wishing so, I bring the heated talisman close to the black\nrope."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -1100,10 +1104,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The cursed rope was burned through in no time."]
+              "parameters": [
+                "The cursed rope was burned through in no time at all."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["And it disappears."] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "The talisman, having fulfilled its purpose, turned to ash,\nleaving behind only a faint phosphorescence before\nvanishing."
+              ]
+            },
             { "code": 126, "indent": 0, "parameters": [28, 1, 0, 1] },
             { "code": 126, "indent": 0, "parameters": [29, 1, 0, 5] },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -1158,14 +1170,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Thank goodness\"\\n<Yukine>\\F[3]"]
+              "parameters": ["\"Thank goodness\"\\n<\\N[1]>\\F[3]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hey, can you move? Can you hear my voice?\"\\n<Yukine>\\F[8]"
+                "\"Hey, can you move? Can you hear my voice?\"\\n<\\N[1]>\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1173,14 +1185,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Her eyes are vacant, and it seems she can't hear\nmy voice.\\F[8]"
+                "However, even after being freed from her restraints, the\ngirl shows no response. Her eyes are vacant, and it seems\nshe cannot hear my voice.\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Hmm, no good, huh?\"\\n<Yukine>\\F[12]"]
+              "parameters": ["\"Hmm, no good, huh?\"\\n<\\N[1]>\\F[12]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
@@ -1190,17 +1202,23 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"That's right, the doll that ghost lady gave me!\"\\n<Yukine>\\F[17]"
+                "\"That's right, the doll I got from that ghost!\"\\n<\\N[1]>\\F[17]"
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It was.\\F[17]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hey, can you hear me? Can you see me?\"\\n<Yukine>\\F[5]"
+                "Upon remembering, I present the torso-only doll I had put\naway. Then, a faint vitality returns to her skin, and her\nempty eyes begin to blink.\\F[17]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Hey, can you hear me? Can you see me?\"\\n<\\N[1]>\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1214,7 +1232,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Even when I hold her hand, there is no response.\n\\F[10]\\AA[F]\\FF[20]"
+                "Even when I hold her hand, there is no response.\n\\AA[F]\\FF[20]\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1222,14 +1240,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It seems she has lost all sensation. \\F[10]\\AA[F]\\FF[20]"
+                "It seems she cannot hear or see, and has lost all sensation\nthroughout her body. \\AA[F]\\FF[20]\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's nothing I can do. \\F[10]\\AA[F]\\FF[20]"]
+              "parameters": [
+                "But with my powers as a goddess almost entirely unusable\nnow, there's nothing I can do. \\AA[F]\\FF[20]\\F[10]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
@@ -1288,7 +1308,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hmm, what to do? She must be the one who was\nasking for help... I can't just leave her here.\"\\n<Yukine>\\F[13]\\AA[F]\\FF[20]"
+                "\"Hmm, what to do? She must be the one who was asking for\nhelp... I can't just leave her here.\"\\n<\\N[1]>\\F[13]\\AA[F]\\FF[20]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1302,7 +1322,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hey, can you stand up?\"\\n<Yukine>\\F[8]\\AA[F]\\FF[20]"
+                "\"Hey, can you stand?\"\\n<\\N[1]>\\F[8]\\AA[F]\\FF[20]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -1335,22 +1355,34 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It would be good if you could walk... Huh? You\ncan stand?\"\\n<Yukine>\\F[5]\\AA[F]\\FF[20]"
+                "\"It would be good if you could walk... Oh? You can stand,\nright?\"\\n<\\N[1]>\\F[5]\\AA[F]\\FF[20]"
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\F[5]AA[F]\\FF[20]"] },
-            { "code": 230, "indent": 0, "parameters": [30] },
-            { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
-            { "code": 230, "indent": 0, "parameters": [30] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\F[1]AA[F]\\FF[20]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"So... if we hold hands, you can walk even without\nfeeling your body. Could it be thanks to the charm\nand doll from earlier?\"\\n<Yukine>\\F[5]\\AA[F]\\FF[20]"
+                "\\F[5]When I take her hand and stand up, she stands as well. But\nwhen I let go, she stops moving altogether. \\AA[F]\\FF[20]"
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\F[1]If I hold her hand and walk, she walks too. But if I let go\nof her hand, she stops and stands still like a doll.\n\\AA[F]\\FF[20]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Um... it seems that even without any bodily sensation, she\ncan walk if I hold her hand. Maybe it's thanks to the\ntalisman and the doll from earlier?\"\\n<\\N[1]>\\F[5]\\AA[F]\\FF[20]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1364,7 +1396,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yes, it's okay. Don't worry.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[20]"
+                "\"Yes, it's okay. Don't worry.\"\\n<\\N[1]>\\F[7]\\AA[F]\\FF[20]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1378,7 +1410,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I will never abandon you. Come on, let's hold\nhands. It's dark and scary here... Let's go back\nto a warm place together.\"\\n<Yukine>\\F[3]\\AA[F]\\FF[20]"
+                "\"I will never abandon you. Come on, let's hold hands. It's\ndark and scary here... Let's go back to a warm place\ntogether.\"\\n<\\N[1]>\\F[3]\\AA[F]\\FF[20]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -1420,14 +1452,20 @@
             { "code": 356, "indent": 0, "parameters": ["P_CALL_CE 55 6 1 ON"] },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\FFFF[54]"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\FFFF[54]Tips: Click the talk button in the bottom right corner to\nconverse with the girl."
+              ]
+            },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 42] },
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_the_exit 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]やること：出口を探す 15"]
             },
             {
               "code": 231,
@@ -2311,7 +2349,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Eh... that girl just now... Wait... she's tied up\nhere...\"\\n<Yukine>\\F[15]"
+                "\"Eh... that girl just now... Wait... she's tied up here...\"\\n<\\N[1]>\\F[15]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2319,7 +2357,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Huh? Eh... then... who was the girl that was\nwalking around the mansion until just now?\"\\n<Yukine>\\F[15]"
+                "\"Huh? Eh... then... the girl who was walking around the\nmansion until just now... who was she?\"\\n<\\N[1]>\\F[15]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [90] },
@@ -2366,13 +2404,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Ahhhhhh!? \"\\n<Yukine>\\F[16]"]
+              "parameters": ["\"!!!!!!?\"\\n<\\N[1]>\\F[16]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"What was that just now...?\"\\n<Yukine>\\F[15]"]
+              "parameters": ["\"What was that just now...?\"\\n<\\N[1]>\\F[15]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -2426,7 +2464,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I can't be scared... I have to hurry and help\nher...\"\\n<Yukine>\\F[8]"
+                "\"I can't be scared... I have to hurry and help her...\"\\n<\\N[1]>\\F[8]"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [114, 114, 0] },
@@ -2527,7 +2565,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ugh... What is this place? There's a terrible\naccumulation of evil spirits. It feels like...\nit's been sealed for a long time, with no one\ncoming or going.\"\\n<Yukine>\\F[10]"
+                "\"Ugh... What is this place? There's a terrible accumulation\nof malevolent aura. This feeling... it's been sealed for so\nlong, and no one has come or gone.\"\\n<\\N[1]>\\F[10]"
               ]
             },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 38] },
@@ -2628,7 +2666,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I don't think there's anything useful here...)"]
+              "parameters": ["(I wonder if there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2685,7 +2723,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(I might be able to unlock the prison with this\nkey)"
+                "(I might be able to unlock the cell with this key)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -2762,9 +2800,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "(I wonder if there's anything else that might be\nuseful...)"
-              ]
+              "parameters": ["(Is there anything else that might be useful?)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3094,7 +3130,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["namePop 4 Talk 20 black"]
+              "parameters": ["namePop 4 会話 20 black"]
             },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
