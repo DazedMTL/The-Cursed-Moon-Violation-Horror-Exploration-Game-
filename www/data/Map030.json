@@ -169,7 +169,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(When I unfolded the crumpled paper, there was\nsomething written in clumsy handwriting)"
+                "(When I unfolded the crumpled paper, there was something\nwritten in clumsy handwriting.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -178,46 +178,56 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I can hardly believe it."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["After playing the piano so diligently every day."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["I tried so hard, yet..."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["I don't want to think about anything anymore."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "I want to disappear just like the Little Mermaid\nwhose dreams didn't come true."
+                "They said this arm is no good anymore. That it has to be\namputated. I can't believe it. I just can't believe it."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It whispers to me to connect here."]
+              "parameters": [
+                "Despite all my hard work on the piano, they're telling me my\nright arm is now useless. Why did this happen? I've been\nplaying the piano so diligently every day."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That's right, she's a girl like the moon, so let's\nplay \"Moonlight\" for the last time."
+                "I even sacrificed my sleeping time for it. All I wanted was\nfor Mama to praise me. I tried so hard."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "If I can't play the piano, I'd rather be dead. I want to\ndie. I want to die and be at peace. I don't want to think\nabout anything anymore."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I want to disappear just like the Little Mermaid whose\ndreams didn't come true."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "That child says they'll grant my wish. If I take three\npeople with me, I can play the piano forever. They whisper\nto me to connect this place."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Fine. If it means I can play the piano, I'll take as many\npeople with me as needed. I don't really understand what\n'connect' means, but I don't care anymore. Nothing matters\nexcept the piano. Yes, because she's a girl like the moon,\nlet's perform \"Moonlight\" at the end."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -226,7 +236,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  And that girl...\\F[4]"]
+              "parameters": [
+                "(That ghost playing the piano... she's the one who connected\nthis place to the mansion. And that girl...)\\F[4]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -239,7 +251,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"No, for now, let's just move forward.\"\\n<Yukine>\\F[4]"
+                "\"No, let's just keep moving forward for now.\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -315,7 +327,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I've obtained the \"Doll's Right Arm\""]
+              "parameters": ["Acquired \"Doll's Right Arm\""]
             },
             { "code": 126, "indent": 0, "parameters": [42, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -325,7 +337,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "`Could this be... perhaps, the arm of a doll? It\nseems to be the same size too.\\n<Yukine>\\F[5]"
+                "\"Could this be... perhaps, a doll's arm? It seems to be the\nsame size too.\"\\n<Yukine>\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -333,7 +345,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "`If I attach this arm to the doll...\\n<Yukine>\\F[4]"
+                "\"If I attach this arm to the doll...\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -352,7 +364,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Ah, it seems like the girl's life force has\nreturned a little.)\\F[1]"
+                "(Ah, it seems like the girl's life force has returned a\nlittle.)\\F[1]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -360,29 +372,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "`Hey, can you hear my voice? Do you understand me?\\n<Yukine>\\F[5]"
+                "\"Hey, can you hear my voice? Do you understand me?\"\\n<Yukine>\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["`...\\n<???>\\F[5]\\AA[FF]\\FF[22]"]
+              "parameters": ["\"...\"\\n<???>\\F[5]\\AA[FF]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "`Ah... did you squeeze my hand?\\n<Yukine>\\F[5]\\AA[F]\\FF[22]"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\F[5]The girl blinks slowly and does not respond to my\nvoice. However, she slowly grips my finger with\nher small hand. \\AA[F]\\FF[22]"
+                "\"Ah... did you squeeze my hand?\"\\n<Yukine>\\F[5]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -390,7 +394,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "`Ah, thank goodness. You've started to feel the\ntouch, haven't you? Hey, can you feel this too?\\n<Yukine>\\F[3]\\AA[F]\\FF[22]"
+                "\\F[5]The girl blinks slowly and does not respond to my voice.\nHowever, she slowly grips my finger with her small hand.\n\\AA[F]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -398,7 +402,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "When I stroke her silky hair, she slightly narrows\nher eyes in comfort. It seems that her sense of\ntouch has returned with the retrieval of the\ndoll's arm. \\FF[22]\\F[3]\\AA[N]"
+                "\"Ah, thank goodness. You've started to feel the touch,\nhaven't you? Hey, can you feel this too?\"\\n<Yukine>\\F[3]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -406,21 +410,29 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "`Thank goodness. If we can gather the other parts\nand complete the doll, maybe we can save this\ngirl.\\n<Yukine>\\F[2]\\AA[F]\\FF[22]"
+                "When I stroke her silky hair, she slightly narrows her eyes\nin comfort. It seems that her sense of touch has returned\nwith the retrieval of the doll's arm. \\FF[22]\\F[3]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["`...\\n<???>\\F[2]\\AA[FF]\\FF[22]"]
+              "parameters": [
+                "\"Thank goodness. If we can gather the other parts and\ncomplete the doll, maybe we can save this girl.\"\\n<Yukine>\\F[2]\\AA[F]\\FF[22]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"...\"\\n<???>\\F[2]\\AA[FF]\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "`Wait for me, I'll do my best!\\n<Yukine>\\F[2]\\AA[F]\\FF[22]"
+                "\"Wait for me, I'll do my best!\"\\n<Yukine>\\F[2]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 122, "indent": 0, "parameters": [20, 20, 0, 0, 2] },
@@ -529,7 +541,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "22nd Piano Contest, Elementary School Division B\nChampion"
+                "22nd Piano Contest - Elementary School Division B Champion"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -597,7 +609,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "24th Piano Competition Junior High School Division\nA Winner"
+                "\"The 24th Piano Competition, Junior High School Division A,\nWinner\""
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -664,9 +676,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "11th Piano Concours Group V - Best Performance\nAward"
-              ]
+              "parameters": ["The 11th Piano Competition V Group Grand Prize"]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },
@@ -733,7 +743,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "27th International Piano Competition A-Class\nRunner-Up"
+                "27th International Piano Competition A-Class Runner-Up"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -801,7 +811,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "19th National Piano Competition Group G - First\nPrize"
+                "19th National Piano Competition Group G - First Prize"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -869,7 +879,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Surgical consent form for complications in right\narm amputation surgery."
+                "Surgical consent form for complications in right arm\namputation surgery"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -1091,7 +1101,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_A_Room_with_Rows_of____Doors 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_A_Room_with_Doors_Lined_Up 15"
               ]
             },
             {

@@ -243,9 +243,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Mansion's_Front_Yard 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Mansion's_Front_Yard 15"]
             },
             {
               "code": 231,
@@ -521,9 +519,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Mansion's_Front_Yard 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Mansion's_Front_Yard 15"]
             },
             {
               "code": 231,
@@ -586,9 +582,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Mansion's_Front_Yard 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Mansion's_Front_Yard 15"]
             },
             {
               "code": 231,
@@ -725,9 +719,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Mansion's_Front_Yard 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Mansion's_Front_Yard 15"]
             },
             {
               "code": 231,
@@ -789,7 +781,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Open the box", "It won't open"], -1, -1, 1, 1]
+              "parameters": [["Open the box", "Can't open it"], -1, -1, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "箱を開ける"] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -819,7 +811,7 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["Scene skip", "View the scene"], -1, -1, 1, 1]
+              "parameters": [["Skip scene", "View the scene"], -1, -1, 1, 1]
             },
             { "code": 402, "indent": 1, "parameters": [0, "シーンをスキップ"] },
             { "code": 119, "indent": 2, "parameters": ["skip"] },
@@ -1002,7 +994,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"I've obtained the \\\"Aged Incense\\\"\""]
+              "parameters": ["\"I've obtained the 'Aged Incense'\""]
             },
             { "code": 126, "indent": 0, "parameters": [21, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [10] },
@@ -1151,7 +1143,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I wonder if there's anything else that might be\nuseful."
+                "I wonder if there's anything else that might be useful"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -1257,7 +1249,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I'm sorry... I'm sorry. I'm sorry I couldn't come\nback.\"\\n<Female Ghost>"
+                "\"I'm sorry... I'm sorry. I'm sorry I couldn't return home.\"\\n<Female Ghost>"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1307,21 +1299,23 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This... It's something precious that the person\nwho was waiting for you cherished. Please accept\nit.\"\\n<Yukine>\\F[1]"
+                "\"This... It's something precious that the person who was\nwaiting for you cherished. Please accept it.\"\\n<Yukine>\\F[1]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Ah, ahh... oh my... such...\"\\n<Female Ghost>"]
+              "parameters": [
+                "\"Ah, ahh...ahhhhh...such a thing...\"\\n<Female Ghost>"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I'm sorry... I'm sorry I couldn't come back.\nYou've been waiting for me all this time, haven't\nyou...\"\\n<Female Ghost>"
+                "\"I'm sorry... I'm sorry I couldn't come back. You've been\nwaiting for me all this time, haven't you...\"\\n<Female Ghost>"
               ]
             },
             { "code": 356, "indent": 0, "parameters": ["namePop 7"] },
@@ -1490,7 +1484,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Obtained the 'Safety Prayer Charm'\""]
+              "parameters": ["\"Obtained a 'Safety Prayer Charm'\""]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 126, "indent": 0, "parameters": [23, 0, 0, 1] },
@@ -1599,7 +1593,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I don't think there's anything useful here...)"]
+              "parameters": ["(I wonder if there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1672,9 +1666,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Mansion's_Front_Yard 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Mansion's_Front_Yard 15"]
             },
             {
               "code": 231,
@@ -1952,7 +1944,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\FFFF[52]Tips: Click the button on the bottom left light\nmark to toggle the light ON/OFF"
+                "\\FFFF[52]Tips: Click the button on the bottom left light mark to\ntoggle the light ON/OFF"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -2093,7 +2085,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["namePop 7 Talk 8 black"]
+              "parameters": ["namePop 7 Conversation 8 black"]
             },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }

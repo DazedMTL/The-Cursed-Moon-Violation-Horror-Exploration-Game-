@@ -463,13 +463,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [
-                ["Take the sword with me", "Do nothing"],
-                1,
-                -1,
-                1,
-                1
-              ]
+              "parameters": [["Take the sword", "Do nothing"], 1, -1, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "太刀を持っていく"] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -864,7 +858,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(I can feel a strong power emanating from this\nsword...)\\F[4]"
+                "(I can feel a strong power emanating from this sword...)\\F[4]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -922,7 +916,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"O white deity. I am grateful for the release of\nthe sealed sword. With the demon-breaking power of\nthe sword, I have been able to escape the bonds of\nthe calamitous moon.\"\\n<Samurai Spirit>"
+                "\"O white deity. I am grateful for the release of the sealed\nsword. With the demon-banishing power of the sword, I have\nbeen able to escape the curse of the calamitous moon.\"\\n<Samurai Spirit>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -936,7 +930,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This blade is a shadow-cast by the swordsmith\nMunenori, a consecrated sword forged with pure\nprayers. It is the treasured heirloom of my\nfamily. Please, use this sword to save my\ndaughter.\"\\n<Samurai Spirit>\\F[4]\\AA[N]"
+                "\"This blade is a shadow-cast by the swordsmith Munenori, a\nconsecrated sword forged with pure prayers. It is the\ntreasured heirloom of our family. Please, use this sword to\nsave my daughter.\"\\n<Samurai Spirit>\\F[4]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -952,7 +946,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"My name is Tsukimori Kageno. A foolish samurai\nwho failed to protect his people and child, and in\nthe end, fled into death, housing his soul within\nthis wakizashi. O white deity, please save that\nchild. Save Sakuya--\"\\n<Samurai Spirit>\\F[5]\\AA[N]"
+                "\"My name is Tsukimori Kageno. A foolish samurai who failed\nto protect his people and child, and in the end, fled into\ndeath, entrusting his soul to this wakizashi. O white deity,\nplease save that child. Save Saku--\"\\n<Samurai Spirit>\\F[5]\\AA[N]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -982,7 +976,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"The person from before. He was Sakuya's...father.\nHe's been waiting all this time while warding off\nthe curse, waiting for someone to come and save\nSakuya.\"\\n<Yukine>\\F[4]"
+                "\"That person from before. He was Saku's...father. He's been\nwaiting all this time while dispelling curses, waiting for\nsomeone to come and save Saku.\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1191,7 +1185,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I don't think there's anything useful here...)"]
+              "parameters": ["(I wonder if there's anything useful here.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1256,7 +1250,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I don't think there's anything useful here....)"]
+              "parameters": ["(I wonder if there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1398,9 +1392,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Kitchen 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Kitchen 15"]
             },
             {
               "code": 231,

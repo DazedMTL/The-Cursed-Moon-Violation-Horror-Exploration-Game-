@@ -198,9 +198,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Mansion_Basement 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Mansion_Basement 15"]
             },
             {
               "code": 231,
@@ -243,14 +241,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Saku>\\FF[23]Saku"]
+              "parameters": [
+                "\"Yukine Onee-san... the ghost...\"\\n<Saku>\\FF[23]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yes... I've said my farewells.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[23]"
+                "\"Yes... I've said our farewells.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -264,7 +264,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"About that person... I'll tell you once we go\noutside. So, let's keep trying just a little\nlonger, just the two of us.\"\\n<Yukine>\\F[2]\\AA[F]\\FF[23]"
+                "\"About that person... I'll tell you once we go outside. So,\nlet's keep trying a little longer, just the two of us.\"\\n<Yukine>\\F[2]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

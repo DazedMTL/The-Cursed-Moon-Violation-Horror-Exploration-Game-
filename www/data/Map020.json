@@ -182,7 +182,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_1st__floor_of_Building_A 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_1st_floor_of__B\nuilding_A 15"
               ]
             },
             {
@@ -253,7 +253,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_1st__floor_of_Building_A 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_1st_floor_of__B\nuilding_A 15"
               ]
             },
             {
@@ -324,7 +324,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_1st__floor_of_Building_A 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_1st_floor_of__B\nuilding_A 15"
               ]
             },
             {
@@ -395,7 +395,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_1st__floor_of_Building_A 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_1st_floor_of__B\nuilding_A 15"
               ]
             },
             {
@@ -557,30 +557,40 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It seems to be written in some old-fashioned\ncharacters.)\\F[4]"
+                "(There's an old paper stuck to the bag. It seems to be\nwritten in archaic characters.)\\F[4]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["I've been devoured."] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Soon, I too will be consumed by the curse."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["But where in the world is this place?"]
+              "parameters": [
+                "Do not let the shadow from outside enter. It is an evil\nspirit. Most of our companions who advanced to this strange\nbuilding have been devoured by it."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ah, my lord. Please forgive the disgrace of\nperishing in a foreign land."
+                "It seems my end is near as well. Soon, I too will be\nconsumed by the curse."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "To not let our companions' sacrifices be in vain, please do\nnot move this bag that binds it. But where is this place?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Unfamiliar walls, a multitude of unknown things. Is this not\nthe land of Japan? Oh, my lord. Please forgive the disgrace\nof perishing in a foreign land."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -590,7 +600,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Could it mean that I've wandered here from the\npast?)\\F[4]"
+                "(The person who wrote this... could they be someone from the\npast? Did they wander here from another time?)\\F[4]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -655,7 +665,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"There's something inside... This is a scrap of a\nnote.\"\\n<Yukine>\\F[5]"
+                "\"There's something inside... This is a torn piece of a\nnotebook.\"\\n<Yukine>\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -663,7 +673,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(The small piece of paper has different\nhandwriting, as if it's a Talk exchange.)\\F[5]"
+                "(The small scrap of paper has different handwriting, as if\nit's a conversation exchange.)\\F[5]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -678,7 +688,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I did, I did. The criminal and the hostages died,\nright? It's scary."
+                "I did, I did. The criminal and the hostages died, right?\nIt's scary."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -686,7 +696,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But do you know? There's a rumor that there was a\nlittle girl besides the criminal and hostages."
+                "But do you know? There's a rumor that besides the criminal\nand hostages, there was a little girl."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -700,7 +710,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Actually, several people saw it. They say that\nright after that girl entered the house, there\nwere screams, and when the police stormed in,\neveryone was dismembered."
+                "Actually, several people saw it. They say that right after\nthat girl entered the house, there were screams, and when\nthe police stormed in, everyone was dismembered."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -714,7 +724,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But they were broadcasting the police vomiting on\nlive TV--"
+                "But they were broadcasting the police vomiting on live TV--"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -732,7 +742,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Could this be... No way, it's what I saw at the\nmansion.\"\\n<Yukine>\\F[4]"
+                "\"Could this be... from the mansion we saw?\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -797,7 +807,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(Nothing is written)"]
+              "parameters": ["(Nothing is written here)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }

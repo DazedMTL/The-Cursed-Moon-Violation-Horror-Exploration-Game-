@@ -270,7 +270,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_Ward_A 15"]
+              "parameters": ["D_TEXT Current_Location:_Ward_A 15"]
             },
             {
               "code": 231,
@@ -339,7 +339,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_Ward_A 15"]
+              "parameters": ["D_TEXT Current_Location:_Ward_A 15"]
             },
             {
               "code": 231,

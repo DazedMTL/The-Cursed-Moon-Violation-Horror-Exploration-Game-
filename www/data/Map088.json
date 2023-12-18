@@ -231,14 +231,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ugh, this atmosphere... There's an incredible\nsense of a curse.\"\\n<Yukine>\\F[15]"
+                "\"Ugh, this atmosphere... There's an incredibly strong curse\npresence.\"\\n<Yukine>\\F[15]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Saku>\\F[15]\\AA[FF]\\FF[26]"]
+              "parameters": [
+                "\"O-Onee-san... it hurts... my body is stinging.\"\\n<Saku>\\F[15]\\AA[FF]\\FF[26]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -265,7 +267,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Saku, wait here... It's dangerous to get any\ncloser to the core of the curse.\"\\n<Yukine>\\F[4]\\AA[F]\\FF[26]"
+                "\"Saku, wait here... It's dangerous to get any closer to the\ncore of the curse.\"\\n<Yukine>\\F[4]\\AA[F]\\FF[26]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -273,7 +275,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Y-Yes... Please come back quickly.\"\\n<Saku>\\F[4]\\AA[FF]\\FF[23]"
+                "\"Y-Yes... please come back quickly.\"\\n<Saku>\\F[4]\\AA[FF]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -281,7 +283,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Let's check out that shrine over there. There\nmust be something... ...)\\FF[23]\\F[4]\\AA[F]"
+                "(Let's check out that shrine over there. There must be\nsomething... ...)\\FF[23]\\F[4]\\AA[F]"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -381,7 +383,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...There's something inside the shrine... Is this\na stone?\"\\n<Yukine>\\F[4]"
+                "\"There's something inside the shrine... Is this a stone?\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -389,7 +391,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "In the dilapidated shrine, there is a stone about\nthe size of a child's head, colored a pale white.\\F[4]"
+                "In the dilapidated shrine, there is a stone about the size\nof a child's head, pale in color, placed within.\\F[4]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -397,7 +399,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Is this the sacred object of Sakurame Tsuki? The\nstrong emotions coming from this sacred object\nare... eh... 'lonely'? Why?\"\\n<Yukine>\\F[10]"
+                "\"Is this the sacred object of Saku Kagetsuki? The strong\nemotions coming from this sacred object are... huh...\n'lonely'? Why?\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -415,7 +417,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ugh, it's starting to emit a terrible curse.\nSakurame Tsuki has noticed us!\"\\n<Yukine>\\F[15]"
+                "\"Ugh, it's started to emit a terrible curse. Saku Kagetsuki\nhas noticed us!\"\\n<Yukine>\\F[15]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -431,7 +433,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Kyaaahh!\"\\n<Yukine>\\F[16]"]
+              "parameters": ["\"Kyaaah!\"\\n<Yukine>\\F[16]"]
             },
             {
               "code": 205,
@@ -513,7 +515,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I wonder if it's impossible to do something about\nthe sacred object with the small sword and\nnecklace. If only we had something to break its\ncore...\"\\n<Yukine>\\F[10]\\AA[F]\\FF[27]"
+                "\"I wonder if it's impossible to do something about the\nsacred object with the small sword and necklace. If only we\nhad something to break its core...\"\\n<Yukine>\\F[10]\\AA[F]\\FF[27]"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [242, 242, 0] },
@@ -565,7 +567,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It seems impossible to get closer to the\nshrine...)"
+                "(It seems impossible to get close to the shrine...)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -616,7 +618,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...There's something inside the shrine... Is this\na stone?\"\\n<Yukine>\\F[4]"
+                "\"...There's something inside the shrine... Is this a stone?\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -624,7 +626,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Inside the dilapidated shrine, there is a stone\nthe size of a child's head, with a pale color. It\nfeels slightly cold to the touch, yet I can sense\nsomething like body warmth.)\\F[4]"
+                "(Inside the dilapidated shrine, there is a stone about the\nsize of a child's head, pale in color. It feels slightly\ncold to the touch, yet I can sense something like body\nwarmth.)\\F[4]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -632,7 +634,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Is this the sacred object of Sakagetsu? The\nstrong emotions coming from this sacred object\nare... eh... 'lonely'? Why?\"\\n<Yukine>\\F[10]"
+                "\"Is this the sacred object of Saku Kagetsuki? The strong\nemotions coming from this sacred object are... eh...\n'lonely'? Why?\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -650,7 +652,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ugh, it's starting to emit a terrible curse.\nSakagetsu has noticed us!\"\\n<Yukine>\\F[15]"
+                "\"Ugh, it's starting to emit a terrible curse. Saku Kagetsuki\nhas noticed us!\"\\n<Yukine>\\F[15]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -666,7 +668,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"With this dagger... ah!\"\\n<Yukine>\\F[19]"]
+              "parameters": [
+                "\"With this dagger... eh, ah!\"\\n<Yukine>\\F[19]"
+              ]
             },
             {
               "code": 250,
@@ -717,7 +721,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I grip the obtained katana with a prayerful\nfeeling. The hefty Japanese sword is heavy for me,\nbut I firmly grasp it.\\F[4]\\AA[N]"
+                "I grip the obtained katana with a prayerful feeling. The\nhefty Japanese sword is heavy for me, but I firmly grasp\nit.\\F[4]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -864,7 +868,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It's an old shrine. Inside, there's a shattered\nsacred object.)"
+                "(It's an old shrine. Inside, there's a shattered sacred\nobject.)"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -872,7 +876,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(There's no longer any sign of a curse on the\ncrumbled white stone.)"
+                "(There's no longer a hint of a curse on the crumbled white\nstone.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -997,7 +1001,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Just wait a little bit longer. I'll be right\nthere.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[23]"
+                "\"Just wait a little bit longer. I'll be right there.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1011,7 +1015,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(I should check out that shrine)\\FF[23]\\F[4]\\AA[F]"
+                "(Let's check out that shrine)\\FF[23]\\F[4]\\AA[F]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1060,14 +1064,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Big sis...\"\\n<Saku>\\FF[23]"]
+              "parameters": ["\"Onee-chan...\"\\n<Saku>\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Saku, let's get out of here quickly. I'm sure\nSakurakagetsu will find us here.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[23]"
+                "\"Saku, let's get out of here quickly. I'm sure Sakuragetsuki\nwill come here.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1075,7 +1079,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yeah... big sis... can you hold my hand?\"\\n<Saku>\\F[7]\\AA[FF]\\FF[23]"
+                "\"Yeah... Onee-chan... can you hold my hand?\"\\n<Saku>\\F[7]\\AA[FF]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1083,7 +1087,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I'm sorry. It's suffocating here, isn't it...\nLet's get out right away.\"\\n<Yukine>\\F[8]\\AA[F]\\FF[23]"
+                "\"I'm sorry. It's tough here, isn't it... Let's get out\nsoon.\"\\n<Yukine>\\F[8]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1113,7 +1117,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Room_facing_the__garden 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Room_facing_the_garden 15"
               ]
             },
             {
@@ -1173,7 +1177,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah, the entrance... As I thought, Sakurakagetsu\nfound it. We better leave quickly.\"\\n<Yukine>\\F[8]"
+                "\"Ah, the entrance... As I thought, we've been found by\nSakuragetsuki. We better leave quickly.\"\\n<Yukine>\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1181,7 +1185,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yukine big sis, let's go.\"\\n<Saku>\\F[8]\\AA[FF]\\FF[43]"
+                "\"Yukine Onee-chan, let's go.\"\\n<Saku>\\F[8]\\AA[FF]\\FF[43]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1189,7 +1193,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Right... we need to find an exit.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[43]"
+                "\"That's right... We need to find an exit.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[43]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1239,7 +1243,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I remember... I remember now, Yukine Onee-san.\nI... long ago, became a shrine maiden for the\ngods.\"\\n<Saku>\\FF[23]"
+                "\"Saku... I remembered. I remembered, Yukine Onee-san.\nSaku... long ago, became a shrine maiden for the gods.\"\\n<Saku>\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1247,21 +1251,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yes. Sakuragetsuki created this world for you,\nsacrificing a tremendous number of lives,\nabsorbing your parents...\"\\n<Yukine>\\F[10]\\AA[F]\\FF[23]"
+                "\"Yes. Saku's world was created for her sake. Sacrificing a\ntremendous number of lives, it absorbed Saku's parents...\"\\n<Yukine>\\F[10]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Gods...\"\\n<Saku>\\F[10]\\AA[FF]\\FF[23]"]
+              "parameters": ["\"The gods...\"\\n<Saku>\\F[10]\\AA[FF]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"To prevent you from escaping this world, many\npeople were killed. To fill her own loneliness,\nshe confined you... and created many evil\nspirits.\"\\n<Yukine>\\F[4]\\AA[F]\\FF[23]"
+                "\"To prevent Saku from escaping this world, many people were\nkilled. To fill their own loneliness, they confined Saku...\nand created many evil spirits.\"\\n<Yukine>\\F[4]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1275,7 +1279,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...Let's get out of here, Saku. We really\nshouldn't stay in a place like this.\"\\n<Yukine>\\F[4]\\AA[F]\\FF[23]"
+                "\"...Saku, let's get out of here. After all, we shouldn't\nstay in a place like this.\"\\n<Yukine>\\F[4]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1306,7 +1310,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Room_facing_the__garden 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Room_facing_the_garden 15"
               ]
             },
             {
@@ -1366,7 +1370,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah, the entrance... It seems Sakuragetsuki has\nfound us. We better leave quickly.\"\\n<Yukine>\\F[8]"
+                "\"Ah, the entrance... As expected, we've been found by Saku's\ncalamity. We should leave quickly.\"\\n<Yukine>\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1374,7 +1378,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yukine Onee-san, let's go.\"\\n<Saku>\\F[8]\\AA[FF]\\FF[43]"
+                "\"Yukine Onee-san, let's go\"\\n<Saku>\\F[8]\\AA[FF]\\FF[43]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1382,7 +1386,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Right... we need to find an exit.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[43]"
+                "\"That's right... we need to find an exit.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[43]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1390,7 +1394,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...That's right. I found this at the shrine, and\nI think it's probably a part of the doll.\"\\n<Yukine>\\F[3]\\AA[F]\\FF[43]"
+                "\"...That's right. I found this at the shrine, and I think\nit's probably a part of the doll.\"\\n<Yukine>\\F[3]\\AA[F]\\FF[43]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1398,7 +1402,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Huh? Aren't they all together already?\"\\n<Saku>\\F[8]\\AA[FF]\\FF[22]"
+                "\"Huh... haven't we already collected them all?\"\\n<Saku>\\F[8]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1406,7 +1410,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yes, I thought so too... Well, let's bring this\ncloser.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[22]"
+                "\"Yes, I thought so too... Well, bring this closer.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -1431,7 +1435,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Your complexion has improved, Saku.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[40]"
+                "\"Saku's body... your complexion has improved.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[40]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1439,7 +1443,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Really? I don't quite understand, but I feel more\nagile.\"\\n<Saku>\\F[1]\\AA[FF]\\FF[40]"
+                "\"Really? I don't really understand, but it's easier to\nmove.\"\\n<Saku>\\F[1]\\AA[FF]\\FF[40]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1447,7 +1451,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Maybe it's because all the doll parts are\ntogether now? Anyway, I'm glad you're feeling\nbetter.\"\\n<Yukine>\\F[2]\\AA[F]\\FF[40]"
+                "\"Maybe it's because all the parts of the doll have been\nassembled? Anyway, I'm glad Saku is feeling better.\"\\n<Yukine>\\F[2]\\AA[F]\\FF[40]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1455,7 +1459,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"With this... can I play with Yukine Onee-san\ntoo?\"\\n<Saku>\\F[2]\\AA[FF]\\FF[22]"
+                "\"With this... can I play with Yukine Onee-san too?\"\\n<Saku>\\F[2]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1477,7 +1481,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Now that the doll's body is complete. The source\nof the curse has been destroyed, and now we need\nto retrieve Saku's physical body and find an exit\nto return to the original world.)\\FF[45]\\F[1]\\AA[F]"
+                "(With this, the doll's body is complete. The source of the\ncurse has been destroyed, and now we need to retrieve Saku's\nphysical body and find an exit to return to the original\nworld.)\\FF[45]\\F[1]\\AA[F]"
               ]
             },
             { "code": 122, "indent": 0, "parameters": [20, 20, 0, 0, 7] },

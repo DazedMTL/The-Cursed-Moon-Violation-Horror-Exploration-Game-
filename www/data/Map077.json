@@ -885,7 +885,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I was pulled away by someone... Did I get\nseparated from Onee-san...?\"\\n<Saku>\\FF[23]"
+                "\"I was pulled away by someone... Did I get separated from\nOnee-san...?\"\\n<Saku>\\FF[23]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -902,7 +902,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I-I need to find Onee-san quickly.\"\\n<Saku>\\FF[27]"
+                "\"I-I need to find Onee-san quickly\"\\n<Saku>\\FF[27]"
               ]
             },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 74] },
@@ -1005,7 +1005,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(...This shape... could it be a key? I'm sure\nOnee-san would be delighted if I gave it to her)\\F[22]"
+                "(...This shape... Is it a key? If I give it to Onee-san,\nshe'll surely be delighted.)\\F[22]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1112,9 +1112,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "(...It doesn't seem like she's wearing anything\nunderneath.)"
-              ]
+              "parameters": ["(...It doesn't seem like she's wearing anything)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1300,9 +1298,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Living_Room 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Living_Room 15"]
             },
             {
               "code": 231,
@@ -1529,7 +1525,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The tentacle, reminiscent of a serpent of flesh,\nwraps around Yukine's body and stabs something\ninto her neck. \\FF[27]\\AA[N]"
+                "The tentacle, reminiscent of a serpent of flesh, wraps\naround Saku's body and pierces something into her neck.\n\\FF[27]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1545,7 +1541,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The moment it happens, Yukine's consciousness\nrapidly fades away. \\FF[21]\\AA[N]"
+                "At that moment, Saku's consciousness rapidly fades away.\n\\FF[21]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1562,7 +1558,7 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["Scene Skip", "View the scene"], -1, -1, 1, 1]
+              "parameters": [["Skip scene", "Look at the scene"], -1, -1, 1, 1]
             },
             { "code": 402, "indent": 1, "parameters": [0, "シーンをスキップ"] },
             { "code": 119, "indent": 2, "parameters": ["skip"] },

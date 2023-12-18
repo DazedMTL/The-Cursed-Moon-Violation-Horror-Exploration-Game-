@@ -159,7 +159,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Lord, we have reached our limit. The famine and\nprolonged rains have caused our villagers to fall\none by one. The village can't hold on any longer.\nIf we do nothing, everyone will die.\"\\n<???>"
+                "\"Lord, we have reached our limit. The famine and prolonged\nrains have caused our villagers to fall one by one. The\nvillage can't endure any longer. If we do nothing, everyone\nwill die.\"\\n<???>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -167,7 +167,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"The children in the neighboring areas have all\nperished. The women are grieving, and the elderly\nwho have lost their relatives are being abandoned\nin the mountains one after another. Please, make a\ndecision.\"\\n<???>"
+                "\"The children in the neighboring areas have all perished.\nThe women are grieving, and the elderly who have lost their\nfamilies are being abandoned in the mountains one after\nanother. Please, make a decision.\"\\n<???>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -183,7 +183,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I am aware that your only child is your daughter.\nBut please... please.\"\\n<???>"
+                "\"I am aware that your only child is your daughter. But\nplease... please.\"\\n<???>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -191,7 +191,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Are you suggesting I offer a sacrifice... my only\ndaughter whom I was blessed with?\"\\n<???>"
+                "\"Are you suggesting I offer a sacrifice... my only daughter\nwhom I was blessed with?\"\\n<???>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -205,7 +205,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I am fully aware of the agonizing choice before\nus. However, we no longer have even a moment's\nrespite. Many villages have been destroyed. There\nare no other children left to offer to the gods in\nthe vicinity except for your daughter.\"\\n<???>"
+                "\"I am fully aware of the agonizing choice before us.\nHowever, we no longer have even a moment's respite. Many\nvillages have been destroyed. There are no other children\nleft to offer to the gods in the vicinity except for your\ndaughter.\"\\n<???>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -235,7 +235,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Wait a moment... If we are to send her to the\ngods, proper preparations must be made. I must\nalso speak with her... I doubt she will\nconsent...\"\\n<???>"
+                "\"Wait a moment... If we are to send her to the gods, we must\nprepare accordingly. I must also speak with her... I doubt\nshe will consent...\"\\n<???>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -264,7 +264,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"To be forced to make such a decision... what am I\nto say?\"\\n<???>"
+                "\"To be forced to make such a decision... what am I supposed\nto say?\"\\n<???>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -330,7 +330,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"A past vision that remained in this sword...\nperhaps?\"\\n<Yukine>\\F[4]"
+                "\"The past images that remained in this sword... could it\nbe?\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -344,7 +344,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\F[4](With this, the curse should be weakened a bit...\nbut it seems impossible to purify it\ncompletely.)\\AA[F]\\FF[20]"
+                "\\F[4](With this, the curse should be weakened a bit... but it\nseems impossible to purify it completely.)\\AA[F]\\FF[20]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -352,7 +352,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\F[1](This sword that was stuck in the great tree... it\nmight be used to exorcise the curse.)\\AA[F]\\FF[20]"
+                "\\F[1](This sword that was stuck in the great tree... it might be\nused to exorcise the curse.)\\AA[F]\\FF[20]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -360,7 +360,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\F[1](It seems useful, so I'll take it with\nme.)\\AA[F]\\FF[20]"
+                "\\F[1](It seems useful, so I'll take it with me.)\\AA[F]\\FF[20]"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [3, 3, 0] },

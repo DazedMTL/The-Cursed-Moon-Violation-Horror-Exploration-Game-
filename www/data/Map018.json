@@ -243,9 +243,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Second_Floor_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Second_Floor_Hallway 15"]
             },
             {
               "code": 231,
@@ -314,9 +312,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Second_Floor_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Second_Floor_Hallway 15"]
             },
             {
               "code": 231,
@@ -456,9 +452,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Second_Floor_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Second_Floor_Hallway 15"]
             },
             {
               "code": 231,
@@ -587,7 +581,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_2nd__flo__or,_Classroom_B 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Classroom_B_on_the_2nd_floor__of_Building_A 15"
               ]
             },
             {
@@ -658,7 +652,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Classroom_B_on_the__2nd_floor_of_Building_A 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Classroom_B_on_the_2nd_floor__of_Building_A 15"
               ]
             },
             {
@@ -729,7 +723,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_2nd__flo__or,_Classroom_B 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Classroom_B_on_the_2nd_floor__of_Building_A 15"
               ]
             },
             {
@@ -800,7 +794,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Classroom_B_on_the__2nd_floor_of_Building_A 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Classroom_B_on_the_2nd_floor__of_Building_A 15"
               ]
             },
             {
@@ -871,7 +865,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Classroom_C_on_the__2nd_floor_of_Building_A 15"
+                "D_TEXT Current_Location:_Classroom_C_on_the_2nd_floor_of_Building__A\\ow[0]\\c[15] 15"
               ]
             },
             {
@@ -942,7 +936,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Classroom_C_on_the__2nd_floor_of_Building_A 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Classroom_C_on_the_2nd_floor__of_Building_A 15"
               ]
             },
             {
@@ -1013,7 +1007,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Classroom_C_on_the__2nd_floor_of_Building_A 15"
+                "D_TEXT Current_Location:_Classroom_C_on_the_2nd_floor_of_Building__A\\ow[0]\\c[15] 15"
               ]
             },
             {
@@ -1084,7 +1078,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Classroom_C_on_the__2nd_floor_of_Building_A 15"
+                "D_TEXT Current_Location:_Classroom_C_on_the_2nd_floor_of_Building__A\\ow[0]\\c[15] 15"
               ]
             },
             {

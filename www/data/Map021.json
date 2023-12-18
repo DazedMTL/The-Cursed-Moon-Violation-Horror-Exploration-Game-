@@ -189,7 +189,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_2nd__floor_of_Building_A 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_2nd_floor_of__B\nuilding_A 15"
               ]
             },
             {
@@ -260,7 +260,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_2nd__floor_of_Building_A 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_2nd_floor_of__B\nuilding_A 15"
               ]
             },
             {
@@ -331,7 +331,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_2nd__floor_of_Building_A 15"
+                "D_TEXT Current_Location:_Hallway_of_Building_A,_2nd__Floor\\ow[0]\\c[\n15] 15"
               ]
             },
             {
@@ -402,7 +402,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_2nd__floor_of_Building_A 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_2nd_floor_of__B\nuilding_A 15"
               ]
             },
             {
@@ -533,7 +533,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_??? 15"]
+              "parameters": ["D_TEXT Current_Location:_??? 15"]
             },
             {
               "code": 231,
@@ -597,7 +597,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Something is moving inside the bag... What could\nit be?)"
+                "(Something is moving inside the bag... What could it be?)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -608,14 +608,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's writhing. \\F[15]\\AA[N]"]
+              "parameters": [
+                "The bag was teeming with a large number of caterpillars.\nThey were writhing and squirming, devouring each other's\nflesh.\\AA[N]\\F[15]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"They're... cannibalizing each other. Why... Why\nare there so many insect larvae in my bag? Who\nwould do such a cruel thing?\"\\n<Yukine>\\F[15]"
+                "\"They're... cannibalizing each other. Why... Why are there\nso many insect larvae in the bag? Who would do such a cruel\nthing?\"\\n<Yukine>\\F[15]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }

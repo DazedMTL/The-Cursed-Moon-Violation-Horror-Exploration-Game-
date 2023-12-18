@@ -229,7 +229,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Read it", "I won't read it"], 1, -1, 1, 1]
+              "parameters": [["Read it", "Don't read it"], 1, -1, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "読む"] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -244,7 +244,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "May 18, 1976: From tomorrow, I will undertake the\nascetic practices of Shugendo. It's a grueling\nten-day training, but it's an important task to\ncultivate the spiritual power needed to calm the\nspirits that torment the living beings."
+                "May 18, 1976: From tomorrow, I will undertake the austere\npractices of Shugendo. It's a grueling ten-day training, but\nit's an important act to cultivate spiritual power to calm\nthe spirits that torment the living."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -252,7 +252,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I must continue to work hard and catch up to my\nmaster."
+                "I must continue to work hard and catch up to my master."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -260,7 +260,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "June 2, 1976: I feel a slight increase in my\nspiritual power. It seems that the daily\npurification and meditation are having an effect.\nTomorrow, I will face my first exorcism. I want to\nprove that I can save people."
+                "June 2, 1976: I feel a slight increase in my spiritual\npower. The daily purification and meditation seem to be\neffective. Tomorrow, I will face my first exorcism. I want\nto prove that I can save people."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -268,7 +268,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "February 3, 1979: The master has disappeared. He\nwent out to exorcise a major curse he had planned\nto confront for some time and hasn't returned for\ntwo months."
+                "February 3, 1979: The master has disappeared. He went out to\nexorcise a significant curse he had planned to confront for\nsome time and hasn't returned for two months."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -276,7 +276,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Could it be that the master was defeated? And I\nhave yet to repay him for saving me."
+                "Could it be that the master was defeated? And I have yet to\nrepay him for saving me."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -284,7 +284,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "August 7, 1981: Today is an extremely hot day. I\nmanaged to make contact with an elderly psychic\nwho knows clues about the master, but I was told\nthat I'm not strong enough to challenge the\nmansion."
+                "August 7, 1981: Today is an extremely hot day. I managed to\nfind an elderly psychic who knows clues about the master,\nbut I was told I'm not strong enough to challenge the\nmansion."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -292,7 +292,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Even his disciple, who was called a genius,\nchallenged the mansion and never returned. In\nthose circles, it's known as the \"Cursed Moon\nMansion,\" a name that is shunned even in speech."
+                "Even his disciple, who was called a genius, never returned\nafter challenging the mansion. It's known as the \"Cursed\nMoon Mansion\" in those circles, and even mentioning its name\nis avoided."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -300,7 +300,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "September 20, 1983: I found a shrine in the\nmountains. The decayed shrine is filled with a\nhideous curse. Perhaps its deity was also consumed\nby the \"Cursed Moon Mansion.\""
+                "September 20, 1983: I found a shrine in the mountains. The\ndecayed shrine is filled with a horrific curse. Perhaps its\ndeity was also consumed by the \"Cursed Moon Mansion.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -308,7 +308,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Can I really overcome a curse that even swallows\ngods?"
+                "Can I overcome a curse that even gods have succumbed to?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -316,7 +316,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "January 9, 1987: At last, I will challenge the\nmansion. I've found a path that leads to it from\nwithin the city. Now, having honed my spiritual\npower to surpass my master's and become a psychic\nknown to all in the area, it's time."
+                "January 9, 1987: At last, I will challenge the mansion. I\nfound a path that leads to it from within the city. Now that\nI have surpassed my master's power and become a psychic\nknown to all in the area, I have honed my spiritual power."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -324,7 +324,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The time has come for me to avenge my master and\nrelease the long-standing curse."
+                "The time has come for me to avenge my master and lift the\nlongstanding curse."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -332,7 +332,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "January 10, 1987: I don't want to die I don't want\nto die I don't want to die I don't want to die I\ndon't want to die I don't want to die I don't want\nto die I don't want to die I don't want to die I\ndon't want to die I don't want to die I don't want\nto die"
+                "January 10, 1987: I don't want to die I don't want to die I\ndon't want to die I don't want to die I don't want to die I\ndon't want to die I don't want to die I don't want to die I\ndon't want to die I don't want to die"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -340,14 +340,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I don't want to die if I die I'll be consumed\nsouls will be swallowed it's terrifying it's\nterrifying the cursed moon is not something humans\ncan handle I too will be taken cursed by the land"
+                "I don't want to die if I die I'll be consumed my soul will\nbe swallowed it's terrifying it's terrifying the cursed moon\nis not something humans can handle I too will be taken over\ncursed by the land"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's nothing written beyond this point."]
+              "parameters": ["Nothing is written beyond this point."]
             },
             { "code": 111, "indent": 0, "parameters": [0, 87, 1] },
             { "code": 121, "indent": 1, "parameters": [87, 87, 0] },
@@ -525,9 +525,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Living_Room 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Living_Room 15"]
             },
             {
               "code": 231,
@@ -661,7 +659,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__2nd_Floor 15"
+                "D_TEXT Current_Location:_Bloodstained_House_2nd_Floor 15"
               ]
             },
             {
@@ -723,7 +721,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__2nd_Floor 15"
+                "D_TEXT Current_Location:_Bloodstained_House_2nd_Floor\\ow[0]\\c[15] 15"
               ]
             },
             {
@@ -830,7 +828,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__1st_Floor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House_1st_Floor 15"
               ]
             },
             {
@@ -892,7 +890,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__1st_Floor 15"
+                "D_TEXT Current_Location:_Bloodstained_House_1st_Floor 15"
               ]
             },
             {
@@ -998,7 +996,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__1st_Floor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House_1st_Floor 15"
               ]
             },
             {
@@ -1060,7 +1058,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__1st_Floor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House_1st_Floor 15"
               ]
             },
             {
@@ -1216,7 +1214,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(The lock is open. I should jump down from here\nand escape.)"
+                "(The lock is open. I should jump down from here and escape.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -1281,7 +1279,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"That was close. Since they're not chasing me...\nmaybe I've escaped?\"\\n<Yukine>\\F[13]"
+                "\"That was close. They're not chasing me... Did I manage to\nescape?\"\\n<Yukine>\\F[13]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1296,7 +1294,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_the_Girl 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Find_the_girl 15"]
             },
             {
               "code": 231,
@@ -1413,7 +1411,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(Did I just hear a sound...?)"]
+              "parameters": ["(Did I just hear a noise...?)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 121, "indent": 0, "parameters": [89, 89, 0] },
@@ -1520,7 +1518,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__2nd_Floor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House_2nd_Floor 15"
               ]
             },
             {
@@ -1582,7 +1580,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__2nd_Floor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House_2nd_Floor 15"
               ]
             },
             {
@@ -1791,7 +1789,7 @@
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Click to continue-"] },
+            { "code": 401, "indent": 0, "parameters": ["Click to continue"] },
             { "code": 246, "indent": 0, "parameters": [1] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 117, "indent": 0, "parameters": [25] },

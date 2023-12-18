@@ -1796,14 +1796,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"I'm scared...\"\\n<Saku>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "\"Why did you leave Yukine behind? Why can't I go\nhome? What is a sacrifice?\"\\n<Saku>"
+                "\"Uuu... Mommy... I'm scared. I'm so scared...\"\\n<Saku>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1811,7 +1805,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I want to go home... Mom, I want to go home...\"\\n<Saku>"
+                "\"Why did you leave Saku behind? Why can't I go back home?\nWhat is a sacrifice?\"\\n<Saku>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1819,7 +1813,15 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"What's wrong... Why are you crying, child of\nman?\"\\n<???>"
+                "\"I want to go back... Mommy, I want to go back...\"\\n<Saku>"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"What's the matter... Why are you crying, child of man?\"\\n<???>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -1870,7 +1872,7 @@
               "parameters": [99, 0, 0, 0, 0, 0, 100, 100, 255, 0, 30, true]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\"Eek!\"\\n<Saku>"] },
+            { "code": 401, "indent": 0, "parameters": ["\"Kyaa!\"\\n<Saku>"] },
             { "code": 121, "indent": 0, "parameters": [239, 239, 0] },
             {
               "code": 232,
@@ -1885,21 +1887,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hmm... quite a young child, aren't you?\"\\n<???>"
+                "\"Hmm... Quite a young child, aren't you?\"\\n<???>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Eh... Why is Yukine...?\"\\n<Saku>"]
+              "parameters": ["\"Eh... Why is Saku...?\"\\n<Saku>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Because I have no physical form, I've borrowed\nthe appearance of a child... It's been a long time\nsince I've taken human form.\"\\n<???>"
+                "\"Because I have no physical form, I've borrowed the\nappearance of a child... It's been a long time since I've\ntaken human form.\"\\n<???>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -1959,7 +1961,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Is that Sakuragatsu? Was Yukine made a sacrifice\nfor Sakuragatsu?)\\n<Yukine>\\F[8]"
+                "\"(Was that Saku Akatsuki? Has Saku been offered as a\nsacrifice to Saku Akatsuki?)\"\\n<Yukine>\\F[8]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -1969,7 +1971,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Yukine...\"\\n<Yukine>\\F[10]"]
+              "parameters": ["\"Saku...\"\\n<Yukine>\\F[10]"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }

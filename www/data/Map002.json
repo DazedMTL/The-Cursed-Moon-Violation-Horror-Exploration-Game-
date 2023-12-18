@@ -2394,14 +2394,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Mr. Kozou, good work today as well.\"\\n<Yukine>\\F[3]"
+                "\"Kouzou-san, thank you for your hard work today as well.\"\\n<Yukine>\\F[3]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"...\"\\n<Kozou>\\F[3]\\AA[N]"]
+              "parameters": ["\"...\"\\n<Kosan>\\F[3]\\AA[N]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -2472,7 +2472,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Sigh, you can't hear me, can you? I wish we could\nhave a chat once in a while.\"\\n<Yukine>\\F[10]"
+                "\"Sigh, you really can't hear me, huh? I wish we could have a\nchat once in a while.\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2571,7 +2571,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Today we had another family coming to give\nthanks. It's really true that the deity here is so\nbenevolent. Maybe when I have a child, I should\nmake a request to Yukine-sama as well?\"\\n<Shrine Maiden>"
+                "\"Today we had another family come to give thanks. It's true,\nthe deity of this place really does bless us. Maybe when I\nhave a child, I should ask Yukine-sama for a blessing?\"\\n<Shrine Maiden>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2579,7 +2579,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You'll be most welcome then. But it would be a\nlittle lonely if you quit being a miko... not that\nyou can hear my voice, though.\"\\n<Yukine>\\F[3]"
+                "\"You'll be most welcome when that time comes. But it'll be a\nlittle lonely if you quit being a miko... not that you can\nhear my voice, though.\"\\n<Yukine>\\F[3]"
               ]
             },
             { "code": 122, "indent": 0, "parameters": [5, 5, 1, 0, 1] },
@@ -2631,7 +2631,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yukine-sama, please grant me a good match. If\npossible, I'd like someone with a high income,\ntall, and handsome.\"\\n<Shrine Maiden>"
+                "\"Yukine-sama. Please grant me a good match. If possible, I'd\nlike someone with a high income, tall, and handsome.\"\\n<Shrine Maiden>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2639,7 +2639,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hmm... that might be a bit difficult with the\nblessings I have. I can protect children, though.\"\\n<Yukine>\\F[7]"
+                "\"Hmm... that might be difficult with the blessings I can\nbestow. I can protect children, though.\"\\n<Yukine>\\F[7]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3170,7 +3170,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's a small shrine, yet there are so many\nvisitors. My grandmother said she did her Shichi-\nGo-San here too...\"\\n<Shrine Maiden>"
+                "\"Even though it's a small shrine, there are so many\nvisitors. My grandmother said she did her Shichi-Go-San here\ntoo...\"\\n<Shrine Maiden>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3178,7 +3178,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I remember that time. It feels somewhat\nnostalgic.\"\\n<Yukine>\\F[3]"
+                "\"I remember that time. It feels somewhat nostalgic.\"\\n<Yukine>\\F[3]"
               ]
             },
             { "code": 122, "indent": 0, "parameters": [5, 5, 1, 0, 1] },
@@ -3230,7 +3230,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I wonder if my child will also celebrate Shichi-\nGo-San here? Just kidding...\"\\n<Shrine Maiden>"
+                "\"I wonder if my child will also celebrate Shichi-Go-San\nhere? Just kidding...\"\\n<Shrine Maiden>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3238,7 +3238,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ehehe, when that time comes, I'll do my best to\nraise them healthy.\"\\n<Yukine>\\F[2]"
+                "\"Ehehe, when that time comes, I'll do my best to make sure\nthey grow up healthy.\"\\n<Yukine>\\F[2]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4308,7 +4308,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's peaceful today as well. The breeze feels\nnice, I wish days like this would continue.\"\\n<Yukine>\\F[1]"
+                "\"It's peaceful today as well. The breeze feels nice, I wish\ndays like this would continue.\"\\n<Yukine>\\F[1]"
               ]
             },
             {
@@ -4452,7 +4452,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yukine-sama, Yukine-sama, thank you for curing my\nchild's illness. I will never forget this kindness\nfor as long as I live.\"\\n<Girl's Mother>"
+                "\"Yukine-sama, Yukine-sama, thank you for curing my child's\nillness. I will never forget this kindness for as long as I\nlive.\"\\n<The girl's mother>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4460,7 +4460,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thank you, God... Hey, Mom. Did God really cure\nmy illness?\"\\n<Girl>"
+                "\"Thank you, God... Hey, Mom. Did God really cure my\nillness?\"\\n<Girl>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4468,7 +4468,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yes, the deity here. Yukine-sama cured you. This\ndeity is famous for being kind and helping\nchildren. Many other children have prayed here and\nbeen cured just like you.\"\\n<Girl's Mother>"
+                "\"Yes, the god of this place. Yukine-sama cured you. This god\nis famous for being kind and helping children. Many other\nchildren have prayed here and been cured just like you.\"\\n<The girl's mother>"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [51, 1, true] },
@@ -4485,7 +4485,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Onee-san...? The priest over there looks like an\nold man to me. Maybe you mean that shrine maiden?\nShe doesn't quite look like an Onee-san though.\"\\n<Girl's Mother>"
+                "\"Onee-san...? The priest over there looks like an old man to\nme. Maybe you mean that shrine maiden? She doesn't quite\nlook like an Onee-san though.\"\\n<The girl's mother>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4493,7 +4493,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"No, not them. I'm talking about the Onee- san\nsitting over there in white. Look, you can see\nher, right?\"\\n<Girl>"
+                "\"No, not them. I'm talking about the Onee-san sitting over\nthere in white. Look, you can see her, right?\"\\n<Girl>"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [47, 8, true] },
@@ -4502,7 +4502,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Sorry dear, it seems Mommy can't see her. Ah...\nthat's right, now that your illness is cured,\nshall we have stew today?\"\\n<Girl's Mother>"
+                "\"Sorry dear, it seems Mommy can't see her. Ah... that's\nright, now that you're cured, shall we have stew today?\"\\n<Girl's Mother>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4510,7 +4510,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yay, stew! I love Mommy's stew♥\"\\n<Girl's Mother>"
+                "\"Yay, stew! I love Mommy's stew♥\"\\n<The girl's mother>"
               ]
             },
             {
@@ -4683,7 +4683,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Her illness has really been cured. She seems\ncompletely healthy now, it was worth the effort.)\\F[2]"
+                "(Her illness was properly cured. She seems to have fully\nrecovered, and it looks like my efforts were worth it.)\\F[2]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4691,7 +4691,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...But it's been a while since I met a 'child who\ncan see'. An Onee-san, huh? It makes me happy.\nMaybe I'll take a little walk around the shrine.\"\\n<Yukine>\\F[1]"
+                "\"...But it's been a while since I met a 'child who can see'.\nOnee-san, huh? It makes me happy. Maybe I'll take a little\nwalk around the shrine.\"\\n<Yukine>\\F[1]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -4703,7 +4703,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\FFFF[53]Tips: You can check the strategy information from\nthe hint button in the top right corner."
+                "\\FFFF[53]Tips: You can check the strategy information from the hint\nbutton in the top right corner."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -4712,22 +4712,22 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["namePop 72 Talk 35 black"]
+              "parameters": ["namePop 72 Conversation 35 black"]
             },
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["namePop 37 Talk 8 black"]
+              "parameters": ["namePop 37 Conversation 8 black"]
             },
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["namePop 45 Talk 6 black"]
+              "parameters": ["namePop 45 Conversation 6 black"]
             },
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["namePop 38 Talk 8 black"]
+              "parameters": ["namePop 38 Conversation 8 black"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5169,7 +5169,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Someone... help... it hurts, it hurts so much...\"\\n<???>\\F[4]\\AA[N]"
+                "\"Someone... help... it's painful, it's so painful...\"\\n<???>\\F[4]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5177,7 +5177,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Is the voice coming from inside here? But...\ninside this...)\\F[10]"
+                "(Is the voice coming from inside this? But... inside\nthis...)\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5185,7 +5185,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If I go in... I might never be able to come out\nagain...)\\F[10]"
+                "(It's a tremendous vortex of curses. If I enter... I might\nnever be able to get out...)\\F[10]"
               ]
             },
             { "code": 122, "indent": 0, "parameters": [7, 7, 0, 3, 5, -1, 0] },
@@ -5619,7 +5619,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"She's right here!\"\\n<Fox>"]
+              "parameters": [
+                "\"Lady Yukine, it's dangerous. If you get too close, you'll\nbe swallowed by the curse!\"\\n<Fox>"
+              ]
             },
             {
               "code": 205,
@@ -5720,7 +5722,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Help... someone, please help...\"\\n<???>\\F[10]\\AA[N]"
+                "\"Help me... someone, please help me...\"\\n<???>\\F[10]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5728,7 +5730,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"But I can't just ignore a girl asking for\nhelp...\"\\n<Yukine>\\F[10]"
+                "\"But I can't just ignore a girl asking for help...\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5736,7 +5738,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"No, you can't. In this kind of curse, even gods\nlose their power and will die.\"\\n<Fox>\\F[10]\\AA[N]"
+                "\"No, it's impossible. In the midst of such a curse, even the\ngods can't use their powers. You'll die.\"\\n<Fox>\\F[10]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5766,7 +5768,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"I'm sorry. I have to go help. After all, I am a\ngod who protects children.\"\\n<Yukine>\\F[4]"
+                "\"I'm sorry. I have to go help. After all, I am a goddess who\nprotects children.\"\\n<Yukine>\\F[4]"
               ]
             },
             {
@@ -5874,7 +5876,9 @@
             {
               "code": 356,
               "indent": 1,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_the_Girl 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Search_for_the_girl 15"
+              ]
             },
             {
               "code": 231,
@@ -5971,7 +5975,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"...Okay, I won't go. So don't make that face, be\na good child.\"\\n<Yukine>\\F[7]"
+                "\"...Alright, I won't go. So don't make that face, be a good\nchild.\"\\n<Yukine>\\F[7]"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -5998,7 +6002,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["END1 Unchanging Everyday Life"]
+              "parameters": ["END1 The Unchanging Everyday"]
             },
             { "code": 354, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -6252,7 +6256,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Is the voice coming from inside this? But...\ninside this...)\\F[10]"
+                "(Is the voice coming from inside this? But... inside\nthis...)\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6260,7 +6264,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It's a tremendous whirl of curses. If I enter...\nI might never be able to get out...)\\F[10]"
+                "(It's a tremendous vortex of curses. If I enter... I might\nnever be able to get out...)\\F[10]"
               ]
             },
             { "code": 122, "indent": 0, "parameters": [7, 7, 0, 3, 5, -1, 0] },
@@ -6695,7 +6699,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yukine-sama, it's dangerous. If you get too\nclose, you'll be swallowed by the curse!\"\\n<Fox>"
+                "\"Lady Yukine, it's dangerous. If you get too close, you'll\nbe swallowed by the curse!\"\\n<Fox>"
               ]
             },
             {
@@ -6797,7 +6801,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Help me... someone, please help me...\"\\n<???>\\F[10]\\AA[N]"
+                "\"Help... someone, please help...\"\\n<???>\\F[10]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6805,7 +6809,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"But I can't just ignore a girl who's asking for\nhelp...\"\\n<Yukine>\\F[10]"
+                "\"But I can't just ignore a girl asking for help...\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6813,7 +6817,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"No, it's impossible. In the midst of such a\ncurse, even the gods can't use their powers.\nYou'll die.\"\\n<Fox>\\F[10]\\AA[N]"
+                "\"No, it's impossible. In the midst of such a curse, even\ngods can't use their powers. You'll die.\"\\n<Fox>\\F[10]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6843,7 +6847,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"I'm sorry. I have to go help. After all, I am a\ngod who protects children.\"\\n<Yukine>\\F[4]"
+                "\"I'm sorry. I have to go help. After all, I am a goddess who\nprotects children.\"\\n<Yukine>\\F[4]"
               ]
             },
             {
@@ -6909,7 +6913,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\"Yukine-sama-!\"\\n<Fox>"]
+              "parameters": ["\"Lady Yukine-!\"\\n<Fox>"]
             },
             { "code": 356, "indent": 1, "parameters": ["Light deactivate"] },
             {
@@ -6941,7 +6945,7 @@
             {
               "code": 356,
               "indent": 1,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_???? 15"]
+              "parameters": ["D_TEXT Current_Location:_???? 15"]
             },
             {
               "code": 231,
@@ -6951,7 +6955,7 @@
             {
               "code": 356,
               "indent": 1,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_the_Girl 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Find_the_girl 15"]
             },
             {
               "code": 231,
@@ -7040,7 +7044,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Hii-n, Yukine-sama-. Please don't go-\"\\n<Fox>\\F[10]\\AA[N]"
+                "\"Hii-n, Lady Yukine-. Please don't go-\"\\n<Fox>\\F[10]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -7048,7 +7052,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"...Alright, I won't go. So don't make that face,\nyou're a good child.\"\\n<Yukine>\\F[7]"
+                "\"...Alright, I won't go. So don't make that face, be a good\nchild.\"\\n<Yukine>\\F[7]"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -7275,7 +7279,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I wonder if she'll offer me some cream again)"]
+              "parameters": [
+                "(I wonder if she'll offer me some ice cream again)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -7388,7 +7394,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You want to play again? We already played at\nnoon.\"\\n<Yukine>\\F[7]"
+                "\"You want to play again? We already played at noon.\"\\n<Yukine>\\F[7]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -7396,7 +7402,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"What's the harm? Let's play some more-\"\\n<Fox>\\F[7]\\AA[N]"
+                "\"Come on, it's fine- let's play-\"\\n<Fox>\\F[7]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -7546,7 +7552,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(The fallen leaves have been gathered up)"]
+              "parameters": ["(The fallen leaves have been gathered up.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -7603,7 +7609,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Come to think of it, the baked sweet potatoes you\ngave me a while back were delicious...\"\\n<Yukine>\\F[2]"
+                "\"Come to think of it, the baked sweet potatoes you gave me a\nwhile back were delicious...\"\\n<Yukine>\\F[2]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -7749,7 +7755,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(This explains the origin of the shrine and its\nblessings.)"
+                "(This explains the origin of the shrine and its blessings)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -7808,7 +7814,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Setting aside the blessing of protecting\nchildren, the origin is wrong, you know?\"\\n<Yukine>\\F[7]"
+                "\"Setting aside the blessing of protecting children, the\norigin is wrong, you know?\"\\n<Yukine>\\F[7]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -8056,7 +8062,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Someone... help me... it hurts, it hurts so\nmuch...\"\\n<???>\\F[4]\\AA[N]"
+                "\"Someone... help... it hurts, it hurts so much...\"\\n<???>\\F[4]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -8064,7 +8070,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Is the voice coming from inside this? But...\ninside this...)\\F[10]"
+                "(Is the voice coming from inside this? But... inside\nthis...)\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -8072,7 +8078,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It's a tremendous vortex of curses. If I enter...\nI might never be able to get out...)\\F[10]"
+                "(It's a tremendous vortex of curses. If I enter... I might\nnever be able to get out...)\\F[10]"
               ]
             },
             { "code": 122, "indent": 0, "parameters": [7, 7, 0, 3, 5, -1, 0] },
@@ -8507,7 +8513,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yukine-sama, it's dangerous. If you get too\nclose, you'll be swallowed up by the curse!\"\\n<Fox>"
+                "\"Lady Yukine, it's dangerous. If you get too close, you'll\nbe swallowed by the curse!\"\\n<Fox>"
               ]
             },
             {
@@ -8609,7 +8615,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Help... someone, please help...\"\\n<???>\\F[10]\\AA[N]"
+                "\"Help me... someone, please help...\"\\n<???>\\F[10]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -8617,7 +8623,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"But I can't just ignore a girl who's asking for\nhelp...\"\\n<Yukine>\\F[10]"
+                "\"But I can't just ignore a girl asking for help...\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -8625,7 +8631,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"No, it's impossible. In the midst of such a\ncurse, even the gods can't use their powers.\nYou'll die.\"\\n<Fox>\\F[10]\\AA[N]"
+                "\"No, it's impossible. In the midst of such a curse, even a\ngod will lose their power and die.\"\\n<Fox>\\F[10]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -8655,7 +8661,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"I'm sorry. I have to go help. After all, I am a\ngod who protects children.\"\\n<Yukine>\\F[4]"
+                "\"I'm sorry. I'm going to help. After all, I am a god who\nprotects children.\"\\n<Yukine>\\F[4]"
               ]
             },
             {
@@ -8721,7 +8727,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\"Yukine-sama-!\"\\n<Fox>"]
+              "parameters": ["\"Lady Yukine-!\"\\n<Fox>"]
             },
             { "code": 356, "indent": 1, "parameters": ["Light deactivate"] },
             {
@@ -8753,7 +8759,7 @@
             {
               "code": 356,
               "indent": 1,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_???? 15"]
+              "parameters": ["D_TEXT Current_Location:_???? 15"]
             },
             {
               "code": 231,
@@ -8763,7 +8769,7 @@
             {
               "code": 356,
               "indent": 1,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_the_Girl 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Find_the_girl 15"]
             },
             {
               "code": 231,
@@ -8852,7 +8858,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Hii-n, Yukine-sama-. Please don't go-\"\\n<Fox>\\F[10]\\AA[N]"
+                "\"Hii-n, Lady Yukine-. Please don't go-\"\\n<Fox>\\F[10]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -8860,7 +8866,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"...Alright, I won't go. So don't make that face,\nyou're a good child.\"\\n<Yukine>\\F[7]"
+                "\"...Alright, I won't go. So don't make that face, be a good\nchild.\"\\n<Yukine>\\F[7]"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -8887,7 +8893,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["END1 Unchanging Everyday Life"]
+              "parameters": ["END1 The Unchanging Everyday"]
             },
             { "code": 354, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -9038,7 +9044,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Just now... It seemed like a voice came from the\ndirection of the torii gate)\\F[4]"
+                "(Just now... It seemed like a voice came from the direction\nof the torii gate)\\F[4]"
               ]
             },
             {
@@ -9055,7 +9061,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(And this bell sound. Where is it coming from...)\\F[4]"
+                "(And this sound of a bell. Where is it coming from...)\\F[4]"
               ]
             },
             { "code": 356, "indent": 0, "parameters": ["ダッシュ禁止"] },
@@ -9063,7 +9069,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Task:_Search_for_the_location_of_the__bell_sound 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Search_for_the_location_of_the_bell_sound 15"
               ]
             },
             {

@@ -292,7 +292,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_The_Room_with_Many__Doors 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_The_Room_with_Many_Doors 15"
               ]
             },
             {
@@ -356,7 +356,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It's locked and won't open)"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -540,7 +540,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"That presence... What should we do... It's the\nevil spirit from before. I can't believe it's\nactually following us.\"\\n<Yukine>\\F[15]\\AA[F]\\FF[20]"
+                "\"That presence... What should we do... It's the evil spirit\nfrom before. I can't believe it's actually following us.\"\\n<Yukine>\\F[15]\\AA[F]\\FF[20]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -548,7 +548,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah, aah... I will... kill... curse... everyone,\nwill be... killed...\"\\n<Evil Spirit>\\F[15]\\AA[N]\\FF[20]"
+                "\"Ah, aah... I will... kill... curse... everyone, will be...\nkilled...\"\\n<Evil Spirit>\\F[15]\\AA[N]\\FF[20]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -556,7 +556,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This is an intense aura of a curse, let's run\naway!\"\\n<Yukine>\\F[15]\\AA[F]\\FF[20]"
+                "\"There's a strong aura of a curse, let's run away!\"\\n<Yukine>\\F[15]\\AA[F]\\FF[20]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [50] },

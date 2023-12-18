@@ -319,7 +319,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Stairs_leading__unde_rground 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Stairs_leading_underground 15"
               ]
             },
             {
@@ -390,7 +390,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_The_Hidden_Room__Und_erground 15"
+                "D_TEXT Current_Location:_The_Hidden_Room_Underground 15"
               ]
             },
             {

@@ -378,9 +378,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_2 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Hallway_2 15"]
             },
             {
               "code": 231,
@@ -449,9 +447,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_2 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Hallway_2 15"]
             },
             {
               "code": 231,
@@ -514,7 +510,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"What is this... Such an intense aura of a curse.\"\\n<Yukine>\\F[10]"
+                "\"What is this... Such an incredible aura of a curse.\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -522,7 +518,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(I want to do something about it, but with my\ncurrent power, I can't destroy the source of the\ncurse...)\\F[10]"
+                "(I want to do something about it, but I can't break the\nsource of the curse with my current power...)\\F[10]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -572,7 +568,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This presence... it must be another source of the\ncurse. It's cleverly concealed, but there's a\nmaelstrom of cursed energy swirling inside the\narmor.\"\\n<Yukine>\\F[4]"
+                "\"This presence... it must be another source of the curse.\nIt's cleverly concealed, but there's a whirlpool of cursed\nenergy inside the armor.\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -580,7 +576,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(I want to do something about it... but it seems I\ncan't destroy it with just this rusty kodachi. I\nneed to find Saku quickly before anything else.)\\F[10]"
+                "(I want to do something about it... but it seems I can't\ndestroy it with just this rusty short sword... I need to\nfind Saku quickly before anything else.)\\F[10]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -631,7 +627,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This presence... it's also a source of the curse.\nIt's cleverly hidden, but within the armor, the\npower of the curse is swirling.\"\\n<Yukine>\\F[4]"
+                "\"This presence... it's also a source of the curse. It's\ncleverly hidden, but within the armor, the power of the\ncurse is swirling.\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -639,7 +635,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This is what's sending the curse into this world.\n...It's what's strengthening the power of the\nmansion.\"\\n<Yukine>\\F[4]"
+                "\"This is what's sending the curse into the world. ...It's\nwhat's strengthening the power of the mansion.\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -650,7 +646,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(If we leave it be, a lot of people will die. It\nseems best to destroy it here.)\\F[10]"
+                "(If we leave it be, a lot of people will die. It seems best\nto destroy it here.)\\F[10]"
               ]
             },
             { "code": 243, "indent": 0, "parameters": [] },
@@ -660,7 +656,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Wrap this necklace around the sword--please, lend\nme your power!\"\\n<Yukine>\\F[19]"
+                "\"Wrap this necklace around this sword--please, lend me your\npower!\"\\n<Yukine>\\F[19]"
               ]
             },
             {

@@ -272,7 +272,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT Current_Location:_Nakano-ma 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Nakano-ma 15"
+              ]
             },
             {
               "code": 231,
@@ -483,9 +485,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_The_Hall_of__Bewilderment 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_The_Room_of_Stray 15"]
             },
             {
               "code": 231,
@@ -545,9 +545,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_The_Hall_of__Bewilderment 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_The_Room_of_Stray 15"]
             },
             {
               "code": 231,

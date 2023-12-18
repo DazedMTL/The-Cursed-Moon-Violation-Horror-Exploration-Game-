@@ -209,7 +209,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(I've obtained the \"Key with a Decorative\nTassel.\")"
+                "(I've obtained the \"Key with a Decorative Tassel.\")"
               ]
             },
             { "code": 126, "indent": 0, "parameters": [70, 0, 0, 1] },
@@ -331,7 +331,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_General_Information___Desk 15"
+                "D_TEXT Current_Location:_General_Information_Desk 15"
               ]
             },
             {
@@ -503,7 +503,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It's locked and won't open)"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }

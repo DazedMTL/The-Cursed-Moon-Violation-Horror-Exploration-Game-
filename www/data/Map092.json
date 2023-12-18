@@ -2612,14 +2612,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Saku>\\F[3]\\AA[FF]\\FF[28]"]
+              "parameters": [
+                "\"Yukine... Onee-chan? Where is this?\"\\n<Saku>\\F[3]\\AA[FF]\\FF[28]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This is the real world. We made it back! We\nescaped from that world!\"\\n<Yukine>\\F[3]\\AA[F]\\FF[28]"
+                "\"This is the real world. We made it back! We escaped from\nthat world.\"\\n<Yukine>\\F[3]\\AA[F]\\FF[28]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -2696,14 +2698,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This is... Onee-chan's, home...\"\\n<Saku>\\F[3]\\AA[FF]\\FF[40]"
+                "\"This is... Onee-chan's home...\"\\n<Saku>\\F[3]\\AA[FF]\\FF[40]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Cough\"\\n<Saku>\\F[3]\\AA[FF]\\FF[26]"]
+              "parameters": ["\"*cough*\"\\n<Saku>\\F[3]\\AA[FF]\\FF[26]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -2718,7 +2720,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yeah, I'm fine, just... a bit surprised. I'll be\nbetter after resting a bit.\"\\n<Saku>\\F[8]\\AA[FF]\\FF[41]"
+                "\"Yeah, I'm fine... just a bit surprised. I'll be better\nafter resting a bit.\"\\n<Saku>\\F[8]\\AA[FF]\\FF[41]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2734,7 +2736,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"More than that, I want to see where Yukine Onee-\nchan lives♪\"\\n<Saku>\\F[8]\\AA[FF]\\FF[25]"
+                "\"More importantly, I want to see where Yukine Onee-chan\nlives♪\"\\n<Saku>\\F[8]\\AA[FF]\\FF[25]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2831,7 +2833,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Cough\"\\n<Saku>\\FF[26]"]
+              "parameters": ["\"*cough*\"\\n<Saku>\\FF[26]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
@@ -2866,7 +2868,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Don't worry about it... I'm just a little tired.\nMore importantly... I want to walk with Onee-chan\nnow.\"\\n<Saku>\\F[8]\\AA[FF]\\FF[25]"
+                "\"Don't worry about it... I'm just a little tired. More than\nthat... I want to walk with Onee-chan now.\"\\n<Saku>\\F[8]\\AA[FF]\\FF[25]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2892,7 +2894,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Maybe we should call it a day for now. Though\nwe've pretty much seen everything.\"\\n<Yukine>\\F[1]"
+                "\"Maybe we should call it a day for now. Though we've pretty\nmuch seen everything.\"\\n<Yukine>\\F[1]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2908,7 +2910,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ehehe, thanks... By the way, Saku, are you\nfeeling okay?\"\\n<Yukine>\\F[2]\\AA[F]\\FF[41]"
+                "\"Ehehe, thanks... By the way, Saku, are you feeling okay?\"\\n<Yukine>\\F[2]\\AA[F]\\FF[41]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2916,7 +2918,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Moo-, Onee-chan, you worry too much... cough,\ncough, cough, hack!\"\\n<Saku>\\F[2]\\AA[FF]\\FF[26]"
+                "\"Moo-, Onee-chan, you worry too much... *cough*, *cough*,\n*cough*, *cough*!\"\\n<Saku>\\F[2]\\AA[FF]\\FF[26]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2932,7 +2934,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\F[16]\"(Eh, why... There's no heartbeat? But we should\nhave retrieved the whole body...)\\AA[F]\\FF[26]\""
+                "\\F[16]\"(Eh, why... There's no heartbeat? I should have retrieved\nthe whole body...)\\AA[F]\\FF[26]\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2940,7 +2942,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I'm alri... cough, cough, hack!\"\\n<Saku>\\F[16]\\AA[FF]\\FF[26]"
+                "\"I'm alri... *cough*, *cough*, *cough*!\"\\n<Saku>\\F[16]\\AA[FF]\\FF[26]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -2962,7 +2964,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"What! No way⁉︎ Saku, Saku! What's wrong?\"\\n<Yukine>\\F[15]\\AA[F]\\FF[26]"
+                "\"Eh! No way⁉︎ Saku, Saku! What's wrong?\"\\n<Yukine>\\F[15]\\AA[F]\\FF[26]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -2978,7 +2980,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["END2 The Moon That Spills Down"]
+              "parameters": ["\"END2 The Moon That Spills Down\""]
             },
             { "code": 111, "indent": 0, "parameters": [0, 256, 1] },
             { "code": 121, "indent": 1, "parameters": [256, 256, 0] },
@@ -3518,7 +3520,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Huh, where is this...? My... shrine, right?\"\\n<Yukine>\\F[5]"
+                "\"Huh, this place is...? My... shrine, right?\"\\n<Yukine>\\F[5]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -3568,7 +3570,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah, Shaku! Thank goodness, we managed to escape!\"\\n<Yukine>\\F[3]"
+                "\"Ah, Saku! Thank goodness, we were able to escape!\"\\n<Yukine>\\F[3]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -3596,7 +3598,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Shaku, wake up... We did it. We managed to\nescape.\"\\n<Yukine>\\F[3]"
+                "\"Saku, wake up... We did it. We managed to escape.\"\\n<Yukine>\\F[3]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -3624,7 +3626,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Mmm, mmmm... Is this, Onee-san's shrine?\"\\n<Saku>\\F[3]\\AA[FF]\\FF[20]"
+                "\"Mmm, mmmm... This is, Onee-san's shrine?\"\\n<Saku>\\F[3]\\AA[FF]\\FF[20]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3640,7 +3642,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Huh? But there's no sign of the shrine's fox\nspirit, the priest, or any of the shrine maidens.\nAnd there's no sign of any living creatures\neither.)\\n<Yukine>\\F[5]\\AA[F]\\FF[20]"
+                "\"(Huh? But there's no sign of the shrine's fox spirit, the\nhead priest, or any of the shrine maidens. And there's no\nsign of any living creatures either.)\"\\n<Yukine>\\F[5]\\AA[F]\\FF[20]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3656,7 +3658,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\F[5](Huh? Did Shaku used to refer to herself as 'I'?)\n\\AA[F]\\FF[20]"
+                "\\F[5](Huh? Did Saku used to refer to herself as 'I'?)\n\\AA[F]\\FF[20]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3672,7 +3674,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"No, nothing... Are you hungry or anything,\nShaku?\"\\n<Yukine>\\F[7]\\AA[F]\\FF[22]"
+                "\"No, it's nothing... Are you hungry or anything, Saku?\"\\n<Yukine>\\F[7]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3696,7 +3698,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\F[4](What is this feeling... It's Shaku's presence,\nbut...) \\AA[F]\\FF[40]"
+                "\\F[4](What is this feeling? It feels like Saku's presence\nbut...)\\AA[F]\\FF[40]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3704,7 +3706,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hey, Onee-san... show me around the shrine. I\nwant to see where you live.\"\\n<Saku>\\F[4]\\AA[FF]\\FF[41]"
+                "\"Hey, Onee-san... show me around the shrine. I want to see\nwhere you live.\"\\n<Saku>\\F[4]\\AA[FF]\\FF[41]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3712,7 +3714,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Okay... then let's walk together. Shall we hold\nhands?\"\\n<Yukine>\\F[7]\\AA[F]\\FF[41]"
+                "\"Okay... then let's walk together. Shall we hold hands?\"\\n<Yukine>\\F[7]\\AA[F]\\FF[41]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3733,7 +3735,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I see... okay then. It's a small shrine, but I'll\nshow you around.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[20]"
+                "\"I see... Alright then. It's a small shrine but I'll show\nyou around.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[20]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -3926,7 +3928,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah, thank goodness! Yukine-sama, you're safe.\nI'll wake up your companion now.\"\\n<Fox>"
+                "\"Ah, thank goodness! Yukine-sama, you're safe. I'll wake up\nyour companion now.\"\\n<Fox>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3934,7 +3936,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's okay. I'll wake him up.\"\\n<Yukine>\\F[7]"
+                "\"It's okay. I'll wake her up.\"\\n<Yukine>\\F[7]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -4008,7 +4010,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Free... Does that mean I can be with Yukine Onee-\nsan forever?\"\\n<Saku>\\F[1]\\AA[FF]\\FF[60]"
+                "\"Free... Does that mean I can be with Yukine Onee-san\nforever?\"\\n<Saku>\\F[1]\\AA[FF]\\FF[60]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4027,7 +4029,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yay, Yukine Onee-san. I love you!\"\\n<Saku>\\F[1]\\AA[FF]\\FF[63]"
+                "\"Yay-, Yukine Onee-san. I love you-!\"\\n<Saku>\\F[1]\\AA[FF]\\FF[63]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4041,7 +4043,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Onee-san, you really... really saved me. Thank\nyou-\\I[84]\"\\n<Saku>\\F[11]\\AA[FF]\\FF[64]"
+                "\"Onee-san, you saved me and I'm really... really\nthankful-\\I[84]\"\\n<Saku>\\F[11]\\AA[FF]\\FF[64]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4065,14 +4067,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yukine Onee-san... I love you\\I[84]\"\\n<Saku>\\F[1]\\AA[FF]\\FF[64]"
+                "\"Yukine Onee-san... I love you-\\I[84]\"\\n<Saku>\\F[1]\\AA[FF]\\FF[64]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Chu\\I[84]\"\\n<Saku>\\F[1]\\AA[FF]\\FF[80]"]
+              "parameters": ["\"Chu-\\I[84]\"\\n<Saku>\\F[1]\\AA[FF]\\FF[80]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -4087,7 +4089,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...Yukine Onee-san, was that kiss... okay?\"\\n<Saku>\\F[11]\\AA[FF]\\FF[65]"
+                "\"...Yukine Onee-san, was that kiss... bad?\"\\n<Saku>\\F[11]\\AA[FF]\\FF[65]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4095,7 +4097,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Well, it's not that it's... not okay.\"\\n<Yukine>\\F[11]\\AA[F]\\FF[65]"
+                "\"No, it's not that...\"\\n<Yukine>\\F[11]\\AA[F]\\FF[65]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4119,14 +4121,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ehehe, Yukine Onee-chan\\I[84]\"\\n<Saku>\\F[11]\\AA[FF]\\FF[64]"
+                "\"Ehehe-, Yukine Onee-chan\\I[84]\"\\n<Saku>\\F[11]\\AA[FF]\\FF[64]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Chu\\I[84]\"\\n<Saku>\\F[11]\\AA[FF]\\FF[80]"]
+              "parameters": ["\"Chu-\\I[84]\"\\n<Saku>\\F[11]\\AA[FF]\\FF[80]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -4144,7 +4146,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"To think you'd bring back an unknown girl and get\nall hot and heavy. Good grief... Perhaps it's time\nfor this bothersome fox to take her leave.\"\\n<Fox>"
+                "\"To think you'd bring back an unknown girl and be so\npassionate. Good grief... Perhaps it's time for this\nbothersome fox to take her leave.\"\\n<Fox>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -4216,7 +4218,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yukine Onee-san. From now on, we'll be together\nforever, right?\"\\n<Saku>\\F[11]\\AA[FF]\\FF[64]"
+                "\"Yukine Onee-san. From now on, we'll be together forever,\nright?\"\\n<Saku>\\F[11]\\AA[FF]\\FF[64]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

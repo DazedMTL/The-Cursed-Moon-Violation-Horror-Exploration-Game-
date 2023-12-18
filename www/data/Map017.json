@@ -1647,7 +1647,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Hallway 15"
               ]
             },
             {
@@ -1718,7 +1718,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Entrance 15"
+                "D_TEXT Current_Location:_A_Dark_Entrance_Hall\\ow[0]\\c[15] 15"
               ]
             },
             {
@@ -2194,9 +2194,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Dark_Hallway 15"]
             },
             {
               "code": 231,
@@ -2511,7 +2509,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Entrance 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_A_Dark_Entrance 15"
               ]
             },
             {
@@ -2833,7 +2831,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\"Hik!? \"\\n<Yukine>\\F[15]"]
+              "parameters": ["\"Hik!?\"\\n<Yukine>\\F[15]"]
             },
             { "code": 121, "indent": 1, "parameters": [100, 100, 0] },
             { "code": 122, "indent": 1, "parameters": [3, 3, 0, 0, 37] },
@@ -2845,7 +2843,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(It's pitch black... That's right, I picked up a\nlight somewhere...)"
+                "(It's pitch dark... That's right, I'm sure I picked up a\nlight somewhere...)"
               ]
             },
             { "code": 117, "indent": 1, "parameters": [20] },
@@ -3163,7 +3161,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Suddenly, what appeared before us was the inside\nof a building called \"school.\"\\F[4]"
+                "Suddenly, what appeared before us was the inside of a\nbuilding called \"school.\"\\F[4]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3171,7 +3169,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I also go outside the shrine when October comes,\nso I know about this building. I entered once out\nof curiosity. But I don't understand why the door\nleads to a school.\\F[4]"
+                "I also go out of the shrine in October, so I know about this\nbuilding. I entered once out of curiosity. But I don't\nunderstand why the door leads to a school.\\F[4]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -3182,7 +3180,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Sure enough, time and space here are strange. The\npresence of the curse continues, so we haven't\nreturned to the real world.)\\F[4]"
+                "(As I thought, time and space are strange here. The presence\nof the curse continues, so we haven't returned to the real\nworld.)\\F[4]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3196,14 +3194,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's okay. No matter what happens, I will protect\nyou. Let's go.\"\\n<Yukine>\\F[4]\\AA[F]\\FF[20]"
+                "\"It's okay. No matter what happens, I will protect you.\nLet's go.\"\\n<Yukine>\\F[4]\\AA[F]\\FF[20]"
               ]
             },
             {
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st__Flo__or,_Classroom_D 15"
+                "D_TEXT Current_Location:_Building_A,_1st_Floor,_Classroom_D 15"
               ]
             },
             {
@@ -3357,7 +3355,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It's locked and won't open)"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3900,7 +3898,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's terrible... The body has been completely\nmangled. Ugh, the eyes and nose are crushed, and\nit's covered in blood.\"\\n<Yukine>\\F[15]"
+                "\"How awful... The body has been completely mangled. Ugh, the\neyes and nose are crushed, and it's covered in blood.\"\\n<Yukine>\\F[15]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -3911,7 +3909,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"There's something fallen nearby... Maybe it's a\nnote.\"\\n<Yukine>\\F[4]"
+                "\"There's something fallen nearby... Maybe it's a note.\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -3920,7 +3918,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do not touch it. Hide and wait it out... That\nthing is evil..."
+                "Do not touch it. Hide and wait it out... That thing is\nevil..."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [10] },
@@ -3930,9 +3928,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "(The rest is obscured by blood and cannot be read)"
-              ]
+              "parameters": ["(The rest is obscured by blood and unreadable.)"]
             },
             { "code": 230, "indent": 0, "parameters": [10] },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -3995,7 +3991,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It's a gruesome corpse... I don't really want to\nlook at it.)"
+                "(What a terrible corpse... I really don't want to look at\nit.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -4434,7 +4430,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\"Hik!?\"\\n<Yukine>\\F[15]"]
+              "parameters": ["\"Hii!?\\n<Yukine>\\F[15]"]
             },
             { "code": 121, "indent": 1, "parameters": [100, 100, 0] },
             { "code": 122, "indent": 1, "parameters": [3, 3, 0, 0, 37] },
@@ -4446,7 +4442,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(It's pitch black... That's right, I'm sure I\npicked up a light somewhere...)"
+                "(It's pitch black... That's right, I'm sure I picked up a\nlight...)"
               ]
             },
             { "code": 117, "indent": 1, "parameters": [20] },
@@ -4750,7 +4746,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(It's pitch black... That's right, I picked up a\nlight somewhere...)"
+                "(It's pitch dark... That's right, I'm sure I picked up a\nlight somewhere...)"
               ]
             },
             { "code": 117, "indent": 1, "parameters": [20] },
@@ -4869,7 +4865,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["namePop 40 Talk 8 black"]
+              "parameters": ["namePop 40 Conversation 8 black"]
             },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4969,7 +4965,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...Where? Where did it... go...?\"\\n<Female Ghost>"
+                "\"...ku...where? Where did it...go...ku...\"\\n<Female Ghost>"
               ]
             },
             { "code": 356, "indent": 0, "parameters": ["namePop 40"] },
@@ -5038,7 +5034,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(The presence of the ghost just now... It\ncontinues deeper inside.)"
+                "(The presence of that ghost... It continues further inside)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -5194,7 +5190,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Obtained a clean battery.\""]
+              "parameters": ["\"Acquired a clean battery.\""]
             },
             { "code": 126, "indent": 0, "parameters": [25, 0, 0, 1] },
             { "code": 117, "indent": 0, "parameters": [25] },
@@ -5311,7 +5307,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Huh... The atmosphere is completely different\nfrom before. It feels really... unpleasant.\"\\n<Yukine>\\F[10]"
+                "\"Huh... The atmosphere is completely different from before.\nIt feels really... unpleasant.\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5319,7 +5315,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"What should I do... This place is incredibly\nscary. Anger, sadness, hatred... all sorts of bad\nfeelings are swirling around.\"\\n<Yukine>\\F[10]\\M[no]"
+                "\"What should I do... This place is incredibly scary. Anger,\nsadness, hatred... all sorts of bad feelings are swirling\naround.\"\\n<Yukine>\\F[10]\\M[no]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5327,7 +5323,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ugh, the air is... heavy. It's hard to breathe...\nBut I have to save that girl.\"\\n<Yukine>\\F[10]"
+                "\"Ugh, the air is... heavy. It's hard to breathe... But I\nhave to save that girl.\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -5620,7 +5616,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Wow, you startled me!\"\\n<Yukine>\\F[16]"]
+              "parameters": ["\"Wow, that startled me!\"\\n<Yukine>\\F[16]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -5635,7 +5631,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Um, you're the ghost from before, right? What\nhappened? Do you have something you want to tell\nme?\"\\n<Yukine>\\F[12]"
+                "\"Um, you're the ghost from before, right? What's wrong? Do\nyou have something you want to tell me?\"\\n<Yukine>\\F[12]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5643,7 +5639,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Please... take... this...\"\\n<Female Ghost>\\F[12]\\AA[N]"
+                "\"Please... take... this...\"\\n<Female ghost>\\F[12]\\AA[N]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -5668,7 +5664,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Eh, is this... a doll's body? Why give it to\nme...?\"\\n<Yukine>\\F[8]"
+                "\"Eh, is this... a doll's body? Why give it to me...?\"\\n<Yukine>\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5676,7 +5672,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Please... help... complete it...\"\\n<Female Ghost>\\F[8]\\AA[N]"
+                "\"Please... help... me, I beg... you...\"\\n<Female ghost>\\F[8]\\AA[N]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -5761,7 +5757,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"She disappeared... It doesn't seem like she\npassed on though...\"\\n<Yukine>\\F[8]"
+                "\"She disappeared... It doesn't seem like she passed on\nthough...\"\\n<Yukine>\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5769,7 +5765,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"What is this, I wonder. It looks like a doll...\nbut it's missing arms, legs, and a head...\"\\n<Yukine>\\F[8]"
+                "\"What is this, I wonder. It looks like a doll but... it has\nno arms, legs, or head...\"\\n<Yukine>\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5777,7 +5773,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It doesn't feel unpleasant... but hmm, just a\ntorso is kind of creepy...\"\\n<Yukine>\\F[8]"
+                "\"It doesn't feel unpleasant but... hmm, just a torso is a\nbit creepy...\"\\n<Yukine>\\F[8]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -5788,7 +5784,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I don't really understand, but it seems\nimportant... I'll take good care of it.\"\\n<Yukine>\\F[1]"
+                "\"I don't really understand, but it seems important... I'll\ntake good care of it.\"\\n<Yukine>\\F[1]"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [120, 120, 0] },
@@ -5846,9 +5842,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Tatami_Room_Prison 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Tatami_Room_Prison 15"]
             },
             {
               "code": 231,
@@ -6135,7 +6129,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\FFFF[52]Tips: You can turn the light on and off by\nclicking the button with the light mark in the\nbottom left."
+                "\\FFFF[52]Tips: Clicking the button on the light mark at the bottom\nleft allows you to switch the light ON/OFF"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },

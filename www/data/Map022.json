@@ -312,15 +312,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "(There's something inside the desk... a piece of\npaper)"
-              ]
+              "parameters": ["(There's something slipped into the desk...)"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It's a letter... I wonder what it says)"]
+              "parameters": ["(It's a letter... I wonder what it says.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -334,10 +332,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["She wished for it to happen"]
+              "parameters": [
+                "They say if you write your wish on the courtyard wall with\nblood at 2 a.m., it will come true. There was once a girl\nwho was good at piano who wished to be able to play forever."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["It seems to exist"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "And then, her wish really came true, and it seems she\ncontinues to play the piano even now."
+              ]
+            },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },
             { "code": 117, "indent": 0, "parameters": [19] },
@@ -346,7 +352,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(There's another piece. This one has different\nhandwriting)"
+                "(There's another piece. This one seems to be in different\nhandwriting.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -356,7 +362,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Isn't that the story about the girl who was called\na genius and then committed suicide?"
+                "Wait, isn't that the school ghost story \"The Moonlight\nPianist\"? The story about the girl who was called a genius\nand then committed suicide?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -364,7 +370,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I don't want to do such a thing just to have my\nwish granted"
+                "That girl, when she committed suicide, she dragged three of\nher classmates down with her, didn't she? I wouldn't want to\ndo something like that just to have a wish come true."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -439,20 +445,14 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [
-                ["Please let me think about it", "No"],
-                -1,
-                -1,
-                1,
-                1
-              ]
+              "parameters": [["Let me think about it", "No"], -1, -1, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "考えさせて"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\"Ah, ah... wait...ing...\"\\n<Male Ghost>"]
+              "parameters": ["\"Ah, ah... wait... for me...\"\\n<Male Ghost>"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "いいえ"] },
@@ -461,9 +461,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "\"I... I will... violate... you...\"\\n<Male Ghost>"
-              ]
+              "parameters": ["\"I'll... fuck... you...\"\\n<Male Ghost>"]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 230, "indent": 1, "parameters": [20] },
@@ -471,7 +469,7 @@
             {
               "code": 102,
               "indent": 2,
-              "parameters": [["Scene Skip", "View the scene"], -1, -1, 1, 1]
+              "parameters": [["Skip the scene", "View the scene"], -1, -1, 1, 1]
             },
             { "code": 402, "indent": 2, "parameters": [0, "シーンをスキップ"] },
             { "code": 119, "indent": 3, "parameters": ["skip"] },
@@ -576,7 +574,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_2nd__floor_of_Building_A 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_of_Building_A,_2nd__Fl\noor 15"
               ]
             },
             {
@@ -745,7 +743,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_2nd__floor_of_Building_A 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_of_Building_A,_2nd__Fl\noor 15"
               ]
             },
             {
@@ -816,7 +814,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_2nd__floor_of_Building_A 15"
+                "D_TEXT Current_Location:_Hallway_on_the_2nd_floor_of_Building__A\\ow\n[0]\\c[15] 15"
               ]
             },
             {
@@ -887,7 +885,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_2nd__floor_of_Building_A 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_2nd_floor_of__B\nuilding_A 15"
               ]
             },
             {
@@ -946,7 +944,7 @@
             "tileId": 0
           },
           "list": [
-            { "code": 356, "indent": 0, "parameters": ["namePop 3 Talk"] },
+            { "code": 356, "indent": 0, "parameters": ["namePop 3 会話"] },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1066,7 +1064,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It's a key. It looks like it could be used\nsomewhere.)"
+                "(It's a key. It looks like it could be used somewhere.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -1082,7 +1080,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(You obtained the \"Rusty Iron Key.\")"]
+              "parameters": ["\"Obtained the Rusty Iron Key\""]
             },
             { "code": 126, "indent": 0, "parameters": [32, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -1142,9 +1140,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "(I wonder if there's anything else that might be\nuseful)"
-              ]
+              "parameters": ["(Is there anything else that might be useful?)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }

@@ -401,7 +401,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's like there's not even a trace of spiritual\nenergy left)\\F[8]"
+                "(She's so cold... and there's not a single wound on her.\nIt's as if her soul has been taken; there's not a trace of\nspiritual energy left.)\\F[8]"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -451,7 +451,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'll move it now)\\F[8]"]
+              "parameters": [
+                "(There's something written on the floor in blood... I'm\nsorry. I'll move it a little.)\\F[8]"
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -501,7 +503,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Clear my grudge for me."]
+              "parameters": [
+                "If I don't open the correct door, I'll be sent back to the\nfirst room, and my soul will be devoured. After just two\nfailures, my soul was consumed. I can't think of anything\nelse now. There must be a hint somewhere. Please clear my\ndoubts."
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },
@@ -616,9 +620,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Hallway 15"]
             },
             {
               "code": 231,
@@ -1002,9 +1004,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Hallway 15"]
             },
             {
               "code": 231,
@@ -1073,9 +1073,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Hallway 15"]
             },
             {
               "code": 231,
@@ -1144,9 +1142,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Hallway 15"]
             },
             {
               "code": 231,
@@ -1215,9 +1211,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Hallway 15"]
             },
             {
               "code": 231,
@@ -1286,9 +1280,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Hallway 15"]
             },
             {
               "code": 231,
@@ -1357,9 +1349,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Hallway 15"]
             },
             {
               "code": 231,
@@ -2135,7 +2125,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ugh, my chest feels tight... What should I do? It\nseems I've made a mistake again... I wonder if I\ncan endure it next time.\"\\n<Yukine>\\F[13]"
+                "\"Ugh, my chest feels tight... What should I do? It seems I\nmade a mistake again... I wonder if I can endure it next\ntime.\"\\n<Yukine>\\F[13]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }

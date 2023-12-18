@@ -2095,9 +2095,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Country_Road_2 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Country_Road_2 15"]
             },
             {
               "code": 231,
@@ -2166,9 +2164,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Country_Road_2 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Country_Road_2 15"]
             },
             {
               "code": 231,
@@ -2228,9 +2224,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Country_Road_2 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Country_Road_2 15"]
             },
             {
               "code": 231,
@@ -2388,7 +2382,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Male Ghost>Male Ghost"]
+              "parameters": [
+                "\"I'm starving... Why won't the rice grow, why...\"\\n<Male Ghost>"
+              ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 207, 1] },
             { "code": 121, "indent": 1, "parameters": [207, 207, 0] },
@@ -2443,7 +2439,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thank goodness, thank goodness... The village is\ngoing to be saved...\"\\n<Male Ghost>"
+                "\"The rice has... grown... With this, everyone will be spared\nfrom hunger. Thank goodness, thank goodness... The village\nwill be saved...\"\\n<Male Ghost>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -2553,7 +2549,7 @@
             "tileId": 0
           },
           "list": [
-            { "code": 356, "indent": 0, "parameters": ["namePop 25 Talk"] },
+            { "code": 356, "indent": 0, "parameters": ["namePop 25 会話"] },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2701,7 +2697,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(The rice plants are swaying. But they're\ncompletely withered.)"
+                "(The rice plants are swaying. But they're completely\nwithered.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -2758,7 +2754,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(This withered rice... if I water it and pour the\nvitality of the harvest deity into it, it might\nrevive. I should go to the well and draw some\nwater.)\\F[4]"
+                "(This withered rice... if I water it and pour some of the\ngod of fertility's spirit into it, it might revive. I should\ngo to the well and draw some water.)\\F[4]"
               ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 208, 1] },
@@ -2889,7 +2885,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Heave-ho, heave-ho... I've managed to grow rice\nbefore, but this is my first time harvesting it.\"\\n<Yukine>\\F[12]"
+                "\"Heave-ho, heave-ho... I've managed to grow rice before, but\nthis is my first time harvesting it.\"\\n<Yukine>\\F[12]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2905,7 +2901,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thank you. Heave-ho, heave-ho.\"\\n<Yukine>\\F[2]\\AA[F]\\FF[29]"
+                "\"Thank you. Heave-ho, heave-ho\"\\n<Yukine>\\F[2]\\AA[F]\\FF[29]"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -2916,7 +2912,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "After some time, they finished harvesting the\nrice."
+                "After some time, they finished harvesting the rice."
               ]
             },
             { "code": 222, "indent": 0, "parameters": [] },
@@ -2925,7 +2921,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This should be enough. Let's go give it to that\nghost.\"\\n<Yukine>\\F[1]"
+                "\"This should be enough. Let's go give it to that ghost.\"\\n<Yukine>\\F[1]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -2940,7 +2936,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Obtained \"Bountiful Rice Ears\""]
+              "parameters": ["\"Obtained Bountiful Rice Ears\""]
             },
             { "code": 126, "indent": 0, "parameters": [61, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -3099,7 +3095,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(There's water in the well. Maybe I should give\nsome to the rice plants.)\\F[1]"
+                "(There's water in the well. Maybe I should give some to the\nrice plants.)\\F[1]"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -3123,7 +3119,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Then... I'll infuse this with my divine\nenergy...\"\\n<Yukine>"
+                "\"Then... I'll infuse this with my divine energy...\"\\n<Yukine>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -3142,7 +3138,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Upon pouring the power of fertility, the withered\nrice plants bore plenty of rice ears."
+                "When the power of fertility was infused, the withered rice\nplants bore many rice ears."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3150,7 +3146,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's been a while since I used my divine energy,\nbut it seems to have worked well. With this, we\nmight be able to harvest soon. Did we have any\ntools for harvesting?\"\\n<Yukine>"
+                "\"It's been a while since I used my divine energy, but it\nseems to have worked well. We might be able to harvest soon.\nDid we have any tools for harvesting?\"\\n<Yukine>"
               ]
             },
             {
@@ -3323,7 +3319,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Hmm... there are signs that this stone has been\nturned over. I can't lift it, but maybe I can tilt\nit.)\\F[5]"
+                "(Hmm... there are signs that this stone has been turned\nover. I can't lift it, but maybe I can tilt it.)\\F[5]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -3361,7 +3357,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(This... It's a sickle for harvesting. It still\nseems usable.)\\F[1]"
+                "(This... It's a sickle for harvesting. It still seems\nusable.)\\F[1]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -3385,7 +3381,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Harvest_the_rice 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Harvest_the_rice 15"]
             },
             {
               "code": 231,
@@ -3546,7 +3542,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's an edible wild plant. Let's take this with\nus.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[22]"
+                "\"It's an edible wild plant. Let's take this with us.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -3710,7 +3706,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This... is a shiitake mushroom.\"\\n<Yukine>\\F[5]"
+                "\"This... it's a shiitake mushroom.\"\\n<Yukine>\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3724,7 +3720,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's an edible mushroom. Let's take a few with\nus.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[22]"
+                "\"It's an edible mushroom. Let's take a few with us.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -3891,7 +3887,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Sakuto's eyesight didn't recover, but thank\ngoodness he was spared from witnessing such a\ncruel scene.)\\F[7]"
+                "(Saku's eyes may not have healed, but thank goodness she was\nspared from witnessing such a cruel scene.)\\F[7]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3899,7 +3895,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(The dolls have gathered and he's starting to\nspeak well, and his complexion is gradually\ngetting better.)\\F[1]"
+                "(The dolls have gathered and she's become able to speak\nwell, and her complexion is slowly getting better.)\\F[1]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3907,7 +3903,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(If we can completely gather the dolls, maybe we\ncan bring Sakuto's spirit back to life.)\\F[2]"
+                "(If we can completely gather the dolls, maybe we can bring\nSaku's spirit back to life.)\\F[2]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3923,7 +3919,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's nothing. Let's move on to the next place.\nAre you tired, Sakuto?\"\\n<Yukine>\\F[1]\\AA[F]\\FF[22]"
+                "\"It's nothing. Let's go on to the next place. Are you tired,\nSaku?\"\\n<Yukine>\\F[1]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

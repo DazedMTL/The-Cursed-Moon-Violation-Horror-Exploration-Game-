@@ -378,7 +378,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(You obtained the \"Brass Key\")"]
+              "parameters": ["\"Obtained the Brass Key\""]
             },
             { "code": 126, "indent": 0, "parameters": [68, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -439,7 +439,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It doesn't seem like anything else has fallen\nhere.)"
+                "(It doesn't seem like anything else has fallen here.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -505,7 +505,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"So much blood... Why, from such a place...\"\\n<Yukine>\\F[15]"
+                "\"So much blood... Why, from such a place?\"\\n<Yukine>\\F[15]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -517,7 +517,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["  (It's crushed...)\\F[15]"]
+              "parameters": [
+                "(In the hole in the wall... a child has been forcibly\nstuffed in and crushed by the rubble...)\\F[15]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -543,9 +545,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "(This is terrible... How could this happen...)\\F[15]"
-              ]
+              "parameters": ["(How awful... to think such a thing...)\\F[15]"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -722,7 +722,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_1st__floor_of_Building_A 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_1st_floor_of__B\nuilding_A 15"
               ]
             },
             {
@@ -793,7 +793,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_1st__floor_of_Building_A 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_1st_floor_of__B\nuilding_A 15"
               ]
             },
             {

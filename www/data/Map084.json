@@ -301,9 +301,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Entrance_Hall 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Entrance 15"]
             },
             {
               "code": 231,
@@ -389,7 +387,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Oh no, the light went out.\"\\n<Saku>\\FF[29]"]
+              "parameters": ["\"Oh no, the lights went out.\"\\n<Saku>\\FF[29]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -404,7 +402,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Just now, was there something at the end of the\nhallway...)\\n<Yukine>\\F[8]\\AA[F]\\FF[29]"
+                "(Just now, was there something at the end of the hallway...)\\n<Yukine>\\F[8]\\AA[F]\\FF[29]"
               ]
             },
             {
@@ -527,7 +525,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A creature like a snake attacked us, coiling\naround our necks. The tightening grip on our\nthroats was so strong, we couldn't breathe.\\n<Saku>\\F[16]\\AA[N]\\FF[21]"
+                "A creature like a snake attacked us, coiling around our\nnecks. The force squeezing our throats is strong, and we\ncan't breathe.\\n<Saku>\\F[16]\\AA[N]\\FF[21]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -544,7 +542,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ugh, ah... cough, can't... breathe, Onee...\nsan...\"\\n<Saku>\\F[16]\\AA[FF]\\FF[21]"
+                "\"Ugh, ah... cough, can't... breathe, Onee... san...\"\\n<Saku>\\F[16]\\AA[FF]\\FF[21]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -552,7 +550,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Saku! Saku, cough... Sa,... ah, guh...\"\\n<Yukine>\\F[16]\\AA[F]\\FF[21]"
+                "\"Saku! Saku, cough... sa,... ah, guh...\"\\n<Yukine>\\F[16]\\AA[F]\\FF[21]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -560,7 +558,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Consciousness rapidly fades away. As darkness\nthreatens to engulf everything before me, I reach\nout for Saku.\\n<Saku>\\F[16]\\AA[N]\\FF[21]"
+                "Consciousness is rapidly fading. As darkness seems to engulf\neverything before me, I reach out for Saku.\\n<Saku>\\F[16]\\AA[N]\\FF[21]"
               ]
             },
             { "code": 242, "indent": 0, "parameters": [1] },
@@ -577,7 +575,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But the hands that had parted would never meet\nagain, and consciousness was enveloped by deep\nblackness."
+                "But our hands, once separated, never meet again, and\nconsciousness is enveloped by deep blackness."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -615,9 +613,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Entrance_Hall 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Entrance 15"]
             },
             {
               "code": 231,

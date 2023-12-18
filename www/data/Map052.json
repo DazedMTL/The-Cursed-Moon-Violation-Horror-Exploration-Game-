@@ -1315,7 +1315,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This is a completely unfamiliar building. It\ndoesn't seem like a mansion from this country.\"\\n<Yukine>\\F[8]"
+                "\"This time it's a completely unknown building. It doesn't\nseem like a mansion from this country either.\"\\n<Yukine>\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1323,7 +1323,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It smells really old...\"\\n<Saku>\\F[8]\\AA[FF]\\FF[24]"
+                "\"It smells really old somehow...\"\\n<Saku>\\F[8]\\AA[FF]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1331,7 +1331,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Since it's also my first time seeing this\nbuilding, let's be careful as we move forward.\"\\n<Yukine>\\F[8]\\AA[F]\\FF[24]"
+                "\"Since it's also my first time seeing this building, let's\nbe careful as we proceed.\"\\n<Yukine>\\F[8]\\AA[F]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1347,7 +1347,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"No, not at all. I don't think it's a bother in\nthe slightest.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[23]"
+                "\"No, not at all. I don't think it's a bother in the\nslightest.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -1454,7 +1454,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-_style_House__2nd_Floor 15"
+                "D_TEXT Current_Location:_Western-style_House_2nd_Floor\\ow[0]\\c[15] 15"
               ]
             },
             {
@@ -1525,7 +1525,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-_style_House__1st_Floor 15"
+                "D_TEXT Current_Location:_Western-style_House,_1st_Floor 15"
               ]
             },
             {
@@ -1596,7 +1596,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-_style_House__1st_Floor 15"
+                "D_TEXT Current_Location:_Western-style_House_1st_Floor 15"
               ]
             },
             {
@@ -1667,7 +1667,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-_style_House__1st_Floor 15"
+                "D_TEXT Current_Location:_Western-style_House_1st_Floor\\ow[0]\\c[15] 15"
               ]
             },
             {
@@ -1738,7 +1738,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-_style_House__1st_Floor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-style_House_1st_Floor 15"
               ]
             },
             {
@@ -1809,7 +1809,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-_style_House__1st_Floor 15"
+                "D_TEXT Current_Location:_Western-style_House_1st_Floor 15"
               ]
             },
             {
@@ -1880,7 +1880,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-_style_House__1st_Floor 15"
+                "D_TEXT Current_Location:_Western-style_House_1st_Floor\\ow[0]\\c[15] 15"
               ]
             },
             {
@@ -1951,7 +1951,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-_style_House__1st_Floor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-style_House_1st_Floor 15"
               ]
             },
             {
@@ -2021,9 +2021,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Kitchen 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Kitchen 15"]
             },
             {
               "code": 231,
@@ -2092,9 +2090,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Kitchen 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Kitchen 15"]
             },
             {
               "code": 231,
@@ -2243,7 +2239,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Obtained the \"Paired Wing Blue Key\""]
+              "parameters": ["\"Obtained the Paired Blue Key\""]
             },
             { "code": 126, "indent": 0, "parameters": [56, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -2316,7 +2312,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Onee-san, Shaku wants to see too.\"\\n<Saku>\\F[5]\\AA[FF]\\FF[28]"
+                "\"Onee-san, Saku wants to see too.\"\\n<Saku>\\F[5]\\AA[FF]\\FF[28]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2330,7 +2326,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's hard to see, but... it's sparkling and\npretty, isn't it?\"\\n<Saku>\\F[1]\\AA[FF]\\FF[40]"
+                "\"It's hard to see well... but it's sparkling and pretty,\nisn't it?\"\\n<Saku>\\F[1]\\AA[FF]\\FF[40]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2338,7 +2334,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"That's right... Shaku, you hold onto this until\nwe find where it can be used.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[40]"
+                "\"That's right... Hold on to this until we find where it can\nbe used, Saku.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[40]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2353,7 +2349,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Little fox, you need not concern yourself with\nthe use of the key.\"\\n<???>\\F[1]\\AA[FF]\\FF[25]\\AA[N]"
+                "\"Little fox, you need not concern yourself with the use of\nthe key.\"\\n<???>\\F[1]\\AA[FF]\\FF[25]\\AA[N]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -2427,14 +2423,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Sakugami!\"\\n<Yukine>\\F[19]"]
+              "parameters": ["\"Saku Kagetsuki!\"\\n<Yukine>\\F[19]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"How dare you call my name so casually, insolent\nlittle fox... Stand back!\"\\n<Sakari Tsuki>\\FF[33]"
+                "\"How dare you call my name so casually, insolent little\nfox... Stand back!\"\\n<Saku Disaster Moon>\\FF[33]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -2490,7 +2486,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hmm... Even a little fox is at the end of the\ngods' table. I thought I had crushed that\nincarnate heart of yours...\"\\n<Sakari Tsuki>\\FF[35]"
+                "\"Hmm... Even a little fox is at the end of the line of gods.\nI thought I had crushed that incarnate heart of yours...\"\\n<Saku Disaster Moon>\\FF[35]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -2544,7 +2540,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Useless creatures who let it escape time and\nagain. Those who cannot even hunt a fox are of no\nuse to me.\"\\n<Sakari Tsuki>\\FF[37]"
+                "\"Useless creatures who let it escape time and again. Those\nwho cannot even hunt a fox are of no use to me.\"\\n<Saku Disaster Moon>\\FF[37]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -2570,7 +2566,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Now, Shaku. It's about time you returned to my\nside.\"\\n<Sakka Tsuki>\\FF[38]"
+                "\"Now then... Saku. It's about time you returned to my side.\"\\n<Saku Disaster Moon>\\FF[38]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2584,21 +2580,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"That should be enough... You are my shrine\nmaiden. Stop frolicking with little foxes.\"\\n<Sakari Tsuki>\\FF[38]"
+                "\"It should be enough by now... You are my shrine maiden.\nStop frolicking with the likes of a little fox.\"\\n<Saku Disaster Moon>\\FF[38]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"G-God... Shaku\"\\n<Saku>\\FF[23]"]
+              "parameters": ["\"G-God... Saku\"\\n<Saku>\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"What dissatisfies you, Shaku... You can spend\neternity in this world. Without feeling sadness,\npain, or anxiety, why do you run? Do you intend to\nbetray me?\"\\n<Sakka Tsuki>\\FF[31]"
+                "\"What dissatisfies you, Saku... You can spend eternity in\nthis world. Without feeling sadness, pain, or anxiety, why\ndo you run? Do you intend to betray me?\"\\n<Saku Disaster Moon>\\FF[31]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2612,7 +2608,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Come back, Shaku. You who were abandoned are most\nfitting by my side.\"\\n<Sakka Tsuki>\\FF[38]"
+                "\"Come back, Saku. You, who were abandoned, belong by my\nside.\"\\n<Saku Disaster Moon>\\FF[38]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2635,7 +2631,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"*cough*... To bind Shaku in such a cold darkness,\nto take away all her senses so she can't feel\nanything...\"\\n<Yukine>\\F[19]\\AA[F]\\FF[22]"
+                "\"*cough*... To bind Saku in such a cold darkness, stripping\naway all her senses so she can't feel anything...\"\\n<Yukine>\\F[19]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2643,7 +2639,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Do you know how lonely Shaku has been! Cursing\nmany people, killing plenty with curses, leaving\nShaku all alone in the world--You don't care about\nShaku at all.\"\\n<Yukine>\\F[19]\\AA[F]\\FF[23]"
+                "\"Do you have any idea how lonely Saku has been! Cursing so\nmany people, killing plenty with curses, leaving Saku all\nalone in that world--You never cared about Saku at all.\"\\n<Yukine>\\F[19]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2651,7 +2647,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You insolent creature... How dare a mere fox mock\nme.\"\\n<Sakka Tsuki>\\FF[37]"
+                "\"You insolent creature... How dare a mere fox mock me.\"\\n<Saku Disaster Moon>\\FF[37]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -2668,7 +2664,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"*gasp*, such a terrible curse. My throat, my skin\nis burning.\"\\n<Yukine>\\F[15]\\AA[F]\\FF[26]"
+                "\"*gasp*, such a terrible curse. My throat, my skin is\nburning.\"\\n<Yukine>\\F[15]\\AA[F]\\FF[26]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2676,7 +2672,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Enough... I shall personally punish you. Once I\nflay your skin, gouge out your eyes, and drag out\nyour entrails, perhaps Shaku's heart will change.\"\\n<Sakka Tsuki>\\FF[32]"
+                "\"Enough... I shall personally punish you. Once I skin you,\ngouge out your eyes, and drag out your entrails, perhaps\nSaku's heart will change.\"\\n<Saku Disaster Moon>\\FF[32]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2684,7 +2680,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"God... please stop... don't do horrible things to\nOnee-san.\"\\n<Saku>\\F[15]\\AA[FF]\\FF[26]"
+                "\"God... please stop... don't do horrible things to Onee-\nsan.\"\\n<Saku>\\F[15]\\AA[FF]\\FF[26]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2692,7 +2688,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah, poor Shaku. I will save you from the warmth\nsoon. Just wait a little.\"\\n<Sakka Tsuki>\\FF[32]"
+                "\"Ah, poor Saku. I will save you from the warmth soon. Just\nwait a little longer.\"\\n<Saku Disaster Moon>\\FF[32]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2700,7 +2696,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Shaku, let's run away!\"\\n<Yukine>\\F[19]\\AA[F]\\FF[26]"
+                "\"Saku, let's run away!\"\\n<Yukine>\\F[19]\\AA[F]\\FF[26]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -3111,9 +3107,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Living_Room 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Living_Room 15"]
             },
             {
               "code": 231,
@@ -3182,9 +3176,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Living_Room 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Living_Room 15"]
             },
             {
               "code": 231,
@@ -3506,7 +3498,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It seems like there's nothing here, just a layer\nof dust.)"
+                "(It seems like there's nothing here, just a layer of dust.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -3572,7 +3564,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(There are books piled up)"]
+              "parameters": ["(Books are piled up)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3637,7 +3629,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I don't think there's anything useful here...)"]
+              "parameters": ["(I wonder if there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3767,7 +3759,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I don't think there's anything useful here...)"]
+              "parameters": ["(I wonder if there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3893,7 +3885,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I don't think there's anything useful here....)"]
+              "parameters": ["(I wonder if there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3958,7 +3950,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I don't think there's anything useful here...)"]
+              "parameters": ["(I wonder if there's anything useful here)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4023,7 +4015,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I don't think there's anything useful here...)"]
+              "parameters": ["(I wonder if there's anything useful here)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4088,7 +4080,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It's locked and won't open)"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -4182,7 +4174,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(Thank goodness, it seems to fit)"]
+              "parameters": ["(Thank goodness, it looks like it fits)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -4525,7 +4517,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(Is there anything else that might be useful?)"]
+              "parameters": [
+                "(I wonder if there's anything else that might be useful)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4590,7 +4584,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It seems like there's nothing inside this)"]
+              "parameters": ["(It seems like there's nothing inside)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4702,7 +4696,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Onee-san... my body feels warm... I feel kind of\nstrange.\"\\n<Saku>\\FF[23]"
+                "\"Onee-chan... my body feels warm... I feel kind of strange.\"\\n<Saku>\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4710,7 +4704,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Me too... Let's rest here for a bit, Saku...\n*pant* *pant*\"\\n<Yukine>\\F[9]\\AA[F]\\FF[23]"
+                "\"Me too... Saku, let's rest here for a bit... haa haa\"\\n<Yukine>\\F[9]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 242, "indent": 0, "parameters": [1] },
@@ -4720,13 +4714,7 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [
-                ["Scene Skip", "Let's take a look at the scene"],
-                -1,
-                -1,
-                1,
-                1
-              ]
+              "parameters": [["Skip scene", "Look at the scene"], -1, -1, 1, 1]
             },
             { "code": 402, "indent": 1, "parameters": [0, "シーンをスキップ"] },
             { "code": 119, "indent": 2, "parameters": ["skip"] },
@@ -4825,9 +4813,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "(There's a picture of a beautiful woman on\ndisplay.)"
-              ]
+              "parameters": ["(A painting of a beautiful woman is on display.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }

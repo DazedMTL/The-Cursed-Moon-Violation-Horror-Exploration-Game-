@@ -384,7 +384,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Saku>\\F[5]\\AA[FF]\\FF[22]"]
+              "parameters": [
+                "\"Yukine Onee-san... what does it say?\"\\n<Saku>\\F[5]\\AA[FF]\\FF[22]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -400,7 +402,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "In the mountain shrine, there lies an ancient\ndeity, slumbering within a white stone. The being\nthat dwells within is called by the divine name,\nSakuhana Tsuki."
+                "\"In the mountain shrine, there lies an ancient god,\nslumbering within a white stone, the deity known as\nSakuhanatsuki.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -408,7 +410,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Because it harbors a nature like the dark moon\nthat reflects people's wishes, those who are\noffered to it are but young children not yet ten\nyears of age."
+                "\"Because it possesses the nature of a dark moon that\nreflects people's wishes, the one offered to it is a young\nchild not yet ten years old.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -416,7 +418,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Yet one must not touch, must not wish upon, nor\npray to this deity. Though it may mirror the form\nof humans, it knows not the human heart."
+                "\"Yet one must not touch, must not wish upon, nor pray to\nthis god; though it mirrors the form of humans, it knows not\nthe human heart.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -424,7 +426,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "One must not wish, pray, or depend upon it;\notherwise, the flower of the moon will turn into\ncalamity."
+                "\"Do not wish, do not pray, do not depend; otherwise, the\nflower of the moon will turn into calamity.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -432,7 +434,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Without wishing, praying, or depending, merely\nstaying close by, the calamity will not sprout\nfrom the solitary deity descended from the moon."
+                "\"Without wishing, praying, or depending, just by being\nclose, the calamity will not sprout from the solitary god\ndescended from the moon.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -440,7 +442,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "One must not bring down a curse upon the deity;\nfor a deity is not one to be depended upon. Never\never forget this."
+                "\"One must not bring down the god to a curse; remember, a god\nis not one to depend upon.\""
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -449,14 +451,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Is this about... a deity?\"\\n<Saku>\\FF[22]"]
+              "parameters": ["\"Is this about... a god?\"\\n<Saku>\\FF[22]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It seems so... Sakuhana Tsuki. That must be its\ntrue name.\"\\n<Yukine>\\F[5]\\AA[F]\\FF[22]"
+                "\"It seems so... Sakuhanatsuki. That must be its true name.\"\\n<Yukine>\\F[5]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -464,7 +466,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Because Saku... prayed to the deity.\"\\n<Saku>\\F[5]\\AA[FF]\\FF[23]"
+                "\"Because Saku... prayed to the god...\"\\n<Saku>\\F[5]\\AA[FF]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -472,21 +474,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Saku isn't to blame. No... in truth, no one is to\nblame. It was just... unfortunate circumstances.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[23]"
+                "\"Saku isn't to blame. No... in truth, no one is to blame. It\nwas just... unfortunate circumstances.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Deity...\"\\n<Saku>\\F[7]\\AA[FF]\\FF[23]"]
+              "parameters": ["\"The god...\"\\n<Saku>\\F[7]\\AA[FF]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"There's no use thinking about it now. Let's just\nkeep moving forward.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[23]"
+                "\"There's no use thinking about it now. Let's just keep\nmoving forward.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -500,7 +502,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Saku wants to help Sakuhana Tsuki too. I also...\nyes, if there's anything I can do...)\\FF[23]\\F[1]\\AA[F]"
+                "\"(Saku wants to help Sakuhanatsuki too, doesn't she? I\nalso... yes, if there's anything I can do...)\\FF[23]\"\\F[1]\\AA[F]"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [238, 238, 0] },

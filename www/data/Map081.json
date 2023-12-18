@@ -118,7 +118,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It seems like something important is stored here.\\F[5]"
+                "(There's a beautiful paulownia box inside the chest of\ndrawers. It seems like something important is stored\ninside.)\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -134,7 +134,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah, this... it's a doll's eye. Thank goodness...\nnow I have everything I need.\"\\n<Yukine>\\F[3]"
+                "\"Ah, these... they're doll's eyes. Thank goodness... now I\nhave everything I need.\"\\n<Yukine>\\F[3]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -149,7 +149,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Doll's Eye\" acquired"]
+              "parameters": ["\"Doll's Eyes\" acquired"]
             },
             { "code": 126, "indent": 0, "parameters": [57, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -159,7 +159,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"With this, will I be able to see again?\"\\n<Saku>\\F[3]\\AA[FF]\\FF[22]"
+                "\"With these, will you be able to see again?\"\\n<Saku>\\F[3]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -167,7 +167,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Let's try it now. If I put this here, like so...\nand bring them together...\"\\n<Yukine>\\F[1]\\AA[F]\\FF[22]"
+                "\"I'll try it now. If I put this here, like so... and bring\nthem together...\"\\n<Yukine>\\F[1]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -198,7 +198,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah, ah... I can see. I can see! I can see Onee-\nsan's face.\"\\n<Saku>\\F[16]\\AA[FF]\\FF[42]"
+                "\"Ah, ah... I can see. I can see! I can see Onee-san's face.\"\\n<Saku>\\F[16]\\AA[FF]\\FF[42]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -212,7 +212,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\F[2]My heart is full with those words. I have finally\nmanaged to restore all of Saku's lost\nsenses.\\AA[N]\\FF[42]"
+                "\\F[2]My heart is full with those words. I have finally managed to\nrestore all of Saku's lost senses.\\AA[N]\\FF[42]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -220,7 +220,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\F[2]I'm so happy, so happy that I can't put this warm\nfeeling into words.\\AA[F]\\FF[42]"
+                "\\F[2]I'm so happy, so happy that I can't put this warm feeling\ninto words.\\AA[F]\\FF[42]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -228,7 +228,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Onee-san, so this is what your face looks like.\nYour hair is pure white, you look so kind, almost\nlike a goddess. You're very beautiful.\"\\n<Saku>\\F[2]\\AA[FF]\\FF[40]"
+                "\"Onee-san, so this is what your face looks like. Your hair\nis pure white, you look so kind, almost like a goddess.\nYou're very beautiful.\"\\n<Saku>\\F[2]\\AA[FF]\\FF[40]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -252,7 +252,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Saku, just Yukine Onee-san is fine. Now that your\neyes are back, let's look for the exit together.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[25]"
+                "\"Saku, just Yukine Onee-san is fine. Now that your eyes are\nback, let's look for the exit together.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[25]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -274,7 +274,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Your chest is, a little... no, never mind, it's\nnothing.\"\\n<Saku>\\F[5]\\AA[FF]\\FF[23]"
+                "\"Your chest is, a little... no, never mind, it's nothing.\"\\n<Saku>\\F[5]\\AA[FF]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -394,9 +394,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Mansion_Basement 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Mansion_Basement 15"]
             },
             {
               "code": 231,

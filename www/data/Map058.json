@@ -190,7 +190,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Mansion's_Veranda 15"
+                "D_TEXT Current_Location:_The_Veranda_of_the_Mansion 15"
               ]
             },
             {
@@ -718,7 +718,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_??? 15"]
+              "parameters": ["D_TEXT Current_Location:_??? 15"]
             },
             {
               "code": 231,
@@ -902,7 +902,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(Something's on the ground)"]
+              "parameters": ["(Something's fallen here.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -917,7 +917,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Obtained \"Iron Key\""]
+              "parameters": ["(Obtained the \"Iron Key.\")"]
             },
             { "code": 126, "indent": 0, "parameters": [71, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },

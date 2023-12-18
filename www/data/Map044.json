@@ -142,9 +142,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Diagnostic_Room_A 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Diagnostic_Room_A 15"]
             },
             {
               "code": 231,
@@ -427,7 +425,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Doll's Left Arm\" acquired"]
+              "parameters": ["I've obtained the \"Doll's Left Arm\""]
             },
             { "code": 126, "indent": 0, "parameters": [43, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -443,7 +441,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I immediately try attaching the left arm to the\ndoll.\\F[5]"
+                "I immediately try attaching the left arm to the doll.\\F[5]"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -460,14 +458,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You can tell it's going back into place.\\F[5]"]
+              "parameters": [
+                "A faint blush returns to the doll's skin, and you can see\nlife returning to the girl's body.\\F[5]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"How about now? Did anything change?\"\\n<Yukine>\\F[5]"
+                "\"How is it? Did anything change?\"\\n<Yukine>\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -483,7 +483,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah! Can you hear my voice? Can you hear me right\nnow?!\"\\n<Yukine>\\F[3]\\AA[F]\\FF[23]"
+                "\"Ah! Can you hear my voice? Can you hear me now?!\"\\n<Yukine>\\F[3]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -491,7 +491,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ye...yes...I can...hear.\"\\n<???>\\F[3]\\AA[FF]\\FF[23]"
+                "\"Uh...uh-huh...I can...hear.\"\\n<???>\\F[3]\\AA[FF]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -505,7 +505,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I really want to hug you tightly\\FF[23]\\F[2]\\AA[F]"
+                "My heart fills with emotion as my words finally reach her.\nThe joy makes my heart feel warm, and I want to hug the\nlittle girl who nodded slightly.\\FF[23]\\F[2]\\AA[F]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -513,7 +513,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thank goodness. I'm really glad.\"\\n<Yukine>\\F[2]\\AA[F]\\FF[23]"
+                "\"Thank goodness. Really, thank goodness.\"\\n<Yukine>\\F[2]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -521,7 +521,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Big sis...who are you?\"\\n<???>\\F[2]\\AA[FF]\\FF[24]"
+                "\"Onee-san...who are you?\"\\n<???>\\F[2]\\AA[FF]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -537,7 +537,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"My name is... Saku.\"\\n<Saku>\\F[1]\\AA[FF]\\FF[24]"
+                "\"Sa...ku... My name is Saku.\"\\n<Saku>\\F[1]\\AA[FF]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -545,7 +545,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Saku... I'll remember that. Yeah, it's a\nbeautiful and nice name.\"\\n<Yukine>\\F[2]\\AA[F]\\FF[24]"
+                "\"Saku...Saku, right? I'll remember that. Yeah, it's a\nbeautiful and nice name.\"\\n<Yukine>\\F[2]\\AA[F]\\FF[24]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"Tha...nk you.\"\\n<Saku>\\F[2]\\AA[FF]\\FF[25]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I gently stroke the head of the smiling girl--Saku. In\nresponse, Saku smiles back at me like a blooming flower. Her\nsoft smile tightens my chest.\\FF[25]\\F[2]\\AA[F]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -553,23 +567,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Tha...thank you.\"\\n<Saku>\\F[2]\\AA[FF]\\FF[25]"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I gently stroke the head of the smiling girl--\nSakura. She smiles back at me like a blooming\nflower, which tightens my chest.\\FF[25]\\F[2]\\AA[F]"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Saku, listen... I'm trying to escape from this\nscary mansion right now. Do you know anything?\"\\n<Yukine>\\F[1]\\AA[F]\\FF[25]"
+                "\"Saku, listen... I'm trying to escape from this scary\nmansion right now. Do you know anything?\"\\n<Yukine>\\F[1]\\AA[F]\\FF[25]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -585,7 +583,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I'm sorry. I shouldn't have made you talk when\nyou've just become able to.\"\\n<Yukine>\\F[8]\\AA[F]\\FF[26]"
+                "\"I'm sorry. I shouldn't have pushed you to talk just because\nyou can now.\"\\n<Yukine>\\F[8]\\AA[F]\\FF[26]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -651,7 +649,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(This presence, it's the same as the evil spirit\nthat was in the house)\\FF[27]\\F[8]\\AA[F]"
+                "(This presence, it's the same as the evil spirit from that\nhouse.)\\FF[27]\\F[8]\\AA[F]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -666,7 +664,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Okay...\"\\n<Saku>\\F[8]\\AA[FF]\\FF[24]"]
+              "parameters": [
+                "\"Yeah...okay...\"\\n<Saku>\\F[8]\\AA[FF]\\FF[24]"
+              ]
             },
             { "code": 122, "indent": 0, "parameters": [20, 20, 0, 0, 3] },
             { "code": 121, "indent": 0, "parameters": [145, 145, 0] },

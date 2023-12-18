@@ -10140,7 +10140,7 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["Scene Skip", "View the scene"], -1, -1, 1, 1]
+              "parameters": [["Skip scene", "Look at the scene"], -1, -1, 1, 1]
             },
             { "code": 402, "indent": 1, "parameters": [0, "シーンをスキップ"] },
             { "code": 119, "indent": 2, "parameters": ["skip"] },
@@ -10531,9 +10531,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Country_Road 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Country_Road 15"]
             },
             {
               "code": 231,
@@ -10602,9 +10600,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Country_Road 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Country_Road 15"]
             },
             {
               "code": 231,
@@ -10735,9 +10731,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Country_Road_3 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Country_Road_3 15"]
             },
             {
               "code": 231,
@@ -10806,9 +10800,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Country_Road_2 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Country_Road_2 15"]
             },
             {
               "code": 231,
@@ -10868,9 +10860,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Country_Road_3 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Country_Road_3 15"]
             },
             {
               "code": 231,
@@ -10934,7 +10924,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Damn it... damn it all... everyone, everyone is\ndead...\"\\n<Male Ghost>"
+                "\"Damn it... damn... everyone, everyone is dead...\"\\n<Male Ghost>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -10942,7 +10932,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Challenging such a monster... Master, and big\nbrother too... they've become cursed...\"\\n<Male Ghost>"
+                "\"Challenging such a monster... Master and big brother...\nthey've become cursed.\"\\n<Male Ghost>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -10950,7 +10940,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(This person... he hasn't realized that he's\npassed away...)\\F[8]"
+                "(This person... he hasn't realized that he's passed away...)\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -10958,7 +10948,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Damn it... I don't want to be eaten, don't want\nto become cursed... I hate frogs\"\\n<Male Ghost>\\AA[N]\\F[8]"
+                "\"Damn it... I don't want to be eaten, don't want to become\ncursed... I hate frogs.\"\\n<Male Ghost>\\AA[N]\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -11062,7 +11052,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["namePop 153 Talk 7"]
+              "parameters": ["namePop 153 Conversation 7"]
             },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -11202,7 +11192,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(What's this? There's a scroll lying here. It\nlooks like it can still be read.)"
+                "(What's this? There's a scroll lying here. It looks like it\ncan still be read.)"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -11213,7 +11203,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "In the seventh year of Tenpou, on the last day of\nKisaragi, the waves of famine grew fierce, and\nmany died of starvation. The grudge that absorbed\nthese resentments became ever more powerful, and\nthere was no longer any time to spare."
+                "In the seventh year of Tenpou, on the last day of Kisaragi,\nthe waves of famine grew fierce, and many died of\nstarvation. The grudge that absorbed these resentments\nbecame ever more powerful, and there was no longer any time\nto spare."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -11221,7 +11211,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We gathered our elite to recruit a group for the\npurpose of purification."
+                "We gathered our elite to recruit a group for the purpose of\npurification."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -11229,7 +11219,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "In the seventh year of Tenpou, in the third month\nof Yayoi, we united beyond the barriers of our\nsectarian doctrines to drive the curse into this\nvillage. The villagers had already been consumed\nby the curse, pitifully transformed into frogs."
+                "In the seventh year of Tenpou, in the third month of Yayoi,\nwe united beyond the barriers of our sects' doctrines to\ndrive the curse into this village. The villagers had already\nbeen consumed by the curse, pitifully turned into frogs."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -11237,7 +11227,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We must slay the evil god that feeds on human\nlamentations. With over eighty of us, each\ngripping a vajra, I felt reassured by the presence\nof my brother, hailed as a genius."
+                "We must punish the evil god that feeds on human\nlamentations. With a total of more than eighty people, each\nclutching a vajra, I felt reassured by the presence of my\nbrother, hailed as a genius."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -11245,7 +11235,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "In the seventh year of Tenpou, on the sixth day of\nYayoi, we successfully lured the curse into our\nbarrier formation. Even though it took the form of\na child, we could not let our guard down, and\nalready about twenty had become sacrifices."
+                "In the seventh year of Tenpou, on the sixth day of Yayoi, we\nsuccessfully lured the curse into our barrier formation.\nEven though it took the form of a young child, we could not\nlet our guard down, and already about twenty people had\nbecome sacrifices."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -11253,7 +11243,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Grateful for the results our master staked his\nlife on, we gathered our fellow disciples to pray\nand vowed to destroy the curse on his remains."
+                "Grateful for the results that our master risked his life\nfor, we gather our fellow disciples to pray and vow to\ndestroy the curse on his remains."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -11261,7 +11251,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "In the seventh year of Tenpou, in the month of\nUzuki, how many days have passed since we captured\nthe curse? No matter how much we recite sutras or\nburn goma, there is no sign of it weakening.\nCountless comrades have fallen to the miasma, and\nall are reaching their physical limits."
+                "In the seventh year of Tenpou, in the month of Uzuki, how\nmany days have passed since we captured the curse? No matter\nhow much we recite sutras and burn goma, there is no sign of\nit weakening. Countless comrades have fallen to the miasma,\nand all are reaching their limits of strength."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -11269,7 +11259,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "In the seventh year of Tenpou, I've lost count of\nthe days. Another comrade has gone mad from the\ncurse. I've forgotten how many that makes now."
+                "In the seventh year of Tenpou, I've lost count of the days.\nAnother comrade has gone mad from the curse. I've forgotten\nhow many that makes now."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -11277,7 +11267,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's no one left, not my brother nor my peers.\nMy throat has been sore for so long. Is our power\neven reaching the child's curse?"
+                "There's no one left, not my brother nor my peers. My throat\nhas been sore for so long. Is our power even reaching the\nchild's curse?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -11285,7 +11275,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "In Tenpou, I've come to know why I am still alive.\nThe curse... that god knew I was keeping records."
+                "In Tenpou, I've come to know why I am still alive. The\ncurse... that god knew I was keeping records."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -11293,7 +11283,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Everyone's dead except for me; they've all been\nturned into frogs. The curse is laughing behind\nme. I will leave behind the name of the curse at\nlast. Its name is Sakka Tsuki."
+                "Everyone's dead except for me. Everyone else has been turned\ninto frogs. The curse is laughing behind me. I will leave\nbehind the name of the curse at last. Its name is Saku\nMagatsu Tsuki."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -11301,7 +11291,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's a god beyond human control, terrifying. I am\nterrified. Oh Sakka Tsuki-sama, please don't turn\nme into a frog."
+                "It's a god beyond human control, terrifying. I am terrified.\nPlease, Saku Magatsu Tsuki-sama, don't turn me into a frog."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -11320,7 +11310,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Sakka Tsuki... That's the name of that curse.\"\\n<Yukine>\\F[4]"
+                "\"Saku Magatsu Tsuki... That's the name of that curse.\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -11328,7 +11318,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Saka, zuki... sama...\"\\n<Saku>\\F[4]\\AA[FF]\\FF[23]"
+                "\"Saku, zuki... sama...\"\\n<Saku>\\F[4]\\AA[FF]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -11344,7 +11334,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yeah... I feel like I've heard that name before.\nBut I can't quite remember.\"\\n<Saku>\\F[4]\\AA[FF]\\FF[24]"
+                "\"Yeah... I feel like I've heard that name before. But I\ncan't quite remember it.\"\\n<Saku>\\F[4]\\AA[FF]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -11352,7 +11342,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I see... Well, there's no use thinking about it\nnow. Let's move on ahead for now.\"\\n<Yukine>\\F[4]\\AA[F]\\FF[24]"
+                "\"I see... Well, there's no use thinking about it now. Let's\nmove on ahead for now.\"\\n<Yukine>\\F[4]\\AA[F]\\FF[24]"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [162, 162, 0] },
@@ -11468,7 +11458,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We have found traces of that ancient deity, our\nsect's archenemy, harboring centuries of grudges.\nTo stand against the deep-seated enmity that has\npersisted from the past, we have honed our\ntechniques."
+                "We have found traces of that ancient deity. Our sect's\narchenemy, a curse accumulated with centuries of grudges. To\nstand against the deep-seated enmity that continues from the\npast, we have honed our techniques."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -11476,7 +11466,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We've faced difficulties. The master of this house\nis not cooperating. It seems he thinks of us as a\nsuspicious religious group because he lacks\nspiritual sensitivity."
+                "We've faced difficulties. The master of this house is not\ncooperating. It seems he thinks of us as a suspicious\nreligious group because he lacks spiritual sensitivity."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -11543,7 +11533,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"What is this... Such an intense aura of a curse.\"\\n<Yukine>\\F[10]"
+                "\"What is this... There's an incredibly strong aura of a\ncurse.\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -11551,7 +11541,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(I want to do something about it, but I can't\nbreak the source of the curse with my current\npowers...)\\F[10]"
+                "(I want to do something about it, but I can't destroy the\nsource of the curse with my current power...)\\F[10]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -11601,7 +11591,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This seems to be... the cause of the curse. It\nwas hidden in such a place.\"\\n<Yukine>\\F[4]"
+                "\"This must be... the source of the curse. It was hidden\nhere.\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -11661,7 +11651,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yeah. It doesn't seem like there's any strange\npresence here.\"\\n<Yukine>\\F[1]"
+                "\"Yeah. It doesn't seem like there's any strange presence\nhere.\"\\n<Yukine>\\F[1]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

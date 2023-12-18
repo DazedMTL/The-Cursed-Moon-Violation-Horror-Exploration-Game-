@@ -294,9 +294,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Private_House 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Private_House 15"]
             },
             {
               "code": 231,
@@ -411,7 +409,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Where the hell did she go?\"\\n<Male Ghost>"]
+              "parameters": [
+                "\"Damn it, damn it, I can't find my lighter. Where the hell\ndid it go?\"\\n<Male Ghost>"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -459,14 +459,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"It's gone.\"\\n<Male Ghost>"]
+              "parameters": [
+                "\"Lighter... lighter, where... can't find... can't, find...\nit's not here\"\\n<Male Ghost>"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Ah, the spirit of the child that was supporting\nthis place has vanished... and with it, the\nremnants of the soul have also shattered.)\\F[8]"
+                "(Ah, the spirit of the child that was supporting this place\nhas vanished... and with it, the faint remnants of the soul\nhave also broken.)\\F[8]"
               ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 182, 1] },
@@ -584,7 +586,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I've obtained a \"Lighter.\")"]
+              "parameters": ["(\"Lighter\" has been obtained.)"]
             },
             { "code": 126, "indent": 0, "parameters": [54, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -731,7 +733,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Huh, is this...\"\\n<Yukine>\\F[5]"]
+              "parameters": ["\"Huh, is this...?\"\\n<Yukine>\\F[5]"]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -739,7 +741,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "On October 7th, Showa 62, a man was hit and killed\non the streets of ■■ city. According to police\ninvestigations, the man is believed to have abused\nto death the child of his spouse, and the case is\nbeing investigated in connection with the\ndisappearance of Raita-kun (aged ten at the time)\nseveral years ago."
+                "On October 7th, Showa 62, a man was struck and killed on the\nstreets of ■■ city. According to police investigations, the\nman is believed to have abused his partner's child to death,\nand the case is being pursued in connection with the\ndisappearance of Raita-kun (aged ten at the time) several\nyears ago."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -747,7 +749,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The investigation is ongoing. Meanwhile, the boy\nbelieved to have died from abuse mentioned in the\ndiary has not been confirmed to exist, as neither\na family register entry nor a body has been found,\nand the women who were said to be his mother and\naunt had already died before the boy was born."
+                "The investigation is ongoing. Meanwhile, the boy believed to\nhave died from abuse mentioned in the diary has not been\nconfirmed to exist, as no family register or body has been\nfound, and the women thought to be his mother and aunt had\nalready died before the boy was born."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -763,7 +765,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(...Huh? Then, who was that child's spirit from\nbefore? Come to think of it, why did the soul have\nbruises?)\\F[8]"
+                "(...Huh? Then, who was that child's spirit from before? Come\nto think of it, why did the soul have bruises?)\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -771,7 +773,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Could it be that the child's spirit was an evil\nspirit meant to lure people into madness and drag\nthem into another world?)\\F[8]"
+                "(Could it be that the child's spirit was an evil spirit\nmeant to lure people into madness and drag them into another\nworld?)\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -785,7 +787,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Uh...no, it's nothing. It seems better not to\nworry about it, so let's forget it.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[22]"
+                "\"Uh...no, it's nothing. It seems better not to worry about\nit, so let's forget it.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -942,7 +944,7 @@
             "tileId": 0
           },
           "list": [
-            { "code": 356, "indent": 0, "parameters": ["namePop 4 Talk"] },
+            { "code": 356, "indent": 0, "parameters": ["namePop 4 会話"] },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1014,7 +1016,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's nothing... It's dangerous, so let's hold\nhands.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[22]"
+                "\"It's nothing... It's dangerous, so let's hold hands.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1078,7 +1080,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(What's beneath here...?)\\F[8]"]
+              "parameters": ["(What's beneath this...)\\F[8]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
@@ -1088,7 +1090,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(There are... an incredible number of people who\nhave died below...)\\F[15]"
+                "(There are... an incredible number of people who have died\nbelow here...)\\F[15]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1096,7 +1098,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(There are so many deceased that I can't even see\nthe ground. Were all these people killed by a\ncurse?)\\F[10]"
+                "(There are so many deceased that I can't see the ground.\nWere all these people killed by a curse?)\\F[10]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }

@@ -202,10 +202,7 @@
               "code": 102,
               "indent": 1,
               "parameters": [
-                [
-                  "I thrust the sword into the great tree",
-                  "I won't do anything"
-                ],
+                ["I thrust the sword into the great tree", "Do nothing"],
                 1,
                 -1,
                 1,
@@ -232,7 +229,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "(It's better not to do anything dangerous with\nthis child around)"
+                "(It's better not to do anything dangerous with this child\naround)"
               ]
             },
             { "code": 117, "indent": 2, "parameters": [20] },
@@ -246,21 +243,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "`What is this? This tree... it has an incredible\naura of a curse.\\n<Yukine>\\F[10]"
+                "\"What is this? This tree... it has an incredible aura of a\ncurse.\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["`...`\\n<???>\\F[10]\\AA[FF]\\FF[23]"]
+              "parameters": ["\"...\"\\n<???>\\F[10]\\AA[FF]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "`Surely, this must be one of the curses that's\ncreating the mansion. If we leave it as is, it\ncould be quite dangerous.\\n<Yukine>\\F[10]\\AA[F]\\FF[23]"
+                "\"Surely, this must be one of the curses that's creating the\nmansion. If we leave it be, it could be quite dangerous.\"\\n<Yukine>\\F[10]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -320,7 +317,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "`There's something stuck in the middle of the\ntree... Is that a sword?\\n<Yukine>\\F[4]\\AA[F]\\FF[23]"
+                "\"In the middle of the tree... there's something stuck. Is\nthat a sword?\"\\n<Yukine>\\F[4]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -328,7 +325,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A large tree cloaked in a curse, with an old,\nrust-covered sword stuck in it. Deep cracks run up\nand down the tree, and a weak curse seems to be\nseeping out slowly.\\F[4]\\AA[N]\\FF[23]"
+                "A large tree cloaked in a curse, with an old, rust-covered\nsword stuck in it. Deep cracks run up and down the tree, and\nyou can see a weak curse seeping out slowly.\\FF[23]\\F[4]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -336,7 +333,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\F[4]The black curse that bursts forth is like blood\nflowing from the great tree.\\AA[N]\\FF[23]"
+                "\\F[4]The black curse that bursts forth is like blood flowing from\nthe great tree.\\AA[N]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -344,21 +341,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "`Is this sword cutting the curse coming from the\ntree? Maybe it's not that the sword is sealing the\ncurse, but rather the tree is emitting a curse to\nseal the power of this short sword...\\n<Yukine>\\F[4]\\AA[F]\\FF[23]"
+                "\"Is this sword cutting the curse that comes from the tree?\nMaybe it's not that the sword is sealing the curse, but the\ntree is emitting a curse to seal the power of this short\nsword...\"\\n<Yukine>\\F[4]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["`...`\\n<???>\\F[4]\\AA[FF]\\FF[23]"]
+              "parameters": ["\"...\"\\n<???>\\F[4]\\AA[FF]\\FF[23]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "`Hmm. If I push this sword in with the power of my\ngod... maybe I can destroy one of the sources of\nthe curse covering the mansion?\\n<Yukine>\\F[4]\\AA[F]\\FF[23]"
+                "\"Hmm. If I push this sword in with the power of my god...\nmaybe I can destroy one of the sources of the curse covering\nthe mansion?\"\\n<Yukine>\\F[4]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -366,7 +363,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\F[4](If successful, we should be able to reduce the\nmansion's curse... but if we fail, the backlash of\nthe curse might kill both me and the\ngirl...)\\AA[F]\\FF[23]"
+                "\\F[4](If successful, it should reduce the curse on the mansion...\nbut if it fails, the backlash of the curse might kill both\nme and the girl...)\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -389,7 +386,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Thrust the sword into the great tree", "I won't do anything"],
+                ["I thrust the sword into the great tree", "Do nothing"],
                 1,
                 -1,
                 1,
@@ -415,7 +412,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(It's better not to do anything dangerous with\nthis child around)"
+                "(It's better not to do anything dangerous with this child\naround)"
               ]
             },
             { "code": 117, "indent": 1, "parameters": [20] },
@@ -428,7 +425,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "`If I infuse my divine energy into this short\nsword... surely I can purify the curse.\\n<Yukine>\\F[4]"
+                "\"If I infuse my divine energy into this short sword...\nsurely I can purify the curse, right?\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -436,7 +433,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Gripping the hilt of the rusted sword, I resolve\nmyself.\\AA[N]\\F[4]"
+                "Gripping the hilt of the rusted sword, I resolve\nmyself.\\F[4]\\AA[N]"
               ]
             },
             { "code": 243, "indent": 0, "parameters": [] },
@@ -445,7 +442,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["`Ei! Let it work!\\n<Yukine>\\F[18]"]
+              "parameters": ["\"Ei! Let it work!\"\\n<Yukine>\\F[18]"]
             },
             {
               "code": 250,
@@ -611,7 +608,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Classroom_B_on_the__2nd_floor_of_Building_A 15"
+                "D_TEXT Current_Location:_Classroom_B_on_the_2nd_floor_of_Building__A\\ow[0]\\c[15] 15"
               ]
             },
             {

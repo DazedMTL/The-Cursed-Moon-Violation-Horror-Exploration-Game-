@@ -364,7 +364,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Stairs_leading__unde_rground 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Stairs_leading_underground 15"
               ]
             },
             {
@@ -435,7 +435,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Underground_Hidden__Room 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Underground_Hidden_Room 15"
               ]
             },
             {
@@ -539,13 +539,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Saku>\\FF[24]Saku"]
+              "parameters": [
+                "\"Yukine Onee-san... that ghost lady...\"\\n<Saku>\\FF[24]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Yeah...\"\\n<Yukine>\\F[10]\\AA[F]\\FF[24]"]
+              "parameters": ["\"Yes...\"\\n<Yukine>\\F[10]\\AA[F]\\FF[24]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -561,7 +563,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...Yu, ki...ne...is it?\"\\n<Female Ghost>\\F[8]\\AA[N]"
+                "\"...Yu...ki...ne...is it?\"\\n<Female ghost>\\F[8]\\AA[N]"
               ]
             },
             {
@@ -627,14 +629,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"It's Yukine...isn't it?\"\\n<Suzune>"]
+              "parameters": ["\"It's Yukine... isn't it?\"\\n<Suzune>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yes, that's right Suzune-chan...we finally meet.\nI've always...always wanted to see you.\"\\n<Yukine>\\F[10]"
+                "\"Yes, that's right Suzune-chan... we finally meet. I've\nalways... always wanted to see you.\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -642,7 +644,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I'm sorry. I wanted to return to where Yukine\nwas, but...I lost.\"\\n<Suzune>\\AA[N]\\F[10]"
+                "\"I'm sorry. I wanted to return to you, Yukine, but... I\nlost.\"\\n<Suzune>\\AA[N]\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -650,7 +652,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"No...just knowing you feel that way makes me\nhappy. It was you, Suzune-chan, who sent the voice\nto save Saku at that time, wasn't it?\"\\n<Yukine>\\F[7]"
+                "\"No... just knowing you feel that way makes me happy. It was\nyou, Suzune-chan, who sent the voice to save Saku at that\ntime, wasn't it?\"\\n<Yukine>\\F[7]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -658,7 +660,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yes...I'm sorry for pushing it onto you. But I\ncouldn't just leave the curse alone, and I wanted\nto save that child.\"\\n<Suzune>\\AA[N]\\F[7]"
+                "\"Yes... I'm sorry for leaving it all to you. But I couldn't\njust ignore the curse, and I wanted to save that child.\"\\n<Suzune>\\AA[N]\\F[7]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -666,7 +668,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yes. I feel the same way...I will protect Saku,\nso you can leave the rest to me, Suzune-chan.\nAfter all, I am a goddess now, so you can rest\nassured.\"\\n<Yukine>\\F[6]"
+                "\"Yes. I feel the same way... I will protect Saku, so you can\nleave the rest to me, Suzune-chan. After all, I am a goddess\nnow, so you can rest easy.\"\\n<Yukine>\\F[6]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -674,7 +676,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I see...Yukine, you've become so admirable.\"\\n<Suzune>\\AA[N]\\F[6]"
+                "\"I see... Yukine, you've become so admirable.\"\\n<Suzune>\\AA[N]\\F[6]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -682,7 +684,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yes. I wanted to be like you, Suzune-chan, and I\nworked really hard. Just like you helped me, I\nwanted to be able to help someone else.\"\\n<Yukine>\\F[2]"
+                "\"Yes. I wanted to be like you, Suzune-chan, and I worked\nreally hard. Just like you helped me, I wanted to be able to\nhelp someone else.\"\\n<Yukine>\\F[2]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -690,7 +692,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yes, that's great. You're very admirable...So,\nYukine. Can I leave the rest to you?\"\\n<Suzune>\\AA[N]\\F[2]"
+                "\"Yes, you're amazing. Really amazing... So, Yukine. Can I\nleave the rest to you?\"\\n<Suzune>\\AA[N]\\F[2]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -698,7 +700,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yes...it's okay. Suzune-chan, you've worked hard\nuntil now...take a good rest.\"\\n<Yukine>\\F[1]"
+                "\"Yes... it's okay. Suzune-chan, you've worked hard until\nnow... rest well.\"\\n<Yukine>\\F[1]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -706,7 +708,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thank you...Yukine. Well then...goodbye...\"\\n<Suzune>\\AA[N]\\F[1]"
+                "\"Thank you... Yukine. Well then... goodbye...\"\\n<Suzune>\\AA[N]\\F[1]"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [236, 236, 0] },
@@ -841,7 +843,7 @@
             "tileId": 0
           },
           "list": [
-            { "code": 356, "indent": 0, "parameters": ["namePop 4 Talk"] },
+            { "code": 356, "indent": 0, "parameters": ["namePop 4 会話"] },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

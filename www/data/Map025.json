@@ -117,7 +117,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Picture books like \"The King's Tail\" and \"The\nSinging Princess\""
+                "Famous picture book author's suspicious death discovered in\nAugust 2015 at an elementary school in the city. The author,\nSanae Oshiro, was found dead. She was known for picture\nbooks such as \"The King's Tail\" and \"The Singing Princess.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -125,11 +125,17 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "During her school years, her sister disappeared,\nleaving only her eyeballs behind on campus"
+                "The police are advancing their investigation into the\nsuspicious death of the author who left behind masterpieces.\nSanae Oshiro was an alumna of the same elementary school,\nand during her time there, her sister disappeared from the\nschool, leaving only her eyeballs behind."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["-"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Due to the similarity of this tragic incident, the police\nhave concluded that it is the work of the same perpetrator--"
+              ]
+            },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 117, "indent": 0, "parameters": [25] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -139,7 +145,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Dolls and bunny rabbits... so that's how it was.\"\\n<Yukine>\\F[10]"
+                "\"Dolls and bunny rabbits... so that's what it was.\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -147,7 +153,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I wonder if it's okay to say that both of them\nfinally got to meet...\"\\n<Yukine>\\F[10]"
+                "\"Both of them were finally able to meet, is that okay to\nsay...?\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -776,9 +782,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_A 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Hallway_A 15"]
             },
             {
               "code": 231,

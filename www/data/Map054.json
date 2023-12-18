@@ -709,14 +709,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Saku>\\FF[29]Saku"]
+              "parameters": [
+                "\"Onee-san, what should we do? It's a dead end.\"\\n<Saku>\\FF[29]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"There are two keyholes, one on each side. That's\nright, Saku! The key we picked up earlier!\"\\n<Yukine>\\F[17]\\AA[F]\\FF[29]"
+                "\"There are two keyholes here, one on the left and one on the\nright. That's right, Saku! The key we picked up earlier!\"\\n<Yukine>\\F[17]\\AA[F]\\FF[29]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -730,7 +732,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\F[17]I suddenly remember the key I picked up. Saku has\nanother key of a different color. \\AA[F]\\FF[43]"
+                "\\F[17]I suddenly remember the key I picked up. Saku has another\nkey of a different color. \\AA[F]\\FF[43]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -738,7 +740,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Saku. We'll turn the keys on 3, 2, 1, okay?\"\\n<Yukine>\\F[18]\\AA[F]\\FF[43]"
+                "\"Saku. We'll turn the keys on 3, 2, 1.\"\\n<Yukine>\\F[18]\\AA[F]\\FF[43]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -890,7 +892,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"...Saku\"\\n<Sakka Tsuki>\\FF[31]"]
+              "parameters": ["\"...Saku\"\\n<Saku Disaster Moon>\\FF[31]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [6, 8, true] },
@@ -900,7 +902,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I will not forgive you, little fox.\"\\n<Sakari Tsuki>\\FF[37]"
+                "\"I will not forgive you, little fox.\"\\n<Saku Disaster Moon>\\FF[37]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -958,7 +960,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_the_exit 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Find_the_exit 15"]
             },
             {
               "code": 231,

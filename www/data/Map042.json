@@ -319,7 +319,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I don't think there's anything useful here...)"]
+              "parameters": ["(I wonder if there's anything useful here)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -384,7 +384,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I don't think there's anything useful here...)"]
+              "parameters": ["(I wonder if there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -805,7 +805,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_General_Information___Desk 15"
+                "D_TEXT Current_Location:_General_Information_Counter 15"
               ]
             },
             {
@@ -941,7 +941,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "November 4, 2017: Recently, there has been an\noddly high number of patients. Moreover, many of\nthose who come to the hospital have dark red\nbruises on their bodies. No abnormalities are\nfound upon examination, and there are no\ncomplaints of pain. It's strange."
+                "November 4, 2017 - Recently, there's been an oddly high\nnumber of patients. Many of those who come to the hospital\nhave dark red bruises on their bodies. Even after\nexaminations, no abnormalities are found and they don't\ncomplain of any pain. Strange."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -949,7 +949,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "November 26, 2017: The number of patients is only\nincreasing. Conditions that were stable are\nsuddenly changing, leading to frequent vacancies\nin the hospital beds."
+                "November 26, 2017 - The number of patients is only\nincreasing. Conditions that were stable are suddenly\nchanging, leading to frequent vacancies in the sickbeds."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -957,7 +957,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There shouldn't be any mistakes, yet why do the\ndeaths continue? Many of the deceased have bruises\non their bodies. I will increase the number of\ntests."
+                "There shouldn't be any mistakes, yet why do the deaths\ncontinue? Many of the deceased have bruises on their bodies.\nI will increase the number of tests."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -965,7 +965,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "December 3, 2017: Today, another person passed\naway. A young woman with a fracture in her left\narm who was healthy otherwise developed a\npulmonary embolism."
+                "December 3, 2017 - Another person passed away today. A young\nwoman with a fracture in her left arm who was otherwise\nhealthy developed pulmonary embolism."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -973,7 +973,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "She also had a bruise. What is this? The nurses\nare scared too. I can't blame them; I feel the\nsame way."
+                "She also had bruises. What is this? The nurses are scared\ntoo. I can't blame them; I feel the same way."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -981,7 +981,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "December 6, 2017: Suddenly, a group of monks\nwearing robes barged in. They claim that this\nhospital is cursed. This is no joke."
+                "December 6, 2017 - Suddenly, a group of monks wearing robes\nbarged in. They claim that this hospital is cursed. This is\nno joke."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -989,7 +989,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you're going to talk nonsense, please go to the\npsychiatric ward. I forcefully expelled them\nbecause they were causing anxiety among the\npatients. They left creepy talismans on the walls,\nwhich I peeled off and threw in the trash."
+                "If you're going to talk nonsense, please go to the\npsychiatric ward. I forcefully expelled them because they\nwere making the patients anxious. They left creepy talismans\non the walls, which I peeled off and threw in the trash."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -997,7 +997,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "December 12, 2017: My grandchild came to visit.\nAccording to the examination at the obstetrics and\ngynecology department, it seems she is pregnant\nwith her first child. My grandchild is happy."
+                "December 12, 2017 - My grandchild came today. According to\nthe examination at the obstetrics and gynecology department,\nit seems she's pregnant with her first child. My grandchild\nis happy."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -1005,7 +1005,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm also happy. It's a rare piece of good news\namidst the constant sudden deaths. However, I'm\nterribly worried about the dark red bruise on my\ngrandchild's side."
+                "I'm also happy. It's a rare piece of good news amidst all\nthese sudden deaths. However, I'm terribly worried about the\ndark red bruise on my grandchild's side."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -1013,7 +1013,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Perhaps I should extend a visit to the Inari\nshrine, which is said to have strong benefits for\nthe safety of children, and buy an amulet for an\neasy delivery."
+                "Perhaps I should extend a visit to the Inari shrine, which\nis said to have strong benefits for children's safety, and\nbuy an amulet for an easy delivery."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -1021,7 +1021,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "December 22, 2017: The nurses were talking about\nrumors of a child inside the hospital at night.\nThey say it's wearing an old-fashioned kimono and\nclearly not a patient."
+                "December 22, 2017 - The nurses were talking about rumors of\na child inside the hospital at night. They say it's wearing\nan old-fashioned kimono and clearly not a patient."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -1029,7 +1029,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "With the rapid increase in patients developing\nbruises, there's no time to indulge in rumors. I\nmust do something quickly."
+                "With the sudden increase in patients developing bruises,\nthere's no time to indulge in rumors. I must do something\nquickly."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -1037,7 +1037,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "December 25, 2017: Bruises have appeared on my\narms and neck. There are no patients left without\nbruises. My son also has a bruise under his chin."
+                "December 25, 2017 - Bruises have appeared on my arm and\nneck. There are no patients left without bruises. My son\nalso has a bruise under his jaw."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -1045,21 +1045,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "All the remaining nurses have quit. Am I going to\ndie?"
+                "All the remaining nurses have quit. Am I going to die?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["December 31, 2017: I want to die down there."]
+              "parameters": ["December 31, 2017 - I want to die down there"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Date unknown: Dad died. For now, I'll keep his\ndiary. I probably won't last much longer either."
+                "Date unknown - Dad died. For now, I'll keep his diary. I\nprobably won't last much longer either."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -1068,7 +1068,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"...Could this be?\"\\n<Yukine>\\F[4]"]
+              "parameters": ["\"...could this be?\"\\n<Yukine>\\F[4]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1088,7 +1088,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Stainless Key\" acquired."]
+              "parameters": ["\"Stainless Key\" acquired"]
             },
             { "code": 126, "indent": 0, "parameters": [69, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },

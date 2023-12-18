@@ -193,9 +193,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_2 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Hallway_2 15"]
             },
             {
               "code": 231,
@@ -264,9 +262,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_2 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Hallway_2 15"]
             },
             {
               "code": 231,
@@ -336,7 +332,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_??? 15"]
+              "parameters": ["D_TEXT Current_Location:_??? 15"]
             },
             {
               "code": 231,
@@ -411,7 +407,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_??? 15"]
+              "parameters": ["D_TEXT Current_Location:_??? 15"]
             },
             {
               "code": 231,
@@ -494,7 +490,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The moment I stepped forward, the floorboard gave\nway."
+                "The moment I stepped forward, the floorboard gave way."
               ]
             },
             { "code": 242, "indent": 0, "parameters": [1] },
@@ -504,7 +500,7 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["Scene Skip", "View the scene"], -1, -1, 1, 1]
+              "parameters": [["Skip scene", "Look at the scene"], -1, -1, 1, 1]
             },
             { "code": 402, "indent": 1, "parameters": [0, "シーンをスキップ"] },
             { "code": 119, "indent": 2, "parameters": ["skip"] },
@@ -526,7 +522,7 @@
             { "code": 121, "indent": 0, "parameters": [3, 3, 0] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Click to continue"] },
+            { "code": 401, "indent": 0, "parameters": ["Click to continue-"] },
             { "code": 230, "indent": 0, "parameters": [10] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
             { "code": 121, "indent": 0, "parameters": [3, 3, 1] },

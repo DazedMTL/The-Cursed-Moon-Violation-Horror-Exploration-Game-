@@ -317,7 +317,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_General_Information___Desk 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_General_Information_Desk 15"
               ]
             },
             {
@@ -443,7 +443,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_General_Information___Desk 15"
+                "D_TEXT Current_Location:_General_Information_Counter 15"
               ]
             },
             {

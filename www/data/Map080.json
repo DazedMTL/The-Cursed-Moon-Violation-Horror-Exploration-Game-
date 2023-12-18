@@ -644,10 +644,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I couldn't help but laugh."]
+              "parameters": [
+                "The moment it happened, my head started to throb like a\ntadpole, and from my muddy triangle crotch, a flesh-colored\neel burst forth, making me unable to see anything as I burst\ninto laughter."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["I, I am--!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Inside my mouth, fish were singing and bouncing around. I\nam, I am--!"
+              ]
+            },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
               "code": 250,

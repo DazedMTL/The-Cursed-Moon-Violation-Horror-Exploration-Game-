@@ -489,7 +489,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_Ward_A 15"]
+              "parameters": ["D_TEXT Current_Location:_Ward_A 15"]
             },
             {
               "code": 231,
@@ -558,7 +558,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_Ward_A 15"]
+              "parameters": ["D_TEXT Current_Location:_Ward_A 15"]
             },
             {
               "code": 231,
@@ -1153,7 +1153,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Radiology_Reception___Desk 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Radiology_Reception_Desk 15"
               ]
             },
             {
@@ -1807,7 +1807,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Girls'_Restroom 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Women's_Restroom 15"
               ]
             },
             {
@@ -2141,7 +2141,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(Thank goodness, it seems to fit)"]
+              "parameters": ["(Thank goodness, it looks like it fits)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -2199,7 +2199,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_??? 15"]
+              "parameters": ["D_TEXT Current_Location:_??? 15"]
             },
             {
               "code": 231,
@@ -2482,7 +2482,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Radiology_Reception___Desk 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Radiology_Reception_Desk 15"
               ]
             },
             {
@@ -2778,7 +2778,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(But this... It's already been contaminated by a\ncurse.)"
+                "(But this... it's already been contaminated by a curse.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },

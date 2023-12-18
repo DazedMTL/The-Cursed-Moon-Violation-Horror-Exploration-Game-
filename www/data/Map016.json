@@ -2467,9 +2467,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Large_Cabin 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Large_Cabin 15"]
             },
             {
               "code": 231,
@@ -2592,7 +2590,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Entrance 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_A_Dark_Entrance_Hall 15"
               ]
             },
             {
@@ -4032,7 +4030,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\FFFF[52]Tips: You can click the light mark button at the\nbottom left to switch the light ON/OFF"
+                "\\FFFF[52]Tips: Click the button on the bottom left light mark to\nswitch the light ON/OFF"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -4641,7 +4639,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "(This well... it's old, but it seems there's water\npooled at the bottom.)"
+                "(This well... it's old, but it seems there's water pooled at\nthe bottom.)"
               ]
             },
             { "code": 117, "indent": 2, "parameters": [20] },
@@ -4652,13 +4650,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [
-                ["Do nothing", "I peer into the well"],
-                -2,
-                -1,
-                1,
-                1
-              ]
+              "parameters": [["Do nothing", "Peer into the well"], -2, -1, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "なにもしない"] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -4689,7 +4681,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "As I peered in, part of the well crumbled, and\nbefore I knew it, my body was being sucked into\nthe well--"
+                "As I peered in, part of the well crumbled, and before I knew\nit, my body was being sucked into the well--"
               ]
             },
             { "code": 230, "indent": 1, "parameters": [30] },
@@ -4706,7 +4698,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "With a terribly dull sound echoing in the back of\nmy head, everything went pitch black."
+                "With a terribly dull sound echoing in the back of my head,\neverything went pitch black."
               ]
             },
             { "code": 242, "indent": 1, "parameters": [1] },
@@ -5199,14 +5191,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"If we've gathered this much, it should be enough.\nShall we go back to the girl?\"\\n<Yukine>\\F[1]"
+                "\"This should be enough, right? Let's go back to the girl.\"\\n<Yukine>\\F[1]"
               ]
             },
             {
               "code": 356,
               "indent": 1,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]To_Do:_Return_to_the_Girl's_location 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Return_to_the_girl's_place 15"
               ]
             },
             {

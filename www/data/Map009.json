@@ -174,7 +174,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Since I'm the deity of this place, I can only go\nout during the month without gods, huh...)\\F[8]"
+                "(Since I'm the deity of this place, I can only go out during\nthe month with no gods, huh...)\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -182,7 +182,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I'd like to play with the children once in a\nwhile-\"\\n<Yukine>\\F[8]"
+                "\"I'd like to play with the children once in a while-\"\\n<Yukine>\\F[8]"
               ]
             },
             {
@@ -269,7 +269,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(The water is flowing beautifully. It's thanks to\nthe daily cleaning.)"
+                "(The water is flowing cleanly. It's thanks to the daily\ncleaning.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -717,9 +717,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Mansion's_Front_Yard 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Mansion's_Front_Yard 15"]
             },
             {
               "code": 231,
@@ -797,17 +795,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "(It might be tough to walk with it being this\ndark...)"
-              ]
+              "parameters": ["(It's so dark, walking might be difficult...)"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "(Hmm, I wonder if I can use the power of the gods\nhere...)"
-              ]
+              "parameters": ["(Hmm, can I use the power of the gods here...)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -818,7 +812,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It seems I can hardly use the power of the gods\nhere)"
+                "(It seems I can hardly use the power of the gods here)"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -826,7 +820,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Neither the power of fertility nor the divine\naura are of any use right now)"
+                "(Neither the power of fertility nor divine energy are of any\nuse right now)"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -1074,7 +1068,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Haa... This cherry tree has been withered for\nhundreds of years. I can't make it bloom with my\npower...\"\\n<Yukine>\\F[8]"
+                "\"Haa... This cherry tree has been withered for hundreds of\nyears. I don't have the power to make it bloom...\"\\n<Yukine>\\F[8]"
               ]
             },
             { "code": 122, "indent": 0, "parameters": [5, 5, 1, 0, 1] },
@@ -1132,7 +1126,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I'd like to see the cherry blossoms again. It's\nsad that I can't go outside in April and might\nmiss them completely.\"\\n<Yukine>\\F[8]"
+                "\"I'd like to see the cherry blossoms again. It's sad to\nthink I won't be able to see them since I can't go outside\nin April.\"\\n<Yukine>\\F[8]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }

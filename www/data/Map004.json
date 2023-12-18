@@ -1558,7 +1558,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It feels really unpleasant... But if a girl is\nasking for help, I have to search...)\\F[4]"
+                "(It feels really unpleasant... but if a girl is asking for\nhelp, I have to search...)\\F[4]"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -2712,9 +2712,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Entrance 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_A_Dark_Entranceway 15"]
             },
             {
               "code": 231,
@@ -2790,7 +2788,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Entrance 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_A_Dark_Entrance 15"
               ]
             },
             {
@@ -2963,15 +2961,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Someone's calling. It's definitely this\nmansion...)\\F[10]"
+                "(Calling me. It's definitely this mansion...)\\F[10]"
               ]
             },
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Mansion's_Front_Yard 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Mansion's_Front_Yard 15"]
             },
             {
               "code": 231,
@@ -3715,7 +3711,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It's calling me. It must be this mansion...)\\F[10]"
+                "(Calling out. It's definitely this mansion...)\\F[10]"
               ]
             },
             {
@@ -4577,7 +4573,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I'm home. Sorry to keep you waiting. Sorry, Mom.\"\\n<Frog>"
+                "\"Mom. The strawberries you wanted to eat... I've finally\nfound them. Sorry for making you wait. I'm sorry, mom.\"\\n<Frog>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -4644,7 +4640,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(There's something lying where the frog was.)"]
+              "parameters": ["(Something's lying where the frog was.)"]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 356, "indent": 0, "parameters": ["MWP_INVALID"] },
@@ -4659,7 +4655,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(\"Matches\" obtained)"]
+              "parameters": ["\"Matches\" have been obtained."]
             },
             { "code": 126, "indent": 0, "parameters": [11, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -4669,12 +4665,18 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You've always... had regrets, haven't you? Were\nyou able to... go to your mother's place?\"\\n<Yukine>\\F[6]"
+                "\"You've always... had regrets, haven't you? Were you able to\ngo... to your mother's place?\"\\n<Yukine>\\F[6]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\FFFF[50]"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\FFFF[50]Tips: Certain items can be used from the item list."
+              ]
+            },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [25] },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 13] },
@@ -4682,7 +4684,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Find_the_Girl 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Find_the_girl 15"]
             },
             {
               "code": 231,
@@ -5298,7 +5300,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "(This well... it's old, but it seems there's water\ncollected at the bottom.)"
+                "(This well... it's old, but it seems there's water\naccumulated at the bottom.)"
               ]
             },
             { "code": 117, "indent": 2, "parameters": [20] },
@@ -5312,7 +5314,7 @@
               "parameters": [
                 [
                   "Do nothing",
-                  "I peer into the well",
+                  "Peer into the well",
                   "Draw waterif(s[32])",
                   "Examine the wellif(s[37])"
                 ],
@@ -5351,7 +5353,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(As I peered in, part of the well crumbled, and\nbefore I knew it, my body was being sucked into\nthe well--)"
+                "As I peered in, part of the well crumbled, and before I knew\nit, my body was being sucked into the well--"
               ]
             },
             { "code": 230, "indent": 1, "parameters": [30] },
@@ -5368,7 +5370,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(With a terribly dull sound echoing in the back of\nmy head, everything went pitch black.)"
+                "With a terribly dull sound echoing in the back of my head,\neverything went pitch black."
               ]
             },
             { "code": 242, "indent": 1, "parameters": [1] },
@@ -5412,7 +5414,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "(With this depth, I can't draw water with a\nbucket...)"
+                "(With this depth, I can't draw water with a bucket...)"
               ]
             },
             { "code": 117, "indent": 2, "parameters": [20] },
@@ -5425,7 +5427,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(With this, I should be able to draw water from\nthe well.)"
+                "(With this, I should be able to draw water from the well)"
               ]
             },
             { "code": 117, "indent": 1, "parameters": [20] },
@@ -5458,7 +5460,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Haah, that was heavy. Now I need to find a\ncontainer for the water...\"\\n<Yukine>\\F[12]"
+                "\"Haah, that was heavy. Now I need to find a container for\nthe water...\"\\n<Yukine>\\F[12]"
               ]
             },
             {
@@ -5487,14 +5489,16 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(This well... it's old, but it seems there's water\ncollected at the bottom.)"
+                "(This well... it's old, but it seems there's water\naccumulated at the bottom.)"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["(But there's no \"bucket\" to draw the water.)"]
+              "parameters": [
+                "(But there's no \"bucket\" to draw the water with)"
+              ]
             },
             { "code": 117, "indent": 1, "parameters": [20] },
             { "code": 111, "indent": 1, "parameters": [0, 33, 1] },
@@ -5502,7 +5506,7 @@
               "code": 356,
               "indent": 2,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]To_Do:_Search_for_the_bucket 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Search_for_the_Tsurube 15"
               ]
             },
             {
@@ -6056,7 +6060,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I need to find a container for water.)"]
+              "parameters": ["(I need to find a container for water)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6124,7 +6128,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"I've obtained a dish filled with water.\""]
+              "parameters": ["\"Obtained a dish filled with water\""]
             },
             { "code": 126, "indent": 0, "parameters": [16, 0, 0, 1] },
             { "code": 121, "indent": 0, "parameters": [3, 3, 1] },
@@ -6134,7 +6138,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"(I should give this to the bird to drink.)\""]
+              "parameters": ["\"(Let's give this to the bird to drink)\""]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -6290,7 +6294,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(There's a hoe... it seems usable)"]
+              "parameters": ["(There's a hoe... It seems usable)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 121, "indent": 0, "parameters": [3, 3, 0] },
@@ -6303,7 +6307,11 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\"Obtained a Hoe\""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["(You obtained a \"Hoe\")"]
+            },
             { "code": 126, "indent": 0, "parameters": [18, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 121, "indent": 0, "parameters": [3, 3, 1] },
@@ -6611,13 +6619,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [
-                ["Dig up the raised soil", "Do nothing"],
-                1,
-                -1,
-                1,
-                1
-              ]
+              "parameters": [["Dig it up", "Do nothing"], 1, -1, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "掘り返す"] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -6644,7 +6646,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(This... it's a hairpin. Could this be... a gift,\nI wonder. There's also a pair of scissors buried\nwith it.)\\F[5]"
+                "(This... it's a hairpin. Could this be... a gift, I wonder.\nThere's also a pair of scissors buried with it.)\\F[5]"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [3, 3, 0] },
@@ -7090,7 +7092,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["namePop 45 Talk 25 black"]
+              "parameters": ["namePop 45 Conversation 25 black"]
             },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -7190,7 +7192,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Red berries are growing. This is... fruit, isn't\nit?)"
+                "(There are red fruits growing. These are... fruits, right?)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -7248,7 +7250,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Is this the strawberry that Kaeru-san was talking\nabout... I wonder?)"
+                "(Is this the strawberry that Kaeru-san was talking about...\nI wonder?)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },

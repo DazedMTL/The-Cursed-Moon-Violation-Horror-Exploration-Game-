@@ -182,7 +182,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_1st__floor_of_Building_A 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_1st_floor_of__B\nuilding_A 15"
               ]
             },
             {
@@ -253,7 +253,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_1st__floor_of_Building_A 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_1st_floor_of__B\nuilding_A 15"
               ]
             },
             {
@@ -324,7 +324,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_1st__floor_of_Building_A 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_1st_floor_of__B\nuilding_A 15"
               ]
             },
             {
@@ -395,7 +395,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_on_the_1st__floor_of_Building_A 15"
+                "D_TEXT Current_Location:_Hallway_on_the_1st_floor_of_Building__A\\ow\n[0]\\c[15] 15"
               ]
             },
             {
@@ -624,7 +624,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(Thank goodness, it seems to fit)"]
+              "parameters": ["(Thank goodness, it looks like it fits)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -871,7 +871,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(There's a bag on the ground.)"]
+              "parameters": ["(There's a bag lying on the ground)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -879,7 +879,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Let's see... inside there's a student ID and a\nnotebook. The student ID is... Akane Tomita,\nenrolled in 2013.\"\\n<Yukine>\\F[5]"
+                "\"Let's see... inside there's a student ID and a notebook.\nThe student ID is... Akane Tomita, enrolled in 2013.\"\\n<Yukine>\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -887,7 +887,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(...There's something written in the notebook.)\\F[5]"
+                "(There's something written in the notebook)\\F[5]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -896,7 +896,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Why? Why can't I get out of here! No matter how\nlong I wait, time doesn't pass. My phone is always\nout of range, and the glass won't break no matter\nhow much I pound on it."
+                "Why? Why can't I get out of here! No matter how long I wait,\ntime doesn't pass. My phone is always out of range, and the\nglass won't break no matter how much I pound on it."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -904,7 +904,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm not hungry, but this strange atmosphere never\ngoes away. My body feels heavy, and even though\nthere's no one around, I sense someone's presence.\nIs this a dream? If it's a dream, why can't I wake\nup!?"
+                "I'm not hungry, but this strange atmosphere never goes away.\nMy body feels heavy, and even though there's no one around,\nI feel like someone is here. Is this a dream? If it's a\ndream, why can't I wake up?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -912,7 +912,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Why is the school building in such disarray? Why\nis there something in the empty animal pen? Why is\nthere a child waving?"
+                "Why is the school building in such a mess? Why is there\nsomething in the empty animal pen? Why is there a child\nwaving?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -920,7 +920,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I can't stand it anymore. I want to go home. I\nwant to go home. Maybe if I cut my wrist with this\ncutter, I'll wake up."
+                "I can't stand it anymore. I want to go home. I want to go\nhome. Maybe if I cut my wrist with this cutter, I'll wake\nup."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -928,7 +928,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm going to cut my wrist now. Surely, I'll wake\nup with this. Because this has to be a dream."
+                "I'm going to cut my wrist now. This will surely wake me up.\nBecause this has to be a dream."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -937,7 +937,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"...What is this?\"\\n<Yukine>\\F[10]"]
+              "parameters": ["\"...This is\"\\n<Yukine>\\F[10]"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1187,7 +1187,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"If this much blood has been spilled... this\nperson must be already...\"\\n<Yukine>\\F[10]"
+                "\"If this much blood has been spilled... this person must be\nalready...\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }

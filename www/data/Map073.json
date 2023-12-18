@@ -211,9 +211,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Hallway 15"]
             },
             {
               "code": 231,
@@ -282,9 +280,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Hallway 15"]
             },
             {
               "code": 231,
@@ -347,7 +343,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Female Ghost>Female Ghost"]
+              "parameters": [
+                "\"Thank you... Please, at least you must survive...\"\\n<Female ghost>"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
@@ -459,7 +457,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["namePop 4 Talk 8"]
+              "parameters": ["namePop 4 Conversation 8"]
             },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -564,9 +562,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway_2 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Hallway_2 15"]
             },
             {
               "code": 231,

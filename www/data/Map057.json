@@ -299,9 +299,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Hallway 15"]
             },
             {
               "code": 231,
@@ -371,7 +369,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Room_facing_the__gar_den 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Room_facing_the_garden 15"
               ]
             },
             {
@@ -476,21 +474,23 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"A letter in such a place... this scent is...\"\\n<Yukine>\\F[4]"
+                "\"A letter in such a place... This scent is...\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Saku>\\F[4]\\AA[FF]\\FF[22]"]
+              "parameters": [
+                "\"...Could it be from someone you know?\"\\n<Saku>\\F[4]\\AA[FF]\\FF[22]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I want to think it's not, but... I'll read it.\"\\n<Yukine>\\F[4]\\AA[F]\\FF[22]"
+                "\"I'd like to think not... but let's read it.\"\\n<Yukine>\\F[4]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -499,7 +499,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The curse of the calamity god that we tried to\nexorcise is tremendous, having lasted for hundreds\nof years, and nearly all the sacred treasures have\nbeen destroyed. The power of the calamitous moon\nis stronger than imagined; it's no wonder even the\nhigh monks could not succeed. Although we felt a\nresponse in diminishing its power, it's uncertain\nif we can expect any further results."
+                "The curse of the calamity god that was attempted to be\nexorcised is tremendous, having lasted for hundreds of\nyears, and nearly all the sacred treasures have been\ndestroyed. The power of the calamitous moon is stronger than\nimagined; it's no wonder even the high monks could not\nsucceed. There was a sense of diminishing its power, but\nwhether further results can be expected is uncertain."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -507,7 +507,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It seems I have no choice but to give up on the\nplan to purify the wandering spirits and borrow\ntheir power. My one leg has been contaminated by\nthe curse, and it appears I no longer have the\nstrength to even patrol the mansion."
+                "It seems I have no choice but to give up on the plan to\npurify the wandering spirits and borrow their power; my one\nleg has been contaminated by the curse, and it appears I no\nlonger have the strength to even patrol the mansion."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -515,7 +515,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Since my arrival here, many psychics have\nchallenged it, but all were swallowed by the curse\nof the calamitous moon before they could free the\nspirits."
+                "Since my arrival here, many psychics have challenged it, but\nall were swallowed by the curse of the calamitous moon\nbefore they could release the spirits."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -523,7 +523,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But I can't give up. I promised that child I would\nreturn. If we can save the shrine maiden, who is\nthe key to the curse, there must still be hope."
+                "But I can't give up. I promised I would return to that\nchild. If we can save the shrine maiden, who is the key to\nthe curse, there must still be hope."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -531,7 +531,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That child is still young; she shouldn't be\ntrapped in a place like this. I pray that the\nmother of the shrine maiden, who passed on her\nspiritual power, will carry my voice \"outside.\""
+                "That child is still young; she shouldn't be trapped in a\nplace like this. I pray that the mother of the shrine\nmaiden, who passed on her spiritual power, will carry my\nvoice \"outside.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -539,7 +539,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Yukine, please wait for me, I will surely return."
+                "Yukine, please wait for me... I will surely return."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -555,7 +555,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yes... Before I became a goddess... someone who\ncherished me.\"\\n<Yukine>\\F[10]\\AA[F]\\FF[23]"
+                "\"Yes... It's from someone who cherished me before I became a\ngoddess.\"\\n<Yukine>\\F[10]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -563,7 +563,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Onee-san's... Onee-san?\"\\n<Saku>\\F[10]\\AA[FF]\\FF[28]"
+                "\"Your... Onee-san?\"\\n<Saku>\\F[10]\\AA[FF]\\FF[28]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -571,7 +571,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"That's right... It must have been hundreds of\nyears ago. The person who gave me my name.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[28]"
+                "\"That's right... It must have been hundreds of years ago.\nThe person who gave me my name.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[28]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -579,7 +579,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Then, we have to search for them.\"\\n<Saku>\\F[7]\\AA[FF]\\FF[43]"
+                "\"Then we must search for them.\"\\n<Saku>\\F[7]\\AA[FF]\\FF[43]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

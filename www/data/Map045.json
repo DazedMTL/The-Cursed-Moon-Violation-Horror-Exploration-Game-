@@ -1129,7 +1129,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It's locked and won't open)"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1188,7 +1188,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It's locked and won't open)"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1483,7 +1483,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It's locked and won't open)"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1660,7 +1660,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It's locked and won't open)"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1719,7 +1719,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It's locked and won't open)"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1778,7 +1778,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It's locked and won't open)"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1955,7 +1955,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It's locked and won't open)"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2232,7 +2232,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_the_exit 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Find_the_exit 15"]
             },
             {
               "code": 231,
@@ -3214,14 +3214,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Ahhhh!\"\\n<Saku>\\FF[27]"]
+              "parameters": ["\"Ahhh!\"\\n<Saku>\\FF[27]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"No, that's different... that is... something very\nbad.\"\\n<Yukine>\\F[15]\\AA[F]\\FF[27]"
+                "\"No, that's... that's... something really bad.\"\\n<Yukine>\\F[15]\\AA[F]\\FF[27]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3269,7 +3269,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(This is the embodiment of all the curses and\nmalice I've seen so far. I have to escape without\nbeing found...)\\F[10]"
+                "(This is the embodiment of all the curses and malice I've\nseen so far. We have to escape without being found...)\\F[10]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -3302,14 +3302,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Ahhhhhh!\"\\n<Yukine>\\F[15]"]
+              "parameters": ["\"Ahhhh!!\"\\n<Yukine>\\F[15]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Such an incredible aura of a curse. This isn't\nsomething a human spirit could produce!)\\F[15]"
+                "(Such an incredible aura of a curse. This isn't something a\nhuman spirit could produce!)\\F[15]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3339,7 +3339,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ughhh!! Are these the spirits of people who died\nin the hospital? There are so many of them!\"\\n<Yukine>\\F[15]"
+                "\"Ughhh!! Are these the spirits of people who died in the\nhospital? There are so many!\"\\n<Yukine>\\F[15]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3384,7 +3384,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Let's run, Saku! If we get caught, we'll be\nkilled!\"\\n<Yukine>\\F[16]"
+                "\"Let's run, Saku! If we get caught, we'll be killed!\"\\n<Yukine>\\F[16]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3672,7 +3672,7 @@
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Click to continue-"] },
+            { "code": 401, "indent": 0, "parameters": ["Click to continue"] },
             { "code": 246, "indent": 0, "parameters": [1] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 117, "indent": 0, "parameters": [25] },
@@ -3687,7 +3687,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_the_exit 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Find_the_exit 15"]
             },
             {
               "code": 231,
@@ -3705,7 +3705,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_General_Information___Desk 15"
+                "D_TEXT Current_Location:_General_Information_Desk 15"
               ]
             },
             {

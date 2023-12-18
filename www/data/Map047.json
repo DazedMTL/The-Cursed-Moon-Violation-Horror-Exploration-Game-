@@ -2526,9 +2526,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Country_Road_3 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Country_Road_3 15"]
             },
             {
               "code": 231,
@@ -2588,9 +2586,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Country_Road_3 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Country_Road_3 15"]
             },
             {
               "code": 231,
@@ -2659,9 +2655,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Country_Road_3 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Country_Road_3 15"]
             },
             {
               "code": 231,
@@ -2721,9 +2715,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Country_Road_3 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Country_Road_3 15"]
             },
             {
               "code": 231,
@@ -2970,7 +2962,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Curse God! Your name is Sakumogatsu, isn't it?\"\\n<Yukine>\\F[19]"
+                "\"Curse God! Your name is Saku Magatsuki, isn't it?\"\\n<Yukine>\\F[19]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2978,7 +2970,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...Hmm, you see through my name?\"\\n<Sakka Tsuki>\\FF[35]"
+                "\"Hmm... So you've seen through my name.\"\\n<Saku Disaster Moon>\\FF[35]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2992,7 +2984,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(What does this mean! Sakumogatsu... looks just\nlike Saku.)\\F[15]"
+                "(What does this mean! Saku Magatsuki... She looks just like\nSaku.)\\F[15]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3000,7 +2992,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(The aura is completely different, but not just\nthe face, even the stature is the same.)\\F[15]"
+                "(The aura is completely different, but not just the face;\neven the stature is the same.)\\F[15]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3008,7 +3000,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hmm... Did you read the records of the monk here?\nI thought I had cast a spell that humans couldn't\nread, but it seems divine eyes cannot be\ndeceived.\"\\n<Sakka Tsuki>\\FF[31]"
+                "\"Hmm... Did you read the records of the monk here? I thought\nI had cast a spell that humans couldn't read, but it seems\ndivine eyes cannot be deceived.\"\\n<Saku Disaster Moon>\\FF[31]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3016,7 +3008,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Why do you do such cruel things? Why have you\nkilled so many people with your curse!\"\\n<Yukine>\\F[15]"
+                "\"Why do you do such cruel things? Why have you killed so\nmany people with your curse!\"\\n<Yukine>\\F[15]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3024,7 +3016,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hmm... The little fox speaks. And what did you\nsay? Could it be...\"\\n<Sakari Tsuki>\\FF[31]"
+                "\"Hmm... The little fox speaks. And what did you say? Could\nit be...\"\\n<Saku Disaster Moon>\\FF[31]"
               ]
             },
             {
@@ -3039,7 +3031,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"A mere beast dares to accuse me?\"\\n<Sakari Tsuki>\\FF[33]"
+                "\"A mere beast dares to accuse me?\"\\n<Saku Disaster Moon>\\FF[33]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3053,7 +3045,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Such an intense aura of a curse! It's much\nstronger than what I felt at the hospital. Is this\nthe power of a Curse God!? )\\F[13]"
+                "(Such a strong presence of a curse! It's much stronger than\nwhat I felt at the hospital. Is this the power of a Curse\nGod!? )\\F[13]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3061,7 +3053,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You dare to tread into my territory with dirty\nfeet and steal my treasure... How brazenly you\nbark.\"\\n<Sakka Tsuki>\\FF[33]"
+                "\"You dare to tread into my territory with dirty feet and\nsteal my treasure... How brazenly you bark.\"\\n<Saku Disaster Moon>\\FF[33]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3069,7 +3061,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Treasure? I don't know what he's talking about,\nbut it's not the atmosphere to ask.)\\F[15]"
+                "(Treasure? I don't know what she's talking about, but it's\nnot the atmosphere to ask.)\\F[15]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3077,7 +3069,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Little fox, are you prepared?\"\\n<Sakka Tsuki>\\FF[32]"
+                "\"Little fox, are you prepared?\"\\n<Saku Disaster Moon>\\FF[32]"
               ]
             },
             {
@@ -3112,14 +3104,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"...\"\\n<Sakka Tsuki>\\FF[31]"]
+              "parameters": ["\"...\"\\n<Saku Disaster Moon>\\FF[31]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It's no use, I can't... I can't win against such\na strong curse. I have to run away.)\\FF[21]\\F[10]\\AA[F]"
+                "(It's no use, I can't... I can't win against such a strong\ncurse. I have to run away.)\\FF[21]\\F[10]\\AA[F]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3133,7 +3125,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Saku, can you run? When I give the signal, we'll\nescape.\"\\n<Yukine>\\F[4]\\AA[F]\\FF[21]"
+                "\"Saku... Can you run? When I give the signal, we'll escape.\"\\n<Yukine>\\F[4]\\AA[F]\\FF[21]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3149,7 +3141,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You won't escape... Now, it's time for a fox\nhunt.\"\\n<Sakka Tsuki>\\FF[34]"
+                "\"You won't escape... Come now, it's time for a fox hunt.\"\\n<Saku Disaster Moon>\\FF[34]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4356,7 +4348,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Damn it... damn it all... everyone, everyone is\ndead...\"\\n<Male Ghost>"
+                "\"Damn it... damn... everyone, everyone is dead...\"\\n<Male Ghost>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4364,7 +4356,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Challenging such a monster... Master and big\nbrother... they've become cursed spirits.\"\\n<Male Ghost>"
+                "\"Challenging such a monster... Master and big brother...\nthey've become cursed spirits.\"\\n<Male Ghost>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4372,7 +4364,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(This person... he hasn't realized that he's\npassed away...)\\F[8]"
+                "(This person... he hasn't realized that he's passed away...)\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4380,7 +4372,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Damn it... I don't want to be eaten, don't want\nto become a cursed spirit... I hate frogs.\"\\n<Male Ghost>\\AA[N]\\F[8]"
+                "\"Damn it... I don't want to be eaten, don't want to become a\ncursed spirit... I hate frogs.\"\\n<Male Ghost>\\AA[N]\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6749,7 +6741,7 @@
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Click to continue"] },
+            { "code": 401, "indent": 0, "parameters": ["Click to continue-"] },
             { "code": 246, "indent": 0, "parameters": [1] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 117, "indent": 0, "parameters": [25] },

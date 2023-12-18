@@ -2038,7 +2038,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(A girl... this is... terrible)"]
+              "parameters": [
+                "(It's terrible... for a girl to go through this...)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 246, "indent": 0, "parameters": [1] },
@@ -2066,7 +2068,7 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["Scene Skip", "View the scene"], -1, -1, 1, 1]
+              "parameters": [["Skip scene", "Look at the scene"], -1, -1, 1, 1]
             },
             { "code": 402, "indent": 1, "parameters": [0, "シーンをスキップ"] },
             { "code": 119, "indent": 2, "parameters": ["skip"] },
@@ -2267,9 +2269,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Country_Road_2 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Country_Road_2 15"]
             },
             {
               "code": 231,
@@ -2364,7 +2364,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(If I tell her that time and space are distorted\nin this world, she'll be scared...)\\FF[24]\\F[7]\\AA[F]"
+                "(If I tell her that time and space in this world are\ndistorted, she'll be scared, won't she?)\\FF[24]\\F[7]\\AA[F]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -2392,7 +2392,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(We can't go back to the hospital now. Yeah...\nSince Girl is recovering, let's move\nforward.)\\FF[24]\\F[7]\\AA[F]"
+                "(We can't go back to the hospital now. Yeah... Saku is also\nrecovering, so let's move forward.)\\FF[24]\\F[7]\\AA[F]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2400,7 +2400,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Girl, let's go.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[24]"
+                "\"Saku, let's go.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

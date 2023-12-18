@@ -188,9 +188,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Hallway 15"]
             },
             {
               "code": 231,
@@ -330,9 +328,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Hallway 15"]
             },
             {
               "code": 231,
@@ -401,9 +397,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Hallway 15"]
             },
             {
               "code": 231,
@@ -928,7 +922,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Search_for_Yukine 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Search_for_Saku 15"]
             },
             {
               "code": 231,
@@ -1033,7 +1027,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thank goodness. I was really worried, are you\nhurt anywhere?\"\\n<Yukine>\\F[2]"
+                "\"Thank goodness. I was really worried, are you hurt\nanywhere?\"\\n<Yukine>\\F[2]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1057,7 +1051,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Oh right. I found this... could it be useful?\"\\n<Saku>\\F[2]\\AA[FF]\\FF[40]"
+                "\"Oh right. I found this... I wonder if it will be useful?\"\\n<Saku>\\F[2]\\AA[FF]\\FF[40]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -1072,7 +1066,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Obtained a Silver Filigree Key.\""]
+              "parameters": ["Obtained the \"Silver Filigree Key\"."]
             },
             { "code": 126, "indent": 0, "parameters": [72, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -1128,7 +1122,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_the_exit 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Find_the_exit 15"]
             },
             {
               "code": 231,

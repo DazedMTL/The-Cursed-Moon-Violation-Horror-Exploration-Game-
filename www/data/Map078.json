@@ -1315,7 +1315,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Saku>\\F[5]\\AA[FF]\\FF[28]"]
+              "parameters": [
+                "\"It's a beautiful and big tree. Saku has never seen anything\nlike it before.\"\\n<Saku>\\F[5]\\AA[FF]\\FF[28]"
+              ]
             },
             {
               "code": 231,
@@ -1327,7 +1329,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yes... And I feel a very clear power emanating\nfrom this tree. It's repelling the curse only\naround here... It's really mysterious. I wonder\nwhy.\"\\n<Yukine>\\F[4]\\AA[F]\\FF[28]"
+                "\"Yes... And I can feel a very clear power emanating from\nthis tree. It's repelling the curse only around here, which\nis really strange. I wonder why.\"\\n<Yukine>\\F[4]\\AA[F]\\FF[28]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -1371,7 +1373,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Thank you for reading me a picture book.\""]
+              "parameters": ["\"Thank you for reading me a storybook.\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
@@ -1383,7 +1385,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Thank you for the blessing.\""]
+              "parameters": ["\"Thank you for the blessings.\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
@@ -1429,7 +1431,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah, I see. This tree... It's inhabited by the\nfeelings of those who have been purified. It's so\nclear because it's filled with gratitude and\nhappiness.\"\\n<Yukine>\\F[1]"
+                "\"Ah, I see. This tree... it's inhabited by the feelings of\nthose who have been purified. It's so clear because it's\nfilled with gratitude and happiness.\"\\n<Yukine>\\F[1]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1437,7 +1439,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Um... Is this tree so lively because... Yukine\nOnee-san has helped so many spirits... is that\nit?\"\\n<Saku>\\F[1]\\AA[FF]\\FF[22]"
+                "\"Um... is this tree so lively because... Yukine Onee-san has\nhelped so many spirits... is that it?\"\\n<Saku>\\F[1]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1453,7 +1455,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(So that's it. The things we've done weren't in\nvain. But it doesn't seem to be blooming well.\nSurely, human feelings alone aren't\nenough.)\\AA[F]\\FF[22]\\F[7]"
+                "(\"So that's it. The things we've done weren't in vain. But\nit doesn't seem to be blooming well. Surely, human feelings\nalone aren't enough.\")\\FF[22]\\F[7]\\AA[F]"
               ]
             },
             { "code": 356, "indent": 0, "parameters": ["dpFocus player 200"] },
@@ -1463,7 +1465,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Um... If I share my power of fertility like this,\nmaybe...\"\\n<Yukine>\\F[4]"
+                "\"Um... if I share my fertility power like this, maybe...\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 242, "indent": 0, "parameters": [1] },
@@ -1507,7 +1509,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Whoa!\"\\n<Yukine>\\F[12]"]
+              "parameters": ["\"Wah!\"\\n<Yukine>\\F[12]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1570,7 +1572,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The great tree, having received divine energy,\nregained its vitality, and Sho's doll, touched by\nthe gentle wind, began to emit a faint\nlight.\\FF[28]\\AA[N]\\F[16]"
+                "The great tree, having received divine energy, regained its\nvitality, and Saku's doll, touched by the gentle wind, began\nto glow faintly.\\AA[N]\\F[16]\\FF[28]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1578,7 +1580,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Sho. What is this light!?\"\\n<Yukine>\\F[16]\\AA[F]\\FF[28]"
+                "\"Saku. What is this light!?\"\\n<Yukine>\\F[16]\\AA[F]\\FF[28]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1634,14 +1636,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Eh... That voice... Mom...?\"\\n<Saku>\\FF[24]"]
+              "parameters": ["\"Eh... that voice... Mom...?\"\\n<Saku>\\FF[24]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yukine Onee-san, Sho... It seems like we're being\ncalled.\"\\n<Saku>\\F[8]\\AA[FF]\\FF[24]"
+                "\"Yukine Onee-san, Saku... it seems like we're being called.\"\\n<Saku>\\F[8]\\AA[FF]\\FF[24]"
               ]
             },
             {
@@ -1701,7 +1703,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Sho, wait! What's happening?\"\\n<Yukine>\\F[16]"
+                "\"Saku, wait! What's happening?\"\\n<Yukine>\\F[16]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1709,7 +1711,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's okay, I'm fine. Mom says to come inside...\nSo, I'm going to go.\"\\n<Saku>\\F[16]\\AA[FF]\\FF[40]"
+                "\"It's okay, I'm fine. Mom says to come inside... so I'm\ngoing to go.\"\\n<Saku>\\F[16]\\AA[FF]\\FF[40]"
               ]
             },
             {
@@ -1757,7 +1759,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Sho!\"\\n<Yukine>\\F[16]"]
+              "parameters": ["\"Sa, Saku!\"\\n<Yukine>\\F[16]"]
             },
             {
               "code": 250,
@@ -1881,7 +1883,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Sho! You surprised me... I was worried because\nyou went into the tree.\"\\n<Yukine>\\F[8]"
+                "\"Saku! I was so surprised... I was worried when you went\ninto the tree.\"\\n<Yukine>\\F[8]"
               ]
             },
             { "code": 111, "indent": 0, "parameters": [8, 58] },
@@ -1911,7 +1913,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Welcome back. Huh... Sho? Your body... It's\nwarm.\"\\n<Yukine>\\F[5]\\AA[F]\\FF[63]"
+                "\"Welcome back. Huh... Saku? Your body... it's warm.\"\\n<Yukine>\\F[5]\\AA[F]\\FF[63]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1921,7 +1923,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Welcome back. Huh... Sho? Your body... It's\nwarm.\"\\n<Yukine>\\F[5]\\AA[F]\\FF[42]"
+                "\"Welcome back. Huh... Saku? Your body... it's warm.\"\\n<Yukine>\\F[5]\\AA[F]\\FF[42]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1932,7 +1934,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Yes, and somehow... my body feels a bit heavy.\"\\n<Saku>\\F[5]\\AA[FF]\\FF[60]"
+                "\"Yeah, and somehow... my body feels a bit heavy.\"\\n<Saku>\\F[5]\\AA[FF]\\FF[60]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1942,7 +1944,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Yes, and somehow... my body feels a bit heavy.\"\\n<Saku>\\F[5]\\AA[FF]\\FF[22]"
+                "\"Yeah, and somehow... my body feels a bit heavy.\"\\n<Saku>\\F[5]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1953,7 +1955,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Eh... Um, does this mean... you've returned to\nyour physical body. You're no longer a spirit...\nit seems?\"\\n<Yukine>\\F[4]\\AA[F]\\FF[60]"
+                "\"Eh... um, does this mean... you've returned to your\nphysical body. You're no longer a spirit... it seems?\"\\n<Yukine>\\F[4]\\AA[F]\\FF[60]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1963,7 +1965,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Eh... Um, does this mean... you've returned to\nyour physical body. You're no longer a spirit...\nit seems?\"\\n<Yukine>\\F[4]\\AA[F]\\FF[42]"
+                "\"Eh... um, does this mean... you've returned to your\nphysical body. You're no longer a spirit... it seems?\"\\n<Yukine>\\F[4]\\AA[F]\\FF[42]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1995,7 +1997,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(What does this mean? Did Sakuragetsu seal Sho's\nbody in the tree? Because we purified the spirits,\ntheir feelings have inhabited the tree where Sho's\nphysical body is?)\\AA[F]\\FF[60]\\F[4]"
+                "(\"What does this mean? Did Saku Kagetsuki seal Saku's body\ninside the tree? The spirits we purified must have left\ntheir feelings in the tree where Saku's body was\nenshrined.\")\\FF[60]\\F[4]\\AA[F]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2005,7 +2007,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(What does this mean? Did Sakuragetsu seal Sho's\nbody in the tree? Because we purified the spirits,\ntheir feelings have inhabited the tree where Sho's\nphysical body is?)\\AA[F]\\FF[22]\\F[4]"
+                "(\"What does this mean? Did Saku Kagetsuki seal Saku's body\ninside the tree? The spirits we purified must have left\ntheir feelings in the tree where Saku's body was\nenshrined.\")\\FF[22]\\F[4]\\AA[F]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2037,7 +2039,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\F[4](Could it be that the doll became a body? That's\nwhy Sho's mother gave us that\ndoll...)\\AA[F]\\FF[62]"
+                "\\F[4](\"Could it be that the doll became a body? That's why Saku's\nmother gave her that doll...\")\\AA[F]\\FF[62]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2047,7 +2049,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\F[4](Could it be that the doll became a body? That's\nwhy Sho's mother gave us that\ndoll...)\\AA[F]\\FF[23]"
+                "\\F[4](\"Could it be that the doll became a body? That's why Saku's\nmother gave her that doll...\")\\AA[F]\\FF[23]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2058,7 +2060,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"What's wrong, Yukine Onee-san? Was it bad to lose\nthe doll?\"\\n<Saku>\\F[4]\\AA[FF]\\FF[62]"
+                "\"What's wrong, Yukine Onee-san? Was it bad to lose the\ndoll?\"\\n<Saku>\\F[4]\\AA[FF]\\FF[62]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2068,7 +2070,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"What's wrong, Yukine Onee-san? Was it bad to lose\nthe doll?\"\\n<Saku>\\F[4]\\AA[FF]\\FF[23]"
+                "\"What's wrong, Yukine Onee-san? Was it bad to lose the\ndoll?\"\\n<Saku>\\F[4]\\AA[FF]\\FF[23]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2079,7 +2081,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"No... that's not it. I'm happy that Sho's body\nhas returned.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[62]"
+                "\"No... that's not it. I'm happy that your body has\nreturned.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[62]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2089,7 +2091,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"No... that's not it. I'm happy that Sho's body\nhas returned.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[23]"
+                "\"No... that's not it. I'm happy that your body has\nreturned.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2100,7 +2102,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Thank goodness... Does this mean I can be with\nYukine Onee-san even more now?\"\\n<Saku>\\F[1]\\AA[FF]\\FF[61]"
+                "\"Thank goodness... Does this mean I can be with Yukine Onee-\nsan even more now?\"\\n<Saku>\\F[1]\\AA[FF]\\FF[61]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2110,7 +2112,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Thank goodness... Does this mean I can be with\nYukine Onee-san even more now?\"\\n<Saku>\\F[1]\\AA[FF]\\FF[25]"
+                "\"Thank goodness... Does this mean I can be with Yukine Onee-\nsan even more now?\"\\n<Saku>\\F[1]\\AA[FF]\\FF[25]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2163,7 +2165,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Now we just have to get out of here. It's not\nmuch longer, so let's keep going.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[64]"
+                "\"Now we just need to get out of here. It's not much longer,\nso let's keep going.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[64]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2173,7 +2175,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Now we just have to get out of here. It's not\nmuch longer, so let's keep going.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[45]"
+                "\"Now we just need to get out of here. It's not much longer,\nso let's keep going.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[45]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2184,7 +2186,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Yeah... Sho will do his best.\"\\n<Saku>\\F[1]\\AA[FF]\\FF[64]"
+                "\"Yeah... Saku will do her best.\"\\n<Saku>\\F[1]\\AA[FF]\\FF[64]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2194,7 +2196,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Yeah... Sho will do his best.\"\\n<Saku>\\F[1]\\AA[FF]\\FF[45]"
+                "\"Yeah... Saku will do her best.\"\\n<Saku>\\F[1]\\AA[FF]\\FF[45]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2222,7 +2224,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...So you've reclaimed Sho's physical body. How\ndare such a petty human spirit defy me. This must\nbe the work of that fox child. She's done\nsomething unnecessary.\"\\n<Sakari Tsuki>"
+                "\"...So you've reclaimed Saku's body. How insolent of mere\nhuman spirits to defy me. This must be the work of that fox\nchild. She's done something unnecessary.\"\\n<Saku Disaster Moon>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2230,7 +2232,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Well, it's fine. If it was taken, then I just\nneed to take it back... ...\"\\n<Sakka Tsuki>"
+                "\"Well, no matter. If it was taken, I just need to take it\nback... ...\"\\n<Saku Disaster Moon>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2238,7 +2240,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Sho... you belong to me. I won't let you escape.\"\\n<Sakari Tsuki>"
+                "\"Saku... you belong to me. I won't let you escape.\"\\n<Saku Disaster Moon>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -2346,7 +2348,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I feel like there's something I've left undone)"]
+              "parameters": ["(I feel like I've left something undone)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -2534,7 +2536,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...Where do you think you're going?\"\\n<???>\\FF[31]"
+                "\"Where do you think you're going?\"\\n<???>\\FF[31]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -2594,14 +2596,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Sakuramiya...\"\\n<Yukine>\\F[4]"]
+              "parameters": ["\"Saku Kagetsuki...\"\\n<Yukine>\\F[4]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Saku, what are you dissatisfied with? This is\nthe eternal home you wished for. Why do you\ndestroy my domain?\"\\n<Sakari Tsuki>\\FF[31]"
+                "\"Saku, what are you dissatisfied with? This is the eternal\nhome you wished for. Why do you destroy my domain?\"\\n<Saku Disaster Moon>\\FF[31]"
               ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 247, 0] },
@@ -2610,7 +2612,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"God, I don't like it here. It's dark, cold, and\nscary.\"\\n<Saku>\\FF[62]"
+                "\"God, I don't like it here. It's dark, cold, and scary.\"\\n<Saku>\\FF[62]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2620,7 +2622,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"God, I don't like it here. It's dark, cold, and\nscary.\"\\n<Saku>\\FF[23]"
+                "\"God, I don't like it here. It's dark, cold, and scary.\"\\n<Saku>\\FF[23]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2630,7 +2632,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Then, I shall light a fire. If you wish for\nfreedom, I shall grant it, and I will stay by your\nside as much as you want.\"\\n<Sakari Tsuki>\\FF[31]"
+                "\"Then, I shall light a fire. If you wish for freedom, I\nshall grant it, and I will stay by Saku's side as much as\nshe desires.\"\\n<Saku Disaster Moon>\\FF[31]"
               ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 247, 0] },
@@ -2639,7 +2641,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Saku was lonely and always wanted to go home...\nI didn't want my father or mother to die... I\nwanted them to live.\"\\n<Saku>\\FF[62]"
+                "\"Saku has been lonely and wanted to go home... I didn't want\nmy father or mother to die... I wanted them to live.\"\\n<Saku>\\FF[62]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2649,7 +2651,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Saku was lonely and always wanted to go home...\nI didn't want my father or mother to die... I\nwanted them to live.\"\\n<Saku>\\FF[23]"
+                "\"Saku has been lonely and wanted to go home... I didn't want\nmy father or mother to die... I wanted them to live.\"\\n<Saku>\\FF[23]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2659,7 +2661,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"If you die, we can be together forever. What is\nthere to be dissatisfied with about hastening the\ninevitable separation?\"\\n<Sakka Tsuki>\\FF[39]"
+                "\"If you die, we can be together forever. What is there to be\ndissatisfied about hastening the inevitable separation?\"\\n<Saku Disaster Moon>\\FF[39]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -2687,7 +2689,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Sakuramiya... Humans are meant to be surrounded\nby the living. Filling one's heart with the dead\nwon't bring happiness.\"\\n<Yukine>\\F[4]"
+                "\"Saku Kagetsuki... Humans are meant to be surrounded by the\nliving. Filling one's heart with the dead does not lead to\nhappiness.\"\\n<Yukine>\\F[4]"
               ]
             },
             {
@@ -2702,7 +2704,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Silence! How dare a mere fox like you offer\nopinions to me. Know your place!\"\\n<Sakka Tsuki>\\FF[37]"
+                "\"Silence! How dare a mere fox like you offer opinions to me.\nKnow your place!\"\\n<Saku Disaster Moon>\\FF[37]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -2712,14 +2714,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Guh!\"\\n<Yukine>\\F[55]"]
+              "parameters": ["\"Grr!\"\\n<Yukine>\\F[55]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"What do you know? The pain of being abandoned and\nforgotten, a pampered Inari deity living among\nhumans could never understand!\"\\n<Sakari Tsuki>\\FF[37]"
+                "\"What do you know? The pain of being abandoned and\nforgotten, a pampered Inari deity from the human world could\nnever understand!\"\\n<Saku Disaster Moon>\\FF[37]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2727,7 +2729,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Sakuramiya. I may not understand your feelings...\nBut loneliness is no excuse to bind someone and\ntake away their freedom.\"\\n<Yukine>\\F[18]"
+                "\"Saku Kagetsuki. I may not understand your feelings... But\nloneliness is no excuse to bind someone and take away their\nfreedom.\"\\n<Yukine>\\F[18]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2735,7 +2737,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Silence, fox! How dare you steal Saku from me\nand ravage my garden. I will not let you live any\nlonger. You shall become an eternal sacrifice for\nthe mansion.\"\\n<Sakka Tsuki>\\FF[37]"
+                "\"Silence, fox! How dare you steal Saku from me and ravage my\ngarden. I will not let you live any longer. You shall become\nan eternal sacrifice for the mansion.\"\\n<Saku Disaster Moon>\\FF[37]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -2753,7 +2755,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"(Such powerful curse energy... But it's not as\noppressive as before. It must be weakened since\nthe key to the mansion was destroyed.)\"\\n<Yukine>\\F[55]"
+                "\"(Such powerful curse energy... But it's not as oppressive\nas before. It must be weakened since we destroyed the\nmansion's keystone.)\"\\n<Yukine>\\F[55]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2785,7 +2787,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(Saku seems to be still okay.)\\AA[F]\\FF[65]\\F[4]"
+                "(Saku seems to be still okay.)\\FF[65]\\F[4]\\AA[F]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2795,7 +2797,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(Saku seems to be at her limit.)\\AA[F]\\FF[21]\\F[4]"
+                "(Saku seems to be at her limit.)\\FF[21]\\F[4]\\AA[F]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2828,7 +2830,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(I feel like I could fight now if I had to, but\nmaybe it's better to run away with Saku.)\\F[8]"
+                "(I feel like I could fight now if I had to, but maybe it's\nbetter to run away with Saku.)\\F[8]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2859,7 +2861,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["(I am...)\\AA[F]\\FF[65]\\F[4]"]
+              "parameters": ["(I am...)\\FF[65]\\F[4]\\AA[F]"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -2867,7 +2869,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["(I am...)\\AA[F]\\FF[21]\\F[4]"]
+              "parameters": ["(I am...)\\FF[21]\\F[4]\\AA[F]"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -2876,8 +2878,8 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Fight with Sakurazuki",
-                  "Sakuto and I will run away togetherif(!s[247])"
+                  "Fight against Saku and Yukine",
+                  "Escape with Sakuif(!s[247])"
                 ],
                 -1,
                 -1,
@@ -2995,7 +2997,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Saku... Are you also abandoning me? Even you...\"\\n<Sakari Tsuki>\\FF[37]"
+                "\"Saku... Are you also abandoning me? Even you...\"\\n<Saku Disaster Moon>\\FF[37]"
               ]
             },
             {
@@ -3010,7 +3012,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"No! Saku is mine. You will live here for all\neternity. I'd rather die than hand you over to a\nfox!\"\\n<Sakka Tsuki>\\FF[37]"
+                "\"No! Saku is mine. You will live here for all eternity. I'd\nrather die than hand you over to a fox!\"\\n<Saku Disaster Moon>\\FF[37]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -3098,7 +3100,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"As I thought, you protected him!\"\\n<Sakka Tsuki>\\FF[32]"
+                "\"As I thought, you protected her!\"\\n<Saku Disaster Moon>\\FF[32]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3106,14 +3108,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sakugatsu sneers with a grin. The curse god knew\nwhat I was trying to protect and deliberately\ntargeted Saku."
+                "Sakuragetsu sneers with a grin. The cursed god knew what I\nwas trying to protect and deliberately targeted Saku."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Die, vixen!\"\\n<Sakka Tsuki>\\FF[34]"]
+              "parameters": ["\"Die, vixen!\"\\n<Saku Disaster Moon>\\FF[34]"]
             },
             {
               "code": 223,
@@ -3134,7 +3136,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "With a malevolent power gathered in his hand,\nSakugatsu thrusts a sharp hand blade filled with\nmurderous intent at me--"
+                "Imbuing his hands with a malevolent power, Sakuragetsu\nthrusts a sharp hand blade with murderous intent at me--"
               ]
             },
             {
@@ -3142,9 +3144,9 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Slash with the daggerif(s[154])",
-                  "I'll block with my daggerif(!s[247])",
-                  "I clench the amulet tightlyif(!s[247])"
+                  "Slash with a daggerif(s[154])",
+                  "Block with a daggerif(!s[247])",
+                  "Clutch the amulet tightlyif(!s[247])"
                 ],
                 -1,
                 -1,
@@ -3261,7 +3263,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Despite clutching the amulet tightly, my wish did\nnot reach. A small hand pierced through my chest."
+                "Despite clutching the amulet tightly, my wish did not reach.\nA small hand pierced through my chest."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -3271,14 +3273,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Onee-chan!!\"\\n<Saku>"]
+              "parameters": ["\"Big sister!!\"\\n<Saku>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A scream echoes, and something hot spreads inside\nmy chest. My body trembles with the realization\nthat something that should not have broken has\nshattered, and the sensation of life fading away--"
+                "A scream echoes, and something hot spreads inside my chest.\nMy body trembles with the realization that something that\nshould not have broken has shattered, and the sensation of\nlife fading away--"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3291,14 +3293,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"This is divine punishment!\"\\n<Sakka Tsuki>"]
+              "parameters": [
+                "\"This is divine punishment!\"\\n<Saku Disaster Moon>"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "As if to mock me for reaching out to the precious\ngirl, Sakuragatsu pulls out her arm."
+                "Mocking me as I reached out to the precious girl, Sakugatsu\npulls her arm out."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -3335,7 +3339,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "And without waiting for the last word, the cursed\ngod crushes the tomato-like torn divine core in\nher grasp."
+                "And without waiting for a last word, the cursed god crushes\nthe divine core, now like a mangled tomato, in her grasp."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3360,14 +3364,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "In the darkening field of vision, I see\nSakuragatsu swallowing the shrunken heart. And as\nI fall, Saku's scream reaches my ears."
+                "In my darkening vision, I see Sakugatsu swallowing the\nshrunken heart. And as I fall, Saku's scream reaches my\nears."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["But there is nothing I can do."]
+              "parameters": ["But there's nothing I can do."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -3442,7 +3446,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "As if mocking me for trying to defend myself with\na small knife, the tips of Sakurame Tsuki's\nfingers undulated, making a slicing sound as they\npassed by my neck."
+                "As if mocking my attempt to defend myself with a small\nknife, Saku's fingertips swirled, making a slicing sound as\nthey passed by my neck."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3482,7 +3486,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Feeling something cold on my neck, a moment later,\nbright red blood spurted from my throat."
+                "I feel something cold on my neck, and a moment later, bright\nred blood spurts from my throat."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3496,7 +3500,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Onee-chan... no, no way... it's not true, right?\"\\n<Saku>"
+                "\"Big sis... no, it's a lie... this has to be a lie, right?\"\\n<Saku>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3504,7 +3508,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You can hear Sakurame's voice. However, with my\nthroat slashed, I am unable to even respond."
+                "You can hear Saku's voice. However, with my throat slashed,\nI can't even respond."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3512,7 +3516,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I can clearly feel my life fading away. The blood\ngushing out turns into particles of spiritual\nenergy and vanishes."
+                "I can clearly feel my life fading away. The blood gushing\nout turns into particles of spiritual energy and vanishes."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3520,14 +3524,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"To think you could deceive me, it's five hundred\nyears too early for you, vixen!\"\\n<Sakka Tsuki>"
+                "\"To think you could deceive me, you're five hundred years\ntoo early, vixen!\"\\n<Saku Disaster Moon>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Stop it... stop it--------!\"\\n<Saku>"]
+              "parameters": ["\"Stop... please stop--------!\"\\n<Saku>"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -3552,13 +3556,13 @@
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["(Sa... ku...)"] },
+            { "code": 401, "indent": 0, "parameters": ["(Saku...)"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "In the end, thinking of Sakurame until the last\nmoment, my head was severed by those small hands."
+                "In the end, thinking of Saku until the last moment, my head\nwas severed by those small hands."
               ]
             },
             {
@@ -3631,7 +3635,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I unsheathed the small knife in my hand and swung\nits rusty blade."
+                "I unsheathed the small knife in my hand and swung its rusty\nblade."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -3647,7 +3651,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Aaargghhhhhhh!!!\"\\n<Sakka Tsuki>\\FF[84]"]
+              "parameters": [
+                "\"Aaagghhhhhhhhh!!!\"\\n<Saku Disaster Moon>\\FF[84]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             {
@@ -3689,7 +3695,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The blade, which should have been rusty, swept\naway the approaching tentacles, and Sakuragatsu,\nwho lost everything beyond her wrist, screamed."
+                "The blade, which should have been rusty, swept away the\napproaching tentacles, and Saku Kagetsuki, who lost\neverything beyond her wrist, screamed."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 247, 0] },
@@ -3697,7 +3703,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\"Onee-san, it's... shining.\"\\n<Saku>\\FF[66]"]
+              "parameters": ["\"Onee-san, it's... glowing.\"\\n<Saku>\\FF[66]"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -3705,7 +3711,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\"Onee-san, it's... shining.\"\\n<Saku>\\FF[28]"]
+              "parameters": ["\"Onee-san, it's... glowing.\"\\n<Saku>\\FF[28]"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -3736,7 +3742,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Upon closer inspection, the blade that was covered\nin red rust had turned to shining silver, faintly\nglowing. The light, like a lamp's flame, was a\ngentle color as if protecting Saku.\\AA[N]\\FF[66]\\F[4]"
+                "Upon closer inspection, the blade that was covered in red\nrust had turned to shining silver, faintly glowing. The\nlight, like a flame, was a gentle color as if to protect\nSaku.\\FF[66]\\F[4]\\AA[N]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -3746,7 +3752,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Upon closer inspection, the blade that was covered\nin red rust had turned to shining silver, faintly\nglowing. The light, like a lamp's flame, was a\ngentle color as if protecting Saku.\\AA[N]\\FF[28]\\F[4]"
+                "Upon closer inspection, the blade that was covered in red\nrust had turned to shining silver, faintly glowing. The\nlight, like a flame, was a gentle color as if to protect\nSaku.\\FF[28]\\F[4]\\AA[N]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -3756,7 +3762,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Grrr, you used my power to turn back the time of\nthe spirit sword... To exorcise my power is\ndetestable.\"\\n<Sakari Tsuki>\\FF[72]"
+                "\"Grr, you used my power to turn back the time of the spirit\nsword... To exorcise my power is detestable.\"\\n<Saku Disaster Moon>\\FF[72]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -3784,7 +3790,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ugh, my power is fading... If it comes to this, I\nwill escape to the present world first.\"\\n<Sakka Tsuki>\\FF[72]"
+                "\"Ugh, my power is fading... If it comes to this, I will\nescape to the present world first.\"\\n<Saku Disaster Moon>\\FF[72]"
               ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 156, 0] },
@@ -3793,7 +3799,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Uuuu... why only me... I just wanted... with\nSaku... grr.\"\\n<Sakari Tsuki>\\FF[72]"
+                "\"Uuuu... why only me... I just wanted... with Saku... grr.\"\\n<Saku Disaster Moon>\\FF[72]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -3842,7 +3848,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"She intends to flee to the present world. Saku,\nwe must hurry! Or we won't be able to return.\"\\n<Yukine>\\F[19]"
+                "\"She intends to flee to the present world. Saku, we must\nhurry! Or we won't be able to return.\"\\n<Yukine>\\F[19]"
               ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 247, 0] },
@@ -3852,7 +3858,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\"Okay, I understand. Yukine Onee-san... But the\ndeity seemed... somehow lonely.\"\\n<Saku>\\F[19]\\AA[FF]\\FF[62]"
+                "\"Okay, I understand. Yukine Onee-san... But the deity\nseemed... somehow lonely.\"\\n<Saku>\\F[19]\\AA[FF]\\FF[62]"
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -3868,7 +3874,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "(I understand that feeling too... But we must\nhurry now.)\\F[10]"
+                "(I understand that feeling too... But we need to hurry now.)\\F[10]"
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -3890,7 +3896,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Haa haa... ugh... let's go. We have to return...\ntogether.\"\\n<Saku>\\F[19]\\AA[FF]\\FF[24]"
+                "\"Haa haa... ugh... let's go. We have to return... together.\"\\n<Saku>\\F[19]\\AA[FF]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3898,7 +3904,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(It seems Saku is at her limit. I must defeat\nSakuragatsu quickly or this child's body won't\nlast. I have to chase after her quickly.)\\F[8]"
+                "(It seems like Saku is at her limit. I must defeat Saku\nKagetsuki quickly or this child's body won't last. We need\nto chase after her immediately.)\\F[8]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -4095,7 +4101,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Lady Yukine, please jump in! We can't reach the\npath to the present world, but we've created a\nshortcut by bundling together the faith in the\ndeity. Please hurry!\"\\n<Fox>\\AA[N]\\F[18]"
+                "\"Lady Yukine, please jump in! We can't reach the path to the\npresent world, but we've created a shortcut by bundling\ntogether the faith towards the deity. Please hurry!\"\\n<Fox>\\AA[N]\\F[18]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4256,7 +4262,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I'm okay. Um, Yukine Onee-san, can I hold your\nhand...?\"\\n<Saku>\\F[4]\\AA[FF]\\FF[24]"
+                "\"I'm okay. Um, Yukine Onee-san, can I hold your hand...?\"\\n<Saku>\\F[4]\\AA[FF]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4264,7 +4270,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "As I firmly grasp her small hand, Sakugami glares\nat me with eyes filled with hatred. The intense\nmurderous intent makes my body\ntremble\\AA[N]\\FF[24]\\F[4]"
+                "As I grasp her small hand, Saku Kagetsuki glares at me with\nhatred-filled eyes. I tremble at the intense murderous\nintent\\FF[24]\\F[4]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4272,7 +4278,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Do you think you can escape from me, vixen!\"\\n<Sakari Tsuki>\\FF[37]"
+                "\"Do you think you can escape from me, vixen!\"\\n<Saku Disaster Moon>\\FF[37]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -4365,14 +4371,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Tch, that power...\"\\n<Sakari Tsuki>\\FF[39]"]
+              "parameters": [
+                "\"Tch, that power...\"\\n<Saku Disaster Moon>\\FF[39]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"But this is the end! Disappear!\"\\n<Sakari Tsuki>\\FF[39]"
+                "\"But this is as far as it goes! Disappear\"\\n<Saku Disaster Moon>\\FF[39]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [10] },
@@ -4396,7 +4404,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The curse released caused cracks in the \"mask,\"\nand I lost the power of feelings that protected\nme."
+                "The curse released caused cracks in the \"mask,\" and I lost\nthe power of feelings that protected me."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4404,7 +4412,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Grr, my movements are sluggish. You pesky human,\nto obstruct me now...\"\\n<Sakari Tsuki>\\FF[39]"
+                "\"Grr, my movements are sluggish. You pesky human, to\nobstruct me now...\"\\n<Saku Disaster Moon>\\FF[39]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4514,7 +4522,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"It's over, vixen!\"\\n<Sakari Tsuki>\\FF[33]"]
+              "parameters": [
+                "\"It's the end for you, vixen!\"\\n<Saku Disaster Moon>\\FF[33]"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -4535,7 +4545,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Damn youuuu! Next is the father! After offering\nyour daughter to me, now you dare to do this...!\"\\n<Sakka Tsuki>\\FF[37]"
+                "\"Damn youuuu! Next is the father! After offering your\ndaughter to me, now you dare to do this...!\"\\n<Saku Disaster Moon>\\FF[37]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4543,7 +4553,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Let the soul sealed in the sword shatter along\nwith it‼︎\"\\n<Sakari Tsuki>\\FF[37]"
+                "\"Let the soul sealed in the sword shatter along with it‼︎\"\\n<Saku Disaster Moon>\\FF[37]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -4567,7 +4577,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The black curse shattered the \"rusted kodachi,\"\nbut its fragments clung to Sakugami, slightly\nslowing down the movements of the cursed god."
+                "The \"rusty short sword\" shattered under the black curse.\nHowever, its fragments clung to Saku Kagetsuki, slightly\nslowing down the movements of the cursed god."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4575,7 +4585,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hah hah... Dad... you saved me.\"\\n<Saku>\\FF[23]"
+                "\"Hah hah... Father... you saved me.\"\\n<Saku>\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4591,7 +4601,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yes, I'm... hah, mmm... I'm okay.\"\\n<Saku>\\F[4]\\AA[FF]\\FF[24]"
+                "\"Yes, I can... hah, mmm... I'm okay.\"\\n<Saku>\\F[4]\\AA[FF]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4599,7 +4609,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I'm sorry, Saku. Just a little bit longer, hang\nin there.\"\\n<Yukine>\\F[8]\\AA[F]\\FF[24]"
+                "\"I'm sorry, Saku. Just a little bit longer, hang in there.\"\\n<Yukine>\\F[8]\\AA[F]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4607,7 +4617,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "As Sakugami crushes the blade fragments with\ndisgust, I hold onto Saku's small hand.\\n<Yukine>\\F[8]\\AA[N]\\FF[24]"
+                "With a look of disgust, I watch Saku Kagetsuki crush the\nblade fragments as I hold onto Saku's small hand.\\n<Yukine>\\F[8]\\AA[N]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4615,7 +4625,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Let's go, Saku. I won't let go of your hand, I\npromise!\"\\n<Yukine>\\F[4]\\AA[F]\\FF[24]"
+                "\"Let's go, Saku. I won't let go of your hand, I promise!\"\\n<Yukine>\\F[4]\\AA[F]\\FF[24]"
               ]
             },
             {
@@ -4751,7 +4761,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's the path to the living world! Let's go,\nSaku.\"\\n<Yukine>\\F[19]"
+                "\"It's the path to the living world! Let's go, Saku.\"\\n<Yukine>\\F[19]"
               ]
             },
             {

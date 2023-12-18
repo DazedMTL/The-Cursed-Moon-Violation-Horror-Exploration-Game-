@@ -350,7 +350,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_The_Kitchen_with_a__Bad_Smell 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_A_Kitchen_with_a_Bad_Smell 15"
               ]
             },
             {
@@ -412,7 +412,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_The_Kitchen_with_a__Bad_Smell 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_A_Kitchen_with_a_Bad_Smell 15"
               ]
             },
             {
@@ -519,7 +519,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Washroom 15"
+                "D_TEXT Current_Location:_Washroom\\ow[0]\\c[15] 15"
               ]
             },
             {
@@ -581,7 +581,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Washroom 15"
+                "D_TEXT Current_Location:_Washroom\\ow[0]\\c[15] 15"
               ]
             },
             {
@@ -691,7 +691,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_Toilet 15"]
+              "parameters": ["D_TEXT Current_Location:_Toilet 15"]
             },
             {
               "code": 231,
@@ -751,7 +751,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_Toilet 15"]
+              "parameters": ["D_TEXT Current_Location:_Toilet 15"]
             },
             {
               "code": 231,
@@ -861,7 +861,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__2nd_Floor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House_2nd_Floor 15"
               ]
             },
             {
@@ -923,7 +923,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__2nd_Floor 15"
+                "D_TEXT Current_Location:_Bloodstained_House_2nd_Floor\\ow[0]\\c[15] 15"
               ]
             },
             {
@@ -1030,7 +1030,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__1st_Floor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House_1st_Floor 15"
               ]
             },
             {
@@ -1092,7 +1092,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__1st_Floor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House_1st_Floor 15"
               ]
             },
             {
@@ -1199,7 +1199,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__1st_Floor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House_1st_Floor 15"
               ]
             },
             {
@@ -1261,7 +1261,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__1st_Floor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House_1st_Floor 15"
               ]
             },
             {
@@ -1368,7 +1368,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__1st_Floor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House_1st_Floor 15"
               ]
             },
             {
@@ -1430,7 +1430,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__1st_Floor 15"
+                "D_TEXT Current_Location:_Bloodstained_House_1st_Floor\\ow[0]\\c[15] 15"
               ]
             },
             {
@@ -1537,7 +1537,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__1st_Floor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House_1st_Floor 15"
               ]
             },
             {
@@ -1599,7 +1599,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__1st_Floor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House_1st_Floor 15"
               ]
             },
             {
@@ -1706,7 +1706,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__2nd_Floor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House_2nd_Floor 15"
               ]
             },
             {
@@ -1768,7 +1768,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__2nd_Floor 15"
+                "D_TEXT Current_Location:_Bloodstained_House_2nd_Floor 15"
               ]
             },
             {
@@ -1868,7 +1868,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Could it be... inside this... no way\"\\n<Yukine>\\F[15]"
+                "\"Could it be that inside this... no way\"\\n<Yukine>\\F[15]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1973,7 +1973,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I don't think there's anything useful here...)"]
+              "parameters": ["(I wonder if there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2078,7 +2078,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I don't think there's anything useful here...)"]
+              "parameters": ["(I wonder if there's anything useful here)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2183,7 +2183,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I don't think there's anything useful here...)"]
+              "parameters": ["(I wonder if there's anything useful here)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2296,7 +2296,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Could this possibly be a human... arm?\"\\n<Yukine>\\F[15]"
+                "\"Could this possibly be a human...arm?\"\\n<Yukine>\\F[15]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2410,7 +2410,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Stairs_Leading__Unde__rground 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Stairs_Leading_Underground 15"
               ]
             },
             {
@@ -2530,7 +2530,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Stairs_Leading__Unde__rground 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Stairs_Leading_Underground 15"
               ]
             },
             {
@@ -2638,7 +2638,11 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [19] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["(It smells bad...)"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["(There's a nasty smell...)"]
+            },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2747,7 +2751,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Read it", "I won't read it"], 1, -1, 1, 1]
+              "parameters": [["Read", "Don't read it"], 1, -1, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "読む"] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2763,7 +2767,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "September 4th, at last, I was able to save enough\nmoney to buy my home. I was lucky to find a\nproperty at a bargain price. Now I can give my\neight-year-old Shizuka her own room."
+                "September 4th, at last I was able to save enough money to\nbuy my home. I was lucky to find a bargain property. Now I\ncan give eight-year-old Shizuka her own room."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -2771,7 +2775,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "October 27th, the move is finished. The inside is\nsurprisingly spacious, more so than the exterior\nsuggests. If it were a detached house with a\ngarden in Tokyo, it would be something to boast\nabout."
+                "October 27th, the move is finished. Once inside, it's\nsurprisingly spacious, more so than the exterior suggests.\nIf it were a detached house with a garden in the city, it\nwould be something to boast about."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -2779,7 +2783,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I've put my wife through some trouble with the\nnoise in the neighborhood, but this place is\nastonishingly quiet. Even when my daughter runs up\nthe stairs, you can't hear a sound. By the way,\nthere wasn't supposed to be a Japanese-style\nstorehouse in the garden, was there?"
+                "I've put my wife through some trouble with the noise in the\nneighborhood, but this place is shockingly quiet. Even when\nmy daughter runs up the stairs, you can't hear a sound. By\nthe way, wasn't there supposed to be no Japanese-style\nstorehouse in the garden?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -2787,7 +2791,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "October 28th, Shizuka has been acting strange\nsince we moved in. She says there's someone in the\nhouse and garden. That can't be possible."
+                "October 28th, Shizuka has been acting strange since we moved\nin. She says there's someone in the house and garden. That\ncan't be possible."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -2795,7 +2799,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Only I, my wife Kana, and Shizuka should be living\nin this house. It must be her imagination."
+                "Only I, my wife Kana, and Shizuka should be living in this\nhouse. It must be her imagination."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -2803,7 +2807,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "October 29th, Mr. Suzuki from next door came over\nfor dinner. Kana's cooking is the best. The liver\nespecially is delicious. It's my first time eating\nraw human organs, but they're fatty and tasty."
+                "October 29th, Mr. Suzuki from next door came over for\ndinner. Kana's cooking is the best. The liver especially is\ndelicious. It's my first time eating raw human organs, but\nthey're fatty and tasty."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -2811,7 +2815,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's just too bad that I won't be able to eat the\nmeat and potatoes we got as a share ever again."
+                "It's a shame that I won't be able to eat the meat and\npotatoes we got as a share ever again."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -2819,7 +2823,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "October 30th, a hatchet arrived by courier. When I\ntried it out on the delivery man, it split him\nopen like a watermelon."
+                "October 30th, a hatchet arrived by courier. When I tried it\nout on the delivery man, it split him open like a\nwatermelon."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -2827,7 +2831,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It was a good purchase. Kana wanted to try it too,\nand when I lent it to her, she cut off her own\nwrist. Looks like I'll be making dinner tonight."
+                "It was a good purchase. Kana wanted to try it too, and when\nI lent it to her, she cut off her own wrist. Looks like I'll\nbe making dinner tonight."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -2835,7 +2839,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "November 2nd, there are a lot of police officers\noutside. It's my first time seeing something\ncalled SAT. It seems they want to enter the house."
+                "November 2nd, there are many police officers outside. It's\nmy first time seeing something called SAT. It seems they\nwant to enter the house."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -2843,7 +2847,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Since it's such a special occasion, I think I'll\nthrow a party and celebrate grandly with cake."
+                "Since it's such an occasion, I think I'll throw a party and\ncelebrate grandly with cake."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -2851,7 +2855,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Inviting them over after dividing Kana and Shizuka\ninto smaller pieces and putting them in the fridge\nmight have been a mistake. I hope they suit the\ntaste of the police officers."
+                "Inviting them over after having divided Kana and Shizuka\ninto smaller pieces and storing them in the fridge might\nhave been a mistake. I hope they suit the taste of the\npolice officers."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 86, 1] },
@@ -2965,19 +2969,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It's a pretty tight hole... but with some effort,\nI might be able to get through.)"
+                "(It's a pretty tight hole... but with some effort, I might\nbe able to get through.)"
               ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [
-                ["I'll enter the hole", "I can't fit through"],
-                1,
-                -1,
-                1,
-                1
-              ]
+              "parameters": [["Enter the hole", "I won't go in"], 1, -1, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "穴に入る"] },
             { "code": 117, "indent": 1, "parameters": [20] },
@@ -3053,7 +3051,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Huh, it won't turn on? Maybe it's missing\nbatteries?\"\\n<Yukine>"
+                "\"Huh, it won't turn on? Maybe it's missing batteries?\"\\n<Yukine>"
               ]
             },
             { "code": 121, "indent": 1, "parameters": [3, 3, 0] },
@@ -3080,7 +3078,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(It doesn't look like I can go any further. I\nshould head back.)"
+                "(It doesn't look like I can go any further. I should head\nback.)"
               ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -3206,7 +3204,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Read it", "I won't read it"], 1, -1, 1, 1]
+              "parameters": [["Read it", "Don't read it"], 1, -1, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "読む"] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -3217,13 +3215,17 @@
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 356, "indent": 0, "parameters": ["MWP_INVALID"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\"Exorcism Record\""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\"Exorcism Records\""]
+            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "May 16th, a lingering spirit. Two exorcism ritual\nitems damaged. August 15th, failed to return. One\nexorcism ritual item damaged."
+                "May 16th, a lingering spirit. Two exorcism ritual items\ndamaged. August 15th, failed to return. One exorcism ritual\nitem damaged."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -3231,7 +3233,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "September 2nd, an evil spirit. Three exorcism\nritual items damaged. October 30th, an evil\nspirit. Two banishment ritual items damaged."
+                "September 2nd, an evil spirit. Three exorcism ritual items\ndamaged. October 30th, an evil spirit. Two banishment ritual\nitems damaged."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -3239,7 +3241,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "November 3rd, an evil spirit. Three exorcism\nritual items damaged. January 10th, twenty-eight\nritual items damaged."
+                "November 3rd, an evil spirit. Three exorcism ritual items\ndamaged. January 10th, twenty-eight ritual items damaged."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -3247,7 +3249,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The remaining item is hidden inside the house. I\npray that the light will be of help to someone."
+                "Hide the remaining item inside the house. I pray that this\nlight will be of use to someone."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 88, 1] },
@@ -3368,7 +3370,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__2nd_Floor 15"
+                "D_TEXT Current_Location:_Bloodstained_House_2nd_Floor\\ow[0]\\c[15] 15"
               ]
             },
             {
@@ -3430,7 +3432,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__2nd_Floor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House_2nd_Floor 15"
               ]
             },
             {
@@ -3536,7 +3538,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__2nd_Floor 15"
+                "D_TEXT Current_Location:_Bloodstained_House_2nd_Floor\\ow[0]\\c[15] 15"
               ]
             },
             {
@@ -3598,7 +3600,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Bloodstained_House__2nd_Floor 15"
+                "D_TEXT Current_Location:_Bloodstained_House_2nd_Floor\\ow[0]\\c[15] 15"
               ]
             },
             {
@@ -3700,7 +3702,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Eh... Why is there a place like this inside the\nmansion?)"
+                "(Eh... Why is there a place like this inside the mansion?)"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3708,7 +3710,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(The interior of the house is new... but the\nunpleasant atmosphere is getting thicker.)"
+                "(The interior of the house is new... but the unpleasant\natmosphere is getting thicker.)"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -3857,7 +3859,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(Just now, was that a sound...?)"]
+              "parameters": ["(Did I just hear a noise...?)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 121, "indent": 0, "parameters": [89, 89, 0] },
@@ -4087,7 +4089,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This ghost... what should I do... It's completely\nturned into an evil spirit... contaminated by a\ncurse.\"\\n<Yukine>\\F[15]"
+                "\"This ghost... what should I do... It's completely turned\ninto an evil spirit... contaminated by a curse.\"\\n<Yukine>\\F[15]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4095,7 +4097,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(If it catches me... I'll surely be killed. I have\nto run away!)\\F[15]"
+                "(If it catches me... I'll surely be killed. I have to run\naway!)\\F[15]"
               ]
             },
             {
@@ -4337,7 +4339,7 @@
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Click to continue"] },
+            { "code": 401, "indent": 0, "parameters": ["Click to continue-"] },
             { "code": 246, "indent": 0, "parameters": [1] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 117, "indent": 0, "parameters": [25] },
@@ -4387,7 +4389,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Find_the_Girl 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Find_the_girl 15"]
             },
             {
               "code": 231,
@@ -4547,7 +4549,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It's locked and won't open)"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }

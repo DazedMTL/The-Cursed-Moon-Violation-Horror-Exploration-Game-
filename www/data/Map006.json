@@ -454,13 +454,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [
-                ["Leave it as it is", "Try touching it"],
-                0,
-                0,
-                2,
-                0
-              ]
+              "parameters": [["Leave it as it is", "Touch it"], 0, 0, 2, 0]
             },
             {
               "code": 402,
@@ -808,7 +802,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Then it flew around, and before I knew it, a\ntremendous impact hit my face, and I couldn't see\nanything."
+                "Then it flew around, and before I knew it, a tremendous\nimpact hit my face, and I couldn't see anything."
               ]
             },
             { "code": 354, "indent": 0, "parameters": [] },
@@ -908,7 +902,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There are three white stones placed on the\npedestal."
+                "There are three white stones placed on the pedestal."
               ]
             },
             {
@@ -919,7 +913,7 @@
                   "Leave it as it is",
                   "Take one of the stones",
                   "Take two stones",
-                  "Take all three stones"
+                  "Take the three stones"
                 ],
                 0,
                 0,
@@ -946,7 +940,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["I took three stones."]
+              "parameters": ["I took all three stones."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
@@ -1110,11 +1104,11 @@
               "parameters": [
                 [
                   "Leave it as it is",
-                  "Take one of the stones",
+                  "Take one stone",
                   "Take two stones",
                   "Take three stones",
                   "Take four stones",
-                  "Take all five stones"
+                  "Take the five stones"
                 ],
                 0,
                 0,
@@ -1128,20 +1122,12 @@
             { "code": 402, "indent": 0, "parameters": [1, "石を１つ取る"] },
             { "code": 122, "indent": 1, "parameters": [11, 11, 0, 0, 1] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["One stone was taken."]
-            },
+            { "code": 401, "indent": 1, "parameters": ["I took one stone."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "石を２つ取る"] },
             { "code": 122, "indent": 1, "parameters": [11, 11, 0, 0, 2] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["Two stones were taken."]
-            },
+            { "code": 401, "indent": 1, "parameters": ["I took two stones."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "石を３つ取る"] },
             { "code": 122, "indent": 1, "parameters": [11, 11, 0, 0, 3] },
@@ -1149,17 +1135,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Three stones were taken."]
+              "parameters": ["I took three stones."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [4, "石を４つ取る"] },
             { "code": 122, "indent": 1, "parameters": [11, 11, 0, 0, 4] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["Four stones were taken."]
-            },
+            { "code": 401, "indent": 1, "parameters": ["I took four stones."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [5, "石を５つ取る"] },
             { "code": 122, "indent": 1, "parameters": [11, 11, 0, 0, 5] },
@@ -1167,7 +1149,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["All five stones were taken."]
+              "parameters": ["I took all five stones."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
@@ -1329,11 +1311,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                [
-                  "Leave them as they are",
-                  "Take one of the stones",
-                  "Take both stones"
-                ],
+                ["Leave it as it is", "Take one stone", "Take both stones"],
                 0,
                 0,
                 2,
@@ -1514,9 +1492,9 @@
               "parameters": [
                 [
                   "Leave it as it is",
-                  "Take one of the stones",
+                  "Take one stone",
                   "Take two stones",
-                  "Take all three stones"
+                  "Take the three stones"
                 ],
                 0,
                 0,
@@ -1697,9 +1675,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Good morning, Father, with the bright sun shining\nthis morning."
-              ]
+              "parameters": ["Morning's shining sun, good morning, Father."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1757,7 +1733,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "One sun in the color of the sunset, two sparkling\nsuns on the water surface"
+                "One sun sets in the evening glow, two suns sparkle on the\nwater surface"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1816,7 +1792,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A single moon floats in the sky, and seeing it, a\nsingle fish leaps"
+                "A single moon floats in the sky, and seeing it, a single\nfish leaps"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1875,7 +1851,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The moon sets, and in the night sky over the\nmountain, a puppy goes bark, bark, bark"
+                "The moon sets, and in the night sky over the mountain, a\npuppy goes \"woof, woof, woof\""
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }

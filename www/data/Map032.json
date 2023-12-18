@@ -312,7 +312,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Eh, why... Where is this?\"\\n<Yukine>\\F[15]"]
+              "parameters": ["\"Eh, why... where is this?\"\\n<Yukine>\\F[15]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -366,7 +366,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This place... it's a hospital, right? Just a\nmoment ago we were at school... This mansion\nreally is warped.\"\\n<Yukine>\\F[10]"
+                "\"This place... it's a hospital, right? Just a moment ago we\nwere at school... This mansion really is warped.\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -390,7 +390,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"The aura of the curse is getting much stronger.\nThe mansion is absorbing the negative emotions of\nthe people who died or suffered here.\"\\n<Yukine>\\F[10]"
+                "\"The aura of the curse has become much denser. The mansion\nis absorbing the negative emotions of the people who died or\nsuffered here.\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

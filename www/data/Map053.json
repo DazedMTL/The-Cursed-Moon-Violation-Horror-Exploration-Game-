@@ -649,14 +649,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(There's an old diary inside the drawer.)"]
+              "parameters": ["(There's an old diary inside the drawer)"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It's in a child's clumsy handwriting, but it\nseems legible.)"
+                "(It's in a child's clumsy handwriting, but it seems legible)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -666,7 +666,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That girl came again today, always looking towards\nthe mansion, the girl with beautiful hair. I want\nto talk to her."
+                "That girl came again today, always looking towards the\nmansion, a girl with beautiful hair. I want to talk to her."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -674,7 +674,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Dad has been acting strange lately, muttering to\nhimself. Mom says she doesn't know any girl, which\nis odd because sometimes she's inside our house."
+                "Dad has been acting strange lately, muttering to himself.\nMom says she doesn't know any girl, which is weird because\nsometimes she's inside our house."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -682,7 +682,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I tried playing with the girl and it was so much\nfun. The maids were making a fuss, it seems\nsomething happened in the garden."
+                "I tried playing with the girl and it was really fun. The\nmaids were making a fuss, something must have happened in\nthe garden."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -690,7 +690,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The maids have disappeared, and my dear friend\nMary too. They did something called a search, but\nwhat is a search?"
+                "The maids have disappeared, and my friend Mary too. They did\nsomething called a \"search,\" but what is a \"search\"?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -698,7 +698,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Dad has been carrying a cross all the time. A man\nin black clothes came, but he had a scary face and\nleft right away. What does 'beyond help' mean?"
+                "Dad has been carrying a cross all the time. A man in black\nclothes came, but he had a scary face and left quickly. What\ndoes \"beyond help\" mean?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -706,7 +706,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Lots of people in black clothes came. They said\nit's bad to leave the room, I wonder why."
+                "Lots of people in black clothes came. They said it's bad to\nleave the room, I wonder why."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -714,7 +714,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Everyone turned red. Dad, Mom, the people in black\nclothes, everyone, everyone turned bright red."
+                "Everyone turned red. Dad, Mom, the people in black clothes,\neveryone, everyone turned bright red."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -722,7 +722,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But the girl with the pretty hair says let's play\ntogether."
+                "But the girl with the pretty hair says let's play together."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -730,7 +730,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sorry, Papa and Mama. I'm going out with Litty.\nI'll come back soon."
+                "Sorry, Papa and Mama. I'm going out with Litty. I'll come\nback soon."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -740,7 +740,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(The handwriting changes from here.)"]
+              "parameters": ["(The handwriting changes from here)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -749,7 +749,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This foreign girl cannot fulfill our shrine maiden\nrole. There is no choice but to consume her within\nmy domain. It's regrettable to lose such beautiful\ngolden hair and blue eyes, but a talent like hers\nis indeed rare."
+                "This foreign girl cannot fulfill our shrine maiden role.\nThere is no choice but to consume her within my domain. It's\nregrettable to lose such beautiful golden hair and blue\neyes, but a talent like Saku's is indeed rare."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -759,7 +759,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(...Did the child who lived in this mansion... not\nmake it?)\\F[10]"
+                "(...Did the child who lived in this mansion... not make it?)\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -833,7 +833,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It's locked and won't open)"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -998,7 +998,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-_style_House__1st_Floor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-style_House_1st_Floor 15"
               ]
             },
             {

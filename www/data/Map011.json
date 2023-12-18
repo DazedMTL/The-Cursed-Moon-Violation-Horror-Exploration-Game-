@@ -770,7 +770,13 @@
               "parameters": ["\"This handprint...\"\\n<Yukine>\\F[10]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\F[10]"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "(It belongs to the person who was asking for help. These\npeople... they didn't make it.)\\F[10]"
+              ]
+            },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 356, "indent": 0, "parameters": ["dpFocus 13 80"] },
             { "code": 230, "indent": 0, "parameters": [100] },
@@ -1307,7 +1313,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It belongs to the person who was asking for help.\nThese people... they didn't make it.)\\F[10]"
+                "(It belongs to the person who was asking for help. These\npeople... they didn't make it.)\\F[10]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -2202,7 +2208,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Chase_the_girl 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Chase_after_the_girl 15"
+              ]
             },
             {
               "code": 231,
@@ -2419,9 +2427,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Dark_Hallway 15"]
             },
             {
               "code": 231,
@@ -2857,7 +2863,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "On △ day of ■■ month, a fire broke out in 〇〇 city,\nand the charred body of Miwa Toyono was found in\nthe remains. The police investigation suggests it\nwas caused by an accidental fire and the\ninvestigation--"
+                "On ■■ month △ day, a fire broke out in 〇〇 city, and the\nburned body of Miwa Toyono was found in the aftermath. The\npolice investigation suggests it was caused by an accidental\nfire and the investigation--"
               ]
             },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID -1 1"] },
@@ -3149,7 +3155,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Burnt-smelling_Room 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_The_Room_with_a_Burnt_Smell 15"
               ]
             },
             {
@@ -3407,7 +3413,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Entrance 15"
+                "D_TEXT Current_Location:_Dark_Entrance\\ow[0]\\c[15] 15"
               ]
             },
             {
@@ -3478,7 +3484,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Entrance 15"
+                "D_TEXT Current_Location:_A_Dark_Entrance_Hall\\ow[0]\\c[15] 15"
               ]
             },
             {
@@ -4084,7 +4090,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"That spider is red and looks delicious. It must\ntaste like strawberries.\"\\n<Frog>\\F[7]\\AA[N]"
+                "\"That spider is red and looks delicious. It must taste like\nstrawberries.\"\\n<Frog>\\F[7]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4092,7 +4098,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Mr. Frog... do you actually want to eat\nstrawberries?\"\\n<Yukine>\\F[5]"
+                "\"Mr. Frog... do you actually want to eat strawberries?\"\\n<Yukine>\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4100,13 +4106,15 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I prefer strawberries. I want real strawberries.\"\\n<Frog>\\F[7]\\AA[N]"
+                "\"I want strawberries. I want real strawberries.\"\\n<Frog>\\F[7]\\AA[N]"
               ]
             },
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_strawberries 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Search_for_strawberries 15"
+              ]
             },
             {
               "code": 231,
@@ -4162,7 +4170,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah, I want strawberries. Delicious strawberries,\nwhere could they be... I've been searching for so\nlong...\"\\n<Frog>"
+                "\"Ah, I want strawberries. Delicious strawberries, where\ncould they be... I've been searching for so long...\"\\n<Frog>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4170,7 +4178,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(If I find real strawberries for them, maybe Mr.\nFrog will go there...)\\F[5]"
+                "(If I find real strawberries for them, maybe the frog will\ngo there...)\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4178,7 +4186,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Let's look around to see if there are any\nstrawberries growing somewhere...)\\F[1]"
+                "(Let's look around to see if there are any strawberries\ngrowing somewhere...)\\F[1]"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [20, 20, 0] },
@@ -4229,7 +4237,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...Where could the strawberries be? That spider\nmust taste like strawberries, I bet.\"\\n<Frog>"
+                "\"...Where could the strawberries be? That spider must taste\nlike strawberries, right?\"\\n<Frog>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4237,7 +4245,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Let's try looking for strawberries for Mr. Frog.)\\F[1]"
+                "(Let's try looking for strawberries for Mr. Frog)\\F[1]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4287,7 +4295,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Mr. Frog, I found some strawberries. They're\ngrowing in the garden.\"\\n<Yukine>\\F[1]"
+                "\"Mr. Frog, I found some strawberries. They're growing in the\ngarden.\"\\n<Yukine>\\F[1]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4423,7 +4431,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(I came. Mr. Spider... could you move aside,\nplease?)"
+                "(I came. Mr. Spider... could you move aside, please?)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -4543,9 +4551,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Dark_Hallway 15"]
             },
             {
               "code": 231,
@@ -4614,9 +4620,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Dark_Hallway 15"]
             },
             {
               "code": 231,
@@ -4680,7 +4684,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(There's a candle on the shelf... but I can't take\nit because of the spider.)"
+                "(There's a candle on the shelf... but I can't take it\nbecause there's a spider.)"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4738,7 +4742,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hey, Mr. Spider. I want that candle, could you\nmove aside just a little?\"\\n<Yukine>\\F[1]"
+                "\"Hey, Mr. Spider. I want that candle, could you move aside\njust a little?\"\\n<Yukine>\\F[1]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4746,7 +4750,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"No way. Because if I move away from here, that\nfrog will eat me. That frog has been trying to eat\nme forever. So I'm definitely not moving.\"\\n<Red Spider>\\F[1]\\AA[N]"
+                "\"No way. If I move away from here, that frog will eat me.\nThat frog has been trying to eat me forever. So I'm\ndefinitely not moving.\"\\n<Red Spider>\\F[1]\\AA[N]"
               ]
             },
             {
@@ -4817,7 +4821,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It seems I can't get the candle if there's a\nfrog. I should try talking to Mr. Frog.)\\F[8]"
+                "(It seems I can't take the candle if there's a frog. I\nshould try talking to Mr. Frog.)\\F[8]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4997,7 +5001,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thank you. With this, I can finally go to that\nchild... Thank you.\"\\n<Black Figure>"
+                "\"Thank you. With this, I can finally go to that child...\nThank you.\"\\n<Black Silhouette>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -5019,7 +5023,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Was that just now... perhaps, a human soul?\nAnd... the spider webs have disappeared too.)\\F[5]"
+                "(Was that just now... perhaps, a human soul? And... the\nspider webs have disappeared too.)\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5105,7 +5109,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"(I should go see Mr. Frog too. He should be by\nthe strawberries in the garden, right?)\""
+                "\"(I should go see Mr. Frog too. He should be by the\nstrawberries in the garden, right?)\""
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -5231,7 +5235,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(There's no keyhole. How do I open this?)"]
+              "parameters": [
+                "(There's no keyhole. How am I supposed to open this?)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5339,7 +5345,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It's locked and won't open)"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5572,7 +5578,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I don't think there's anything useful here...)"]
+              "parameters": ["(I wonder if there's anything useful here.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5780,7 +5786,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(There's no keyhole. How am I supposed to open\nthis?)"
+                "(There's no keyhole. How do I open this, I wonder?)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -5840,7 +5846,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It's locked and won't open)"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5899,7 +5905,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(A single bird sits on a perch. The feeder and\nwater are empty. There's a switch inside the\nbirdcage... but it seems there's no way to open\nit.)\\FH[ON]\\F[4]"
+                "(A little bird is perched on a stand. The feeder and water\nare empty. There's a switch inside the birdcage... but it\nseems there's no way to open it.)\\FH[ON]\\F[4]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -5909,7 +5915,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"What are you looking at? Did you come here just\nto laugh at me being caught?\"\\n<Little Bird>\\F[4]\\AA[N]"
+                "\"What are you looking at? Did you come here just to laugh at\nme being caught?\"\\n<Little Bird>\\F[4]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5927,7 +5933,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Can't you see? I'm trapped here without freedom,\nand I've been left without any water.\"\\n<Little Bird>\\F[12]\\AA[N]"
+                "\"Can't you see? I'm trapped here without freedom, and I've\nbeen left without any water.\"\\n<Little Bird>\\F[12]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5935,7 +5941,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah, I'm so thirsty. If you gave me some water, I\nmight be willing to grant you a favor.\"\\n<Little Bird>\\F[12]\\AA[N]"
+                "\"Ah, I'm so thirsty. If you gave me some water, I might be\nwilling to grant you a favor.\"\\n<Little Bird>\\F[12]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5943,7 +5949,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(If I bring some water, maybe I can get the bird\nto press the switch in the cage.)\\FH[OFF]\\F[5]"
+                "(If I bring some water, maybe I can get the bird to press\nthe switch in the cage.)\\FH[OFF]\\F[5]"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [31, 31, 0] },
@@ -5994,7 +6000,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah-ah-, can someone give me some water?\"\\n<Little Bird>"
+                "\"Ah-ah-, won't someone give me some water to drink?\"\\n<Little Bird>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6137,7 +6143,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Hallway 15"
               ]
             },
             {
@@ -6207,9 +6213,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Dark_Hallway 15"]
             },
             {
               "code": 231,
@@ -6370,7 +6374,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I don't think there's anything useful here...)"]
+              "parameters": ["(I wonder if there's anything useful here)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6429,7 +6433,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I don't think there's anything useful here...)"]
+              "parameters": ["(I wonder if there's anything useful here)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }

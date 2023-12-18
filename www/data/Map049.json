@@ -189,9 +189,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Country_Road_3 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Country_Road_3 15"]
             },
             {
               "code": 231,
@@ -280,7 +278,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT Current_Location:_Country_Road_3 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Country_Road_3 15"
+              ]
             },
             {
               "code": 231,
@@ -488,7 +488,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_The_Back_Room_of_an___Old_House 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_The_Back_Room_of_an_Old_House 15"
               ]
             },
             {
@@ -558,9 +558,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Old_Private_House 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Old_Private_House 15"]
             },
             {
               "code": 231,
@@ -629,9 +627,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Old_Private_House 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Old_Private_House 15"]
             },
             {
               "code": 231,
@@ -743,7 +739,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(She's dead... Her back is all torn up. Was she\nattacked by someone? Thank goodness Sakku can't\nsee this right now.)\\F[15]"
+                "(She's dead... Her back is all torn up. Was she attacked by\nsomeone? Thank goodness Saku can't see right now.)\\F[15]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -802,7 +798,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It's the corpse of a woman. Her throat has been\ndeeply cut... She must have been attacked by\nsomeone.)\\F[15]"
+                "(It's the corpse of a woman. Her throat has been deeply\ncut... She must have been attacked by someone.)\\F[15]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -818,7 +814,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"No, it's nothing. I just squeezed your hand too\nhard. Are you okay?\"\\n<Yukine>\\F[8]\\AA[F]\\FF[24]"
+                "\"No, it's nothing. I just squeezed your hand too hard. Are\nyou okay?\"\\n<Yukine>\\F[8]\\AA[F]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -834,7 +830,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(I have to make sure Yukine doesn't notice. It's\nbetter she doesn't know about such terrible\nthings.)\\FF[25]\\F[8]\\AA[FF]"
+                "(I have to make sure Saku doesn't notice. It's better she\ndoesn't know about such terrible things.)\\FF[25]\\F[8]\\AA[FF]"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -886,7 +882,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It's the corpse of a woman. Her throat has been\ndeeply cut...)"
+                "(It's the corpse of a woman. Her throat has been deeply\ncut...)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -946,7 +942,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I'm sorry. I'm sorry... Please bear with it a\nlittle longer, I'm sorry.\"\\n<Female Ghost>"
+                "\"I'm sorry. I'm sorry... Please bear with it a little\nlonger, I'm sorry.\"\\n<Female Ghost>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -954,7 +950,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Wait for me... just a little more. The rice will\nbe harvested soon. I'll make some delicious food\nfor you. I'll fill your stomach soon, okay?\"\\n<Female Ghost>"
+                "\"Just wait... just a little more. The rice will be harvested\nsoon. I'll make some delicious food for you. I'll fill your\nstomach soon, okay?\"\\n<Female Ghost>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -962,7 +958,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(She's repeating the same thing... This person\nmust have some deep regrets.)\\F[4]"
+                "(She's repeating the same thing... This person must have\nsome deep regrets.)\\F[4]"
               ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 206, 1] },
@@ -1018,7 +1014,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Um... please accept this. If it's alright, please\nuse this rice.\"\\n<Yukine>\\F[1]"
+                "\"Um... I offer this to you. Please use this rice if it\npleases you.\"\\n<Yukine>\\F[1]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1026,7 +1022,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah... rice... finally, finally I can give it to\nthat child...\"\\n<Female Ghost>\\F[1]\\AA[N]"
+                "\"Ah... rice... finally, finally I can give it to that\nchild...\"\\n<Female Ghost>\\F[1]\\AA[N]"
               ]
             },
             {
@@ -1199,7 +1195,7 @@
             "tileId": 0
           },
           "list": [
-            { "code": 356, "indent": 0, "parameters": ["namePop 10 Talk"] },
+            { "code": 356, "indent": 0, "parameters": ["namePop 10 会話"] },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1304,7 +1300,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It seems like it would cook if I added rice, but\nI can't find any rice)"
+                "(It seems like it would cook if I added rice, but I can't\nfind any rice)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -1475,7 +1471,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(There's ash, but... there are no signs of\ncooking. I wonder if it's been unused for a long\ntime.)\\F[5]"
+                "(There's ash, but... there are no signs of cooking. I wonder\nif it's been unused for a long time.)\\F[5]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1541,7 +1537,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It's empty. There's firewood, but there are no\nsigns it's been used for a long time.)"
+                "(It's empty. There's firewood, but there are no signs it's\nbeen used for a long time.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -1608,7 +1604,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(There's a large rice bale here. But it seems to\nbe empty now.)"
+                "(There's a large rice bale. But it seems to be empty\ninside.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -1674,7 +1670,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It's empty inside... Hm? There's a piece of paper\nwith something written on it... Let's see, \"That\nis beneath the large stone\"... What could that\nmean?)\\F[5]"
+                "(It's empty inside... Hm? There's a piece of paper with\nsomething written on it... Let's see, \"That is beneath the\nlarge stone\"... What could that mean?)\\F[5]"
               ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 210, 1] },
@@ -1783,7 +1779,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hmm, it's so hard. It doesn't seem like it will\nfit...\"\\n<Yukine>\\F[8]"
+                "\"Mmm, it's so hard. It doesn't seem like it's going to\nfit...\"\\n<Yukine>\\F[8]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -1799,7 +1795,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Eh, what was that sound?\"\\n<Yukine>\\F[16]"]
+              "parameters": ["\"Huh, what was that sound?\"\\n<Yukine>\\F[16]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1814,7 +1810,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It looks like there's another room over there.\nLet's go check it out, Shaku.\"\\n<Yukine>\\F[4]\\AA[F]\\FF[24]"
+                "\"It looks like there's another room over there. Let's go\ncheck it out, Saku.\"\\n<Yukine>\\F[4]\\AA[F]\\FF[24]"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [158, 158, 0] },
@@ -1944,7 +1940,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(This ghost... she's still a child. She looks\nabout the age of Saku... she must have died here.)\\F[8]"
+                "(This ghost... she's still a child. She looks about Saku's\nage, but she must have died here.)\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1952,7 +1948,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Mom, Dad... I'm hungry... I'm so hungry.\"\\n<Ghost Girl>\\F[8]\\AA[N]"
+                "\"Mom, Dad... I'm hungry... I'm so hungry.\"\\n<The Ghost Girl>\\F[8]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1960,7 +1956,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This spirit... she must have been hungry until\nthe very end.\"\\n<Yukine>\\F[8]"
+                "\"This spirit... she must have been hungry until the very\nend.\"\\n<Yukine>\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1974,7 +1970,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yeah, let's find something for her to eat.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[23]"
+                "\"Yeah, let's try to find something for her to eat.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [214, 214, 0] },
@@ -2036,7 +2032,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Mom, Dad... I'm hungry... I'm so hungry.\"\\n<Ghost Girl>"
+                "\"Mom, Dad... I'm hungry... I'm so hungry.\"\\n<The Ghost Girl>"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2096,7 +2092,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah... food. Food... I've been waiting for so\nlong. Always waiting, all by myself. But I was\ntold not to come out. So I kept waiting.\"\\n<Ghost Girl>\\F[1]\\AA[N]"
+                "\"Ah... food. Food... I've been waiting for so long. Always\nwaiting, all by myself. But I was told not to come out. So I\nkept waiting.\"\\n<The Ghost Girl>\\F[1]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2104,7 +2100,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yes, you did well. You can eat as much as you\nwant.\"\\n<Yukine>\\F[2]"
+                "\"Yes, you did well. You can eat as much as you want.\"\\n<Yukine>\\F[2]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2112,7 +2108,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thank you. Thank you... Onee-chan...\"\\n<Ghost Girl>\\F[2]\\AA[N]"
+                "\"Thank you. Thank you... Onee-san...\"\\n<Ghost Girl>\\F[2]\\AA[N]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -2137,7 +2133,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Finally, your stomach is full, isn't it?\"\\n<Yukine>\\F[1]"
+                "\"Finally, you've had your fill, haven't you?\"\\n<Yukine>\\F[1]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2145,7 +2141,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Did she disappear?\"\\n<Saku>\\F[1]\\AA[FF]\\FF[24]"
+                "\"Did she... disappear?\"\\n<Saku>\\F[1]\\AA[FF]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2153,7 +2149,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yes. It seems she ate a lot and is satisfied. She\nwon't have to feel hungry anymore.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[23]"
+                "\"Yes. It seems she ate a lot and is satisfied now. She won't\nhave to feel hungry anymore.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2178,7 +2174,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Huh... Did I just hear something? What could it\nbe...\"\\n<Yukine>\\F[5]"
+                "\"Huh... Did I just hear something? What could it be...\"\\n<Yukine>\\F[5]"
               ]
             },
             {
@@ -2285,7 +2281,7 @@
             "tileId": 0
           },
           "list": [
-            { "code": 356, "indent": 0, "parameters": ["namePop 19 Talk"] },
+            { "code": 356, "indent": 0, "parameters": ["namePop 19 会話"] },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2383,7 +2379,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(...It's the remains of a severely emaciated\nchild... A woman seems to have died lying on top\nof them.)\\F[15]"
+                "(...It's the remains of a severely emaciated child... A\nwoman has died draped over them as if to cover them.)\\F[15]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2391,7 +2387,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Surely... she must have been trying to protect\nthem. Until the very end... This was her child,\nwasn't it?)\\F[15]"
+                "(Surely... she tried to protect them. Until the very end...\nThis was her child, wasn't it?)\\F[15]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2399,7 +2395,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(This is terrible... I can't tell Yukine about\nthis...)\\F[15]"
+                "(How terrible... I can't tell Saku about this...)\\F[15]"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -2451,7 +2447,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(...It's the corpse of a terribly emaciated\nchild.)"
+                "(...It's the corpse of a terribly emaciated child.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -2607,7 +2603,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Ah, it's the doll's leg!\"\\n<Yukine>\\F[3]"]
+              "parameters": ["\"Ah, it's the doll's legs!\"\\n<Yukine>\\F[3]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -2620,7 +2616,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Just wait a moment... If it's like before, if I\nattach this to the doll\"\\n<Yukine>\\F[1]\\AA[F]\\FF[22]"
+                "\"Just wait a moment... If it's the same as before, if we\nattach these to the doll\"\\n<Yukine>\\F[1]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -2633,7 +2629,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...How about it, Yukine. Did anything change?\"\\n<Yukine>\\F[4]"
+                "\"...How about it, Saku. Did anything change?\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -2681,7 +2677,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "When both legs of the doll are assembled, Yukine\ntilts her head as if checking her surroundings.\nThen, with a face that has regained a slight\nflush, Yukine sniffs around with a 'sniff\nsniff'.\\F[4]\\AA[N]"
+                "Once both legs of the doll were in place, Saku tilted her\nhead as if checking her surroundings. With a face that had\nregained a slight flush, Saku sniffed the air.\\F[4]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2697,7 +2693,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah, thank goodness. Yukine, you can smell again.\"\\n<Yukine>\\F[2]\\AA[F]\\FF[22]"
+                "\"Ah, thank goodness. Saku, you can smell again, can't you?\"\\n<Yukine>\\F[2]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2705,7 +2701,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yes. But there's also a strange... smell. Onee-\nsan, why is that?\"\\n<Saku>\\F[2]\\AA[FF]\\FF[22]"
+                "\"Yeah. But there's also a strange... smell. Onee-san, why is\nthat?\"\\n<Saku>\\F[2]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2713,7 +2709,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Yukine calls out to me curiously, tilting her\nhead. It seems that Yukine, who has regained her\nsense of smell, hasn't noticed the tragic remains\nof the girl nearby.\\FF[22]\\F[10]\\AA[N]"
+                "With a curious look, Saku called out to me and tilted her\nhead. It seems that Saku, who had regained her sense of\nsmell, hadn't noticed the tragic remains of a girl nearby.\\F[10]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2721,7 +2717,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Well, the meat has gone bad. You can speak well\nnow, so shall we get going soon...?\"\\n<Yukine>\\F[7]\\AA[F]\\FF[22]"
+                "\"Well, the meat has gone bad. You're able to speak well now,\nso shall we get going soon...\"\\n<Yukine>\\F[7]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -2730,7 +2726,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_the_exit 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Find_the_exit 15"]
             },
             {
               "code": 231,
@@ -3045,7 +3041,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah, please stop... There's no rice here. I'm not\nhiding anything, believe me, I'm not lying...\nPlease stop, don't kill me.\"\\n<Male Ghost>"
+                "\"Ah, please stop... There's no rice here. I'm not hiding\nanything, believe me, I'm not lying... Please stop, don't\nkill me.\"\\n<Male Ghost>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3053,7 +3049,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It's no use... He's already lost his heart. My\nvoice doesn't seem to reach him.)\\F[8]"
+                "(It's no use... He's already lost his mind. My voice doesn't\nseem to reach him.)\\F[8]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3147,7 +3143,7 @@
             "tileId": 0
           },
           "list": [
-            { "code": 356, "indent": 0, "parameters": ["namePop 27 Talk"] },
+            { "code": 356, "indent": 0, "parameters": ["namePop 27 会話"] },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3285,7 +3281,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"What is this... I wonder...\"\\n<Yukine>\\F[5]"]
+              "parameters": ["\"What's this... I wonder...\"\\n<Yukine>\\F[5]"]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -3293,7 +3289,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A month-long drought withered many crops, and\nstarving people began to die one after another,\nwandering in search of food."
+                "\"A month-long drought withered many crops; starving people\ndied one after another, wandering in search of food.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -3301,7 +3297,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Some spread rumors of hidden rice, and we took up\nour farm tools in anger. Men begged for mercy,\nlying prostrate, but were met with the swing of a\nhoe, ending their lives."
+                "\"Some, upon rumors of hidden rice, we took up our farm tools\nin anger. Men prostrated, begging for mercy, but were met\nwith the swing of a hoe, ending their lives.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -3309,7 +3305,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Though the bales were empty, the starving\nrelentlessly tilled their backs. The beastly acts\ncommitted by those we once called friends were\nunbearable to witness."
+                "\"Though the bales were empty, the starving relentlessly\ntilled their backs. The beastly acts committed by those we\nonce called friends were unbearable to witness.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -3317,7 +3313,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Women disturbed, running to their children, seeing\nthe shadows of their deceased offspring in the\nemaciated living ones, but unable to reach them.\nOnly the dead increased in their desolate homes."
+                "\"Disturbed by the women, they rushed to their emaciated\nchildren, seeing the shadows of their deceased offspring,\nbut our hands could not reach them. Only corpses increased\nin the desolate homes.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -3325,7 +3321,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Without a glance from those who could help, all\nwas abandoned. We are no longer human; unworthy of\nsalvation from gods or Buddha."
+                "\"No one spared a glance for the starving, everything was\nabandoned. We are no longer human; unworthy of salvation\nfrom gods or Buddha.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3341,7 +3337,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"What's wrong...?\"\\n<Saku>\\F[10]\\AA[FF]\\FF[24]"
+                "\"What happened...?\"\\n<Saku>\\F[10]\\AA[FF]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3349,7 +3345,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"No, it's nothing. Wait... there's more.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[24]"
+                "\"No... it's nothing. Wait... there's more.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -3357,7 +3353,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "An unknown figure appeared in the village, a young\ngirl wandering alone from village to village with\na sinister smile."
+                "\"Since then, an unknown figure appeared in the village, a\nyoung girl wandering alone from village to village with a\nsinister laugh.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -3365,7 +3361,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Those who approached the girl all went mad; some\nbit the earth and choked, others devoured dry\ngrass and died, and some gnawed on farm tools in\ntheir insanity."
+                "\"Those who approached the girl all went mad; some bit the\nearth and choked, others devoured dry grass and perished,\nwhile some gnawed on farm tools in their insanity.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -3373,7 +3369,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Could this be divine punishment? I am simply\nterrified, so terrified."
+                "\"Is this divine punishment? I am simply terrified, so\nterrified.\""
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -3385,9 +3381,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "(Is this related to what happened before...)\\F[4]"
-              ]
+              "parameters": ["\"(Is this like before...)\"\\F[4]"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3662,14 +3656,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Wait for me... Just a little longer, I'll make\nsome delicious food. I'll fill your stomach up\nsoon, okay?\"\\n<Female Ghost>"
+                "\"Please wait... Just a little longer, I'll make some\ndelicious food. I'll fill your stomach up soon, okay?\"\\n<Female Ghost>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It sounds like someone is crying.)\\F[4]"]
+              "parameters": ["(It sounds like something is crying.)\\F[4]"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3721,7 +3715,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ghost-san... if it's alright, please use this as\nwell.\"\\n<Yukine>\\F[1]"
+                "\"Ghost-san... if it's okay, please use this as well.\"\\n<Yukine>\\F[1]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3729,7 +3723,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah... ah... thank you... thank you.\"\\n<Female Ghost>\\AA[N]\\F[1]"
+                "\"Ah... yes... thank you... thank you.\"\\n<Female Ghost>\\AA[N]\\F[1]"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -3739,7 +3733,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "After a while, a delicious-looking porridge was\nready."
+                "After a while, a delicious-looking porridge was ready."
               ]
             },
             { "code": 222, "indent": 0, "parameters": [] },
@@ -3748,7 +3742,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Finally... I can give that child... a full\nbelly... at last.\"\\n<Female Ghost>"
+                "\"Finally... I can give that child... a full belly... at\nlast.\"\\n<Female Ghost>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -3771,7 +3765,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...She disappeared. You've always wanted to make\na meal for that child, haven't you?\"\\n<Yukine>\\F[6]"
+                "\"...She disappeared. You've always wanted to make a meal for\nthat child, haven't you?\"\\n<Yukine>\\F[6]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3779,7 +3773,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yeah. It smells really good...\"\\n<Yukine>\\F[2]"
+                "\"Yeah. It smells really good... doesn't it?\"\\n<Yukine>\\F[2]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3787,7 +3781,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...I don't, understand.\"\\n<Saku>\\F[2]\\AA[FF]\\FF[29]"
+                "\"...I don't know.\"\\n<Saku>\\F[2]\\AA[FF]\\FF[29]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3803,7 +3797,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Anyway, let's take this to that child. Into the\nbowl it goes.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[29]"
+                "\"Anyway, let's take this to that child. Into the bowl it\ngoes.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[29]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -3818,7 +3812,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Freshly made porridge\" acquired."]
+              "parameters": ["\"Obtained freshly made porridge.\""]
             },
             { "code": 126, "indent": 0, "parameters": [64, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -3829,7 +3823,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Task:_Deliver_the_porridge 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Deliver_the_rice_porridge 15"
               ]
             },
             {
@@ -3968,7 +3962,7 @@
             "tileId": 0
           },
           "list": [
-            { "code": 356, "indent": 0, "parameters": ["namePop 31 Talk"] },
+            { "code": 356, "indent": 0, "parameters": ["namePop 31 会話"] },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

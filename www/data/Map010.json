@@ -241,9 +241,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Second_Floor_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Second_Floor_Hallway 15"]
             },
             {
               "code": 231,
@@ -312,9 +310,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Second_Floor_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Second_Floor_Hallway 15"]
             },
             {
               "code": 231,
@@ -383,9 +379,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Second_Floor_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Second_Floor_Hallway 15"]
             },
             {
               "code": 231,
@@ -454,9 +448,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Second_Floor_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Second_Floor_Hallway 15"]
             },
             {
               "code": 231,
@@ -668,7 +660,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st__Flo__or,_Classroom_D 15"
+                "D_TEXT Current_Location:_Building_A,_1st_Floor,_Classroom_D 15"
               ]
             },
             {
@@ -739,7 +731,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st__Flo__or,_Classroom_D 15"
+                "D_TEXT Current_Location:_Building_A,_1st_Floor,_Classroom_D 15"
               ]
             },
             {
@@ -810,7 +802,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st__Flo__or,_Classroom_D 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st_Floor,__Classr\noom_D 15"
               ]
             },
             {
@@ -881,7 +873,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st__Flo__or,_Classroom_D 15"
+                "D_TEXT Current_Location:_Classroom_D_on_the_1st_floor_of_Building__A\\ow[0]\\c[15] 15"
               ]
             },
             {
@@ -952,7 +944,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st__Flo__or,_Classroom_E 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st_Floor,__Classr\noom_E 15"
               ]
             },
             {
@@ -1023,7 +1015,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st__Flo__or,_Classroom_E 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st_Floor,__Classr\noom_E 15"
               ]
             },
             {
@@ -1094,7 +1086,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st__Flo__or,_Classroom_E 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st_Floor,__Classr\noom_E 15"
               ]
             },
             {
@@ -1165,7 +1157,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st__Flo__or,_Classroom_E 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Building_A,_1st_Floor,__Classr\noom_E 15"
               ]
             },
             {
@@ -1377,7 +1369,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It's locked and won't open)"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {

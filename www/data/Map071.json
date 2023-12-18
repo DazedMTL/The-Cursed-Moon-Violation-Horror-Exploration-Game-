@@ -161,7 +161,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Saku, what's wrong? Huh... why? I can't seem\nto... put strength in my body...\"\\n<Yukine>\\F[13]"
+                "\"Saku, what's wrong? Huh... why? I can't seem to... put\nstrength in my body...\"\\n<Yukine>\\F[13]"
               ]
             },
             { "code": 242, "indent": 0, "parameters": [1] },
@@ -171,7 +171,13 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["Skip scene", "Look at the scene"], -1, -1, 1, 1]
+              "parameters": [
+                ["Skip the scene", "Look at the scene"],
+                -1,
+                -1,
+                1,
+                1
+              ]
             },
             { "code": 402, "indent": 1, "parameters": [0, "シーンをスキップ"] },
             { "code": 119, "indent": 2, "parameters": ["skip"] },
@@ -318,9 +324,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Hallway 15"]
             },
             {
               "code": 231,
@@ -455,16 +459,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(There's a rice ball wrapped in bamboo leaves\ninside.)"
+                "(There's a rice ball wrapped in bamboo leaves inside)"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "(...It should be okay to take a little bit,\nright?)"
-              ]
+              "parameters": ["(...It should be okay to take a little, right?)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -479,9 +481,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "(You obtained a \"Rice Ball Wrapped in Bamboo\nLeaves\")"
-              ]
+              "parameters": ["\"Rice Ball Wrapped in Bamboo Leaves\" obtained"]
             },
             { "code": 126, "indent": 0, "parameters": [65, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },

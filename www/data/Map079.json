@@ -122,7 +122,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-style_House,__2nd_Floor 15"
+                "D_TEXT Current_Location:_Western-\nstyle_Mansion,_2nd__Floor\\ow[0]\\c[15] 15"
               ]
             },
             {
@@ -186,7 +186,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(There's a candle. Matches are inside the bag.)"]
+              "parameters": ["(There are candles. The bag contains matches.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -252,7 +252,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It looks like a family photo, but the child's\nface is burnt and unrecognizable.)"
+                "(It looks like a family photo, but the child's face is burnt\nand unrecognizable)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -384,7 +384,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(The black and white photo shows two large coffins\nside by side.)"
+                "(The black and white photo shows two large coffins side by\nside.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -450,7 +450,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(A burnt building is captured in the photo)"]
+              "parameters": ["(A burnt building is shown in the picture)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }

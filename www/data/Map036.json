@@ -188,7 +188,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hii! What!? Was I just pricked by something...?\"\\n<Yukine>"
+                "\"Eek! What!? Did something just sting me...?\"\\n<Yukine>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -196,7 +196,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Upon entering the pitch-dark room, I suddenly felt\na sharp pain in my arm."
+                "As I entered the pitch-dark room, I suddenly felt a sharp\npain in my arm."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -204,7 +204,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(My head is starting to spin... could it be\npoison?)"
+                "(My head is starting to feel dizzy... could it be poison?)"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -212,7 +212,13 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["Scene Skip", "View the scene"], -1, -1, 1, 1]
+              "parameters": [
+                ["Skip the scene", "Look at the scene"],
+                -1,
+                -1,
+                1,
+                1
+              ]
             },
             { "code": 402, "indent": 1, "parameters": [0, "シーンをスキップ"] },
             { "code": 119, "indent": 2, "parameters": ["skip"] },
@@ -296,7 +302,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It's locked and won't open)"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -482,7 +488,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah... It's a 'Recovery from Illness' amulet...\"\\n<Yukine>\\F[5]"
+                "\"Ah... It's a 'Recovery from Illness' charm...\"\\n<Yukine>\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -496,7 +502,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's fallen apart... This amulet couldn't ward\noff the curse.\"\\F[8]"
+                "\"It's fallen apart... This charm couldn't protect against\nthe curse.\"\\F[8]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }

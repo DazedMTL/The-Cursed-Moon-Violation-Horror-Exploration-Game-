@@ -778,7 +778,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It belongs to the person who was asking for help.\nThese people... they didn't make it.)\\F[10]"
+                "(It belongs to the person who was asking for help. These\npeople... they didn't make it.)\\F[10]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -804,7 +804,9 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Chase_the_girl 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Chase_after_the_girl 15"
+              ]
             },
             {
               "code": 231,
@@ -1323,7 +1325,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It belongs to the person who was asking for help.\nThese people... they didn't make it.)\\F[10]"
+                "(It belongs to the person who was asking for help. These\npeople... they didn't make it.)\\F[10]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -1349,7 +1351,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Chase_the_Girl 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Chase_the_girl 15"]
             },
             {
               "code": 231,
@@ -2216,7 +2218,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Wait! I... I have something I want to ask you!\"\\n<Yukine>\\F[16]"
+                "\"Wait! I... have something I want to ask you!\"\\n<Yukine>\\F[16]"
               ]
             },
             {
@@ -2374,7 +2376,7 @@
               "code": 356,
               "indent": 1,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]To_Do:_Look_for_a_way_to_open_the_door 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Find_a_way_to_open_the_door 15"
               ]
             },
             {
@@ -2439,9 +2441,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Dark_Hallway 15"]
             },
             {
               "code": 231,
@@ -2877,7 +2877,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "On ■■ month △ day, a fire broke out in 〇〇 city,\nand the burned body of Miwa Toyono was found in\nthe remains. The police investigation suggests it\nwas caused by an accidental fire and the\ninvestigation--"
+                "On ■■ month △ day, a fire broke out in 〇〇 city, and the\nburned body of Miwa Toyono was found in the aftermath. The\npolice investigation suggests it was caused by accidental\nfire and the investigation--"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -3019,7 +3019,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(Thank goodness, it seems to fit.)"]
+              "parameters": ["(Thank goodness, it looks like it fits)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 121, "indent": 0, "parameters": [65, 65, 0] },
@@ -3264,7 +3264,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It's locked and won't open)"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3321,7 +3321,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Burnt-smelling_Room 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_The_Burnt-Smelling_Room 15"
               ]
             },
             {
@@ -3579,7 +3579,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Entrance 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_A_Dark_Entrance 15"
               ]
             },
             {
@@ -3641,7 +3641,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Entrance 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_A_Dark_Entrance 15"
               ]
             },
             {
@@ -3712,7 +3712,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Entrance 15"
+                "D_TEXT Current_Location:_Dark_Entrance\\ow[0]\\c[15] 15"
               ]
             },
             {
@@ -3773,9 +3773,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Entrance 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_A_Dark_Entranceway 15"]
             },
             {
               "code": 231,
@@ -3845,7 +3843,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Hallway 15"
               ]
             },
             {
@@ -3916,7 +3914,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Hallway 15"
               ]
             },
             {
@@ -4548,7 +4546,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"That spider, it's red and looks delicious. It\nmust taste like strawberries.\"\\n<Frog>\\F[7]\\AA[N]"
+                "\"That spider, it's red and looks delicious. It must taste\nlike strawberries.\"\\n<Frog>\\F[7]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4556,7 +4554,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Mr. Frog... do you actually want to eat\nstrawberries?\"\\n<Yukine>\\F[5]"
+                "\"Mr. Frog... do you really want to eat strawberries?\"\\n<Yukine>\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4564,13 +4562,15 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I'd prefer strawberries. I want real\nstrawberries.\"\\n<Frog>\\F[5]\\AA[N]"
+                "\"I prefer strawberries. I want real strawberries.\"\\n<Frog>\\F[5]\\AA[N]"
               ]
             },
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_strawberries 15"]
+              "parameters": [
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Search_for_strawberries 15"
+              ]
             },
             {
               "code": 231,
@@ -4626,7 +4626,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah, I want some strawberries. Where can I find\ndelicious strawberries... I've been searching for\nso long...\"\\n<Frog>"
+                "\"Ah, I want strawberries. Where can I find delicious\nstrawberries... I've been searching for so long...\"\\n<Frog>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4634,7 +4634,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(If I find real strawberries for them, maybe the\nfrog will go there...)\\F[5]"
+                "(If I find real strawberries for the frog, maybe it will go\nthere...)\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4642,7 +4642,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Let's look around to see if there are any\nstrawberries growing somewhere...)\\F[1]"
+                "(Let's look around to see if there are any strawberries\ngrowing somewhere...)\\F[1]"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -4693,7 +4693,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...Where could the strawberries be? That spider\nmust taste like strawberries, I bet.\"\\n<Frog>"
+                "\"...Where could the strawberries be? That spider must taste\nlike strawberries, I bet.\"\\n<Frog>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4751,7 +4751,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Mr. Frog, I found some strawberries. They're\ngrowing in the garden.\"\\n<Yukine>\\F[1]"
+                "\"Mr. Frog, I found some strawberries. They're growing in the\ngarden.\"\\n<Yukine>\\F[1]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4888,7 +4888,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(I came. Mr. Spider... could you move aside,\nplease?)"
+                "(I came. Mr. Spider... could you move aside, please?)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -5008,9 +5008,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Dark_Hallway 15"]
             },
             {
               "code": 231,
@@ -5079,9 +5077,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Dark_Hallway 15"]
             },
             {
               "code": 231,
@@ -5145,7 +5141,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(There's a candle on the shelf... but I can't take\nit because there's a spider.)"
+                "(There's a candle on the shelf... but I can't take it\nbecause there's a spider.)"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5209,7 +5205,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hey, Mr. Spider. I really want that candle, could\nyou move aside just a little?\"\\n<Yukine>\\F[1]"
+                "\"Hey, Mr. Spider. I really want that candle, could you move\naside just a little?\"\\n<Yukine>\\F[1]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5217,7 +5213,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"No way. Because if I move away from here, that\nfrog will eat me. That frog has been trying to eat\nme forever. So I'm definitely not moving.\"\\n<Red Spider>\\F[1]\\AA[N]"
+                "\"No way. Because if I move away from here, that frog will\neat me. That frog has been trying to eat me forever. So I'm\ndefinitely not moving.\"\\n<Red Spider>\\F[1]\\AA[N]"
               ]
             },
             {
@@ -5294,7 +5290,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It seems I can't get the candle if there's a\nfrog. Let's try talking to Mr. Frog.)\\F[8]"
+                "(It seems I can't get the candle if there's a frog. Let's\ntry talking to Mr. Frog.)\\F[8]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5486,7 +5482,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thank you. With this, I can finally go... to that\nchild's place... thank you.\"\\n<Female Ghost>"
+                "\"Thank you. With this, I can finally go... to that child's\nplace... thank you.\"\\n<Female Ghost>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -5509,20 +5505,24 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Was that just now... perhaps, a human soul? And\nthe spider webs have disappeared too.)\\F[5]"
+                "(Was that just now... perhaps, a human soul? And the spider\nwebs have disappeared too.)\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I wonder if she was able to pass on...)\\F[6]"]
+              "parameters": [
+                "(Did she manage to pass on to the afterlife...)\\F[6]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"That's right. I need to bring candles.\"\\F[5]"]
+              "parameters": [
+                "\"That's right. I need to bring a candle.\"\\F[5]"
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["C", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5590,7 +5590,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"(I should go see Mr. Frog too. He should be by\nthe strawberries in the garden.)\"\\F[1]"
+                "\"(I should go see Mr. Frog too. He should be by the\nstrawberries in the garden, right?)\"\\F[1]"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [25, 25, 0] },
@@ -5702,7 +5702,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(There's a newspaper clipping inside.)"]
+              "parameters": ["(There's a newspaper clipping inside)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -5711,7 +5711,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "On ■■ month △ day, in 〇〇 city, Yudai Toyono (10\nyears old) went out on an errand and died in a\ntraffic accident."
+                "On ■■ month △ day, in the city of 〇〇, a boy named Yudai\nToyono (10 years old) died in a traffic accident while out\non an errand."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -5719,7 +5719,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Yudai-kun was hit by a passenger car while on his\nway to buy fruit at the supermarket for his\nmother's errand, and the police are investigating\nthe matter."
+                "Yudai-kun was hit by a passenger car while on his way to buy\nfruit at the supermarket for his mother's errand, and the\npolice are investigating the matter."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -5727,7 +5727,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Furthermore, his mother, Miwa Toyono, was found\ndead from burns at their home on the same day, and\nthe police are looking into the suspicious deaths\nof both mother and child on the same day--"
+                "Additionally, his mother, Miwa Toyono, was found dead from\nburns in their home on the same day, and the police are\nlooking into the suspicious deaths of both mother and child\non the same day--"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -5743,7 +5743,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"That frog... Could it be that it wanted to\ndeliver strawberries?\"\\n<Yukine>\\F[10]"
+                "\"That frog... I wonder if it wanted to deliver\nstrawberries.\"\\n<Yukine>\\F[10]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5809,7 +5809,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(There's no keyhole. How am I supposed to open\nthis?)"
+                "(There's no keyhole. How am I supposed to open this?)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -5894,7 +5894,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Stairs_leading__unde__rground 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Stairs_Leading_Underground 15"
               ]
             },
             {
@@ -6093,7 +6093,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It's locked and won't open)"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -6294,7 +6294,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I don't think there's anything useful here...)"]
+              "parameters": ["(I wonder if there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6408,7 +6408,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It's locked and won't open)"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6507,7 +6507,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(There's no keyhole. How do I open this?)"]
+              "parameters": [
+                "(There's no keyhole. How am I supposed to open this?)"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -6591,7 +6593,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Stairs_leading__unde__rground 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Stairs_Leading_Underground 15"
               ]
             },
             {
@@ -6655,7 +6657,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It's too stained with blood to read)"]
+              "parameters": ["(It's smeared with blood and unreadable)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6721,7 +6723,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(There's a button with a mysterious pattern on the\nbirdcage)"
+                "(There's a button with a mysterious pattern on the birdcage)"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6791,7 +6793,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(A little bird is perched on a branch. The feeder\nand water are empty. There's a switch inside the\nbirdcage, but... it seems there's no way to open\nthis birdcage.)\\FH[ON]\\F[4]"
+                "(A little bird sits on a perch. The feeder and water are\nempty. There's a switch inside the birdcage... but it seems\nthere's no way to open this cage.)\\FH[ON]\\F[4]"
               ]
             },
             {
@@ -6806,7 +6808,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"What are you looking at? Did you come here just\nto laugh at me being trapped?\"\\n<Little Bird>\\F[4]\\AA[N]"
+                "\"What are you looking at? Did you come here just to laugh at\nme being trapped?\"\\n<Little Bird>\\F[4]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6829,7 +6831,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Isn't it obvious? I've been locked up like this\nwithout any freedom, and without being given any\nwater.\"\\n<Little Bird>\\F[12]\\AA[N]"
+                "\"Isn't it obvious? I've been locked up here without any\nfreedom, without even water.\"\\n<Little Bird>\\F[12]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6837,7 +6839,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah, I'm so thirsty. If you gave me some water, I\nmight be willing to grant you a favor.\"\\n<Little Bird>\\F[12]\\AA[N]"
+                "\"Ah, I'm so thirsty. If you could give me some water, I\nmight be willing to grant you a favor.\"\\n<Little Bird>\\F[12]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6845,7 +6847,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(The little bird is thirsty. If I bring some\nwater, maybe it will press the switch in the\nbirdcage for me.)\\FH[OFF]\\F[5]"
+                "(The little bird is thirsty. If I bring some water, maybe it\nwill press the switch in the birdcage for me.)\\FH[OFF]\\F[5]"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [31, 31, 0] },
@@ -6853,7 +6855,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_water 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Find_water 15"]
             },
             {
               "code": 231,
@@ -6914,7 +6916,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah-ah-, won't someone give me some water to\ndrink?\"\\n<Little Bird>"
+                "\"Ah-ah-, can someone give me some water to drink?\"\\n<Little Bird>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6977,7 +6979,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Little bird, I've brought some water for you. You\nmust be thirsty, right?\"\\n<Yukine>\\F[1]"
+                "\"Little bird, I've brought some water. You must be thirsty,\nright?\"\\n<Yukine>\\F[1]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6985,7 +6987,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah, water! Water, ah... finally, I can drink... I\ncan drink water. Thank you, thank you.\"\\n<Little Bird>"
+                "\"Ah, water! Water, ah... finally, I can drink... I can drink\nwater. Thank you, thank you.\"\\n<Little Bird>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -7001,7 +7003,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Since I was captured in battle, I haven't had a\nsingle drop of water. Ah, I've never tasted such\ndelicious water before. If only... I could have\ngiven some to my wife as well.\"\\n<Little Bird>"
+                "\"Since I was captured in the battle, I haven't had a single\ndrop of water. Ah, I've never tasted such delicious water\nbefore. If only... I could have given some to my wife as\nwell.\"\\n<Little Bird>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -7017,7 +7019,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thank you. Young lady... this is what I need to\npress, right?\"\\n<Little Bird>"
+                "\"Thank you. Young lady... this is what I need to press,\nright?\"\\n<Little Bird>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -7061,7 +7063,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It seems like a sound was made somewhere just\nnow.)"
+                "(It seems like a sound was made somewhere just now.)"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -7158,7 +7160,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It's an empty birdcage. The switch has already\nbeen pressed.)"
+                "(It's an empty birdcage. The switch has already been\npressed.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -7230,9 +7232,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor_2 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Dark_Hallway_2 15"]
             },
             {
               "code": 231,
@@ -7364,7 +7364,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Hallway 15"
               ]
             },
             {
@@ -7434,9 +7434,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Dark_Hallway 15"]
             },
             {
               "code": 231,
@@ -7597,7 +7595,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I don't think there's anything useful here...)"]
+              "parameters": ["(I wonder if there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -7662,7 +7660,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(I don't think there's anything useful here...)"]
+              "parameters": ["(I wonder if there's anything useful here...)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -7718,7 +7716,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Huh, there's something in the back of this\ndrawer.\"\\n<Yukine>\\F[5]"
+                "\"Huh, there's something in the back of this drawer.\"\\n<Yukine>\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -7726,7 +7724,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This is a talisman... I feel some kind of\nmysterious power emanating from it.\"\\n<Yukine>\\F[4]"
+                "\"This is a talisman... I feel some kind of mysterious power\ncoming from this talisman.\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [24] },
@@ -7781,7 +7779,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(What's this? I feel drawn to the place where the\nghost was...)\\F[4]"
+                "(What's this? I feel drawn to the place where the ghost\nwas...)\\F[4]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -7853,7 +7851,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(The light is being absorbed by the talisman...\nand the talisman has become slightly warm. Could\nthis be the gratitude... left by the ghost?)\\F[5]"
+                "(The light is being absorbed by the talisman... and now the\ntalisman is slightly warm. Could this be the gratitude...\nleft by the ghost?)\\F[5]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -7870,7 +7868,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(If I collect a lot of these, maybe I can break\nthe curse's bonds... I should search the places\nwhere ghosts were.)\\F[1]"
+                "(If I collect a lot of these, maybe I can break the curse's\nbond... I should look around where the ghost was.)\\F[1]"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [118, 118, 0] },
@@ -7878,7 +7876,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]To_Do:_Gather_the_remaining_embers 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Gather_the_remaining_fire 15"
               ]
             },
             {
@@ -7941,7 +7939,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(I wonder if there's anything else that might be\nuseful...)"
+                "(I wonder if there's anything else that might be useful)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -8007,7 +8005,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(...There's nothing here)"]
+              "parameters": ["(...there's nothing)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -8207,7 +8205,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(If I fill this with water, maybe the birds can\ndrink too)"
+                "(If I fill this with water, maybe the birds can drink too)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -8224,12 +8222,12 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Small Plate\" acquired"]
+              "parameters": ["(I've obtained a \"Small Plate\")"]
             },
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Scoop_water 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Scoop_water 15"]
             },
             {
               "code": 231,
@@ -8367,7 +8365,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It's a cupboard. There's a strange pattern drawn\non the bottom. I wonder what kind of mark it is.)"
+                "(It's a cupboard. There's a strange pattern drawn on the\nbottom. I wonder what kind of mark it is.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -8430,7 +8428,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(There's a pattern here just like the one on the\nbirdcage switch. Maybe it will open if I press\nit.)"
+                "(There's a pattern here just like the one on the birdcage\nswitch. Maybe it will open if I press it.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -8488,7 +8486,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(The cupboard door is open... It seems like\nthere's something in the back of the shelf.)"
+                "(The cupboard door is open... It seems like there's\nsomething in the back of the shelf.)"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -8513,7 +8511,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Obtained the \"Rusty Key\"."]
+              "parameters": ["Obtained the \"Rusty Key\""]
             },
             { "code": 126, "indent": 0, "parameters": [17, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -8523,7 +8521,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Find_the_Girl 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Find_the_girl 15"]
             },
             {
               "code": 231,
@@ -8590,7 +8588,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It seems like a lot of time has passed from its\ncondition.)\\F[5]"
+                "(It seems like a lot of time has passed from its condition.)\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -8605,13 +8603,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [
-                ["I'll try reading it", "I won't read it"],
-                -1,
-                -1,
-                1,
-                1
-              ]
+              "parameters": [["Try reading it", "Don't read it"], -1, -1, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "読んでみる"] },
             { "code": 117, "indent": 1, "parameters": [24] },
@@ -8620,7 +8612,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I have discovered traces of a violent struggle.\nHowever, the culprit, fearing exposure, abandoned\nthe villagers and fled."
+                "I have discovered traces of looting. However, the culprit,\nfearing exposure, abandoned the villagers and fled."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
@@ -8628,14 +8620,16 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Though lawlessness would warrant beheading, there\nis no greater cowardice and selfishness than this\nact. Those left behind in the prison all perished\nfrom hunger and thirst amidst their agony, I\nbelieve."
+                "Even if lawlessness leads to beheading, I am filled with\nindignation at such cowardly and selfish acts. Those left\nbehind in the prison all perished in agony from hunger and\nthirst, I believe."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It was a truly tragic end for a young couple."]
+              "parameters": [
+                "It was a terribly tragic fate for a young couple."
+              ]
             },
             { "code": 230, "indent": 1, "parameters": [20] },
             { "code": 117, "indent": 1, "parameters": [25] },
@@ -9128,7 +9122,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Shi...p...in the...\"\\n<Male Ghost>"]
+              "parameters": ["\"Shi...p...\"\\n<Male Ghost>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -9143,7 +9137,7 @@
               "code": 356,
               "indent": 1,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]To_Do:_Find_the_lost_item_for_her 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Find_the_lost_item_and_give_it_back 15"
               ]
             },
             {
@@ -9202,7 +9196,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I tried... to hide it... but...\"\\n<Male Ghost>"
+                "\"I hid it... in the tree... but...\"\\n<Male Ghost>"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -9366,7 +9360,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Oshizu... I'm sorry. I'm sorry I couldn't protect\nyou.\"\\n<Male Ghost>"
+                "\"Oshizu... I'm sorry. I'm sorry I couldn't protect you.\"\\n<Male Ghost>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -9460,7 +9454,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's alright... Just having you think of me is\nenough. After all, we were able to meet like\nthis.\"\\n<Female Ghost>"
+                "\"It's alright... Just having you think of me is enough.\nAfter all, we were able to meet like this.\"\\n<Female ghost>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -9468,7 +9462,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Oshizu... Oshizu... I'm so sorry. I'm sorry I\ncouldn't come to get you. It must have hurt, it\nmust have been tough.\"\\n<Male Ghost>"
+                "\"Oshizu... Oshizu... I'm so sorry. I'm sorry I couldn't come\nto get you. It must have hurt, it must have been tough.\"\\n<Male Ghost>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -9476,7 +9470,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's okay, my dear. Now, let's go. This time,\nwe'll stay together so we won't be separated\nagain.\"\\n<Female Ghost>"
+                "\"It's okay, my dear. Now, let's go. This time, we'll stay\ntogether so we won't be separated again.\"\\n<Female Ghost>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -9514,14 +9508,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thank goodness... you were able to meet again.\"\\n<Yukine>\\F[6]"
+                "\"Thank goodness... we were able to meet again, huh?\"\\n<Yukine>\\F[6]"
               ]
             },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 31] },
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Find_the_Girl 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Find_the_girl 15"]
             },
             {
               "code": 231,
@@ -9622,7 +9616,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"I've obtained the 'Embers of Admiration'\""]
+              "parameters": ["\"Obtained the 'Embers of Admiration'\""]
             },
             { "code": 126, "indent": 0, "parameters": [29, 0, 0, 1] },
             { "code": 122, "indent": 0, "parameters": [18, 18, 1, 0, 1] },
@@ -9635,14 +9629,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"This should be enough. Shall we go back to the\ngirl?\"\\n<Yukine>\\F[1]"
+                "\"We've gathered enough, haven't we? Let's go back to the\ngirl.\"\\n<Yukine>\\F[1]"
               ]
             },
             {
               "code": 356,
               "indent": 1,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]To_Do:_Return_to_the_Girl's_location 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Return_to_the_girls'_place 15"
               ]
             },
             {
@@ -9755,7 +9749,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Corridor 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Dark_Hallway 15"
               ]
             },
             {
@@ -9946,7 +9940,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(There doesn't seem to be anything useful, but the\nbottom door won't open.)"
+                "(There doesn't seem to be anything useful, but the bottom\ndoor won't open.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -10017,7 +10011,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(This rope... it might be useful for something)"]
+              "parameters": ["(This rope... might be useful for something)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 121, "indent": 0, "parameters": [3, 3, 0] },
@@ -10199,7 +10193,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(Thank goodness, it seems to fit)"]
+              "parameters": ["(Thank goodness, it looks like it fits)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 121, "indent": 0, "parameters": [65, 65, 0] },
@@ -10573,7 +10567,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Seems like he wants to say something as he looks\nthis way)"
+                "(He seems to want to say something as he looks this way)"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [10] },
@@ -10581,7 +10575,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Task:_Talk_to_the_ghost 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Talk_to_the_ghost 15"]
             },
             {
               "code": 231,
@@ -10725,7 +10719,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(Something's on the ground)"]
+              "parameters": ["(Something's fallen here)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             { "code": 121, "indent": 0, "parameters": [3, 3, 0] },
@@ -10741,7 +10735,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Obtained an \"Aged Letter\""]
+              "parameters": ["\"Obtained an Old Letter\""]
             },
             { "code": 126, "indent": 0, "parameters": [22, 0, 0, 1] },
             { "code": 230, "indent": 0, "parameters": [10] },
@@ -11162,14 +11156,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"We've gathered enough, haven't we? Let's go back\nto the girl.\"\\n<Yukine>\\F[1]"
+                "\"We've gathered enough, haven't we? Let's go back to the\ngirl.\"\\n<Yukine>\\F[1]"
               ]
             },
             {
               "code": 356,
               "indent": 1,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]To_Do:_Return_to_the_Girl's_location 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Return_to_the_girls'_place 15"
               ]
             },
             {
@@ -11656,7 +11650,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(There's water pooled here. This water is murky\nand doesn't look drinkable.)"
+                "(There's water accumulated here. This water is murky and\ndoesn't look drinkable.)"
               ]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -12152,7 +12146,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["namePop 38 Talk 25 black"]
+              "parameters": ["namePop 38 Conversation 25 black"]
             },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -12249,7 +12243,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["namePop 66 Talk 4 black"]
+              "parameters": ["namePop 66 Conversation 4 black"]
             },
             { "code": 214, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -12715,14 +12709,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"This should be enough. Shall we go back to the\ngirl?\"\\n<Yukine>\\F[1]"
+                "\"We've gathered enough, haven't we? Let's go back to the\ngirl.\"\\n<Yukine>\\F[1]"
               ]
             },
             {
               "code": 356,
               "indent": 1,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]To_Do:_Return_to_the_Girl's_location 15"
+                "D_TEXT \\ow[0]\\c[15]To_Do:_Return_to_the_girls'_place 15"
               ]
             },
             {

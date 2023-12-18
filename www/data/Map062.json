@@ -201,9 +201,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Entrance_Hall 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Entrance 15"]
             },
             {
               "code": 231,
@@ -507,7 +505,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"There's some paper inside. Could it be a letter\nsomeone left behind?\"\\n<Yukine>\\F[5]"
+                "\"There's some paper inside. Could it be a letter someone\nleft behind?\"\\n<Yukine>\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -523,7 +521,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Just a moment... Huh, this scent is...\"\\n<Yukine>\\F[5]\\AA[F]\\FF[22]"
+                "\"Just a moment... Huh, this scent...\"\\n<Yukine>\\F[5]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -540,7 +538,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It seems this is the base of a curse-spreading\nvengeful deity, an old samurai residence, but\namong the wandering spirits are some dressed in\nunfamiliar attire.\""
+                "\"It seems to be the base of a curse-spreading vengeful\ndeity, an old samurai residence, but among the wandering\nspirits, there are some wearing unfamiliar attire.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -548,7 +546,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Apparently, the concept of time is vague in this\nmansion. Many companions have lost their lives on\nthe way here.\""
+                "\"Apparently, the concept of time is vague in this mansion.\nMany of my companions have lost their lives on the way\nhere.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -556,7 +554,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"But I can't afford to lose. To return to that\nshrine, to that child, I must dispel the curse no\nmatter what.\""
+                "\"But I can't afford to lose. To return to that shrine, to\nthat child, I must dispel the curse without fail.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -564,7 +562,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Wait for me, Yukine. I'll be back soon, so please\nwait at the shrine.\""
+                "\"Wait for me, Yukine. I'll be back soon, so please wait at\nthe shrine.\""
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -601,7 +599,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\F[4]\"(Could that child be here? But that's\nimpossible.)\\AA[F]\\FF[24]\""
+                "\\F[4]\"Could that child be here? But that's\nimpossible...\"\\AA[F]\\FF[24]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -628,7 +626,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Big sister. What, why did the lights go out...?\"\\n<Saku>"
+                "\"Onee-san. What, why did the lights go out...?\"\\n<Saku>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -692,7 +690,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"They must have targeted the moment I let go of\nthe letter to read it! If we don't act fast, Saku\nwill be in danger. We need to search quickly!\"\\n<Yukine>\\F[15]"
+                "\"She must have been targeted the moment I let go to read the\nletter! At this rate, Saku is in danger. I have to find her\nquickly!\"\\n<Yukine>\\F[15]"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -700,7 +698,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Search_for_Yukine 15"]
+              "parameters": ["D_TEXT \\ow[0]\\c[15]To_Do:_Search_for_Saku 15"]
             },
             {
               "code": 231,

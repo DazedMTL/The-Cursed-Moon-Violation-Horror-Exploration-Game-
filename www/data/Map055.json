@@ -6612,20 +6612,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"But, this...\"\\n<Yukine>\\F[8]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<Saku>\\F[8]\\AA[FF]\\FF[22]"]
+              "parameters": ["\"But this...\"\\n<Yukine>\\F[8]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"The head of this doll... It's missing the eyes.\nIt looks like they've been removed.\"\\n<Yukine>\\F[8]\\AA[F]\\FF[22]"
+                "\"What's wrong, Onee-san?\"\\n<Saku>\\F[8]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6633,7 +6627,15 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I feel a bit disappointed looking at the doll that\nhas lost its eyeballs. I thought everything was in\nplace, but the head of the doll, which resembles\nSakura, was missing the two eyes that should have\nbeen there. \\FF[22]\\F[8]\\AA[F]"
+                "\"The head of this doll... The eyes are missing. It looks\nlike they've been removed.\"\\n<Yukine>\\F[8]\\AA[F]\\FF[22]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I look at the doll that has lost its eyeballs and feel a bit\ndisappointed. I thought everything was in place, but the\nhead of the doll, which resembles Saku, was missing the two\neyes that should have been there.\\FF[22]\\F[8]\\AA[F]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6672,7 +6674,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hmm... Ah, inside my mouth... I can taste\nsomething. And... it's vague, but I can see\nsomething.\"\\n<Saku>\\F[5]\\AA[FF]\\FF[28]"
+                "\"Hmm... Ah, inside my mouth... I can taste something. And...\nit's vague, but I can see something.\"\\n<Saku>\\F[5]\\AA[FF]\\FF[28]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6686,7 +6688,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\F[3]Seeing Saku look at \"me\" for the first time with\nher eyes, joy overflows in my heart. At last, we\nwere able to restore most of Saku's senses.\n\\AA[F]\\FF[28]"
+                "\\F[3]Seeing Saku look at \"me\" for the first time, joy overflows\nin my heart. At last, we were able to restore most of Saku's\nsenses.\\AA[F]\\FF[28]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6694,7 +6696,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\F[3]Seeing Saku's smiling face filled with emotion\nmakes me incredibly happy. \\AA[F]\\FF[28]"
+                "\\F[3]Seeing Saku's smiling face filled with emotion makes me\nincredibly happy.\\AA[F]\\FF[28]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6710,7 +6712,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yes. Because I'm really happy. Just a little bit\nmore to go, Saku.\"\\n<Yukine>\\F[2]\\AA[F]\\FF[22]"
+                "\"Yes. Because I'm really happy. Just a little bit more to\ngo, Saku.\"\\n<Yukine>\\F[2]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6726,7 +6728,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's too early for thanks. Let's keep up the\neffort a little longer.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[25]"
+                "\"It's too early for thanks. Let's keep pushing a little\nlonger.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[25]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -7056,7 +7058,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-_style_House__2nd_Floor 15"
+                "D_TEXT Current_Location:_Western-style_Mansion,_2nd_Floor 15"
               ]
             },
             {
@@ -7777,7 +7779,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Western-_style_House,__2nd_Floor 15"
+                "D_TEXT Current_Location:_Western-style_House_2nd_Floor 15"
               ]
             },
             {

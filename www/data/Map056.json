@@ -334,7 +334,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(It's locked and won't open)"]
+              "parameters": ["(It's locked and won't open.)"]
             },
             { "code": 117, "indent": 0, "parameters": [20] },
             {
@@ -446,7 +446,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Stairs_leading__unde_rground 15"
+                "D_TEXT \\ow[0]\\c[15]Current_Location:_Stairs_leading_underground 15"
               ]
             },
             {
@@ -508,7 +508,7 @@
               "code": 356,
               "indent": 0,
               "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Stairs_leading__unde_rground 15"
+                "D_TEXT Current_Location:_Stairs_leading_underground\\ow[0]\\c[15] 15"
               ]
             },
             {
@@ -671,7 +671,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"(This presence... We've come back again.)\"\\n<Yukine>\\F[8]"
+                "\"This presence... We've come back again.\"\\n<Yukine>\\F[8]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -679,7 +679,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Huh? This place looks like the house where I used\nto live.\"\\n<Saku>\\F[8]\\AA[FF]\\FF[22]"
+                "\"Huh? This place looks like the house where I used to live.\"\\n<Saku>\\F[8]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -693,7 +693,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yeah. This pillar... these marks, I remember\nthem. And that wall over there, it's faint but I\nrecognize it.\"\\n<Saku>\\F[5]\\AA[FF]\\FF[40]"
+                "\"Yeah. This pillar... these marks, I remember painting them.\nAnd that wall over there, it's faint but I recognize it.\"\\n<Saku>\\F[5]\\AA[FF]\\FF[40]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -701,7 +701,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"(Come to think of it, when Saku was tied up,\nher senses hadn't returned yet. So, the one who\nfirst gave me the doll's torso was... Saku's\nmother?)\\FF[22]\"\\F[4]\\AA[F]"
+                "(Come to think of it, when Saku was tied up, her senses\nhadn't returned yet. So, the one who first gave me the\ndoll's torso was... Saku's mother?)\\FF[22]\\F[4]\\AA[F]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -709,7 +709,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\F[4]\"(And if this is Saku's house, why was she tied\nup? And what about that curse god that looked just\nlike Saku...)\\AA[F]\\FF[22]\""
+                "\\F[4](And if this is Saku's house, why was Saku tied up? And what\nabout that curse god that looked just like\nSaku...)\\AA[F]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -725,7 +725,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's nothing... Let's just keep moving.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[22]"
+                "\"It's nothing... Let's just keep going.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -948,9 +948,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Sakuya's_Room 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Saku's_Room 15"]
             },
             {
               "code": 231,
@@ -1337,7 +1335,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_??? 15"]
+              "parameters": ["D_TEXT Current_Location:_??? 15"]
             },
             {
               "code": 231,
@@ -1473,7 +1471,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(I feel like if I go any further, there's no\nturning back...)"
+                "(I feel like if I go any further, there's no turning\nback...)"
               ]
             },
             {
@@ -1588,7 +1586,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(I feel like if I go any further, there's no\nturning back...)"
+                "(If I go any further, I feel like there's no turning\nback...)"
               ]
             },
             {
@@ -1622,9 +1620,7 @@
             {
               "code": 356,
               "indent": 1,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Mansion's_Front_Yard 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Mansion's_Front_Yard 15"]
             },
             {
               "code": 231,
@@ -1826,7 +1822,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["(Thank goodness, it seems to fit)"]
+              "parameters": ["(Thank goodness, it looks like it fits)"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 117, "indent": 0, "parameters": [20] },
@@ -1967,7 +1963,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["D_TEXT \\ow[0]\\c[15]Current_Location:_??? 15"]
+              "parameters": ["D_TEXT Current_Location:_??? 15"]
             },
             {
               "code": 231,
@@ -2511,9 +2507,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Mansion's_Veranda 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Mansion's_Veranda 15"]
             },
             {
               "code": 231,

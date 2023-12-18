@@ -143,7 +143,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Lord Kageyuki, are you truly... truly going to\nsend Yukine away? Can't you reconsider, even now?\"\\n<???>"
+                "\"Lord Kageyoshi, are you truly... truly going to send Saku\naway? Can't you reconsider, even now?\"\\n<???>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -177,14 +177,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Why are you talking outside?\"\\n<Saku>"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "\"A promise was made. To offer her as a\nsacrifice... Even if we refuse, the outcome will\nbe the same. If we try to protect her and draw our\nswords, they will overpower us with numbers,\nforcibly take Yukine, and carry her off to the\nmountains.\"\\n<???>"
+                "\"Father, mother? Why are you talking outside?\"\\n<Saku>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -192,7 +186,15 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"But still... that child is still so young. She's\nattached to you, isn't she?! And yet, to send her\nalone to the mountains... it's too cruel. She\nknows nothing... it's pitiful for her.\"\\n<???>"
+                "\"A promise was made. To offer her as a sacrifice... Even if\nwe refused, the outcome would be the same. If we tried to\nprotect her and drew our swords, they would overpower us\nwith numbers, and those people would take Saku by force and\ncarry her off to the mountains.\"\\n<???>"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"But still... that child is still so young. She's so\nattached to you, isn't she?! And yet, to send her off to the\nmountains alone... it's too cruel. She knows nothing... it's\npitiful for that child.\"\\n<???>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -216,7 +218,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah... why, why does it have to be that child...\nPlease, say it's a lie. I beg of you.\"\\n<???>"
+                "\"Ah... why, why does it have to be that child... Please, say\nit's a lie. I beg of you.\"\\n<???>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -224,7 +226,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Mother, why are you crying? Don't cry... Yukine\nwill be good, so please don't cry.\"\\n<Saku>"
+                "\"Mother, why are you crying? Don't cry... I'll be good, so\nplease don't cry.\"\\n<Saku>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -232,21 +234,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"We will depart at midnight. You should say your\nfarewells by then... I cannot bear to look at that\nchild's face. If you must resent someone, resent\nme who can only pray to the gods.\"\\n<???>"
+                "\"We will depart at midnight. You should say your farewells\nby then... I don't think I can bear to look at that child's\nface. If you must resent someone, resent me who can only\npray to the gods; I won't mind.\"\\n<???>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Father? Is Yukine going somewhere?\"\\n<Saku>"]
+              "parameters": ["\"Father? Am I going somewhere?\"\\n<Saku>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah, Yukine... I'm sorry. I'm so sorry...\"\\n<???>"
+                "\"Ah, Saku... I'm sorry. I'm so sorry...\"\\n<???>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -254,7 +256,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Mother, don't cry... Yukine will go anywhere...\nso please don't cry.\"\\n<Saku>"
+                "\"Mother, don't cry... I'll go anywhere... so please don't\ncry.\"\\n<Saku>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -269,7 +271,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Forgive us, Yukine. I won't ask for your\nforgiveness... but at least take this short sword\nwith you. If by some chance you survive, you may\nuse it to exact your vengeance.\"\\n<???>"
+                "\"Forgive us, Saku. I won't ask for your forgiveness... but\nat least, take this short sword with you. If by some chance\nyou survive, you may use it to exact your revenge; I won't\nmind.\"\\n<???>"
               ]
             },
             { "code": 235, "indent": 0, "parameters": [98] },
@@ -288,9 +290,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Country_Road_2 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Country_Road_2 15"]
             },
             {
               "code": 231,
@@ -323,7 +323,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...Is that memory... Yukine's past?\"\\n<Yukine>\\F[4]"
+                "\"...Was that memory... Saku's past?\"\\n<Yukine>\\F[4]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -331,7 +331,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Onee-san, what's... wrong?\"\\n<Saku>\\F[4]\\AA[FF]\\FF[22]"
+                "\"Big sister, what's... wrong?\"\\n<Saku>\\F[4]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -339,7 +339,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yukine... do you remember what happened before\nyou came here?\"\\n<Yukine>\\F[4]\\AA[F]\\FF[22]"
+                "\"Saku... do you remember anything from before you came\nhere?\"\\n<Yukine>\\F[4]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -347,7 +347,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I don't... understand. I can't... remember.\"\\n<Saku>\\F[4]\\AA[FF]\\FF[23]"
+                "\"I don't really... understand. I can't seem to... recall.\"\\n<Saku>\\F[4]\\AA[FF]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -355,7 +355,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Is it because she's still a spirit that her\nmemories haven't returned? It seems related to\nbeing trapped by the curse, so I have to search\nfor the other dolls as well.)\\FF[23]\\F[4]\\AA[F]"
+                "(Is it because she's still a spirit that her memories\nhaven't returned? It seems related to being trapped by the\ncurse, so I have to search for the other dolls as\nwell.)\\FF[23]\\F[4]\\AA[F]"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },

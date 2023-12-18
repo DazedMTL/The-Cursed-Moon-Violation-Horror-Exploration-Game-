@@ -165,9 +165,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Hallway 15"]
             },
             {
               "code": 231,
@@ -270,9 +268,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Hallway 15"]
             },
             {
               "code": 231,
@@ -446,9 +442,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": [
-                "D_TEXT \\ow[0]\\c[15]Current_Location:_Hallway 15"
-              ]
+              "parameters": ["D_TEXT Current_Location:_Hallway 15"]
             },
             {
               "code": 231,
@@ -518,7 +512,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"What's wrong, Saku, do you know this place?\"\\n<Yukine>\\F[5]\\AA[F]\\FF[22]"
+                "\"What's wrong Saku, do you know this place?\"\\n<Yukine>\\F[5]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -576,7 +570,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This mark on the pillar, I made it on my\nbirthday.\"\\n<Saku>\\FF[40]"
+                "\"This mark on the pillar, I made it on my birthday.\"\\n<Saku>\\FF[40]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -584,7 +578,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Really, the mark is still there... Let's\ninvestigate a little.\"\\n<Yukine>\\F[5]\\AA[F]\\FF[40]"
+                "\"Really, there's a scar left... Let's investigate a little.\"\\n<Yukine>\\F[5]\\AA[F]\\FF[40]"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -702,7 +696,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Why do you know what's inside... Ah, right. You\nknow because it's Saku's room.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[22]"
+                "\"Why do you know what's inside... Ah, right. You know\nbecause it's Saku's room.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -759,7 +753,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"There's a letter inside... It's amazing it's\nremained so clean.\"\\n<Yukine>\\F[5]"
+                "\"There's a letter inside... It's amazing it's remained so\nclean.\"\\n<Yukine>\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -814,7 +808,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Saku, we cannot ask for your forgiveness for\nsending you to the mountain. Tonight, we were\nunable to protect you. We have never forgotten the\nhappiness of the day you were born, not even for a\nsingle day, and the precious memories of that\nday..."
+                "Saku, we cannot ask for your forgiveness for sending you to\nthe mountain. Tonight, we were unable to protect you. We\nhave never forgotten the happiness of the day you were born,\nnot even for a single day, and the precious memories of that\nday."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -822,7 +816,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We have sullied our duty. You, who were sent to\nthe gods, will likely never lay eyes on this\nletter of repentance. Nevertheless, we leave\nbehind this final letter."
+                "We have sullied our duty. You, who were sent to the gods,\nwill likely never lay eyes on this letter of repentance.\nNevertheless, we leave behind this final letter."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -830,7 +824,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You brought us happiness, yet we deeply regret\nbetraying that."
+                "You brought us happiness, yet we deeply regret that we\nbetrayed it."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -838,7 +832,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Therefore, before you reach the presence of the\ngods, as a samurai who could not even protect his\nown child, and as his wife bearing the sin and\nresponsibility of child murder, we will take our\nlives and become spirits to join you, along with\nLord Kageyoshi."
+                "Therefore, before you reach the presence of the gods, as a\nsamurai who could not even protect his own child, and as his\nwife bearing the sin and responsibility of infanticide, we\nwill take our lives and become spirits to join you, along\nwith Lord Kageno."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -846,7 +840,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Saku, we love you from the bottom of our hearts.\nWe're sorry we couldn't make you happy..."
+                "Saku, we love you from the bottom of our hearts. We're sorry\nwe couldn't make you happy..."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -862,7 +856,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Both of them had passed away before the mansion\nwas consumed by the curse. That's why... they\ndidn't become evil spirits.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[23]"
+                "\"Both of them had passed away before the mansion was\nconsumed by the curse. That's why... they didn't become evil\nspirits.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[23]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -914,7 +908,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\F[1](She's still sad... But she can say she's okay.\nEven though she's been sealed away for so long...\nSaku is truly a strong child.)\\AA[F]\\FF[41]"
+                "\\F[1](She's still sad... But she can say she's okay. Even though\nshe's been sealed away for so long... Saku really is a\nstrong girl.)\\AA[F]\\FF[41]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -980,7 +974,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This... It's my comb.\"\\n<Saku>\\F[5]\\AA[FF]\\FF[22]"
+                "\"This... It's Saku's comb.\"\\n<Saku>\\F[5]\\AA[FF]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -988,7 +982,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(The red comb in hand seems to emanate Saku's aura\nand the gentle power of prayers. Could it be the\nonly keepsake left by her mother?)\\FF[22]\\F[5]\\AA[N]"
+                "(From the red comb in hand emanates Saku's aura and the\ngentle power of prayers. Could this be the sole keepsake\nleft by her mother?)\\FF[22]\\F[5]\\AA[N]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1012,7 +1006,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This belongs to you, Saku... I want you to use\nit.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[24]"
+                "\"This belongs to Saku... I want you to use it.\"\\n<Yukine>\\F[1]\\AA[F]\\FF[24]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1125,7 +1119,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(There are marks left on the pillar. This era is,\nlet's see...)\\F[5]"
+                "(There are marks left on the pillar. This era is, let's\nsee...)\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1133,7 +1127,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Huh? Could it be that Saku is actually much older\nthan me?)\\F[7]"
+                "(Huh? Could it be that Saku is actually much older than me?)\\F[7]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1149,7 +1143,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Saku... I'm still okay to be your Onee-san,\nright?\"\\n<Yukine>\\F[7]\\AA[F]\\FF[22]"
+                "\"Saku... It's okay for me to be your Onee-san, right?\"\\n<Yukine>\\F[7]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1165,7 +1159,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yeah, yeah... that's right.\"\\n<Yukine>\\F[7]\\AA[F]\\FF[22]"
+                "\"Yeah, you're right...\"\\n<Yukine>\\F[7]\\AA[F]\\FF[22]"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1381,7 +1375,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It seems like she has something she wants to\nsay.\"\\n<Yukine>\\F[5]"
+                "\"It seems like she has something she wants to tell us.\"\\n<Yukine>\\F[5]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
