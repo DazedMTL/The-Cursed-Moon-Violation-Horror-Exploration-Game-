@@ -248,7 +248,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Saku. This is a world I created for you... Your father and\nmother are here too. They may not be alive, but... What of\nit? I merely devoured those who would offer their daughter\nas a sacrifice. There's no need for you to be troubled.\"\\n<Sake Cup>"
+                "\"Saku. This is a world I created for you... Your father and\nmother are here too. They may not be alive, but... What of\nit? I merely devoured those who would offer their daughter\nas a sacrifice. There's no need for you to be troubled.\"\\n<Saku>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

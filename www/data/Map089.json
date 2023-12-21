@@ -1805,7 +1805,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I am a god... The children of men once called me\n'Sakazuki'... But now, there is no one left to call upon me,\na forgotten deity.\"\\n<Sake Cup>"
+                "\"I am a god... The children of men once called me\n'Sakazuki'... But now, there is no one left to call upon me,\na forgotten deity.\"\\n<Saku>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1848,7 +1848,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Indeed... Child, you have been offered to me, haven't you?\nAs a sacrifice to prevent famine in the mortal world...\"\\n<Sake Cup>"
+                "\"Indeed... Child, you have been offered to me, haven't you?\nAs a sacrifice to prevent famine in the mortal world...\"\\n<Saku>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1908,7 +1908,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Abandon your flesh and live long with me. As my sole shrine\nmaiden, you shall serve me. Do not worry. There will be no\npain... I shall take care of your body for a while.\"\\n<Sake Cup>"
+                "\"Abandon your flesh and live long with me. As my sole shrine\nmaiden, you shall serve me. Do not worry. There will be no\npain... I shall take care of your body for a while.\"\\n<Saku>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -1941,7 +1941,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"With this, you are released from the bonds of the flesh.\nYou cannot live as a human anymore, but you are already\noffered. There shall be no inconvenience.\"\\n<Sake Cup>"
+                "\"With this, you are released from the bonds of the flesh.\nYou cannot live as a human anymore, but you are already\noffered. There shall be no inconvenience.\"\\n<Saku>"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -1952,7 +1952,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"My shrine maiden... Do you have any wishes? Serve me, and\nby the power of your faith, I shall grant your desires.\"\\n<Sake Cup>"
+                "\"My shrine maiden... Do you have any wishes? Serve me, and\nby the power of your faith, I shall grant your desires.\"\\n<Saku>"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1967,7 +1967,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"...\"\\n<Sake Cup>"]
+              "parameters": ["\"...\"\\n<Saku>"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
